@@ -1,0 +1,37 @@
+name: Updating "Warta Jemaat" Data
+run-name: ${{ github.actor }} is updating the church news data 🚀
+on:
+  # Manual trigger.
+  workflow_dispatch:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    # This workflow will run at 00:00 every 10th and 20th day of the month.
+    # SOURCE: https://cron.help
+    - cron: '0 15,18,21 * * 6'
+    - cron: '0 0,3 * * 0'
+jobs:
+  Run-Python:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Preamble logging
+        run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+
+      - name: Setup the Python runner
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      
+      # SOURCE: https://www.geeksforgeeks.org/run-python-script-in-github-actions/
+      - name: Running the updater
+        run: python scripts/warta_jemaat.py
+      
+      # SOURCE: https://github.com/marketplace/actions/add-commit-and-push
+      - name: Commiting changes to files
+        uses: actions4git/setup-git@v1
+        run: git add gkisplus.json
+        run: git commit --message 'Autoupdated the "Warta Jemaat" data'
+        run: git push origin other-branch:main --force
+        
+      - run: echo "🍏 This job's status is ${{ job.status }}."
