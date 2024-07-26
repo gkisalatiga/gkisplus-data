@@ -12,6 +12,11 @@ jobs:
     steps:
       - name: Preamble logging
         run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      
+      # If you don't check out files, you will fail at accessing/writing files on repo!
+      # SOURCE: https://stackoverflow.com/a/65027251
+      - name: Necessary checking out
+        uses: actions/checkout@v3
 
       - name: Setup Python
         uses: actions/setup-python@v5
