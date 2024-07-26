@@ -30,8 +30,8 @@ jobs:
       # SOURCE: https://github.com/marketplace/actions/add-commit-and-push
       - name: Commiting changes to files
         uses: actions4git/setup-git@v1
-        run: git add gkisplus.json
-        run: git commit --message 'Autoupdated the "Warta Jemaat" data'
-        run: git push origin other-branch:main --force
+      - run: git add gkisplus.json
+      - run: git commit --message 'Autoupdated the "Warta Jemaat" data'
+      - run: git push origin other-branch:main --force
         
       - run: echo "🍏 This job's status is ${{ job.status }}."
