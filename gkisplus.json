@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2,
-        "last-update": 1721978817,
-        "last-updated-item": "pdf/liturgi"
+        "update-count": 3,
+        "last-update": 1722005233,
+        "last-updated-item": "yt-video/saren"
     },
     "data": {
         "url-profile": {
@@ -54,38 +54,99 @@
             ],
             "saren": [
                 {
-                    "title": "SaRen Pagi | 19 Jul 2024",
+                    "title": "SaRen Pagi | 27 Jul 2024 | Pengendalian Diri",
+                    "date": "2024-07-26",
+                    "desc": "Dibawakan oleh Pnt. Nadia Sitaresmi",
+                    "link": "https://www.youtube.com/watch?v=88VktV_rjQI",
+                    "thumbnail": "https://i1.ytimg.com/vi/88VktV_rjQI/hqdefault.jpg",
+                    "is_live": 0
+                },
+                {
+                    "title": "SaRen Pagi | 26 Jul 2024",
+                    "date": "2024-07-25",
+                    "desc": "Dibawakan oleh Ibu Sintarini Utomo",
+                    "link": "https://www.youtube.com/watch?v=qzwsNlCWa2s",
+                    "thumbnail": "https://i2.ytimg.com/vi/qzwsNlCWa2s/hqdefault.jpg",
+                    "is_live": 0
+                },
+                {
+                    "title": "SaRen Pagi | 25 Jul 2024",
+                    "date": "2024-07-24",
+                    "desc": "Dibawakan oleh Pdt.Christina Elisabeth Parinsi",
+                    "link": "https://www.youtube.com/watch?v=8f3j1D-D6wY",
+                    "thumbnail": "https://i1.ytimg.com/vi/8f3j1D-D6wY/hqdefault.jpg",
+                    "is_live": 0
+                },
+                {
+                    "title": "SaRen Pagi | 24 Jul 2024",
+                    "date": "2024-07-23",
+                    "desc": "Dibawakan oleh Pdt Kristiani Setyaningsih Santoso",
+                    "link": "https://www.youtube.com/watch?v=5ZKk-vj8gsk",
+                    "thumbnail": "https://i2.ytimg.com/vi/5ZKk-vj8gsk/hqdefault.jpg",
+                    "is_live": 0
+                },
+                {
+                    "title": "SaRen Pagi | 23 Jul 2024",
+                    "date": "2024-07-22",
+                    "desc": "Dibawakan oleh Ibu Evelina Purnama & Bpk Budi Santoso",
+                    "link": "https://www.youtube.com/watch?v=n4bFH8O_HG0",
+                    "thumbnail": "https://i3.ytimg.com/vi/n4bFH8O_HG0/hqdefault.jpg",
+                    "is_live": 0
+                },
+                {
+                    "title": "SaRen Pagi | 22 Jul 2024",
+                    "date": "2024-07-21",
+                    "desc": "Dibawakan oleh Pnt.Ervien Dian Widyawati",
+                    "link": "https://www.youtube.com/watch?v=vzqVrvEuPtU",
+                    "thumbnail": "https://i3.ytimg.com/vi/vzqVrvEuPtU/hqdefault.jpg",
+                    "is_live": 0
+                },
+                {
+                    "title": "SaRen Pagi | 20 Jul 2024 | Mengecap Kebaikan Tuhan",
                     "date": "2024-07-19",
+                    "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                    "link": "https://www.youtube.com/watch?v=frC0Vj7qYbc",
+                    "thumbnail": "https://i3.ytimg.com/vi/frC0Vj7qYbc/hqdefault.jpg",
+                    "is_live": 0
+                },
+                {
+                    "title": "SaRen Pagi | 19 Jul 2024",
+                    "date": "2024-07-18",
+                    "desc": "Dibawakan oleh Ibu Wahyu Pujiati",
                     "link": "https://www.youtube.com/watch?v=hOYF059QydY",
-                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/yt_sample_thumbnail_2.jpg",
+                    "thumbnail": "https://i1.ytimg.com/vi/hOYF059QydY/hqdefault.jpg",
                     "is_live": 0
                 },
                 {
                     "title": "SaRen Pagi | 18 Jul 2024 | Nggandhul Gusti",
-                    "date": "2024-07-18",
+                    "date": "2024-07-17",
+                    "desc": "Dibawakan oleh Ibu Damara Laksmi Dewi",
                     "link": "https://www.youtube.com/watch?v=pmbowHpFzAk",
-                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/yt_sample_thumbnail_2.jpg",
+                    "thumbnail": "https://i1.ytimg.com/vi/pmbowHpFzAk/hqdefault.jpg",
                     "is_live": 0
                 },
                 {
                     "title": "SaRen Pagi | 17 Jul 2024",
-                    "date": "2024-07-17",
+                    "date": "2024-07-16",
+                    "desc": "Dibawakan oleh Ibu Indriani Wijayanti",
                     "link": "https://www.youtube.com/watch?v=TbmjYNZ0kOc",
-                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/yt_sample_thumbnail_2.jpg",
+                    "thumbnail": "https://i1.ytimg.com/vi/TbmjYNZ0kOc/hqdefault.jpg",
                     "is_live": 0
                 },
                 {
                     "title": "SaRen Pagi | 16 Jul 2024",
-                    "date": "2024-07-16",
+                    "date": "2024-07-15",
+                    "desc": "Dibawakan oleh Pnt. Dessy Ballo",
                     "link": "https://www.youtube.com/watch?v=JIrzyNfZGxk",
-                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/yt_sample_thumbnail_2.jpg",
+                    "thumbnail": "https://i3.ytimg.com/vi/JIrzyNfZGxk/hqdefault.jpg",
                     "is_live": 0
                 },
                 {
-                    "title": "SaRen Pagi | 8 Jul 2024",
-                    "date": "2024-07-08",
-                    "link": "https://www.youtube.com/watch?v=Lc1qvhMfbC8",
-                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/yt_sample_thumbnail_2.jpg",
+                    "title": "SaRen Pagi | 15 Juli 2024",
+                    "date": "2024-07-14",
+                    "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                    "link": "https://www.youtube.com/watch?v=ekl1sNBPbsI",
+                    "thumbnail": "https://i2.ytimg.com/vi/ekl1sNBPbsI/hqdefault.jpg",
                     "is_live": 0
                 }
             ],
