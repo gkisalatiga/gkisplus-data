@@ -27,6 +27,15 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+        
+      # SOURCE: https://github.com/marketplace/actions/python-dependency-installation
+      - name: Install dependencies
+        uses: py-actions/py-dependency-install@v4
+        with:
+          path: "requirements.txt"
+          update-pip: "false"
+          update-setuptools: "false"
+          update-wheel: "false"
       
       # SOURCE: https://www.geeksforgeeks.org/run-python-script-in-github-actions/
       - name: Running the updater
