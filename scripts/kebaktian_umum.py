@@ -9,6 +9,7 @@ import time
 s = rq.Session()
 
 # The YouTube v3 API key.
+print('Retrieving the API KEY secrets ...')
 api_key = os.environ['YT_API_KEY']
 
 def get_data():
