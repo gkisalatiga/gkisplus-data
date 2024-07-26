@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 4,
-        "last-update": 1722007907,
-        "last-updated-item": "yt-video/umum"
+        "update-count": 5,
+        "last-update": 1722008708,
+        "last-updated-item": "yt-video/es"
     },
     "data": {
         "url-profile": {
@@ -315,23 +315,82 @@
             "es": [
                 {
                     "title": "English Service | August 7, 2022 | \"Those whom Jesus Welcomes\"",
-                    "date": "2022-08-07",
+                    "date": "2022-08-06",
+                    "desc": "Sermon: Rev. Irene Ludji\nLiturgist: Diane Nuhamara\nReader: Toda, Gloria, Christa\nSong Leader: Angel and Lia\nMusic: Tedy, Andy, Eki",
                     "link": "https://www.youtube.com/watch?v=8XeDoiZxp2k",
-                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/yt_sample_thumbnail_4.jpg",
+                    "thumbnail": "https://i.ytimg.com/vi/8XeDoiZxp2k/hqdefault.jpg",
+                    "is_live": 1
+                },
+                {
+                    "title": "English Service | Sept 4, 2022 | \"Jesus Christ is The Same - Yesterday, Today and Forever\"",
+                    "date": "2022-09-03",
+                    "desc": "English Service \nSeptember 4, 2022\nLed by Mr. Troy Fraiser\nLiturgist: Pnt.Gita H.\nSinger: Elisabet, Diane\nMusic : Eki, Reina, Ralf\nMultimedia: Natan, Christa",
+                    "link": "https://www.youtube.com/watch?v=FuE5jCNLgTw",
+                    "thumbnail": "https://i.ytimg.com/vi/FuE5jCNLgTw/hqdefault.jpg",
                     "is_live": 1
                 },
                 {
                     "title": "English Service GKI Salatiga | October 2, 2022 | \"I Have Changed\"",
-                    "date": "2022-10-02",
+                    "date": "2022-10-01",
+                    "desc": "Sermon: Rev. Izak Lattu\nLiturgist: Diane Nuhamara\nSong Leader: Christa Tehusalawany\nPianist: Teddy \nMultimedia: Eddy, Elisabet",
                     "link": "https://www.youtube.com/watch?v=dy9P2mSu5V4",
-                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/yt_sample_thumbnail_4.jpg",
+                    "thumbnail": "https://i.ytimg.com/vi/dy9P2mSu5V4/hqdefault.jpg",
                     "is_live": 1
                 },
                 {
-                    "title": "GKI Salatiga | English Service | Sunday, February 4th. 2024 | 9 a.m. Jakarta Time",
-                    "date": "2024-02-04",
-                    "link": "https://www.youtube.com/watch?v=3_chreURsyk",
-                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/yt_sample_thumbnail_4.jpg",
+                    "title": "English Service | November 6, 2022",
+                    "date": "2022-11-05",
+                    "desc": "Theme: The God of the Nations\nSpeaker: Mr. Alan Cross\nLiturgist: Christa\nSong Leader: Tirsa \nMusician: Eki, Arvino, Ryu",
+                    "link": "https://www.youtube.com/watch?v=AiC2JbzBMJc",
+                    "thumbnail": "https://i.ytimg.com/vi/AiC2JbzBMJc/hqdefault.jpg",
+                    "is_live": 1
+                },
+                {
+                    "title": "English Service GKI Salatiga | December 11, 2022 | \"While You Wait\"",
+                    "date": "2022-12-10",
+                    "desc": "Sermon: Mrs. Keily Alvarez\nLiturgist: Diane Nuhamara\nSong Leader: Christa Tehusalawany\nPianist: Arvino\nMultimedia: Nathan",
+                    "link": "https://www.youtube.com/watch?v=w7VNdNrzoIk",
+                    "thumbnail": "https://i.ytimg.com/vi/w7VNdNrzoIk/hqdefault.jpg",
+                    "is_live": 1
+                },
+                {
+                    "title": "English Service GKI Salatiga | February 5, 2023 | \"Strength for the Weary\"",
+                    "date": "2023-02-06",
+                    "desc": "Sermon: Mr. Alexander Kirk\nLiturgist: Mega\nSong Leader: Lia, Angel\nPianist: Tedy\nMultimedia: Eddy, Daniel",
+                    "link": "https://www.youtube.com/watch?v=4VNkhF3tsBk",
+                    "thumbnail": "https://i.ytimg.com/vi/4VNkhF3tsBk/hqdefault.jpg",
+                    "is_live": 1
+                },
+                {
+                    "title": "English Service | April 2nd, 2022",
+                    "date": "2023-04-01",
+                    "desc": "Theme: The God of Jeremiah\nSpeaker: Mr. Nathan Fosdahl\nLiturgist: Diane\nSong Leader: Cinta. Rizky\nMusician: Teddy",
+                    "link": "https://www.youtube.com/watch?v=gMt0l6YbSHw",
+                    "thumbnail": "https://i.ytimg.com/vi/gMt0l6YbSHw/hqdefault.jpg",
+                    "is_live": 1
+                },
+                {
+                    "title": "English Service GKI Salatiga | 7 May 2023",
+                    "date": "2023-05-06",
+                    "desc": "Welcome to English Service GKI Salatiga. (Sunday, 7 May 2023) \n\nTheme: The God who Loves Life\nSermon: Mr. Calvin Collins\nLiturgost: Gita\nSong Leader: Angel\nPianist: Lyka\nReader: Debora\n\nmultimedia GKI Salatiga, 2023",
+                    "link": "https://www.youtube.com/watch?v=FASW5GG_cio",
+                    "thumbnail": "https://i.ytimg.com/vi/FASW5GG_cio/hqdefault.jpg",
+                    "is_live": 1
+                },
+                {
+                    "title": "English Service | June 4, 2023",
+                    "date": "2023-06-04",
+                    "desc": "",
+                    "link": "https://www.youtube.com/watch?v=GFm700yD__E",
+                    "thumbnail": "https://i.ytimg.com/vi/GFm700yD__E/hqdefault.jpg",
+                    "is_live": 1
+                },
+                {
+                    "title": "English Service | October 8th, 2023",
+                    "date": "2023-10-07",
+                    "desc": "Sunday, October 8th, 2023 | 9 a.m. Jakarta Time\n\n\"Be still and know...\":\nA command a declaration and a promise.\nPsalms 46: 1\n\nLed by\nMr. Jonathan Moore",
+                    "link": "https://www.youtube.com/watch?v=3iHmYZmyL7o",
+                    "thumbnail": "https://i.ytimg.com/vi/3iHmYZmyL7o/hqdefault.jpg",
                     "is_live": 1
                 }
             ]
