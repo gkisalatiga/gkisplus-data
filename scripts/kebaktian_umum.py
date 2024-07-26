@@ -2,7 +2,6 @@ from datetime import datetime as dt
 from lxml import etree
 from lxml import html
 import json
-import os
 import requests as rq
 import time
 
