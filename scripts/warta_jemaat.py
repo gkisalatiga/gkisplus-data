@@ -2,6 +2,7 @@ from datetime import datetime as dt
 from lxml import html
 import json
 import requests as rq
+import time
 
 s = rq.Session()
 
@@ -42,6 +43,11 @@ def get_data():
     fi = open(json_path, 'r')
     j = json.load(fi)
     fi.close()
+    
+    # Incrementing the update count and updating the 'last update' item.
+    # SOURCE: https://stackoverflow.com/a/27914405
+    j['meta']['update-count'] += 1
+    j['meta']['last-update'] = int( time.mktime(dt.now().timetuple()) )
     
     # Resetting the JSON node.
     j['data']['pdf']['wj'] = []
