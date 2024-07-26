@@ -1,6 +1,7 @@
 name: Initiating Python on GitHub Actions
 run-name: ${{ github.actor }} is installing Python and its PIP dependencies 🚀
 on:
+  workflow_dispatch:
   schedule:
     # * is a special character in YAML so you have to quote this string
     # This workflow will run at 00:00 every 10th and 20th day of the month.
