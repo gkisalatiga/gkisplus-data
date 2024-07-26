@@ -1,7 +1,8 @@
 {
     "meta": {
-        "update-count": 1,
-        "last-update": 1721978319
+        "update-count": 2,
+        "last-update": 1721978817,
+        "last-updated-item": "pdf/liturgi"
     },
     "data": {
         "url-profile": {
@@ -221,16 +222,64 @@
             ],
             "liturgi": [
                 {
-                    "title": "Tata Ibadah Minggu 7 Juli 2024 (Jemaat)",
-                    "date": "2024-07-07",
-                    "link": "https://drive.google.com/file/d/1jkskSKTwg3TBOBl-al8SexV-Ph_tAyVU/view",
-                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/liturgi_thumbnail.png"
+                    "title": "Tata Ibadah 14 Juli 2024",
+                    "date": "2024-07-13",
+                    "link": "https://drive.google.com/file/d/1ci_-5c52SmrzViytC3xTStk7tNYLYevR/preview",
+                    "thumbnail": ""
                 },
                 {
-                    "title": "Tata Ibadah Minggu 30 Juni 2024 (Jemaat)",
-                    "date": "2024-06-30",
-                    "link": "https://drive.google.com/file/d/1QLxZ0bXpqJm2a9-J1_1jvxFWm09jorMu/view",
-                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/liturgi_thumbnail.png"
+                    "title": "Tata Ibadah 7 Juli 2024",
+                    "date": "2024-07-06",
+                    "link": "https://drive.google.com/file/d/1jkskSKTwg3TBOBl-al8SexV-Ph_tAyVU/preview",
+                    "thumbnail": ""
+                },
+                {
+                    "title": "Tata Ibadah 30 Juni 2024",
+                    "date": "2024-06-29",
+                    "link": "https://drive.google.com/file/d/1QLxZ0bXpqJm2a9-J1_1jvxFWm09jorMu/preview",
+                    "thumbnail": ""
+                },
+                {
+                    "title": "Tata Ibadah 23 Juni 2024",
+                    "date": "2024-06-22",
+                    "link": "https://drive.google.com/file/d/1dNH87jeqIuTEKhkjHYTJ-TbmhFPQ-500/preview",
+                    "thumbnail": ""
+                },
+                {
+                    "title": "Tata Ibadah 16 Juni 2024",
+                    "date": "2024-06-15",
+                    "link": "https://drive.google.com/file/d/1zvx1f8S7FQ07e82y4e0e9fqPooUPdhgT/preview",
+                    "thumbnail": ""
+                },
+                {
+                    "title": "Tata Ibadah 9 Juni 2024",
+                    "date": "2024-06-08",
+                    "link": "https://drive.google.com/file/d/1pDV5KYQ9D8p7Qsw_tJXzEnjMr-EAmugY/preview",
+                    "thumbnail": ""
+                },
+                {
+                    "title": "Tata Ibadah 2 Juni 2024",
+                    "date": "2024-06-01",
+                    "link": "https://drive.google.com/file/d/1WC9bauiLi63L6ghlzunKUP2ujTh9ip-x/preview",
+                    "thumbnail": ""
+                },
+                {
+                    "title": "Tata Ibadah Minggu Trinitas 26 Mei 2024",
+                    "date": "2024-05-26",
+                    "link": "https://drive.google.com/file/d/1keeoHyZG_iqBQ0-iZUuWdOcF9xzRQ9Qf/preview",
+                    "thumbnail": ""
+                },
+                {
+                    "title": "Tata Ibadah Minggu 19 Mei 2024",
+                    "date": "2024-05-18",
+                    "link": "https://drive.google.com/file/d/1LkMEADeGsFeDrkjQSoJluDImNuBAtcdz/preview",
+                    "thumbnail": ""
+                },
+                {
+                    "title": "Tata Ibadah Minggu 12 Mei 2024",
+                    "date": "2024-05-11",
+                    "link": "https://drive.google.com/file/d/1CRK-y02-9n_Ugr0MtDRTgLNuyYchSjVR/preview",
+                    "thumbnail": ""
                 }
             ]
         },
