@@ -81,7 +81,7 @@ if __name__ == "__main__":
     # Added fail-safe for internet lost.
     max_tries = 50
     wait_timeout = 2
-    for i in max_tries:
+    for i in range(max_tries):
         try:
             get_data()
             break
