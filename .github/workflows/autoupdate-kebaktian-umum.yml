@@ -1,4 +1,6 @@
 name: Updating "Kebaktian Umum" Data
+env:
+  YT_API_KEY: ${{ secrets.YT_V3_APIKEY }}
 run-name: ${{ github.actor }} is updating the regular (Indonesian) service data 🚀
 on:
   # Manual trigger.

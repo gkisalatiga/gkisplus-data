@@ -2,13 +2,14 @@ from datetime import datetime as dt
 from lxml import etree
 from lxml import html
 import json
+import os
 import requests as rq
 import time
 
 s = rq.Session()
 
 # The YouTube v3 API key.
-api_key = "${{ secrets.YT_V3_APIKEY }}"
+api_key = os.environ['YT_API_KEY']
 
 def get_data():
     # Preamble logging.
