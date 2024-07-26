@@ -64,7 +64,6 @@ def get_data():
                 'date': s3[i],
                 'desc': s4[i],
                 'link': s5[i],
-                # We leave the thumbnail item blank for now, since it is not used in the app.
                 'thumbnail': s6[i],
                 'is_live': 0
             })
