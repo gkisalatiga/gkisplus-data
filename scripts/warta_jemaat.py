@@ -78,4 +78,13 @@ def get_data():
     print(f'Total script time: {dt.now() - t}')
     
 if __name__ == "__main__":
-    get_data()
+    # Added fail-safe for internet lost.
+    max_tries = 50
+    wait_timeout = 2
+    for i in max_tries:
+        try:
+            get_data()
+            break
+        except:
+            time.sleep(wait_timeout)
+            continue
