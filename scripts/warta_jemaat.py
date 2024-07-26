@@ -48,6 +48,7 @@ def get_data():
     # SOURCE: https://stackoverflow.com/a/27914405
     j['meta']['update-count'] += 1
     j['meta']['last-update'] = int( time.mktime(dt.now().timetuple()) )
+    j['meta']['last-updated-item'] = 'pdf/wj'
     
     # Resetting the JSON node.
     j['data']['pdf']['wj'] = []
