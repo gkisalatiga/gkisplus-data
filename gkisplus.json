@@ -15,43 +15,6 @@
             "email": "gkisalatiga@gmail.com"
         },
         "yt-video": {
-            "kml": [
-                {
-                    "title": "PKJ 80 Getsemani Tempat Yesus Berdoa",
-                    "date": "2020-04-07",
-                    "link": "https://www.youtube.com/watch?v=UdhHB9u3dk4",
-                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/yt_sample_thumbnail_1.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "NKB 84 Kubrikan Bagimu Tubuh Ku Darah Ku",
-                    "date": "2020-04-07",
-                    "link": "https://www.youtube.com/watch?v=wl6VM5_sodc",
-                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/yt_sample_thumbnail_1.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "KJ 445 Harap Akan Tuhan",
-                    "date": "2020-03-27",
-                    "link": "https://www.youtube.com/watch?v=ST0wlc5eW0w",
-                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/yt_sample_thumbnail_1.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "NKB 104 : 1, 3 Apinya Berkobar Dalam Hatiku ( Live Recording )",
-                    "date": "2022-04-04",
-                    "link": "https://www.youtube.com/watch?v=7abxafMJiHU",
-                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/yt_sample_thumbnail_1.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "NKB 116 Siapa Yang Berpegang",
-                    "date": "2020-03-27",
-                    "link": "https://www.youtube.com/watch?v=9CY2WaDBFnQ",
-                    "thumbnail": "https://raw.githubusercontent.com/groaking/groaking.github.io/main/playground/yt_sample_thumbnail_1.jpg",
-                    "is_live": 0
-                }
-            ],
             "saren": [
                 {
                     "title": "SaRen Pagi | 27 Jul 2024 | Pengendalian Diri",
@@ -644,6 +607,13 @@
                 "bank-number": "012.34.5678.9",
                 "account-holder": "Tan Ik Hay"
             }
-        ]
+        ],
+        "helper-title": {
+            "yt-video": {
+                "saren": "Sapaan dan Renungan Pagi",
+                "umum": "Kebaktian Umum",
+                "es": "English Service"
+            }
+        }
     }
 }
