@@ -61,6 +61,7 @@ def get_data():
             'title': s2[i],
             'date': s3[i].split('T')[0].strip(),
             'link': s4[i],
+            'post-page': s1[i],
             # We leave the thumbnail item blank for now, since it is not used in the app.
             'thumbnail': ''
         })
