@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 11,
-        "last-update": 1722093087,
-        "last-updated-item": "pdf/wj"
+        "update-count": 12,
+        "last-update": 1722093268,
+        "last-updated-item": "pdf/liturgi"
     },
     "data": {
         "url-profile": {
@@ -423,6 +423,18 @@
             ],
             "liturgi": [
                 {
+                    "title": "Tata Ibadah 28 Juli 2024",
+                    "date": "2024-07-27",
+                    "link": "https://drive.google.com/file/d/1-hub0aGbeLGGNZtZSkeliJHeqU7-lE7z/preview",
+                    "thumbnail": ""
+                },
+                {
+                    "title": "Tata Ibadah 21 Juli 2024",
+                    "date": "2024-07-21",
+                    "link": "https://drive.google.com/file/d/1RlznHPNw7EuPp4Fz4yULoEuxABGUQHKR/preview",
+                    "thumbnail": ""
+                },
+                {
                     "title": "Tata Ibadah 14 Juli 2024",
                     "date": "2024-07-13",
                     "link": "https://drive.google.com/file/d/1ci_-5c52SmrzViytC3xTStk7tNYLYevR/preview",
@@ -468,18 +480,6 @@
                     "title": "Tata Ibadah Minggu Trinitas 26 Mei 2024",
                     "date": "2024-05-26",
                     "link": "https://drive.google.com/file/d/1keeoHyZG_iqBQ0-iZUuWdOcF9xzRQ9Qf/preview",
-                    "thumbnail": ""
-                },
-                {
-                    "title": "Tata Ibadah Minggu 19 Mei 2024",
-                    "date": "2024-05-18",
-                    "link": "https://drive.google.com/file/d/1LkMEADeGsFeDrkjQSoJluDImNuBAtcdz/preview",
-                    "thumbnail": ""
-                },
-                {
-                    "title": "Tata Ibadah Minggu 12 Mei 2024",
-                    "date": "2024-05-11",
-                    "link": "https://drive.google.com/file/d/1CRK-y02-9n_Ugr0MtDRTgLNuyYchSjVR/preview",
                     "thumbnail": ""
                 }
             ]
