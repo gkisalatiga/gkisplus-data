@@ -10,8 +10,7 @@ on:
     # SOURCE: https://cron.help
     # Run at every first Saturday and Sunday in the first month's week.
     # SOURCE: https://stackoverflow.com/a/73826599
-    - cron: '0 12,18 1-7 * */6'
-    - cron: '0 3,6,9 1-7 * */0'
+    - cron: '0 6,18 1-7 * *'
 jobs:
   Run-Python:
     permissions:
