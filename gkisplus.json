@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 10,
-        "last-update": 1722082576,
-        "last-updated-item": "yt-video/umum"
+        "update-count": 11,
+        "last-update": 1722093087,
+        "last-updated-item": "pdf/wj"
     },
     "data": {
         "url-profile": {
@@ -361,6 +361,12 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 28 Juli 2024",
+                    "date": "2024-07-27",
+                    "link": "https://drive.google.com/file/d/1kZzEvI9M0fdBS_jLM0GUhqmRX5VV_dDL/preview",
+                    "thumbnail": ""
+                },
+                {
                     "title": "Warta Jemaat 21 Juli 2024",
                     "date": "2024-07-21",
                     "link": "https://drive.google.com/file/d/13s2cKbqKQoEJTLOcLvyQkABfwt5QRHW7/preview",
@@ -412,12 +418,6 @@
                     "title": "Warta Jemaat 26 Mei 2024",
                     "date": "2024-05-25",
                     "link": "https://drive.google.com/file/d/1RPOr0syWBqkted17Y5PDSjUqoLFxqKi5/preview",
-                    "thumbnail": ""
-                },
-                {
-                    "title": "Warta Jemaat 19 Mei 2024",
-                    "date": "2024-05-18",
-                    "link": "https://drive.google.com/file/d/1S4JnDTKSe8UuPXgcV0dYD7lt9dzcxVHU/preview",
                     "thumbnail": ""
                 }
             ],
