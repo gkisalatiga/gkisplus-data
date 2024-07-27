@@ -1,7 +1,7 @@
 # gkisplus-data
 Regularly auto-updated cloud data for the GKI Salatiga Plus app
 
-## Update interval
+## Update interval (in UTC+7)
 
 - **English Service**: at 6 AM and 6 PM on day 1-7 of the month
 - **Kebaktian Umum (Regular Indonesian Service)**: every Saturday at 12 PM and 6 PM; every Sunday at 12 AM, 3 AM, and 6 AM

@@ -8,8 +8,7 @@ on:
   schedule:
     # * is a special character in YAML so you have to quote this string
     # SOURCE: https://cron.help
-    - cron: '0 0,3,6 * * 0'
-    - cron: '0 12,18 * * 6'
+    - cron: '0 5,11,17,20,23 * * 6'
 jobs:
   Run-Python:
     permissions:
