@@ -5,7 +5,6 @@ on:
   workflow_dispatch:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    # This workflow will run at 00:00 every 10th and 20th day of the month.
     # SOURCE: https://cron.help
     - cron: '0 15,18,21 * * 6'
     - cron: '0 0,3 * * 0'

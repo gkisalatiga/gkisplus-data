@@ -7,10 +7,11 @@ on:
   workflow_dispatch:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    # This workflow will run at 00:00 every 10th and 20th day of the month.
     # SOURCE: https://cron.help
-    - cron: '12,18 0 1,2,3,4,5,6,7 * 6'
-    - cron: '3,6,9 0 1,2,3,4,5,6,7 * 0'
+    # Run at every first Saturday and Sunday in the first month's week.
+    # SOURCE: https://stackoverflow.com/a/73826599
+    - cron: '0 12,18 1-7 * */6'
+    - cron: '0 3,6,9 1-7 * */0'
 jobs:
   Run-Python:
     permissions:
