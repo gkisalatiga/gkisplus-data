@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 24,
-        "last-update": 1722152798,
-        "last-updated-item": "yt-video/es"
+        "update-count": 25,
+        "last-update": 1722176003,
+        "last-updated-item": "yt-video/saren"
     },
     "data": {
         "url-profile": {
@@ -16,6 +16,14 @@
         },
         "yt-video": {
             "saren": [
+                {
+                    "title": "SaRen Pagi | 29 Jul 2024",
+                    "date": "2024-07-28",
+                    "desc": "Dibawakan oleh Sdri. Chrissandhy",
+                    "link": "https://www.youtube.com/watch?v=mnXIBzB9gNw",
+                    "thumbnail": "https://i2.ytimg.com/vi/mnXIBzB9gNw/hqdefault.jpg",
+                    "is_live": 0
+                },
                 {
                     "title": "SaRen Pagi | 27 Jul 2024 | Pengendalian Diri",
                     "date": "2024-07-26",
@@ -94,22 +102,6 @@
                     "desc": "Dibawakan oleh Ibu Indriani Wijayanti",
                     "link": "https://www.youtube.com/watch?v=TbmjYNZ0kOc",
                     "thumbnail": "https://i1.ytimg.com/vi/TbmjYNZ0kOc/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 16 Jul 2024",
-                    "date": "2024-07-15",
-                    "desc": "Dibawakan oleh Pnt. Dessy Ballo",
-                    "link": "https://www.youtube.com/watch?v=JIrzyNfZGxk",
-                    "thumbnail": "https://i3.ytimg.com/vi/JIrzyNfZGxk/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 15 Juli 2024",
-                    "date": "2024-07-14",
-                    "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                    "link": "https://www.youtube.com/watch?v=ekl1sNBPbsI",
-                    "thumbnail": "https://i2.ytimg.com/vi/ekl1sNBPbsI/hqdefault.jpg",
                     "is_live": 0
                 }
             ],
