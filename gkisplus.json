@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 27,
-        "last-update": 1722262507,
+        "update-count": 28,
+        "last-update": 1722284204,
         "last-updated-item": "yt-video/saren"
     },
     "data": {
@@ -16,6 +16,14 @@
         },
         "yt-video": {
             "saren": [
+                {
+                    "title": "SaRen Pagi | 30 Jul 2024 | Pelajaran dari Kasus Simei",
+                    "date": "2024-07-29",
+                    "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                    "link": "https://www.youtube.com/watch?v=MJflz4otsEk",
+                    "thumbnail": "https://i2.ytimg.com/vi/MJflz4otsEk/hqdefault.jpg",
+                    "is_live": 0
+                },
                 {
                     "title": "SaRen Pagi | 29 Jul 2024",
                     "date": "2024-07-28",
@@ -94,14 +102,6 @@
                     "desc": "Dibawakan oleh Ibu Damara Laksmi Dewi",
                     "link": "https://www.youtube.com/watch?v=pmbowHpFzAk",
                     "thumbnail": "https://i1.ytimg.com/vi/pmbowHpFzAk/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 17 Jul 2024",
-                    "date": "2024-07-16",
-                    "desc": "Dibawakan oleh Ibu Indriani Wijayanti",
-                    "link": "https://www.youtube.com/watch?v=TbmjYNZ0kOc",
-                    "thumbnail": "https://i1.ytimg.com/vi/TbmjYNZ0kOc/hqdefault.jpg",
                     "is_live": 0
                 }
             ],
