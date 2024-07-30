@@ -12,7 +12,7 @@ def execute():
     # Overwriting the tar archive file.
     # SOURCE: https://docs.python.org/3/library/tarfile.html
     print('Creating the TAR-GZIP archive and compressing ...')
-    with tf.open('static.tar.gz', mode='w:gz', compresslevel=9) as fo:
+    with tf.open('gkisplus-static.tar.gz', mode='w:gz', compresslevel=9) as fo:
         fo.add('static', recursive=True)
         fo.close()
     
