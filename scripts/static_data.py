@@ -1,7 +1,7 @@
 from datetime import datetime as dt
+from zipfile import ZipFile as zf
 import json
 import os
-import tarfile as tf
 import time
 
 def execute():
@@ -9,11 +9,26 @@ def execute():
     print('Beginning the automation script for zipping the static data ...')
     t = dt.now()
     
-    # Overwriting the tar archive file.
-    # SOURCE: https://docs.python.org/3/library/tarfile.html
-    print('Creating the TAR-GZIP archive and compressing ...')
-    with tf.open('gkisplus-static.tar.gz', mode='w:gz', compresslevel=9) as fo:
-        fo.add('static', recursive=True)
+    # Overwriting the zip archive file.
+    # SOURCE: https://docs.python.org/3/library/zipfile.html
+    print('Creating the ZIP archive and compressing ...')
+    with zf('gkisplus-static.zip', mode='w', compression=8) as fo:
+        
+        # Recurse into the static folder.
+        # SOURCE: https://docs.python.org/3/library/os.html
+        '''
+        Sample output of os.walk('static'):
+        static ['00_profil_gereja', '10_pendeta', '20_majelis_jemaat', '30_badan_pelayanan', '40_pa_wilayah'] []
+        static/00_profil_gereja [] ['gkisalatiga-2024.jpg', 'index.html', 'logo-gki-putih.png', 'styles.css']
+        static/10_pendeta [] ['styles.css', 'img-sample.png', 'index.html', 'script.js']
+        static/20_majelis_jemaat [] ['img-sample.png', 'index.html', 'script.js', 'styles.css']
+        static/30_badan_pelayanan [] ['img-sample.png', 'index.html', 'script.js', 'styles.css']
+        static/40_pa_wilayah [] ['img-sample.png', 'index.html', 'script.js', 'styles.css']
+        '''
+        for a, b, c in os.walk('static'):
+            for l in c:
+                print(f'Adding file to the ZIP archive: {os.path.join(a, l)} ...')
+                fo.write(os.path.join(a, l))
         fo.close()
     
     # Parsing the current JSON file.
