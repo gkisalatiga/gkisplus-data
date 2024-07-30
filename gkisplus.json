@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 36,
-        "last-update": 1722361082,
-        "last-updated-item": "static",
+        "update-count": 37,
+        "last-update": 1722370532,
+        "last-updated-item": "yt-video/saren",
         "version-code": "0.1.6-alpha",
         "version-build": 13
     },
@@ -18,6 +18,14 @@
         },
         "yt-video": {
             "saren": [
+                {
+                    "title": "SaRen Pagi | 31 Jul 2024",
+                    "date": "2024-07-30",
+                    "desc": "Dibawakan oleh Ibu Apriani Dorkas Rambu A",
+                    "link": "https://www.youtube.com/watch?v=go1Gjpo5ptU",
+                    "thumbnail": "https://i4.ytimg.com/vi/go1Gjpo5ptU/hqdefault.jpg",
+                    "is_live": 0
+                },
                 {
                     "title": "SaRen Pagi | 30 Jul 2024 | Pelajaran dari Kasus Simei",
                     "date": "2024-07-29",
@@ -96,14 +104,6 @@
                     "desc": "Dibawakan oleh Ibu Wahyu Pujiati",
                     "link": "https://www.youtube.com/watch?v=hOYF059QydY",
                     "thumbnail": "https://i1.ytimg.com/vi/hOYF059QydY/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 18 Jul 2024 | Nggandhul Gusti",
-                    "date": "2024-07-17",
-                    "desc": "Dibawakan oleh Ibu Damara Laksmi Dewi",
-                    "link": "https://www.youtube.com/watch?v=pmbowHpFzAk",
-                    "thumbnail": "https://i1.ytimg.com/vi/pmbowHpFzAk/hqdefault.jpg",
                     "is_live": 0
                 }
             ],
