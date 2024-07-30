@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 37,
-        "last-update": 1722370532,
-        "last-updated-item": "yt-video/saren",
+        "update-count": 38,
+        "last-update": 1722382869,
+        "last-updated-item": "static",
         "version-code": "0.1.6-alpha",
         "version-build": 13
     },
@@ -498,13 +498,13 @@
                 }
             ]
         },
-        "static": [
-            "20_majelis_jemaat",
-            "30_badan_pelayanan",
-            "00_profil_gereja",
-            "10_pendeta",
-            "40_pa_wilayah"
-        ],
+        "static": {
+            "00_profil_gereja": "Profil GKI Salatiga",
+            "10_pendeta": "Kependetaan",
+            "20_majelis_jemaat": "Majelis Jemaat",
+            "30_badan_pelayanan": "Badan Pelayanan",
+            "40_pa_wilayah": "PA Wilayah"
+        },
         "agenda": {
             "mon": [
                 {

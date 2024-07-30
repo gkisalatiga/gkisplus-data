@@ -44,12 +44,20 @@ def execute():
     j['meta']['last-updated-item'] = 'static'
     
     # Resetting the JSON node.
-    j['data']['static'] = []
+    j['data']['static'] = {}
     # Enlisting the list of static directory node.
     print('Morphing the JSON data ...')
     for l in os.listdir('./static'):
+        # Obtain this node's particular profile title.
+        m = ''
+        with open(f'./static/{l}/title.txt', 'r') as fi:
+            for n in fi:
+                m += n.strip()
+            fi.close()
+        
+        # Enlisting the node into the JSON file.
         print(f'Appending static node: {l}')
-        j['data']['static'].append(l)
+        j['data']['static'][l] = m
     
     # Writing into the remote GitHub repo's file.
     # SOURCE: https://www.perplexity.ai/search/show-me-how-to-write-into-gith-YSsKLQ9wTGun0NGHscbNzw
