@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 34,
-        "last-update": 1722357192,
+        "update-count": 35,
+        "last-update": 1722357797,
         "last-updated-item": "static",
         "version-code": "0.1.6-alpha",
         "version-build": 13
@@ -499,10 +499,10 @@
             ]
         },
         "static": [
-            "00_profil_gereja",
-            "10_pendeta",
             "20_majelis_jemaat",
             "30_badan_pelayanan",
+            "00_profil_gereja",
+            "10_pendeta",
             "40_pa_wilayah"
         ],
         "agenda": {
