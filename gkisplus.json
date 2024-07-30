@@ -1,8 +1,10 @@
 {
     "meta": {
-        "update-count": 29,
-        "last-update": 1722348869,
-        "last-updated-item": "yt-video/saren"
+        "update-count": 34,
+        "last-update": 1722357192,
+        "last-updated-item": "static",
+        "version-code": "0.1.6-alpha",
+        "version-build": 13
     },
     "data": {
         "url-profile": {
@@ -496,14 +498,13 @@
                 }
             ]
         },
-        "static": {
-            "church_profile": "<b>This is an HTML code for church profile.</b>",
-            "pastor": "<b>This is an HTML code for pastor.</b>",
-            "assembly": "<b>This is an HTML code for assembly.</b>",
-            "ministry": "<b>This is an HTML code for ministry.</b>",
-            "bible_study": "<b>This is an HTML code for PA Wilayah.</b>",
-            "social_media": "<b>This is an HTML code for Media Sosial.</b>"
-        },
+        "static": [
+            "00_profil_gereja",
+            "10_pendeta",
+            "20_majelis_jemaat",
+            "30_badan_pelayanan",
+            "40_pa_wilayah"
+        ],
         "agenda": {
             "mon": [
                 {
