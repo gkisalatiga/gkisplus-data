@@ -8,3 +8,18 @@ Regularly auto-updated cloud data for the GKI Salatiga Plus app
 - **SaRen Pagi (Morning Devotion)**: every day at 3 AM and 9 PM
 - **Tata Ibadah (Service Liturgy)**: every Saturday at 3 PM, 6 PM, and 9 PM; every Sunday at 12 AM and 3 AM
 - **Warta Jemaat (Church News)**: every Saturday at 3 PM, 6 PM, and 9 PM; every Sunday at 12 AM and 3 AM
+
+## Non-Exhaustive Documentation
+
+### `static`: Folder convention
+
+- `banner.webp` must exist. This image will be displayed as the church profile's appealing banner image.
+- `index.html` must exist and become the starting point of ScreenInternalHTML's loading.
+- `title.txt` must exist. This file determines the church profile title string. Must be one-line only.
+- All other CSS, JavaScript, and media should be stored under the profile's `res` folder.
+
+### JSON: `data/banners`: Banner types
+
+- **article**: the banner is of online article type; upon click, opens ScreenWebView and displays the link
+- **poster**: the banner is of poster type; upon click, displays a zoomable poster pop-up
+- **yt**: the banner is of video type; upon click, opens ScreenVideo/ScreenVideoLive and loads the embedded YouTube video
