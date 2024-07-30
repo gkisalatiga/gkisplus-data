@@ -33,7 +33,7 @@ jobs:
       # SOURCE: https://github.com/marketplace/actions/add-commit-and-push
       - name: Commiting changes to files
         uses: actions4git/setup-git@v1
-      - run: git add gkisplus-static.tar.gz
+      - run: git add gkisplus.json gkisplus-static.tar.gz
       - run: git commit --message 'Automatically compressed the static data'
       - run: git push origin main --force
         
