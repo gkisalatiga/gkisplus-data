@@ -3,7 +3,14 @@ from urllib.parse import urlparse, parse_qs
 from zipfile import ZipFile as zf
 import json
 import os
+import requests as rq
 import time
+
+s = rq.Session()
+
+# The YouTube v3 API key.
+print('Retrieving the API KEY secrets ...')
+api_key = os.environ['YT_API_KEY']
 
 def get_cleansed_video_id(yt_url):
     '''
@@ -19,8 +26,34 @@ def get_yt_snippet(video_id):
     Using YouTube API v3, retrieve a given video_id's video snippet information.
     :param video_id: the video ID of the YouTube video, without "http", "www", etc. in its string
     '''
-    # TODO:
-    pass
+    # The Google API bridge.
+    bridge = 'https://www.googleapis.com/youtube/v3/videos'
+    
+    # Obtaining the video data.
+    part = 'snippet'
+    r = rq.get(bridge + f'?key={api_key}&part={part}&id={video_id}')
+    
+    # Do about the returned JSON data.
+    j = r.json()
+    j_snippet = j['items'][0]['snippet']
+    
+    # Determine if it is a live video.
+    is_live = 0
+    if j_snippet['liveBroadcastContent'] == 'live':
+        is_live = 1
+    
+    # Prepare the return dict.
+    a = {
+        'yt-title': j_snippet['title'],
+        'yt-date': j_snippet['publishedAt'].split('T')[0],
+        'yt-desc': j_snippet['description'],
+        'yt-link': f'https://www.youtube.com/watch?v={video_id}',
+        'yt-thumbnail': j_snippet['thumbnails']['high']['url'],
+        'yt-is_live': is_live
+    }
+    
+    # Returning the result.
+    return a
 
 def execute():
     # Preamble logging.
@@ -34,15 +67,6 @@ def execute():
         
         # Recurse into the static folder.
         # SOURCE: https://docs.python.org/3/library/os.html
-        '''
-        Sample output of os.walk('static'):
-        static ['00_profil_gereja', '10_pendeta', '20_majelis_jemaat', '30_badan_pelayanan', '40_pa_wilayah'] []
-        static/00_profil_gereja [] ['gkisalatiga-2024.jpg', 'index.html', 'logo-gki-putih.png', 'styles.css']
-        static/10_pendeta [] ['styles.css', 'img-sample.png', 'index.html', 'script.js']
-        static/20_majelis_jemaat [] ['img-sample.png', 'index.html', 'script.js', 'styles.css']
-        static/30_badan_pelayanan [] ['img-sample.png', 'index.html', 'script.js', 'styles.css']
-        static/40_pa_wilayah [] ['img-sample.png', 'index.html', 'script.js', 'styles.css']
-        '''
         for a, b, c in os.walk('carousel'):
             for l in c:
                 print(f'Adding file to the ZIP archive: {os.path.join(a, l)} ...')
@@ -57,17 +81,15 @@ def execute():
     
     # Incrementing the update count and updating the 'last update' item.
     # SOURCE: https://stackoverflow.com/a/27914405
-    '''
     j['meta']['update-count'] += 1
     j['meta']['last-update'] = int( time.mktime(dt.now().timetuple()) )
     j['meta']['last-updated-item'] = 'carousel'
-    '''
     
     # Resetting the JSON node.
     j['data']['carousel'] = {}
     # Enlisting the list of static directory node.
     print('Morphing the JSON data ...')
-    for l in os.listdir('./carousel'):
+    for l in sorted( os.listdir('./carousel') ):
         # Creating a dict
         a = {}
         
@@ -92,8 +114,8 @@ def execute():
                 b = get_yt_snippet( get_cleansed_video_id(mj['yt-link']) )
                 
                 # Then we copy the YT API v3 result into the JSON.
-                # TODO:
-                pass
+                for m in b.keys():
+                    a[m] = b[m]
                 
             fi.close()
         
@@ -107,12 +129,10 @@ def execute():
     # Writing into the remote GitHub repo's file.
     # SOURCE: https://www.perplexity.ai/search/show-me-how-to-write-into-gith-YSsKLQ9wTGun0NGHscbNzw
     # SOURCE: https://stackoverflow.com/a/12309296
-    '''
     print('Writing the JSON file ...')
     with open(json_path, 'w') as fo:
         json.dump(j, fo, ensure_ascii=False, indent=4)
         fo.close()
-    '''
     
     # Logging out.
     print('-' * 25)
@@ -121,3 +141,22 @@ def execute():
     
 if __name__ == "__main__":
     execute()
+
+'''
+SAMPLE JSON NODE:
+"00_komisi_anak": {
+    "banner": "",
+    "title": "",
+    "type": "",
+    "date-created": "",
+    "article-url": "",
+    "poster-image": "",
+    "poster-caption": "",
+    "yt-title": "",
+    "yt-date": "",
+    "yt-desc": "",
+    "yt-link": "",
+    "yt-thumbnail": "",
+    "yt-is_live": 0
+}
+'''
