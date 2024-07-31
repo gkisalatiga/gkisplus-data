@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 39,
-        "last-update": 1722410186,
-        "last-updated-item": "static",
+        "update-count": 40,
+        "last-update": 1722435264,
+        "last-updated-item": "yt-video/saren",
         "version-code": "0.1.7-alpha",
         "version-build": 14
     },
@@ -18,6 +18,14 @@
         },
         "yt-video": {
             "saren": [
+                {
+                    "title": "SaRen Pagi | 1 Agustus 2024",
+                    "date": "2024-07-31",
+                    "desc": "Dibawakan oleh Bapak I Made Satya Arnawa",
+                    "link": "https://www.youtube.com/watch?v=iGUTIHiN5es",
+                    "thumbnail": "https://i2.ytimg.com/vi/iGUTIHiN5es/hqdefault.jpg",
+                    "is_live": 0
+                },
                 {
                     "title": "SaRen Pagi | 31 Jul 2024",
                     "date": "2024-07-30",
@@ -96,14 +104,6 @@
                     "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                     "link": "https://www.youtube.com/watch?v=frC0Vj7qYbc",
                     "thumbnail": "https://i3.ytimg.com/vi/frC0Vj7qYbc/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 19 Jul 2024",
-                    "date": "2024-07-18",
-                    "desc": "Dibawakan oleh Ibu Wahyu Pujiati",
-                    "link": "https://www.youtube.com/watch?v=hOYF059QydY",
-                    "thumbnail": "https://i1.ytimg.com/vi/hOYF059QydY/hqdefault.jpg",
                     "is_live": 0
                 }
             ],
