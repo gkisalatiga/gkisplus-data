@@ -621,6 +621,23 @@
                 "account-holder": "Tan Ik Hay"
             }
         ],
+        "carousel": {
+            "00_komisi_anak": {
+                "banner": "",
+                "title": "",
+                "type": "",
+                "date-created": "",
+                "article-url": "",
+                "poster-image": "",
+                "poster-caption": "",
+                "yt-title": "",
+                "yt-date": "",
+                "yt-desc": "",
+                "yt-link": "",
+                "yt-thumbnail": "",
+                "yt-is_live": ""
+            }
+        },
         "helper-title": {
             "yt-video": {
                 "saren": "Sapaan dan Renungan Pagi",

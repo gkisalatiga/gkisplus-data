@@ -18,8 +18,8 @@ Regularly auto-updated cloud data for the GKI Salatiga Plus app
 - `title.txt` must exist. This file determines the church profile title string. Must be one-line only.
 - All other CSS, JavaScript, and media should be stored under the profile's `res` folder.
 
-### JSON: `data/banners`: Banner types
+### JSON: `data/carousel`: Carousel types
 
-- **article**: the banner is of online article type; upon click, opens ScreenWebView and displays the link
-- **poster**: the banner is of poster type; upon click, displays a zoomable poster pop-up
-- **yt**: the banner is of video type; upon click, opens ScreenVideo/ScreenVideoLive and loads the embedded YouTube video
+- **article**: the carousel is of online article type; upon click, opens ScreenWebView and displays the link
+- **poster**: the carousel is of poster type; upon click, displays a zoomable poster pop-up
+- **yt**: the carousel is of video type; upon click, opens ScreenVideo/ScreenVideoLive and loads the embedded YouTube video
