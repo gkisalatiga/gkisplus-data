@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 38,
-        "last-update": 1722382869,
+        "update-count": 39,
+        "last-update": 1722410186,
         "last-updated-item": "static",
         "version-code": "0.1.7-alpha",
         "version-build": 14
@@ -499,10 +499,10 @@
             ]
         },
         "static": {
-            "00_profil_gereja": "Profil GKI Salatiga",
-            "10_pendeta": "Kependetaan",
             "20_majelis_jemaat": "Majelis Jemaat",
             "30_badan_pelayanan": "Badan Pelayanan",
+            "00_profil_gereja": "Profil GKI Salatiga",
+            "10_pendeta": "Kependetaan",
             "40_pa_wilayah": "PA Wilayah"
         },
         "agenda": {
