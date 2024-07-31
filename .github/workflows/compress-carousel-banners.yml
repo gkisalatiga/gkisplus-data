@@ -1,4 +1,6 @@
 name: Compressing the Carousel Banners
+env:
+  YT_API_KEY: ${{ secrets.YT_V3_APIKEY }}
 run-name: ${{ github.actor }} is updating the carousel banners 🚀
 on:
   # Manual trigger.
