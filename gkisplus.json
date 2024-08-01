@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 45,
-        "last-update": 1722521703,
+        "update-count": 46,
+        "last-update": 1722543445,
         "last-updated-item": "yt-video/saren",
         "version-code": "0.1.7-alpha",
         "version-build": 14
@@ -18,6 +18,14 @@
         },
         "yt-video": {
             "saren": [
+                {
+                    "title": "SaRen Pagi | 2 Agustus 2024 | Makna Merdeka",
+                    "date": "2024-08-01",
+                    "desc": "Dibawakan oleh Ibu Natalis Sidanta",
+                    "link": "https://www.youtube.com/watch?v=FlKptRRAng0",
+                    "thumbnail": "https://i3.ytimg.com/vi/FlKptRRAng0/hqdefault.jpg",
+                    "is_live": 0
+                },
                 {
                     "title": "SaRen Pagi | 1 Agustus 2024",
                     "date": "2024-07-31",
