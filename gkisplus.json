@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 46,
-        "last-update": 1722543445,
+        "update-count": 47,
+        "last-update": 1722608064,
         "last-updated-item": "yt-video/saren",
         "version-code": "0.1.7-alpha",
         "version-build": 14
@@ -18,6 +18,14 @@
         },
         "yt-video": {
             "saren": [
+                {
+                    "title": "SaRen Pagi | 3 Agustus 2024",
+                    "date": "2024-08-02",
+                    "desc": "Dibawakan oleh Pnt. July Silooi",
+                    "link": "https://www.youtube.com/watch?v=085ybFb0WWs",
+                    "thumbnail": "https://i1.ytimg.com/vi/085ybFb0WWs/hqdefault.jpg",
+                    "is_live": 0
+                },
                 {
                     "title": "SaRen Pagi | 2 Agustus 2024 | Makna Merdeka",
                     "date": "2024-08-01",
@@ -104,14 +112,6 @@
                     "desc": "Dibawakan oleh Pnt.Ervien Dian Widyawati",
                     "link": "https://www.youtube.com/watch?v=vzqVrvEuPtU",
                     "thumbnail": "https://i3.ytimg.com/vi/vzqVrvEuPtU/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 20 Jul 2024 | Mengecap Kebaikan Tuhan",
-                    "date": "2024-07-19",
-                    "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
-                    "link": "https://www.youtube.com/watch?v=frC0Vj7qYbc",
-                    "thumbnail": "https://i3.ytimg.com/vi/frC0Vj7qYbc/hqdefault.jpg",
                     "is_live": 0
                 }
             ],
