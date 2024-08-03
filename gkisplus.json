@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 56,
-        "last-update": 1722694467,
-        "last-updated-item": "pdf/wj",
+        "update-count": 57,
+        "last-update": 1722694517,
+        "last-updated-item": "yt-video/saren",
         "version-code": "0.1.7-alpha",
         "version-build": 14
     },
@@ -104,14 +104,6 @@
                     "desc": "Dibawakan oleh Ibu Evelina Purnama & Bpk Budi Santoso",
                     "link": "https://www.youtube.com/watch?v=n4bFH8O_HG0",
                     "thumbnail": "https://i3.ytimg.com/vi/n4bFH8O_HG0/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 22 Jul 2024",
-                    "date": "2024-07-21",
-                    "desc": "Dibawakan oleh Pnt.Ervien Dian Widyawati",
-                    "link": "https://www.youtube.com/watch?v=vzqVrvEuPtU",
-                    "thumbnail": "https://i3.ytimg.com/vi/vzqVrvEuPtU/hqdefault.jpg",
                     "is_live": 0
                 }
             ],
