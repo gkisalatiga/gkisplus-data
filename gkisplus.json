@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 66,
-        "last-update": 1722780935,
-        "last-updated-item": "yt-video/saren",
+        "update-count": 67,
+        "last-update": 1722787047,
+        "last-updated-item": "pdf/wj",
         "version-code": "0.1.7-alpha",
         "version-build": 14
     },
@@ -355,6 +355,13 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 4 Agustus 2024",
+                    "date": "2024-08-04",
+                    "link": "https://drive.google.com/file/d/1sIMdTk50arD-RRE9Qc5fGL8Pj0UigKxm/preview",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-4-agustus-2024/",
+                    "thumbnail": ""
+                },
+                {
                     "title": "Warta Jemaat 28 Juli 2024",
                     "date": "2024-07-27",
                     "link": "https://drive.google.com/file/d/1kZzEvI9M0fdBS_jLM0GUhqmRX5VV_dDL/preview",
@@ -415,13 +422,6 @@
                     "date": "2024-06-01",
                     "link": "https://drive.google.com/file/d/17VaKcOh8IBJ-rvfyjW0DvXmaaQG9_kKb/preview",
                     "post-page": "https://gkisalatiga.org/warta-jemaat-2-juni-2024/",
-                    "thumbnail": ""
-                },
-                {
-                    "title": "Warta Jemaat 26 Mei 2024",
-                    "date": "2024-05-25",
-                    "link": "https://drive.google.com/file/d/1RPOr0syWBqkted17Y5PDSjUqoLFxqKi5/preview",
-                    "post-page": "https://gkisalatiga.org/warta-jemaat-26-mei-2024/",
                     "thumbnail": ""
                 }
             ],
