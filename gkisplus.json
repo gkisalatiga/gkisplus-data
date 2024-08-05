@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 68,
-        "last-update": 1722802616,
+        "update-count": 69,
+        "last-update": 1722867248,
         "last-updated-item": "yt-video/saren",
         "version-code": "0.1.7-alpha",
         "version-build": 14
@@ -18,6 +18,30 @@
         },
         "yt-video": {
             "saren": [
+                {
+                    "title": "SaRen Pagi | 7 Agu 2024 | Kita Sudah Merdeka",
+                    "date": "2024-08-05",
+                    "desc": "Dibawakan oleh Ibu Yedida Christa Pujianti",
+                    "link": "https://www.youtube.com/watch?v=V57hq_fmBTg",
+                    "thumbnail": "https://i3.ytimg.com/vi/V57hq_fmBTg/hqdefault.jpg",
+                    "is_live": 0
+                },
+                {
+                    "title": "SaRen Pagi | 6 Agu 2024 | Peringatan Pada Momen Kasih Mula-mula",
+                    "date": "2024-08-05",
+                    "desc": "Dibawakan oleh Ibu Enny Kartikaningsih",
+                    "link": "https://www.youtube.com/watch?v=2jb9P1rhoqU",
+                    "thumbnail": "https://i3.ytimg.com/vi/2jb9P1rhoqU/hqdefault.jpg",
+                    "is_live": 0
+                },
+                {
+                    "title": "SaRen Pagi | 5 Agu 2024",
+                    "date": "2024-08-04",
+                    "desc": "Dubawakan oleh Pdt. Em. Yahya Wijaya",
+                    "link": "https://www.youtube.com/watch?v=ORcSiB_8pjc",
+                    "thumbnail": "https://i4.ytimg.com/vi/ORcSiB_8pjc/hqdefault.jpg",
+                    "is_live": 0
+                },
                 {
                     "title": "SaRen Pagi | 3 Agustus 2024",
                     "date": "2024-08-02",
@@ -80,30 +104,6 @@
                     "desc": "Dibawakan oleh Ibu Sintarini Utomo",
                     "link": "https://www.youtube.com/watch?v=qzwsNlCWa2s",
                     "thumbnail": "https://i2.ytimg.com/vi/qzwsNlCWa2s/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 25 Jul 2024",
-                    "date": "2024-07-24",
-                    "desc": "Dibawakan oleh Pdt.Christina Elisabeth Parinsi",
-                    "link": "https://www.youtube.com/watch?v=8f3j1D-D6wY",
-                    "thumbnail": "https://i1.ytimg.com/vi/8f3j1D-D6wY/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 24 Jul 2024",
-                    "date": "2024-07-23",
-                    "desc": "Dibawakan oleh Pdt Kristiani Setyaningsih Santoso",
-                    "link": "https://www.youtube.com/watch?v=5ZKk-vj8gsk",
-                    "thumbnail": "https://i2.ytimg.com/vi/5ZKk-vj8gsk/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 23 Jul 2024",
-                    "date": "2024-07-22",
-                    "desc": "Dibawakan oleh Ibu Evelina Purnama & Bpk Budi Santoso",
-                    "link": "https://www.youtube.com/watch?v=n4bFH8O_HG0",
-                    "thumbnail": "https://i3.ytimg.com/vi/n4bFH8O_HG0/hqdefault.jpg",
                     "is_live": 0
                 }
             ],
