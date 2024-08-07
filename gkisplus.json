@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 73,
-        "last-update": 1723040083,
+        "update-count": 74,
+        "last-update": 1723061813,
         "last-updated-item": "yt-video/saren",
         "version-code": "0.1.7-alpha",
         "version-build": 14
@@ -18,6 +18,14 @@
         },
         "yt-video": {
             "saren": [
+                {
+                    "title": "SaRen Pagi | 8 Agu 2024 | Sahabat Yesus",
+                    "date": "2024-08-07",
+                    "desc": "Dibawakan oleh Ibu Renny Handayani",
+                    "link": "https://www.youtube.com/watch?v=45uc5Bj5oxo",
+                    "thumbnail": "https://i1.ytimg.com/vi/45uc5Bj5oxo/hqdefault.jpg",
+                    "is_live": 0
+                },
                 {
                     "title": "SaRen Pagi | 7 Agu 2024 | Kita Sudah Merdeka",
                     "date": "2024-08-06",
@@ -96,14 +104,6 @@
                     "desc": "Dibawakan oleh Pnt. Nadia Sitaresmi",
                     "link": "https://www.youtube.com/watch?v=88VktV_rjQI",
                     "thumbnail": "https://i1.ytimg.com/vi/88VktV_rjQI/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 26 Jul 2024",
-                    "date": "2024-07-25",
-                    "desc": "Dibawakan oleh Ibu Sintarini Utomo",
-                    "link": "https://www.youtube.com/watch?v=qzwsNlCWa2s",
-                    "thumbnail": "https://i2.ytimg.com/vi/qzwsNlCWa2s/hqdefault.jpg",
                     "is_live": 0
                 }
             ],
