@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 72,
-        "last-update": 1722975264,
+        "update-count": 73,
+        "last-update": 1723040083,
         "last-updated-item": "yt-video/saren",
         "version-code": "0.1.7-alpha",
         "version-build": 14
@@ -19,19 +19,19 @@
         "yt-video": {
             "saren": [
                 {
+                    "title": "SaRen Pagi | 7 Agu 2024 | Kita Sudah Merdeka",
+                    "date": "2024-08-06",
+                    "desc": "Dibawakan oleh Ibu Yedida Christa Pujianti",
+                    "link": "https://www.youtube.com/watch?v=V57hq_fmBTg",
+                    "thumbnail": "https://i3.ytimg.com/vi/V57hq_fmBTg/hqdefault.jpg",
+                    "is_live": 0
+                },
+                {
                     "title": "SaRen Pagi | 6 Agu 2024 | Peringatan Pada Momen Kasih Mula-mula",
                     "date": "2024-08-05",
                     "desc": "Dibawakan oleh Ibu Enny Kartikaningsih",
                     "link": "https://www.youtube.com/watch?v=2jb9P1rhoqU",
                     "thumbnail": "https://i3.ytimg.com/vi/2jb9P1rhoqU/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 7 Agu 2024 | Kita Sudah Merdeka",
-                    "date": "2024-08-05",
-                    "desc": "Dibawakan oleh Ibu Yedida Christa Pujianti",
-                    "link": "https://www.youtube.com/watch?v=V57hq_fmBTg",
-                    "thumbnail": "https://i3.ytimg.com/vi/V57hq_fmBTg/hqdefault.jpg",
                     "is_live": 0
                 },
                 {
