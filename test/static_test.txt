@@ -1,1 +1,7 @@
-Halzion. It's a good Japanese song.
+https://stackoverflow.com/questions/20207594/how-to-find-a-github-file-s-sha-blob
+
+So, you can see what the SHA is in the "sha" field of the JSON response.
+Use that when you formulate your request to update the file with a new version.
+After you have successfully updated the file, the file will have a new SHA that you
+will need to request before it can be updated again.
+(Unless, I guess, your next update goes on a different branch.)
