@@ -55,6 +55,11 @@ def get_data():
         videoId = a['snippet']['resourceId']['videoId']
         print(f'--- Iteration {i}; obtaining metadata for video ID: {videoId}')
         
+        if a['snippet']['thumbnails'] == {}:
+            print('..... Cannot retrieve video thumbnail because the video is private. Skipping ...')
+            i += 1
+            continue
+        
         s1.append(a['snippet']['title'])
         s2.append(videoId)
         s3.append(a['snippet']['publishedAt'].split('T')[0])
