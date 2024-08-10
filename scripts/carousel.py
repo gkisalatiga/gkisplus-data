@@ -82,6 +82,7 @@ def execute():
     # Incrementing the update count and updating the 'last update' item.
     # SOURCE: https://stackoverflow.com/a/27914405
     j['meta']['update-count'] += 1
+    j['meta']['last-actor'] = 'GITHUB_ACTIONS'
     j['meta']['last-update'] = int( time.mktime(dt.now().timetuple()) )
     j['meta']['last-updated-item'] = 'carousel'
     
