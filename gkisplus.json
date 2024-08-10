@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 79,
-        "last-update": 1723266294,
-        "last-updated-item": "yt-video/umum",
+        "update-count": 80,
+        "last-update": 1723267625,
+        "last-updated-item": "yt-video/es",
         "version-code": "0.1.7-alpha",
         "version-build": 14
     },
@@ -271,6 +271,14 @@
             ],
             "es": [
                 {
+                    "title": "GKI Salatiga | English Service | Sunday, Aug. 4th. 2024 | 10 a.m. Jakarta Time",
+                    "date": "2024-08-02",
+                    "desc": "APPEAL TO THE HOLY SPIRIT\n1 Cor 6: 19\n\nLed by\nMrs. Anita Dudek\n\n\nUsher: Sita + Gita A.\nPL: Diane\nReader: Debora\nPrayer: Gita H.\nSL: Kezya\nPemusik: Bung and Friends + Lyka\nPPT: James\nMultiMedia: Pak Bamz",
+                    "link": "https://www.youtube.com/watch?v=uNlwgHjvYO4",
+                    "thumbnail": "https://i.ytimg.com/vi/uNlwgHjvYO4/hqdefault.jpg",
+                    "is_live": 1
+                },
+                {
                     "title": "GKI Salatiga | English Service | Sunday, March 3rd. 2024 | 9 a.m. Jakarta Time",
                     "date": "2024-03-01",
                     "desc": "\"He's Changed\"\nMark 9:2-10\n\nLed by\nRev. Irene Ludji\n\nLiturgy: Diane\nReader: Ika\nSong Leader: Mega, Malika\nMusic: Lyka\nMultimedia: Elisabet, Bambang",
@@ -332,22 +340,6 @@
                     "desc": "Theme: The God of Jeremiah\nSpeaker: Mr. Nathan Fosdahl\nLiturgist: Diane\nSong Leader: Cinta. Rizky\nMusician: Teddy",
                     "link": "https://www.youtube.com/watch?v=gMt0l6YbSHw",
                     "thumbnail": "https://i.ytimg.com/vi/gMt0l6YbSHw/hqdefault.jpg",
-                    "is_live": 1
-                },
-                {
-                    "title": "English Service GKI Salatiga | February 5, 2023 | \"Strength for the Weary\"",
-                    "date": "2023-02-06",
-                    "desc": "Sermon: Mr. Alexander Kirk\nLiturgist: Mega\nSong Leader: Lia, Angel\nPianist: Tedy\nMultimedia: Eddy, Daniel",
-                    "link": "https://www.youtube.com/watch?v=4VNkhF3tsBk",
-                    "thumbnail": "https://i.ytimg.com/vi/4VNkhF3tsBk/hqdefault.jpg",
-                    "is_live": 1
-                },
-                {
-                    "title": "English Service GKI Salatiga | December 11, 2022 | \"While You Wait\"",
-                    "date": "2022-12-10",
-                    "desc": "Sermon: Mrs. Keily Alvarez\nLiturgist: Diane Nuhamara\nSong Leader: Christa Tehusalawany\nPianist: Arvino\nMultimedia: Nathan",
-                    "link": "https://www.youtube.com/watch?v=w7VNdNrzoIk",
-                    "thumbnail": "https://i.ytimg.com/vi/w7VNdNrzoIk/hqdefault.jpg",
                     "is_live": 1
                 }
             ]
