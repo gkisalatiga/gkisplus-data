@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 80,
-        "last-update": 1723267625,
-        "last-updated-item": "yt-video/es",
+        "update-count": 81,
+        "last-update": 1723277679,
+        "last-updated-item": "pdf/liturgi",
         "version-code": "0.1.7-alpha",
         "version-build": 14
     },
@@ -419,6 +419,20 @@
             ],
             "liturgi": [
                 {
+                    "title": "Tata Ibadah 11 Agustus 2024",
+                    "date": "2024-08-10",
+                    "link": "https://drive.google.com/file/d/1B3nsKhN70hw3i6aeZ4mWcYuzg5y-3O4O/preview",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-11-agustus-2024/",
+                    "thumbnail": ""
+                },
+                {
+                    "title": "Tata Ibadah 4 Agustus 2024",
+                    "date": "2024-08-04",
+                    "link": "https://drive.google.com/file/d/1wyP5ZPSv6UkfetvXiPDtkhOIgKm_uY7M/preview",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-4-agustus-2024/",
+                    "thumbnail": ""
+                },
+                {
                     "title": "Tata Ibadah 28 Juli 2024",
                     "date": "2024-07-27",
                     "link": "https://drive.google.com/file/d/1-hub0aGbeLGGNZtZSkeliJHeqU7-lE7z/preview",
@@ -472,20 +486,6 @@
                     "date": "2024-06-08",
                     "link": "https://drive.google.com/file/d/1pDV5KYQ9D8p7Qsw_tJXzEnjMr-EAmugY/preview",
                     "post-page": "https://gkisalatiga.org/tata-ibadah-9-juni-2024/",
-                    "thumbnail": ""
-                },
-                {
-                    "title": "Tata Ibadah 2 Juni 2024",
-                    "date": "2024-06-01",
-                    "link": "https://drive.google.com/file/d/1WC9bauiLi63L6ghlzunKUP2ujTh9ip-x/preview",
-                    "post-page": "https://gkisalatiga.org/tata-ibadah-2-juni-2024/",
-                    "thumbnail": ""
-                },
-                {
-                    "title": "Tata Ibadah Minggu Trinitas 26 Mei 2024",
-                    "date": "2024-05-26",
-                    "link": "https://drive.google.com/file/d/1keeoHyZG_iqBQ0-iZUuWdOcF9xzRQ9Qf/preview",
-                    "post-page": "https://gkisalatiga.org/tata-ibadah-minggu-trinitas-26-mei-2024/",
                     "thumbnail": ""
                 }
             ]
