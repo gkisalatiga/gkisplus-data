@@ -1,11 +1,11 @@
 {
     "meta": {
-        "update-count": 105,
-        "last-update": 1723407376,
-        "last-updated-item": "yt-video/saren",
+        "update-count": 106,
+        "last-update": 1723460291,
+        "last-updated-item": "unspecified",
         "version-code": "0.1.7-alpha",
         "version-build": 14,
-        "last-actor": "GITHUB_ACTIONS"
+        "last-actor": "SIMON_PETRUS"
     },
     "data": {
         "url-profile": {
@@ -572,6 +572,10 @@
             {
                 "title": "Pendaftaran Pelatihan KML GKI Salatiga",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSedpmDo_7jJoRV_-uumteou7DfDrBb1QwHzbX_nSMqgqmdPdg/viewform"
+            },
+            {
+                "title": "Permohonan SIDI",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSciV_PHVbfYaZ_ejDM-5zvqpj0Zv0lYr_x_b9BzMR0jITRAhw/viewform"
             },
             {
                 "title": "Update Data Anggota Jemaat dan Simpatisan GKI Salatiga",
