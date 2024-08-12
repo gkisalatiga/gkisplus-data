@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 120,
-        "last-update": 1723494013,
-        "last-updated-item": "offertory",
+        "update-count": 121,
+        "last-update": 1723505541,
+        "last-updated-item": "agenda",
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
@@ -562,6 +562,18 @@
                 {
                     "name": "Kebaktian Umum I",
                     "time": "07:00",
+                    "place": "Gedung Utama GKI Salatiga",
+                    "representative": "Majelis Jemaat"
+                },
+                {
+                    "name": "Kebaktian Umum II",
+                    "time": "09:30",
+                    "place": "Gedung Utama GKI Salatiga",
+                    "representative": "Majelis Jemaat"
+                },
+                {
+                    "name": "Kebaktian Umum III",
+                    "time": "16:30",
                     "place": "Gedung Utama GKI Salatiga",
                     "representative": "Majelis Jemaat"
                 }
