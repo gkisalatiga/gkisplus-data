@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 121,
-        "last-update": 1723505541,
+        "update-count": 122,
+        "last-update": 1723505789,
         "last-updated-item": "agenda",
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
@@ -556,6 +556,12 @@
                     "time": "20:00",
                     "place": "Ruang Kana",
                     "representative": "Komisi Remaja"
+                },
+                {
+                    "name": "Persiapan Mengajar Guru Sekolah Minggu",
+                    "time": "14:00",
+                    "place": "Ruang Kana",
+                    "representative": "Komisi Anak"
                 }
             ],
             "sun": [
