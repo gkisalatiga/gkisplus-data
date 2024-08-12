@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 108,
-        "last-update": 1723460607,
+        "update-count": 109,
+        "last-update": 1723460897,
         "last-updated-item": "unspecified",
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
@@ -571,6 +571,10 @@
             {
                 "title": "Pendaftaran Pelatihan KML GKI Salatiga",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSedpmDo_7jJoRV_-uumteou7DfDrBb1QwHzbX_nSMqgqmdPdg/viewform"
+            },
+            {
+                "title": "Permohonan Baptis Dewasa",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSeyRVzeZPFBFqveErKk2GVGNpRrAzjka0AJBD0jS_wLpL6plA/viewform"
             },
             {
                 "title": "Permohonan SIDI",
