@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 114,
-        "last-update": 1723475065,
-        "last-updated-item": "ykb",
+        "update-count": 115,
+        "last-update": 1723482277,
+        "last-updated-item": "offertory",
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
@@ -619,14 +619,20 @@
             {
                 "bank-name": "Bank Central Asia",
                 "bank-abbr": "BCA",
-                "bank-number": "088.12.34.567",
+                "bank-number": "088.12.345.67",
                 "account-holder": "GKI Salatiga"
             },
             {
                 "bank-name": "CIMB Niaga",
                 "bank-abbr": "CIMB",
-                "bank-number": "012.34.5678.9",
+                "bank-number": "012.34.567.89",
                 "account-holder": "Tan Ik Hay"
+            },
+            {
+                "bank-name": "Bank Mandiri",
+                "bank-abbr": "MANDIRI",
+                "bank-number": "643.15.624.3651",
+                "account-holder": "GKI Salatiga Komisi Anak"
             }
         ],
         "carousel": {
