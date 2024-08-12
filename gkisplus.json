@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 109,
-        "last-update": 1723460897,
-        "last-updated-item": "unspecified",
+        "update-count": 112,
+        "last-update": 1723461212,
+        "last-updated-item": "forms",
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
@@ -579,6 +579,10 @@
             {
                 "title": "Permohonan SIDI",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSciV_PHVbfYaZ_ejDM-5zvqpj0Zv0lYr_x_b9BzMR0jITRAhw/viewform"
+            },
+            {
+                "title": "Formulir Pendaftaran Katekisasi",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSejRemMDGCd5SgGPIgpNLWfRSp4sorSf7UR2EA7tEsXc8XsTQ/viewform"
             },
             {
                 "title": "Pembinaan Pranikah",
