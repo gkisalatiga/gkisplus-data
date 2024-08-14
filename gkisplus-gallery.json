@@ -1,0 +1,102 @@
+{
+    "meta": {
+        "update-count": 0,
+        "last-update": 1723621305,
+        "last-actor": "SIMON_PETRUS",
+        "schema-version": "0.1.0"
+    },
+    "gallery": {
+        "2023": [
+            {
+                "title": "SAL Komisi Anak 2024",
+                "folder_id": "1JAKfhzmKQa6bDZAU1LFPtTIyucZxfriq",
+                "story": "Lorem ipsum dolor sit amet.",
+                "photos": [
+                    {
+                        "id": "1l2VKE9tDWoVe40JYEJXDF-7yDWrRHCIu",
+                        "name": "SAL - 9 JUN-2.jpg",
+                        "date": "2024-06-10"
+                    },
+                    {
+                        "id": "1lhpKNZKv463NLNUPSVRc_MlRnU2D60n9",
+                        "name": "SAL - 9 JUN-3.jpg",
+                        "date": "2024-06-10"
+                    },
+                    {
+                        "id": "1xWtNTS5So89P5D4yJ37oxTdbdbcavCHx",
+                        "name": "SAL - 9 JUN-6.jpg",
+                        "date": "2024-06-10"
+                    }
+                ]
+            },
+            {
+                "title": "SAL Komisi Anak 2024 (2)",
+                "folder_id": "1JAKfhzmKQa6bDZAU1LFPtTIyucZxfriq",
+                "story": "Lorem ipsum dolor sit amet.",
+                "photos": [
+                    {
+                        "id": "1l2VKE9tDWoVe40JYEJXDF-7yDWrRHCIu",
+                        "name": "SAL - 9 JUN-2.jpg",
+                        "date": "2024-06-10"
+                    },
+                    {
+                        "id": "1lhpKNZKv463NLNUPSVRc_MlRnU2D60n9",
+                        "name": "SAL - 9 JUN-3.jpg",
+                        "date": "2024-06-10"
+                    },
+                    {
+                        "id": "1xWtNTS5So89P5D4yJ37oxTdbdbcavCHx",
+                        "name": "SAL - 9 JUN-6.jpg",
+                        "date": "2024-06-10"
+                    }
+                ]
+            }
+        ],
+        "2024": [
+            {
+                "title": "SAL Komisi Anak 2024",
+                "folder_id": "1JAKfhzmKQa6bDZAU1LFPtTIyucZxfriq",
+                "story": "Lorem ipsum dolor sit amet.",
+                "photos": [
+                    {
+                        "id": "1l2VKE9tDWoVe40JYEJXDF-7yDWrRHCIu",
+                        "name": "SAL - 9 JUN-2.jpg",
+                        "date": "2024-06-10"
+                    },
+                    {
+                        "id": "1lhpKNZKv463NLNUPSVRc_MlRnU2D60n9",
+                        "name": "SAL - 9 JUN-3.jpg",
+                        "date": "2024-06-10"
+                    },
+                    {
+                        "id": "1xWtNTS5So89P5D4yJ37oxTdbdbcavCHx",
+                        "name": "SAL - 9 JUN-6.jpg",
+                        "date": "2024-06-10"
+                    }
+                ]
+            },
+            {
+                "title": "SAL Komisi Anak 2024 (2)",
+                "folder_id": "1JAKfhzmKQa6bDZAU1LFPtTIyucZxfriq",
+                "story": "Lorem ipsum dolor sit amet.",
+                "photos": [
+                    {
+                        "id": "1l2VKE9tDWoVe40JYEJXDF-7yDWrRHCIu",
+                        "name": "SAL - 9 JUN-2.jpg",
+                        "date": "2024-06-10"
+                    },
+                    {
+                        "id": "1lhpKNZKv463NLNUPSVRc_MlRnU2D60n9",
+                        "name": "SAL - 9 JUN-3.jpg",
+                        "date": "2024-06-10"
+                    },
+                    {
+                        "id": "1xWtNTS5So89P5D4yJ37oxTdbdbcavCHx",
+                        "name": "SAL - 9 JUN-6.jpg",
+                        "date": "2024-06-10"
+                    }
+                ]
+            }
+        ]
+    }
+}
