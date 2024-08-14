@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 134,
-        "last-update": 1723616319,
+        "update-count": 135,
+        "last-update": 1723617347,
         "last-updated-item": "carousel",
-        "last-actor": "GITHUB_ACTIONS",
+        "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
     "data": {
@@ -680,6 +680,14 @@
                 "type": "article",
                 "date-created": "2024-07-31",
                 "article-url": "https://alkitab.mobi/renungan/sh/"
+            },
+            "1723617345666460561": {
+                "banner": "banner_1723617345666897661.png",
+                "title": "Contoh 2",
+                "type": "poster",
+                "date-created": "2024-08-14",
+                "poster-image": "poster_1723617345670718616.png",
+                "poster-caption": "Lorem Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up"
             }
         },
         "helper-title": {
