@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 125,
-        "last-update": 1723612488,
+        "update-count": 126,
+        "last-update": 1723614243,
         "last-updated-item": "carousel",
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
@@ -654,14 +654,6 @@
             }
         ],
         "carousel": {
-            "00_komisi_anak": {
-                "banner": "banner.jpeg",
-                "title": "Bergabunglah dengan Komisi Anak",
-                "type": "poster",
-                "date-created": "2024-07-12",
-                "poster-image": "poster.jpg",
-                "poster-caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu venenatis metus, eu dictum nisl. Aenean vestibulum enim orci, eget pellentesque nunc dignissim eu. Cras quam lorem, condimentum porta quam nec, pulvinar pellentesque ante. Maecenas cursus orci sed euismod commodo. Vestibulum erat urna, condimentum nec tortor ut, lobortis scelerisque diam. Morbi cursus aliquet ligula, vitae vestibulum ligula tempor sed. Donec congue, felis et egestas fringilla, risus libero interdum ante, sed fringilla arcu nulla eget ante. Sed ac ornare lectus."
-            },
             "10_contoh_video_youtube": {
                 "banner": "banner.jpg",
                 "title": "Hanya Contoh Saja Bor!",
@@ -680,14 +672,6 @@
                 "type": "article",
                 "date-created": "2024-07-31",
                 "article-url": "https://alkitab.mobi/renungan/sh/"
-            },
-            "1723612484656555025": {
-                "banner": "banner_1723612484657046619.png",
-                "title": "Contoh Bor",
-                "type": "poster",
-                "date-created": "2024-08-14",
-                "poster-image": "poster_1723612484662494250.png",
-                "poster-caption": "ABC DEL"
             }
         },
         "helper-title": {
