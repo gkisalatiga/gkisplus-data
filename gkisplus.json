@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 129,
-        "last-update": 1723614510,
+        "update-count": 130,
+        "last-update": 1723615352,
         "last-updated-item": "carousel",
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
@@ -665,13 +665,6 @@
                 "yt-link": "https://www.youtube.com/watch?v=rGBAbI7HYKE",
                 "yt-thumbnail": "https://i.ytimg.com/vi/rGBAbI7HYKE/hqdefault.jpg",
                 "yt-is_live": 0
-            },
-            "20_artikel_renungan": {
-                "banner": "banner.png",
-                "title": "Renungan Hari Ini",
-                "type": "article",
-                "date-created": "2024-07-31",
-                "article-url": "https://alkitab.mobi/renungan/sh/"
             }
         },
         "helper-title": {
