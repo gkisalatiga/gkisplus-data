@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 124,
-        "last-update": 1723580208,
-        "last-updated-item": "yt-video/saren",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 125,
+        "last-update": 1723612488,
+        "last-updated-item": "carousel",
+        "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
     "data": {
@@ -680,6 +680,14 @@
                 "type": "article",
                 "date-created": "2024-07-31",
                 "article-url": "https://alkitab.mobi/renungan/sh/"
+            },
+            "1723612484656555025": {
+                "banner": "banner_1723612484657046619.png",
+                "title": "Contoh Bor",
+                "type": "poster",
+                "date-created": "2024-08-14",
+                "poster-image": "poster_1723612484662494250.png",
+                "poster-caption": "ABC DEL"
             }
         },
         "helper-title": {
