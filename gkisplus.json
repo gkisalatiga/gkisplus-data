@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 137,
-        "last-update": 1723618049,
+        "update-count": 138,
+        "last-update": 1723618198,
         "last-updated-item": "carousel",
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
@@ -695,6 +695,18 @@
                 "type": "article",
                 "date-created": "2024-08-14",
                 "article-url": "https://www.perplexity.ai/search/android-cannot-extract-folder-l3HH_40DSEWYYoU9RB7lMw"
+            },
+            "item_1723618195484752058": {
+                "banner": "banner_1723618195485864800.jpg",
+                "title": "abc",
+                "type": "yt",
+                "date-created": "2024-08-14",
+                "yt-title": "PESPARANA \"Harmoni Dalam Keberagaman\"  || GKI Klasis Magelang 2024",
+                "yt-date": "2024-03-11",
+                "yt-desc": "PESPARANA (Pesta Paduan Suara Gerejawi Anak) 2024\nTema : \"Harmoni Dalam Keberagaman\"\nGKI Klasis Magelang\nBalairung UKSW - Senin, 11 Maret 2024\nPukul 10.30 WIB\nDilayani oleh Pdt. Raharjo Widhipangreksa (GKI Tegalrejo, Salatiga)",
+                "yt-link": "https://www.youtube.com/watch?v=-iNvJ9i1_nY&pp=ygUMZ2tpIHNhbGF0aWdh",
+                "yt-thumbnail": "https://i.ytimg.com/vi/-iNvJ9i1_nY/maxresdefault.jpg",
+                "yt-is_live": 0
             }
         },
         "helper-title": {
