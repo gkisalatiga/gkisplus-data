@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 130,
-        "last-update": 1723615352,
+        "update-count": 131,
+        "last-update": 1723615404,
         "last-updated-item": "carousel",
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
@@ -654,17 +654,12 @@
             }
         ],
         "carousel": {
-            "10_contoh_video_youtube": {
-                "banner": "banner.jpg",
-                "title": "Hanya Contoh Saja Bor!",
-                "type": "yt",
-                "date-created": "2024-07-22",
-                "yt-title": "Ibadah Minggu 28 Juli 2024 - Gereja Kristen Indonesia (GKI) Cinere",
-                "yt-date": "2024-07-28",
-                "yt-desc": "Tema Ibadah : \"Solidaritas yang Menular\"\nBacaan Alkitab : 2 Raja-Raja 4:42-44; Mazmur 145:10-18; Efesus 3:14-21; Yohanes 6:1-21\nDilayani oleh : Pdt. Kristian Dewantara (GKI Sarua Indah)\nLiturgi dapat di unduh : https://drive.google.com/file/d/1Hp8oczoYFVdJMOGGP19lAw16DclVFYwP/view?usp=sharing",
-                "yt-link": "https://www.youtube.com/watch?v=rGBAbI7HYKE",
-                "yt-thumbnail": "https://i.ytimg.com/vi/rGBAbI7HYKE/hqdefault.jpg",
-                "yt-is_live": 0
+            "1723615399284044063": {
+                "banner": "banner_1723615399284218566.png",
+                "title": "Arch",
+                "type": "article",
+                "date-created": "2024-08-14",
+                "article-url": "https://wiki.archlinux.org"
             }
         },
         "helper-title": {
