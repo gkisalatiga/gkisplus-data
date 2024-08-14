@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 138,
-        "last-update": 1723618198,
+        "update-count": 139,
+        "last-update": 1723620550,
         "last-updated-item": "carousel",
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
@@ -706,6 +706,18 @@
                 "yt-desc": "PESPARANA (Pesta Paduan Suara Gerejawi Anak) 2024\nTema : \"Harmoni Dalam Keberagaman\"\nGKI Klasis Magelang\nBalairung UKSW - Senin, 11 Maret 2024\nPukul 10.30 WIB\nDilayani oleh Pdt. Raharjo Widhipangreksa (GKI Tegalrejo, Salatiga)",
                 "yt-link": "https://www.youtube.com/watch?v=-iNvJ9i1_nY&pp=ygUMZ2tpIHNhbGF0aWdh",
                 "yt-thumbnail": "https://i.ytimg.com/vi/-iNvJ9i1_nY/maxresdefault.jpg",
+                "yt-is_live": 0
+            },
+            "item_1723620544136278628": {
+                "banner": "banner_1723620544136585718.jpg",
+                "title": "Jadi Mitra Allah",
+                "type": "yt",
+                "date-created": "2024-08-14",
+                "yt-title": "\"Menjadi Mitra Allah di Dunia\" | Lagu Tema HUT GKI Salatiga ke-80 | cipt. Siswanto Tri Utomo",
+                "yt-date": "2023-02-03",
+                "yt-desc": "\"Menjadi Mitra Allah di Dunia\" \n(Lagu Tema HUT GKI Salatiga ke-80)\ncipt. Siswanto Tri Utomo\narr. Siswanto Tri Utomo\n\nconductor: Eriyani Tenga Lunga\nTim Musik Chronicles \nExtra Miles Chamber Music\nSinger: Reina, Maldin, Dinda, Jeffrey, Andreas",
+                "yt-link": "https://www.youtube.com/watch?v=upuEZcYTziE&pp=ygUMZ2tpIHNhbGF0aWdh",
+                "yt-thumbnail": "https://i.ytimg.com/vi/upuEZcYTziE/maxresdefault.jpg",
                 "yt-is_live": 0
             }
         },
