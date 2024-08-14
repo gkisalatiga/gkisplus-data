@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 141,
-        "last-update": 1723621305,
-        "last-updated-item": "carousel",
-        "last-actor": "SIMON_PETRUS",
+        "update-count": 142,
+        "last-update": 1723644921,
+        "last-updated-item": "yt-video/saren",
+        "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
     },
     "data": {
@@ -18,6 +18,22 @@
         },
         "yt-video": {
             "saren": [
+                {
+                    "title": "SaRen Pagi | 16 Agu 2024",
+                    "date": "2024-08-14",
+                    "desc": "Dibawakan oleh Ibu Raema Andreyana",
+                    "link": "https://www.youtube.com/watch?v=KuCk3Klr274",
+                    "thumbnail": "https://i4.ytimg.com/vi/KuCk3Klr274/hqdefault.jpg",
+                    "is_live": 0
+                },
+                {
+                    "title": "SaRen Pagi | 15 Agu 2024 | Merdeka dari Menggerutu",
+                    "date": "2024-08-14",
+                    "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
+                    "link": "https://www.youtube.com/watch?v=9SrpSfk4xt4",
+                    "thumbnail": "https://i2.ytimg.com/vi/9SrpSfk4xt4/hqdefault.jpg",
+                    "is_live": 0
+                },
                 {
                     "title": "SaRen Pagi | 14 Agu 2024",
                     "date": "2024-08-13",
@@ -88,22 +104,6 @@
                     "desc": "Dubawakan oleh Pdt. Em. Yahya Wijaya",
                     "link": "https://www.youtube.com/watch?v=ORcSiB_8pjc",
                     "thumbnail": "https://i4.ytimg.com/vi/ORcSiB_8pjc/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 3 Agustus 2024",
-                    "date": "2024-08-02",
-                    "desc": "Dibawakan oleh Pnt. July Silooi",
-                    "link": "https://www.youtube.com/watch?v=085ybFb0WWs",
-                    "thumbnail": "https://i1.ytimg.com/vi/085ybFb0WWs/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 2 Agustus 2024 | Makna Merdeka",
-                    "date": "2024-08-01",
-                    "desc": "Dibawakan oleh Ibu Natalis Sidanta",
-                    "link": "https://www.youtube.com/watch?v=FlKptRRAng0",
-                    "thumbnail": "https://i3.ytimg.com/vi/FlKptRRAng0/hqdefault.jpg",
                     "is_live": 0
                 }
             ],
