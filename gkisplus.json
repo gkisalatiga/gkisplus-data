@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 132,
-        "last-update": 1723615695,
+        "update-count": 133,
+        "last-update": 1723616040,
         "last-updated-item": "carousel",
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
@@ -654,24 +654,13 @@
             }
         ],
         "carousel": {
-            "1723615399284044063": {
-                "banner": "banner_1723615399284218566.png",
-                "title": "Arch",
-                "type": "article",
+            "1723616032122718504": {
+                "banner": "banner_1723616032126964936.png",
+                "title": "Contoh",
+                "type": "poster",
                 "date-created": "2024-08-14",
-                "article-url": "https://wiki.archlinux.org"
-            },
-            "1723615690944219075": {
-                "banner": "banner_1723615690944900011.jpg",
-                "title": "Contoh Video",
-                "type": "yt",
-                "date-created": "2024-08-14",
-                "yt-title": "PERSEKUTUAN  USIA LANJUT GKI SALATIGA 15 Agustus 2024 | “Jangan Jadi Rumah KosongPengembangan Diri”",
-                "yt-date": "2024-08-09",
-                "yt-desc": "*PERSEKUTUAN USIA LANJUT GKI SALATIGA BULAN JULI AGUSTUS 2024\n15 Agustus 2024 | Pukul 16.00 WIB\n\nTema : “Pengembangan Diri”\nPelayan Firman : Sdri. Phoebe Bernadette\nMJP Ibadah : Pnt. Yuliani Nugroho\nPemusik : Ibu Retty │PNK : Ibu Hana│Tata Suara : Bp. Pujianto\nPPT :   │OBS : Sdr. Joshua A. Gracia │ Kamerawan : Bp. Iwandi\n\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
-                "yt-link": "https://www.youtube.com/watch?v=zlWFnr_MLMo&pp=ygUMZ2tpIHNhbGF0aWdh",
-                "yt-thumbnail": "https://i.ytimg.com/vi/zlWFnr_MLMo/default_live.jpg",
-                "yt-is_live": 0
+                "poster-image": "poster_1723616032128067922.png",
+                "poster-caption": "ABC"
             }
         },
         "helper-title": {
