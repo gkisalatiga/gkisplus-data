@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 139,
-        "last-update": 1723620550,
-        "last-updated-item": "carousel",
+        "update-count": 140,
+        "last-update": 1723620896,
+        "last-updated-item": "forms",
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
@@ -587,6 +587,10 @@
         },
         "forms": [
             {
+                "title": "Update Data Anggota Jemaat dan Simpatisan GKI Salatiga",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSdhMVZ-AxgvaVX-VBPo5_XdL-0qUd4erO_rh5HFLM9u0pyTFA/viewform"
+            },
+            {
                 "title": "Pendaftaran Pelatihan KML GKI Salatiga",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSedpmDo_7jJoRV_-uumteou7DfDrBb1QwHzbX_nSMqgqmdPdg/viewform"
             },
@@ -605,10 +609,6 @@
             {
                 "title": "Pembinaan Pranikah",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSchkEfQUk-EG6Aq7wEUY27AWRTosX4Yneg2uaZepsvTsEmjqg/viewform"
-            },
-            {
-                "title": "Update Data Anggota Jemaat dan Simpatisan GKI Salatiga",
-                "url": "https://docs.google.com/forms/d/e/1FAIpQLSdhMVZ-AxgvaVX-VBPo5_XdL-0qUd4erO_rh5HFLM9u0pyTFA/viewform"
             }
         ],
         "ykb": [
