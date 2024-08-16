@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 145,
-        "last-update": 1723753026,
+        "update-count": 146,
+        "last-update": 1723817678,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
@@ -19,19 +19,19 @@
         "yt-video": {
             "saren": [
                 {
+                    "title": "SaRen Pagi | 16 Agu 2024",
+                    "date": "2024-08-15",
+                    "desc": "Dibawakan oleh Ibu Raema Andreyana",
+                    "link": "https://www.youtube.com/watch?v=KuCk3Klr274",
+                    "thumbnail": "https://i4.ytimg.com/vi/KuCk3Klr274/hqdefault.jpg",
+                    "is_live": 0
+                },
+                {
                     "title": "SaRen Pagi | 15 Agu 2024 | Merdeka dari Menggerutu",
                     "date": "2024-08-14",
                     "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
                     "link": "https://www.youtube.com/watch?v=9SrpSfk4xt4",
                     "thumbnail": "https://i2.ytimg.com/vi/9SrpSfk4xt4/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 16 Agu 2024",
-                    "date": "2024-08-14",
-                    "desc": "Dibawakan oleh Ibu Raema Andreyana",
-                    "link": "https://www.youtube.com/watch?v=KuCk3Klr274",
-                    "thumbnail": "https://i4.ytimg.com/vi/KuCk3Klr274/hqdefault.jpg",
                     "is_live": 0
                 },
                 {
