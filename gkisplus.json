@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 149,
-        "last-update": 1723882468,
-        "last-updated-item": "pdf/liturgi",
+        "update-count": 150,
+        "last-update": 1723882650,
+        "last-updated-item": "pdf/wj",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
     },
@@ -347,6 +347,13 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 18 Agustus 2024",
+                    "date": "2024-08-17",
+                    "link": "https://drive.google.com/file/d/1ryMrvNQLIxGsrzF2Q30uYqwt0U1AyuaT/preview",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-18-agustus-2024/",
+                    "thumbnail": ""
+                },
+                {
                     "title": "Warta Jemaat 11 Agustus 2024",
                     "date": "2024-08-10",
                     "link": "https://drive.google.com/file/d/1hIpsXG-LQIaJh_XHoPQGd7KmgVSvwFPZ/preview",
@@ -407,13 +414,6 @@
                     "date": "2024-06-15",
                     "link": "https://drive.google.com/file/d/1JN05CfH0rs4fg9CF712ktyr5erEYfdLb/preview",
                     "post-page": "https://gkisalatiga.org/warta-jemaat-16-juni-2024/",
-                    "thumbnail": ""
-                },
-                {
-                    "title": "Warta Jemaat 9 Juni 2024",
-                    "date": "2024-06-08",
-                    "link": "https://drive.google.com/file/d/1_Kk7wONLE-ZlOglSr_lHMvCk5_XTK9-u/preview",
-                    "post-page": "https://gkisalatiga.org/warta-jemaat-9-juni-2024/",
                     "thumbnail": ""
                 }
             ],
