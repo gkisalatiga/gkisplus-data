@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 150,
-        "last-update": 1723882650,
-        "last-updated-item": "pdf/wj",
+        "update-count": 151,
+        "last-update": 1723892545,
+        "last-updated-item": "yt-video/umum",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
     },
@@ -108,6 +108,14 @@
                 }
             ],
             "umum": [
+                {
+                    "title": "Ibadah Minggu GKI Salatiga | 18 Agustus 2024 | Dimerdekakan Untuk Bertanggung Jawab",
+                    "date": "2024-08-17",
+                    "desc": "*KEBAKTIAN MINGGU GKI Salatiga 18 Agustus 2024; Pukul 07:00 WIB\n*KEBAKTIAN INTERGENERATIONAL*\n\nTema: Dimerdekakan Untuk Bertanggung Jawab\n\nBerita Anugerah: Kisah Para Rasul 10:43\nBacaan I: Ayub 13:1-19\nTanggapan: Mazmur 8\nBacaan Injil: Yohanes 4:7-26\nPersembahan:  1 Tawarikh 29:13-14\nNyanyian: Dari Sabang Sampai Merauke & Bagimu Negeri; PKJ 176:1,2,4; Bersukacitalah Selalu;       KJ 337; Indonesia Raya\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Paul A.W. Gulo\nKredo dan Warta : Pnt. Priyo Hari Adi\nSambut Tamu:  Pnt. Sri Yuniwati R\n\nPemandu Liturgi: Evelina Purnama\nLektor 1: Rusmiyati\nLektor 2: Catur Adi Tawelino\n\nPemusik:  Ecclesiastes\nPNK / Pemazmur: Evangs / Aurell\n\nTim Multimedia: Samuel A.B; Hermawan; Evan; Wayan; Puguh\n\nUsher dan Kolektan: SD Kristen 03\n\nFlorist : Tim Mimosa\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
+                    "link": "https://www.youtube.com/watch?v=lV0QI_NB8ac",
+                    "thumbnail": "https://i.ytimg.com/vi/lV0QI_NB8ac/hqdefault_live.jpg",
+                    "is_live": 1
+                },
                 {
                     "title": "Ibadah Minggu GKI Salatiga | 11 Agustus 2024 | Percayalah Kepada Allah",
                     "date": "2024-08-10",
@@ -258,14 +266,6 @@
                     "desc": "Ibadah Minggu Pentakosta GKI SALATIGA | 19 Mei 2024 \nJam 09:30 WIB - \nProsesi masuk dengan Tarian etnis Sumba\nProsesi keluar dengan Tarian etnis Batak\n\nTema: Roh Kudus Memperlengkapi dan Menuntun Dalam Kebenaran\nBerita Anugerah : 1 Petrus 2:24-25\nBacaan I : Kisah Para Rasul 2:1-21\nTanggapan: Mazmur 104:24-35\nBacaan II : Roma 8:22-27\nBacaan Injil: Yohanes 15:26-27, 16:4-15\nPersembahan : Roma 11:36\nNyanyian : KJ 240a:1&3; Roh Kudus Dib'rikan Bagiku; Bila Roh Allah Ada di Dalamku & O Betapa Indahnya (Medley); KJ 280; NKB 104:1, 3 &4; NKB 100:1-3\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Ervien Dian W.\nKredo dan Warta: Pnt. Gita Hastuti\nSambut Tamu:  Pnt. Sri Yuniwati R. & Pnt. Nadia Sitaresmi\n\nPemandu Liturgi: Yemima Kristin\nLektor 1: Roosye Rice Irene S.\nLektor 2: Edho Ardi Wicaksono\nPemusik: Song of songs\n\nPNK/Pemazmur: Natalis/ Yohana T\n\nTim Multimedia: Samuel Arief B.S. Daniel Eko, Sabatdini, Aldo, Joshua, Erio, Pnt. Yosua C.H.K, Jeffrey\n\nUsher dan Kolektan: Panitia MRP:Warjendro;Alia Khatarina,Yuli,William\nFlorist: Tim Lily\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
                     "link": "https://www.youtube.com/watch?v=iZo3F42VDqc",
                     "thumbnail": "https://i.ytimg.com/vi/iZo3F42VDqc/hqdefault.jpg",
-                    "is_live": 1
-                },
-                {
-                    "title": "Ibadah Minggu Pentakosta I GKI SALATIGA | 19 Mei 2024 | 07.00 WIB",
-                    "date": "2024-05-18",
-                    "desc": "Ibadah Minggu Pentakosta GKI SALATIGA | 19 Mei 2024 \nJam 07:00 WIB - \nProsesi masuk dengan Tarian etnis Jawa \nProsesi keluar dengan Tarian etnis Alor\n\nTema: Roh Kudus Memperlengkapi dan Menuntun Dalam Kebenaran\nBerita Anugerah : 1 Petrus 2:24-25\nBacaan I : Kisah Para Rasul 2:1-21\nTanggapan: Mazmur 104:24-35\nBacaan II : Roma 8:22-27\nBacaan Injil: Yohanes 15:26-27, 16:4-15\nPersembahan : Roma 11:36\nNyanyian : KJ 240a:1&3; Roh Kudus Dib'rikan Bagiku; Bila Roh Allah Ada di Dalamku & O Betapa Indahnya (Medley); KJ 280; NKB 104:1, 3 &4; NKB 100:1-3\n\nPelayan Firman: Pdt. Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Johnson U. Radda\nKredo dan Warta: Pnt. Paul A.W. Gulo\nSambut Tamu:  Pnt. Adita Sutresno & Pnt. Catur Winarno\n\nPemandu Liturgi: Phoebe Bernadette\nLektor 1: Gabrilia Dewi Narwastuti\nLektor 2: Samarthya Lykamanuella\nPemusik: Song of songs\n\nPNK/Pemazmur: Natalis/ Yohana T\n\nTim Multimedia: Samuel Arief B.S. Joshua A.G, Emilia, David, Okta, Erio, Pnt. Yosua C.H.K, Jeffrey\n\nUsher dan Kolektan: Panitia MRP:Warjendro;Alia Khatarina,Yuli,William\nFlorist: Tim Lily\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
-                    "link": "https://www.youtube.com/watch?v=YquHwKujRjE",
-                    "thumbnail": "https://i.ytimg.com/vi/YquHwKujRjE/hqdefault.jpg",
                     "is_live": 1
                 }
             ],
