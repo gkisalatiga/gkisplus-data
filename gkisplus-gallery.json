@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 1,
-        "last-update": 1723681570,
+        "update-count": 2,
+        "last-update": 1723876641,
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
@@ -976,45 +976,512 @@
         ],
         "2024": [
             {
-                "title": "Apalah!",
-                "folder_id": "1JAKfhzmKQa6bDZAU1LFPtTIyucZxfriq",
-                "last_update": "2024-05-12",
-                "story": "Lorem ipsum dolor sit amet.",
+                "folder_id": "1V6pI-1bWRvkewdM3PlDmZFBX45SNbtqa",
+                "last_update": "2024-08-17",
                 "photos": [
                     {
-                        "id": "1l2VKE9tDWoVe40JYEJXDF-7yDWrRHCIu",
-                        "name": "SAL - 9 JUN-2.jpg",
-                        "date": "2024-06-10"
+                        "date": "2024-04-07",
+                        "id": "1L_xYafOQV4I_1C5FDG5xXOGltCjFrAAF",
+                        "name": "1712500562340.jpg"
                     },
                     {
-                        "id": "1xWtNTS5So89P5D4yJ37oxTdbdbcavCHx",
-                        "name": "SAL - 9 JUN-6.jpg",
-                        "date": "2024-06-10"
+                        "date": "2024-04-07",
+                        "id": "1L_L78SovdMHQ9d9T858KOdjNkqstnIsN",
+                        "name": "1712500562324.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1LY_NWrOwFd36JwlkMvxXIckhlPMN8GoS",
+                        "name": "1712500562308.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1LHhgz9eAaQSlPUidbrwQ0iyPT294esKf",
+                        "name": "1712500562292.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1LGOw43xoNwSODfgNQwGVR4VK189Jziq2",
+                        "name": "1712500562276.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1LG9aTLwkNRvNbMtemZ6Ld3dh-Uws-2s9",
+                        "name": "1712500562260.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1LBiNw4P7DuB_9LXSiYak2Bg-VAWG2GEF",
+                        "name": "1712500562244.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1LAoq6s5RgJa24DfOPN3lYjBeXlTvEik6",
+                        "name": "1712500562229.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1L8rikYA7xLdJVsh4e17bCXN5E3T0-Bqr",
+                        "name": "1712500562213.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1L3xME-twV4MS1qiq9xY-XhuI1frEPcOM",
+                        "name": "1712500562198.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1L2kzqqNWyNPinc4XZr_VgFCBzzS5gkIN",
+                        "name": "1712500562183.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1L-mUrHgPKWu_odo2wJwKombrOTuAAFR9",
+                        "name": "1712500562169.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1KxbKzFl5WKbf259z_3P-b7H4uympFj76",
+                        "name": "1712500562155.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1KqEsZF2Va2sn0nlnLVZvXfWT3L5l5DkE",
+                        "name": "1712500562141.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1KmetfzcIXq-_m1a5YKmQ38NCVi2tQlW6",
+                        "name": "1712500562125.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1KmcBke1k7MiMnKNbMj-GdDwUl2PhCxit",
+                        "name": "1712500562108.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1Kd7JgfIx4ahFqZ8HzCTNjV56UrLOrHSo",
+                        "name": "1712500562093.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1KF8Hhkp-tOb9MOOKJl30VTZWuzOjHL2q",
+                        "name": "1712500562079.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1KCDXEA1I42jncAodiJz7hsjIC-EExKUF",
+                        "name": "1712500562065.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1K0PGvnI7_GM6sNC9wDLv05ZlVsk9ov7Y",
+                        "name": "1712500562051.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1K0P9nz117amHiPwCW9cIByTc9f-2kEzz",
+                        "name": "1712500562037.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1K0FDGvnw10I9uT_G3OHJR1jKPgpnmGbC",
+                        "name": "1712500562023.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1K--AQ6C68JNRgqY_ns9b09dPSAFvbZ2A",
+                        "name": "1712500562008.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1JzuYgamK4r6-hI43IjRk5Wb4DSYNJrpa",
+                        "name": "1712500561994.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1Jwt2fDKLS1MwcDEeURnYhDXskfUoPt-e",
+                        "name": "1712500561980.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1Jugj251OH22P8k3WciaXx7tBQa4Dv-vx",
+                        "name": "1712500561964.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1Jr7A6cXP_bBPXz2h_hA-QetVfJ7vy2LY",
+                        "name": "1712500561948.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1JkB5g2Muy974SAvEQdyBjZPFpBneSDN2",
+                        "name": "1712500561931.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1Jiw9fQll9MRH0ZW4IIdJ2oC9Jem2v8Km",
+                        "name": "1712500561915.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1Jdm_W41GBfy8vyy3ME3r1MR_T5XILhPu",
+                        "name": "1712500561901.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1Jc9VGx0zE2d11MbQpIHSmhpHwsg7u85w",
+                        "name": "1712500561887.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1JXBFDjSI1Xt-GT36pC8qiJlNYSfYshja",
+                        "name": "1712500561873.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1JX8Fw8Vwy1lw7T3rYhw2s7jaZcQSHRBX",
+                        "name": "1712500561858.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1JUsmyD1yeqw0mCm3lQPyPYNwePBxbq_Q",
+                        "name": "1712500561844.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1JQq9uovoVWADZUf9TwTpWvkAXIc7WeME",
+                        "name": "1712500561830.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1JONAGjGObGno25yjvHXV9Y8KayG3eZv3",
+                        "name": "1712500561815.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1JMlf2M8TvzxdDr2NuoTYp4kr1imDalo1",
+                        "name": "1712500438974.jpg"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1orCcqH5v-VX0FH3gPecnL1CIQ8hPsBJz",
+                        "name": "IMG_4604.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1Rwjg3Pk2nxeO_Y7h3rXwleeWcirYDDtD",
+                        "name": "YSA01579.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1BiBOYAJv9YtiD9KeMXY51kWT-SpMYvxn",
+                        "name": "IMG_4603.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "197pi1rncF7SScB6jFGPdFgAou7vNlapn",
+                        "name": "YSA01564.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "10wDNcxjHU5GsadZk_Y5D91vErcj4vlHr",
+                        "name": "YSA01552.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1bvKFY4Dt4vEM_KtgY8NPVO20Kev3ixVh",
+                        "name": "YSA01548.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1RHQhCYL8xWAyfZA-15yLUmhavALlCiFz",
+                        "name": "YSA01547.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1LmbKR5j-KQRKC_DAyfXiPZgqHCpq6lRD",
+                        "name": "IMG_4601.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1fT6Va5rHfbutOWxWqW7SWCPT4i_aNlkk",
+                        "name": "IMG_4600.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1T9UkMWPnTrdB4cl_gh0QElyy2e6EGZKj",
+                        "name": "IMG_4599.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1FbsbSktn8oXj7o3vfgxBf3am3Zbr1ZDj",
+                        "name": "IMG_4598.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "10PBkhs6bvK0zKpTJcgh94r5yzSL9TC3u",
+                        "name": "IMG_4597.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1Wqli_zGHOB8zmnF7gZML01hBUqatrwn2",
+                        "name": "IMG_4595.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1rH-8gTtS9Cq1sQ13ELHVjc33DsFi140k",
+                        "name": "IMG_4596.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1SoZ_FcAXd6JabIVXXIEZkohkBFoueRh2",
+                        "name": "YSA01513.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1_R6ytFU7pYQnbJgAhGU0m6EpVBTv-qPe",
+                        "name": "IMG_4594.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1orgySuJ_qpeYIky8Ry55A6lq2BF0n4ia",
+                        "name": "IMG_4593.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "16-MULHa9eM0Hs1TjDseBliwsp_i0tD-q",
+                        "name": "YSA01501.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "16bU5s2UQz5alD07Enuj_nCPpQ2h2rKSz",
+                        "name": "YSA01483.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "15eIWQ9cZwxbFVaATFYBFtzILPcwUqQbC",
+                        "name": "IMG_4592.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1LloNFtu3awXPBV_R_pZO8L-VrgiPyoM5",
+                        "name": "IMG_4590.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1aIXp_-7CtpJJqorvUCMEAG-i7Tnd3fEG",
+                        "name": "IMG_4591.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1fe1suYUDFmdKltUXiM3zYYSf85BjfNC9",
+                        "name": "YSA01460.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "11BbE5LglgUBWns-6OaSt9BEHwwc6dHiv",
+                        "name": "YSA01455.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1D5NgxABQ3NWLDYWqduEpBQuB2bmWZHg9",
+                        "name": "YSA01453.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1rST3gUmTovxOIx5mxXlvppgpXGhjhJ_3",
+                        "name": "YSA01443.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1E8Gg5k5kjnECL3hNfWI3AUI01FvNxWPb",
+                        "name": "YSA01435.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1fPJ65TzEZU6Wy9sJ6mfOqyl2LjBucD0Q",
+                        "name": "YSA01432.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1AdgZ1IveNovgOJsQp-p2nw6xelA75kYD",
+                        "name": "YSA01416.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1x25Od2vqPxwjJgz526NJJeFt61_X90CV",
+                        "name": "YSA01414.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1ATSCYR--KHg6s6Ir_GRPekw9OfY-vWFd",
+                        "name": "YSA01409.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1rdIwUuJ7KFwEl6fiCOEzX6andRPA57Ap",
+                        "name": "YSA01405.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1uoFKPOk44gVDhPSwWIoU81DcvW1cu2_S",
+                        "name": "YSA01385.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1iAqjuuyVjmPbvA5r2eiqgFlAy-mNTJeD",
+                        "name": "YSA01382.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1fX6mI1EoYP4WcfcXb1BQ7H1Jc8B6DTTJ",
+                        "name": "YSA01368.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1hxKD8dUhHGZxPsWDJWoxUzY_JthuamfA",
+                        "name": "YSA01359.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1aE5xpxowEoMJ8U9vXuuqZXg3x7qkLEic",
+                        "name": "YSA01356.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "19rWRfz7hniGQ57LIcLRzp4pQIaO3oDj5",
+                        "name": "YSA01354.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1vEK07rdMz7SdWczubMU7YjfNVrNw1Rxa",
+                        "name": "YSA01353.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "10m4OWB4E8TLF73gdxHdZqzuhT25Pcyqp",
+                        "name": "YSA01351.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "11qiBPsVIaVElPKSSV8z6NE2D_8yHqIQq",
+                        "name": "YSA01334.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1dB57GkUCY_BUq7oAUmopg8WjIECRT6JP",
+                        "name": "YSA01328.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1GFVfRdwq5FEloyxNp4Q42Il8RMntmGd7",
+                        "name": "YSA01323.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "16nC7eEmLDF_W5pQ9cLWq4rAP20UpF5YA",
+                        "name": "YSA01314.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1OPlfDJosBrys8vp4LlciMVqDb8ykza3u",
+                        "name": "YSA01311.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1tHgvRYQ__TAA9GR8qMuHB8KDIrUDmZvJ",
+                        "name": "YSA01310.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1tQs4nCe4gafapMgSpdf4pVsyw6C7jY_i",
+                        "name": "YSA01307.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1lbM1ije5YcfE-pjtiPiw2XLJULi6s9gW",
+                        "name": "YSA01305.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1TyXtvQCwUPJc_FAznoBHsO9Vss6s7Bw0",
+                        "name": "YSA01298.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1kfEqH08S2nzKQ2AoLEkJkkNsPCS3KaeS",
+                        "name": "IMG_4588.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1vGCOe14_5MuamrG8emm1_4RacusR9xYB",
+                        "name": "IMG_4587.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1Kw6fTChCJaeGvBZq_JCEaUn8VF1TghO6",
+                        "name": "YSA01294.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "15O3AZXI3ucH281M1TOpCVr85JLCOutjO",
+                        "name": "YSA01291.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1yTwotvDyfSN8XkW4vDpsK4q-GNrUkm2q",
+                        "name": "IMG_4586.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1IyoXwM0MzbU4MDtHcUthtmJ6M1x_l_yY",
+                        "name": "YSA01288.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1KnRlpCgYXd2L7-JxU4QfCa_sy0pMZENN",
+                        "name": "IMG_4585.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1jiyG7WbCxm3vqMnlp0BCMLaskA67lhHh",
+                        "name": "IMG_4584.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1B4humc2r2dsrmXarH_NZd8iWrFNQVAQc",
+                        "name": "IMG_4583.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1UpZ4ajkNclbxRP1VQY_BeriWTo4flH3v",
+                        "name": "IMG_4582.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1WWUPHDHLLm9bqkJ5-D5OzUkKTbGZ82U1",
+                        "name": "IMG_4581.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1cApx1cbAdEifQR8KGYI_d4VypeM9GHVZ",
+                        "name": "IMG_4580.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "12V4zKN9FAyyJJ6qawIHbE_CJQhyz0WD6",
+                        "name": "YSA01284.JPG"
+                    },
+                    {
+                        "date": "2024-04-07",
+                        "id": "1O0jhf0C0tQAOocTyugnUYTmk5ZANv_mS",
+                        "name": "IMG_4579.JPG"
                     }
-                ]
-            },
-            {
-                "title": "2024 atau dua ribu dua empat?",
-                "folder_id": "1JAKfhzmKQa6bDZAU1LFPtTIyucZxfriq",
-                "last_update": "2024-09-12",
-                "story": "Lorem ipsum dolor sit amet.",
-                "photos": [
-                    {
-                        "id": "1l2VKE9tDWoVe40JYEJXDF-7yDWrRHCIu",
-                        "name": "SAL - 9 JUN-2.jpg",
-                        "date": "2024-06-10"
-                    },
-                    {
-                        "id": "1lhpKNZKv463NLNUPSVRc_MlRnU2D60n9",
-                        "name": "SAL - 9 JUN-3.jpg",
-                        "date": "2024-06-10"
-                    },
-                    {
-                        "id": "1xWtNTS5So89P5D4yJ37oxTdbdbcavCHx",
-                        "name": "SAL - 9 JUN-6.jpg",
-                        "date": "2024-06-10"
-                    }
-                ]
+                ],
+                "story": "Meriahnya paskah tahun ini diwarnai lomba-lomba seru. Anak-anak tampil ekspresif dan gembira saat mencari telur Paskah dan mengikuti lomba mewarnai. Paskah tahun ini mengajarkan kita bahwa kebahagiaan dapat ditemukan melalui hal-hal sederhana, dan bahwa Allah mengasihi semua orang, termasuk anak-anak kecil.",
+                "title": "Paskah Komisi Anak 2024"
             }
         ],
         "2014": [
