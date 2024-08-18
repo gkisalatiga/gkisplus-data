@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 164,
-        "last-update": 1723935815,
-        "last-updated-item": "yt-video/umum",
+        "update-count": 165,
+        "last-update": 1723990464,
+        "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
     },
@@ -21,7 +21,9 @@
                 {
                     "title": "Sapaan dan Renungan Pagi",
                     "type": "rss",
-                    "rss-title-keywords": ["SaRen Pagi"],
+                    "rss-title-keywords": [
+                        "SaRen Pagi"
+                    ],
                     "content": []
                 },
                 {
@@ -54,6 +56,14 @@
         },
         "yt-video": {
             "saren": [
+                {
+                    "title": "SaRen Pagi | 19  Agu 2024",
+                    "date": "2024-08-18",
+                    "desc": "Dibawakan oleh Ibu Alia Katharina",
+                    "link": "https://www.youtube.com/watch?v=j8lB6E__IoQ",
+                    "thumbnail": "https://i3.ytimg.com/vi/j8lB6E__IoQ/hqdefault.jpg",
+                    "is_live": 0
+                },
                 {
                     "title": "SaRen Pagi | 17 Agu 2024 | NUSANTARA BARU (PEMIMPIN BARU &) INDONESIA MAJU",
                     "date": "2024-08-16",
@@ -132,14 +142,6 @@
                     "desc": "Dibawakan oleh Ibu Yedida Christa Pujianti",
                     "link": "https://www.youtube.com/watch?v=V57hq_fmBTg",
                     "thumbnail": "https://i3.ytimg.com/vi/V57hq_fmBTg/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 6 Agu 2024 | Peringatan Pada Momen Kasih Mula-mula",
-                    "date": "2024-08-05",
-                    "desc": "Dibawakan oleh Ibu Enny Kartikaningsih",
-                    "link": "https://www.youtube.com/watch?v=2jb9P1rhoqU",
-                    "thumbnail": "https://i3.ytimg.com/vi/2jb9P1rhoqU/hqdefault.jpg",
                     "is_live": 0
                 }
             ],
