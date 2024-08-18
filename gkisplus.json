@@ -16,6 +16,42 @@
             "whatsapp": "https://wa.me/6285228909700",
             "email": "gkisalatiga@gmail.com"
         },
+        "yt": {
+            "pinned": [
+                {
+                    "title": "Sapaan dan Renungan Pagi",
+                    "type": "rss",
+                    "rss-title-keywords": [""],
+                    "content": []
+                },
+                {
+                    "title": "Kebaktian Umum",
+                    "type": "regular",
+                    "playlist-id": "PLtAv1OZRTdvI1P3YIJ4_qOqapZjV1PtnI",
+                    "content": []
+                },
+                {
+                    "title": "English Service",
+                    "type": "regular",
+                    "playlist-id": "PLtAv1OZRTdvLSP7qg6lCxvMX5hanq_va1",
+                    "content": []
+                }
+            ],
+            "standard": [
+                {
+                    "title": "Paduan Suara",
+                    "type": "regular",
+                    "playlist-id": "PLtAv1OZRTdvJ6cdCbSOxgNI1BOF5Mt0NZ",
+                    "content": []
+                },
+                {
+                    "title": "Persekutuan SODA (Komisi Pemuda)",
+                    "type": "regular",
+                    "playlist-id": "PLtAv1OZRTdvI0S2GrJi2k0Jclg3MTC3tw",
+                    "content": []
+                }
+            ]
+        },
         "yt-video": {
             "saren": [
                 {
