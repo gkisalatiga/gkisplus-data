@@ -21,21 +21,22 @@
                 {
                     "title": "Sapaan dan Renungan Pagi",
                     "type": "rss",
-                    "rss-title-keywords": [
-                        "SaRen Pagi"
-                    ],
+                    "rss-title-keyword": "SaRen Pagi",
+                    "last-update": "2024-08-18",
                     "content": []
                 },
                 {
                     "title": "Kebaktian Umum",
                     "type": "regular",
                     "playlist-id": "PLtAv1OZRTdvI1P3YIJ4_qOqapZjV1PtnI",
+                    "last-update": "2024-08-18",
                     "content": []
                 },
                 {
                     "title": "English Service",
                     "type": "regular",
                     "playlist-id": "PLtAv1OZRTdvLSP7qg6lCxvMX5hanq_va1",
+                    "last-update": "2024-08-18",
                     "content": []
                 }
             ],
@@ -44,12 +45,14 @@
                     "title": "Paduan Suara",
                     "type": "regular",
                     "playlist-id": "PLtAv1OZRTdvJ6cdCbSOxgNI1BOF5Mt0NZ",
+                    "last-update": "2024-08-18",
                     "content": []
                 },
                 {
                     "title": "Persekutuan SODA (Komisi Pemuda)",
                     "type": "regular",
                     "playlist-id": "PLtAv1OZRTdvI0S2GrJi2k0Jclg3MTC3tw",
+                    "last-update": "2024-08-18",
                     "content": []
                 }
             ]
