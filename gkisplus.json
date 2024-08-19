@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 169,
-        "last-update": 1724028689,
-        "last-updated-item": "yt",
+        "update-count": 170,
+        "last-update": 1724029230,
+        "last-updated-item": "offertory",
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
@@ -1384,6 +1384,12 @@
                 "bank-abbr": "MANDIRI",
                 "bank-number": "643.15.624.3651",
                 "account-holder": "GKI Salatiga Komisi Anak"
+            },
+            {
+                "bank-name": "Bank Negara Indonesia",
+                "bank-abbr": "BNI",
+                "bank-number": "123.45.678.90",
+                "account-holder": "Yayasan Pendidikan Eben Haezer"
             }
         ],
         "carousel": {
