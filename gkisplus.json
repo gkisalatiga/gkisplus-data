@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 168,
-        "last-update": 1724028444,
+        "update-count": 169,
+        "last-update": 1724028689,
         "last-updated-item": "yt",
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
@@ -132,7 +132,183 @@
                     "type": "regular"
                 },
                 {
-                    "content": [],
+                    "content": [
+                        {
+                            "date": "2020-10-15",
+                            "desc": "Pelayan Firman : Bpk. Catur Winarno\nMC & Gitaris : Bram, \nBassis : Sanjaya, \nPianis : Hizkia, \nDrummer : Farel\n\nLokasi : GKI Salatiga",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC41NkI0NEY2RDEwNTU3Q0M2",
+                            "thumbnail": "https://i.ytimg.com/vi/h4EJQYhr5-o/hqdefault.jpg",
+                            "title": "Ibadah Komisi Remaja | 10 OKTOBER 2020 | \"Hadiah Terindah\""
+                        },
+                        {
+                            "date": "2020-10-15",
+                            "desc": "Pelayan Firman : Kak Juna, \nPemusik : Aurel, Abel, Koko & Farel, \nMC : Imago & Eilena",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC4yODlGNEE0NkRGMEEzMEQy",
+                            "thumbnail": "https://i.ytimg.com/vi/9r60k69yBO0/hqdefault.jpg",
+                            "title": "IBADAH REMAJA GKI SALATIGA    27 SEP 2020"
+                        },
+                        {
+                            "date": "2021-01-02",
+                            "desc": "",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC4wMTcyMDhGQUE4NTIzM0Y5",
+                            "thumbnail": "https://i.ytimg.com/vi/4yR5VKu8ui0/hqdefault.jpg",
+                            "title": "Renungan dan Pujian Malam Natal Komisi Remaja | 24 Desember 2020"
+                        },
+                        {
+                            "date": "2021-01-02",
+                            "desc": "",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC41MjE1MkI0OTQ2QzJGNzNG",
+                            "thumbnail": "https://i.ytimg.com/vi/afjMs5pPAhw/hqdefault.jpg",
+                            "title": "IBADAH KOMISI REMAJA 6 DESEMBER 2020"
+                        },
+                        {
+                            "date": "2021-01-02",
+                            "desc": "",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC4wOTA3OTZBNzVEMTUzOTMy",
+                            "thumbnail": "https://i.ytimg.com/vi/jqTH22B0FQg/hqdefault.jpg",
+                            "title": "IBADAH REMAJA  II  22 NOVEMBER 2020"
+                        },
+                        {
+                            "date": "2021-01-02",
+                            "desc": "",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC4xMkVGQjNCMUM1N0RFNEUx",
+                            "thumbnail": "https://i.ytimg.com/vi/8ZsXIh6J9Tg/hqdefault.jpg",
+                            "title": "IBADAH KOMISI REMAJA 08 NOV 2020"
+                        },
+                        {
+                            "date": "2021-01-02",
+                            "desc": "Pelayan Firman : Pdt. Helen Ruth Manurung\nMC : Cinta dan Lintang \nGitaris : Bram\nBassis : Abel\nPianis : Aurel\nDrummer : Farel\n\nLokasi : GKI Salatiga",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC41MzJCQjBCNDIyRkJDN0VD",
+                            "thumbnail": "https://i.ytimg.com/vi/Y9G3mXQuNTs/hqdefault.jpg",
+                            "title": "IBADAH KOMISI REMAJA 25 OKTOBER 2020"
+                        },
+                        {
+                            "date": "2021-12-10",
+                            "desc": "IBADAH KOMISI REMAJA - GKI SALATIGA | 21 November 2021 |  Cinta Gereja\nPembawa FIrman : Pdt. Cindy Q. Koan",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC5DQUNERDQ2NkIzRUQxNTY1",
+                            "thumbnail": "https://i.ytimg.com/vi/_RlUw5y88b0/hqdefault.jpg",
+                            "title": "IBADAH KOMISI REMAJA - GKI SALATIGA | 21 November 2021 |  Cinta Gereja"
+                        },
+                        {
+                            "date": "2021-12-10",
+                            "desc": "IBADAH KOMISI REMAJA - GKI SALATIGA | 7 November 2021 | KELOMPOK KECIL\nWaktu : 10:00 WIB\nPelayan Firman: Bpk. Dwi Prasetyo",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC45NDk1REZENzhEMzU5MDQz",
+                            "thumbnail": "https://i.ytimg.com/vi/9YS8zTTUhZI/hqdefault.jpg",
+                            "title": "IBADAH KOMISI REMAJA - GKI SALATIGA | 7 November 2021 | KELOMPOK KECIL"
+                        },
+                        {
+                            "date": "2021-12-11",
+                            "desc": "",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC5GNjNDRDREMDQxOThCMDQ2",
+                            "thumbnail": "https://i.ytimg.com/vi/GYx1ABJfM3M/hqdefault.jpg",
+                            "title": "Ibadah Komisi Remaja | 12 Desember 2021 | \"Saat Tuhan Bersama Kita\""
+                        },
+                        {
+                            "date": "2021-12-18",
+                            "desc": "Ibadah Komisi Remaja \"\nMinggu 19 Desember 2021 pk. 10.00 WIB\n \"Maria, Pemberi Air Kehidupan\n\nPF:  kak Monica M",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC40NzZCMERDMjVEN0RFRThB",
+                            "thumbnail": "https://i.ytimg.com/vi/z0kqSvPB78c/hqdefault.jpg",
+                            "title": "Ibadah Komisi Remaja | 19 Desember 2021 | \"Maria, Pemberi Air Kehidupan"
+                        },
+                        {
+                            "date": "2022-01-09",
+                            "desc": "",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC5EMEEwRUY5M0RDRTU3NDJC",
+                            "thumbnail": "https://i.ytimg.com/vi/R9nGOyFI-2E/hqdefault.jpg",
+                            "title": "Natal Komisi Remaja | 9 Januari 2022 | \"From Finite to Infinite\""
+                        },
+                        {
+                            "date": "2022-01-15",
+                            "desc": "",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC45ODRDNTg0QjA4NkFBNkQy",
+                            "thumbnail": "https://i.ytimg.com/vi/bVwQn45heMo/hqdefault.jpg",
+                            "title": "Kebaktian Remaja | 16 Januari 2022"
+                        },
+                        {
+                            "date": "2022-01-23",
+                            "desc": "",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC4zMDg5MkQ5MEVDMEM1NTg2",
+                            "thumbnail": "https://i.ytimg.com/vi/v9Y3CjSq9zc/hqdefault.jpg",
+                            "title": "Ibadah Komisi Remaja | 23 Januari 2022"
+                        },
+                        {
+                            "date": "2022-01-30",
+                            "desc": "",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC41Mzk2QTAxMTkzNDk4MDhF",
+                            "thumbnail": "https://i.ytimg.com/vi/N2NLY8Hp2x0/hqdefault.jpg",
+                            "title": "IBADAH KOMISI REMAJA 30 JANUARI 2022 I GKI SALATIGA"
+                        },
+                        {
+                            "date": "2022-02-06",
+                            "desc": "",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC5EQUE1NTFDRjcwMDg0NEMz",
+                            "thumbnail": "https://i.ytimg.com/vi/AWAdZbUGpE8/hqdefault.jpg",
+                            "title": "IBADAH KOMISI REMAJA I 6 FEBRUARI 2022"
+                        },
+                        {
+                            "date": "2022-02-12",
+                            "desc": "",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC41QTY1Q0UxMTVCODczNThE",
+                            "thumbnail": "https://i.ytimg.com/vi/Yx5prvKba3o/hqdefault.jpg",
+                            "title": "IBADAH KOMISI REMAJA | 13 FEBRUARI 2022"
+                        },
+                        {
+                            "date": "2022-02-19",
+                            "desc": "Pelayan Firman: Otniel Aurelius Nole",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC4yMUQyQTQzMjRDNzMyQTMy",
+                            "thumbnail": "https://i.ytimg.com/vi/lAFprz078pk/hqdefault.jpg",
+                            "title": "IBADAH KOMISI REMAJA | 20 FEBRUARI 2022"
+                        },
+                        {
+                            "date": "2022-02-26",
+                            "desc": "Pelayan Firman:Pdt.Yefta S. Krisgunadi",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC45RTgxNDRBMzUwRjQ0MDhC",
+                            "thumbnail": "https://i.ytimg.com/vi/hSNJpZ0g0FQ/hqdefault.jpg",
+                            "title": "IBADAH KOMISI REMAJA | 27 FEBRUARI 2022"
+                        },
+                        {
+                            "date": "2022-03-05",
+                            "desc": "",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC5ENDU4Q0M4RDExNzM1Mjcy",
+                            "thumbnail": "https://i.ytimg.com/vi/zbgEtkd-RW8/hqdefault.jpg",
+                            "title": "IBADAH KOMISI REMAJA I 6 MARET 2022"
+                        },
+                        {
+                            "date": "2022-03-12",
+                            "desc": "",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC4yMDhBMkNBNjRDMjQxQTg1",
+                            "thumbnail": "https://i.ytimg.com/vi/5cVymBmNN1s/hqdefault.jpg",
+                            "title": "IBADAH KOMISI REMAJA I 13 MARET 2022"
+                        },
+                        {
+                            "date": "2022-03-26",
+                            "desc": "",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC4zRjM0MkVCRTg0MkYyQTM0",
+                            "thumbnail": "https://i.ytimg.com/vi/DHCuLrHafws/hqdefault.jpg",
+                            "title": "IBADAH KOMISI REMAJA I 27 MARET 2022"
+                        },
+                        {
+                            "date": "2022-04-03",
+                            "desc": "",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC5DNzE1RjZEMUZCMjA0RDBB",
+                            "thumbnail": "https://i.ytimg.com/vi/ZLhOwLLRiiA/hqdefault.jpg",
+                            "title": "IBADAH KOMISI REMAJA I 3 APRIL 2022"
+                        },
+                        {
+                            "date": "2022-04-10",
+                            "desc": "IBADAH KOMISI REMAJA | 10 APRIL 2022\n\nPF: Kak Merry B. Asaloka",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+                            "thumbnail": "https://i.ytimg.com/vi/00KmbFuetgo/hqdefault.jpg",
+                            "title": "IBADAH KOMISI REMAJA | 10 APRIL 2022"
+                        },
+                        {
+                            "date": "2022-04-22",
+                            "desc": "\"Christ Is Our Victory\"\n\nPF : Pdt. Esther H. Tulung\nWaktu : Pukul 17.00 WIB",
+                            "link": "https://www.youtube.com/watch?v=UEx0QXYxT1pSVGR2S0RIRkVSYU15Zi1zS2pCVVBycEN6UC4yQUE2Q0JEMTk4NTM3RTZC",
+                            "thumbnail": "https://i.ytimg.com/vi/TM0xUSrDU24/hqdefault.jpg",
+                            "title": "Ibadah Perayaan Paskah Gabungan Komisi Remaja dan Pemuda | 23 April 2022 | \"Christ Is Our Victory\""
+                        }
+                    ],
                     "last-update": "2024-08-19",
                     "playlist-id": "PLtAv1OZRTdvKDHFERaMyf-sKjBUPrpCzP",
                     "title": "Ibadah Remaja",
