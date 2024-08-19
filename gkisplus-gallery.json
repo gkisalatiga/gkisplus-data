@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2,
-        "last-update": 1723876641,
+        "update-count": 4,
+        "last-update": 1724089554,
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
@@ -1632,6 +1632,1462 @@
                 ],
                 "story": "Contoh saja bor!",
                 "title": "Ibadah Minggu Reguler"
+            }
+        ],
+        "2022": [
+            {
+                "folder_id": "11Bs0_2xLpBvdt1_KBcV76EOimiQ2r3M1",
+                "last_update": "2024-08-20",
+                "photos": [
+                    {
+                        "date": "2023-11-17",
+                        "id": "1TZS74H8feLI25gZiHNrTgEiHQrZS9OG9",
+                        "name": "DSC_8102.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1pCD6U0P3CLG1lXPmflwhkMAgSnbQ9zD5",
+                        "name": "DSC_8101.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "18JJbPwfQvfSDnGJHzCH5B-yfcE7AtyMK",
+                        "name": "DSC_8100.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "192zN3cOUtStYtk6Myu8MIXdH_ldKJrXT",
+                        "name": "DSC_8099.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1ygqZMXe9krpVQ1QNB8iFYPUJo1EkLGrg",
+                        "name": "DSC_8098.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1M9KAAkQhR4xlNrEMg7HQAaLvtzSa5iTT",
+                        "name": "DSC_8097.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1LdMc6uDtHBd_yZeYLWyA11FZ0JpHLsKD",
+                        "name": "DSC_8096.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1VYE94hbLIMd4RrvU7bpQKUWjjmF-7dyB",
+                        "name": "DSC_8095.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "11d09CLOqsCm_3S4yorQmmDZtnC2ZDBLS",
+                        "name": "DSC_8094.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1yyY6z4SJILupPRXEhvnjbzivTdtHB2D0",
+                        "name": "DSC_8093.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1OLrQiysZNIT1qYGMuuFV3blghiDDDBWO",
+                        "name": "DSC_8092.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1f7SQ8ogduKoeIYmkB1qJL7u8cTJIaS0i",
+                        "name": "DSC_8091.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "14_Nr-rH0kpobSr2youQmmsMtCabcfCyr",
+                        "name": "DSC_8090.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "11aaUxdNJ1RkGe8LWul_X0N22qETK5xum",
+                        "name": "DSC_8089.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1teAtu0c5X1eEIw_zQaTt5G8Ryoeh1hfP",
+                        "name": "DSC_8088.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1kKuSxd1kRiu7ZiJiQ7HWEjoCWTcJb56d",
+                        "name": "DSC_8087.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1xY-_y46NprJf40S5nlTHqAs2DR1TaBeI",
+                        "name": "DSC_8086.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1QdcIk4ikZU65nNHUOSEmvSHgacTt3imR",
+                        "name": "DSC_8085.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1aEHA7vhMUN5k3faXbUeIUHf2f53WhTqt",
+                        "name": "DSC_8084.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1oEE6MiL44t9z2VDNapKyY4xwdnCsG0kJ",
+                        "name": "DSC_8083.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1tLDhqlAGGQnIql8ePGGyjccQ2w6FevC5",
+                        "name": "DSC_8082.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1bcENfcZ70E89y0OBDK2JR1g8AocFOJ-5",
+                        "name": "DSC_8081.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1ilPuxU_sXp_M3zcAZAiJPUxWt9TU7Pdx",
+                        "name": "DSC_8080.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1G9-NygQg8cqEVOHQhu_bqhZNvvTrauIU",
+                        "name": "DSC_8079.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1caKVbiS-kM-WDMXUDzxIM8nW6bMalX9M",
+                        "name": "DSC_8078.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1RFYxwuTPm1ip272ZHI08NbHZmabzToiN",
+                        "name": "DSC_8077.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1azg6Cp1bxCwAKmNXClrroPM9ZAEYHDU_",
+                        "name": "DSC_8076.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1KAAqHNMiqpy_liqyr5q-5fIWMYDzkjnP",
+                        "name": "DSC_8075.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "18DI_nbdiy-DBSfL3cCYXnKgy-fSVsA03",
+                        "name": "DSC_8074.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1BGsAOnxtx57vJrYyu01uwGYZQmhNjhl5",
+                        "name": "DSC_8073.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1gb68OFoFdl6ZqR9zBy7MhH-ESn4uSkOT",
+                        "name": "DSC_8072.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1asW91Ti2kNmjfyQ9Hyof2vZ5BwWU8Cq3",
+                        "name": "DSC_8071.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1PzI4FUOWaLGPchwusjlq07ZQbwVFkdeH",
+                        "name": "DSC_8070.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Un07ZdUoiMYvuMaFMvSrId-rwsPRahWV",
+                        "name": "DSC_8069.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "11JY7iZ0W6c2b3WzpNxLI470QBC-C0SBT",
+                        "name": "DSC_8068.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Zjr7LrRAtd08ZNQY-LsZ2zMA48IwJAka",
+                        "name": "DSC_8067.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1dgDLRrqfk45xzh9Eo9JnU4cjw_KMw2B-",
+                        "name": "DSC_8066.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "14Urj9CRyA7RXHTD9uF_L359RGrYN4WRs",
+                        "name": "DSC_8065.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1WkYn0hQ22_B6UXUMx_jOefYtrSoXUbs3",
+                        "name": "DSC_8064.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1q4q6lbPLhYmcDBekCkwLFnNJiT4d4R0h",
+                        "name": "DSC_8063.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "17LeZB452p4Tpc4Uyw7rsyhh56GOb_xAu",
+                        "name": "DSC_8062.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1YyEnMZoIqk9bk1M7N92SJg1B_DU-YN_O",
+                        "name": "DSC_8061.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1REWBcO-ry2283xJmkpD70lfF4XCE0TIg",
+                        "name": "DSC_8060.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1kFKr1g1nlM3y-eRgmP3xf6bksrcQfZGM",
+                        "name": "DSC_8059.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1A2cFbeK6MQPruNWdZmdKsxYQswuyW20R",
+                        "name": "DSC_8058.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1cF2wKw4RYmibkZ2h1fQWFlaNG8SoieYs",
+                        "name": "DSC_8057.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1ofLa7Gqtu41QMJqgFKOd83z9GujY008G",
+                        "name": "DSC_8056.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1o67r-qV2WtyTwnkjAE_z0USbpoU6eY0o",
+                        "name": "DSC_8054.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1rN6LafBu9oeOokH7W-A3KaE8-E9CKo0b",
+                        "name": "DSC_8055.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Jl9kUxHxSDnBe-92uVB4A_-Z4-wSiU9h",
+                        "name": "DSC_8053.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1jHwhsDklG-8T_aBSXx5uJak0pU3SPrqF",
+                        "name": "DSC_8052.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "14jDZVdXJQW66ntJ8Gm-6n0k_940BzqyS",
+                        "name": "DSC_8051.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1JbpPuo35hemvMinRugNTAtGDH-SvEABf",
+                        "name": "DSC_8050.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1yz7nbvXAaSrQ8j5uy45sppLqPSMgGkOI",
+                        "name": "DSC_8049.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1lCMYFBrbg_8GRRSXmdmT1ucZjw2PZtBp",
+                        "name": "DSC_8048.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1mdiH7wyGNd7JGbjLhF2b-y2GpSb3w1iu",
+                        "name": "DSC_8047.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1pdkLDbYYzZhZka5Iw8rm8MvaJD8oQ4-w",
+                        "name": "DSC_8046.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Z7ywU-hECnrS5-0kUSjj0eflB5xzMzP3",
+                        "name": "DSC_8045.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "17gNfTNkFMuvKY9d4MRBMsabM3BGyGIJH",
+                        "name": "DSC_8043.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Ulx5BL8HxmHe0GpzNPg8ygiK9S6SnoO7",
+                        "name": "DSC_8044.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "172r4geNeL8r365DOC3PiQfu08vAr93fT",
+                        "name": "DSC_8042.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1b2ifjW1Q6MZ_QkWQWHyZjrfw-KH6TVNv",
+                        "name": "DSC_8041.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1LUPFO9-kEFTTeqol7gofk8Vmb-FjyNGe",
+                        "name": "DSC_8040.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1vp1x6XuOguyedLqalq8s6PbiDM0f-sly",
+                        "name": "DSC_8039.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1L_y4XHnWw0mz7J7PbuugQLRPjwHrF_kt",
+                        "name": "DSC_8038.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1qHstbHyVkjoydbOS_6Wwmkiqd1fOYJRT",
+                        "name": "DSC_8037.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1wLGQkVW--oGxaJ_ar5fPExLT_7EGS2xZ",
+                        "name": "DSC_8036.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1huQU2AQsMQ2fNMaTPxjm8kGn5ijTF5DE",
+                        "name": "DSC_8035.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1eegE3MGT4lVyI9aSAfE5P4iemwV4NETH",
+                        "name": "DSC_8034.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1KYMwCMPO8btrGrOtqS6ilCPU8YtxLbfS",
+                        "name": "DSC_8033.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1sj_Dbj0Zc9Z3ZYlJoWHds_wbKZh9Q5Sp",
+                        "name": "DSC_8032.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "18ZoFCZfVkucPc-JaebbiUe_JlTbUMjGq",
+                        "name": "DSC_8031.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Zn1U4CuLt3qSbjBof-d245_CJ4WH54pi",
+                        "name": "DSC_8030.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1UPyTYFFfLLhVoc5fXBPCAdsIJR8KUDLb",
+                        "name": "DSC_8029.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1rcqqnuxJFQawmwrBeX7pnodbFmbsKd_3",
+                        "name": "DSC_8028.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "182ZzAB-_Jr3t5PZ-oeSbgJdm_53ZBnYA",
+                        "name": "DSC_8027.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "11J1gc_C6ZwtWTOogRkQl5Uf1Y-XPAQd5",
+                        "name": "DSC_8026.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1e4GavHiiJhk4MVeZxqCRPhcFlJ7m1P9U",
+                        "name": "DSC_8024.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1rZP3XC3hgXYm275ngPFz4F2SbC7u-P-9",
+                        "name": "DSC_8025.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1be0DVxgFYYFfokkVy5CK8wn2Q_7ivAc9",
+                        "name": "DSC_8023.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1BaM8qp3ouv73jqH31H_EMj81ajJVz4I7",
+                        "name": "DSC_8022.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "17kVxImx6WtLU1OYzuzsvFmqkjOwziiEu",
+                        "name": "DSC_8021.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1IhgL9AiclOsu1pwDWtRAV6ndFxb5HcXz",
+                        "name": "DSC_8020.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1egacoi8S-VoO1FwL-0hXRuUJGB2feu4k",
+                        "name": "DSC_8018.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1k_97P0SuVDbhcB0FFVsaI9iFIVHv-pmd",
+                        "name": "DSC_8019.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1I2GeDwPsmuLrv5oTQd8f2TbkPJGUDgen",
+                        "name": "DSC_8017.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1oKncREO5svt-vM4IWPsulmMEPnaa75Fn",
+                        "name": "DSC_8016.JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1rHgbFFGpAdRVGvExAwDtzPgCKLOlGtj9",
+                        "name": "DSC_8015.JPG"
+                    }
+                ],
+                "story": "Foto dokumentasi guru sekolah minggu Komisi Anak GKI Salatiga 2022.",
+                "title": "Persekutuan GSM Komisi Anak 2022"
+            },
+            {
+                "folder_id": "1dFJtaY4y21ScFXWIVu_YG4VrnOTpABG0",
+                "last_update": "2024-08-20",
+                "photos": [
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Y0IBJ2-UOyZp448tjPnjyVpuw_KRpsx3",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (1).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1ey9kIBZYBNhE8HH3BVKj6dyhjbvntcOO",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (2).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "17akkddNF0cWPcMRkAvOORjJbB6pWR3l4",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (3).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1J_9RkClqH0l35qzMAPeICGu9Je9KAB_X",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (4).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1-OC4ba5TPodZMtL6sGml2TlXk7pd-IU5",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (5).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "19nSS0nrvR5trVE-mRfMsHADRaQQUgnw2",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (6).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "17rNdTS7-YugW96XF2IsRKG1zRCZkFiLf",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (7).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1V14Ob-63qsDfks5tG6BU1gG83grQuVlJ",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (8).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1TIgSkst8hL8DH80gSoh8kbbcoU9TLU5g",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (9).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1XZZtOouFMMlHaGVa7mz1eRmzw6iTrFpW",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (10).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Bwu32vRc0nbxCmHHQbc8bxz-Gdke3gJ_",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (11).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "18j-JIZlykmEItI66PIqZ1csXVDF6-hy8",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (12).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1xwJjP-uiwu_cb6k9YaAO-zc2JYDDJ5tu",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (13).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1O9-WbTwJ_DfuKR3v-MXOaQq_KETKW8li",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (14).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1o6LZY4t6kkohMNhQHcQJ4al-fO2k-QJ-",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (15).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1l1H2bNvpy8JVAAHuRJhN5dAFygpznk6g",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (16).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1-rF7mP0nN8W69Bt_WNQUE_zy2B87f-8o",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (17).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1DaBZhkoFEdjrOU43rvdnUripejayTe6s",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (18).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1126QPwIZ4NIe0PkisJ_9WqqxT8n83E4d",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (19).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1IZaPIGGcmXwJ6CKnXhyevtLV5DglKCqk",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (20).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "17HOzA47lk1yhLsDVYQJ0JKzKo1EKh-K_",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (21).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1CVoyFeFOynXjhgTSZawsFKZabTMiQ09d",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (22).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1q4D5EG927nMJL6rViG9kBfspesmu0TMl",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (23).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "12wJQTFvE7O5ww9DllxBap3KDBzz0bXdy",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (24).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Y0PzT7jP6j8E_vQX7Vf8jjQXglN7y2II",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (25).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "10ct9uhS3cCU9wrUAUV_r4EWWq5ICE2Qa",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (26).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1gCFtebkvG9-9jiE9ei0eQt-XDsbjUkwR",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (27).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1wQgKDgEZwiWDLtC1AedLRMsyhvo4UljA",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (28).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Epo0Xi84IQ7oc32_cEz-uqU3YSJKBOpR",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (29).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1XXLld4HfeuxmCKHrzhpBslCSKknRLM_T",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (30).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1YFmNPTMPt06IQoyEYrqMlQJI1pYoGDMB",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (31).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1bCUXDwBlOJ0p_CZYQONL0Z6I9ayzGXU6",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (32).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1f5C7DmLnL_FHMmxaj4w9RBsarB1NEQGq",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (33).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "19vOghO0p4xUUGpUdZd2OXUyUV-U2cuKS",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (34).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "11ZKzi40KiGOVjiSATZggVqArNW3B4pLN",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (35).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1VY3W3aE1snPUGMFrlx444RXONsx6Y_ta",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (36).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1RV0mxvA7A_1YYYVQ4vjKS-1NEIez6dAW",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (37).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "19C4eOdGVwaUMzB1lRzXVqMU_TGsk-mhl",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (38).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1UlkKfVENoznge6qQ04O17ZZ19mfeL5Mg",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (39).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1r_d59iwiPTg8Y68Y31yruguNwIVV6luq",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (40).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "16jFEuqawXXVUzzXFJvwiiEm3QRMEFJmh",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (41).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "13wqTRrITFd6qvlCsGkqfYdTfRuwRa7Eg",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (42).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "12-iuRf37MIS4UI1H_gUoDI_9NP108Z8b",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (43).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1BXZJTomimJ3NqHRmBQOX3TnjgFMcMD7b",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (44).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1QgpA4k0-V9Axb1oYAohDzAOww9aElOf-",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (45).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1tGYqppyhWeX7qTTyTKnMXl8VIHlo5pcY",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (46).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Mqd7pkxvlLv4EPzBNsaluw0JRHB0G0T6",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (47).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1JoU2lLu5l_Xxi10ywfRmcWaG8sjid5rx",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (48).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1nqUY8dOnnzQZi3aP6iyJJW_KkAnnISlE",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (49).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1isB44UPVWqmPAgOIrpxbA9JqmAu9FgTf",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (50).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1N05zIyzhKeR8hOrWbQYbD4vU_lWNMDTp",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (51).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1sgaIvTQ4SmSddUHdjMUZemmrF7xtquxC",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (52).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1hCtReYogd9DbCqqkbk-sxKBACcTzXBlm",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (53).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1ZzpZol-JEz0ZyTHkntXkhT0YZjsr9PBy",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (54).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1rL358ae2warUGF9X2by91tqPdsRQQJDn",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (55).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1jo2JptB3RZFKZ5TOZ8RGcBleESKGxJH7",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (56).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1NenR7f-YQYkpC59Ln7DjAL6k68BgdJlS",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (57).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1W0m9xK9HNiqJ0Wvmda_HsC_zhxTf8ePw",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (58).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "12XlqPQE_rxsylf_Q8DmE6VE6kuYPjLo-",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (59).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1PYDttcwD_t4bPleW7NKtDs5qFoBJfUH6",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (60).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1mxCVFQcvrihZcCLYtNvG-AeMFIePw4Kl",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (61).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Tk9DlzbaNg5J1W6LlI0uis76Rkpmo4nC",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (62).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1gHfmMrzIbahVCnP9n9Pcfx3zZvqs_FWX",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (63).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1eEmxqzDQ7ighZp16XKPGgNUKimy3XeZ3",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (64).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "13PVG8QI9ULQjePLkR9wjmzNHlVWuv4u9",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (65).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1pUHFGCwkpS0kV7H8WcOCaN2djHdWJxis",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (66).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1e3UmNay07yxXpSyc0OmhxDJ_ybPoL9jZ",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (67).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1o-eBy2qX4f0SEezCTHFW32jQ3GMODozj",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (68).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1lg7W_BgZ7fUPgsonOlVUjlIX6xJMxxOS",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (69).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1sxUKjr9GWlGnSNjrcybvA4czJrZoQPys",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (70).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1CW4CD2V0X3l3u3VrkQV8qNFhp7Oc6AJE",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (71).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "13LHjSQke-ghagqEUhThelU-f15ry5TcY",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (72).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1PWE07lqHCTXLcocQvcjv2qe9PBaTRyN2",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (73).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1NuF7ww_p-v7p-1XiF9z9z4faE32R9rND",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (74).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1GhnMs7vp3goKpA9dsC6Pnp7pGBtJgkDZ",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (75).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "15aAlHPImvlyvfhEY7i7jUuPMjPE0f9Jz",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (76).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1j-NjqqSSoHOsSUVZgvCjMmu1bKj42pMC",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (77).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1zmHX8BsnLjUZDkc-NMVFUODVb9rpcGQc",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (78).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1gnwVcIo6v4Bud5PLhWc666fpQB8hY968",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (79).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1G5qNStO6ifK6jP60J9R0iPpMvuX75DiJ",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (80).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1XwC4-nkzM22Uc4HBcN8qLWE3v7ydZXd8",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (81).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1dNFvBS39wKjRJImupfnr4ARZIeBBgb-4",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (82).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1A9f5bNXuoGNGUL5JOYvUtx9pMQtEX3BE",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (83).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1lVpjBJDuOLHI-bBU46AugOwnPxE14N25",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (84).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "16JHoNQkV7MvaFvoMYoNYfuns567nVtJ1",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (85).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Or0kuPz7vl61cQr4-lg7RRg_T1tg6NMU",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (86).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1_2mPtfOrvO1Yo3wOEJ0D0Wsr8qIZV1HP",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (87).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "17rgCfcZT5S_XCxsHJZqf6hEUxD-J3Mlh",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (88).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1z3erahzYduY6yndquSWNouf_NYYPrOG3",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (89).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1sQThZMyCXU1eK2j7SotkfV0Vz7D-MhKI",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (90).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1RSbKCt-wqmcFFl4RTQFiVWr4TOGDRKfe",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (91).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1WZbbWVnEjyYhf2xAEtY9Bir34M_tUP9C",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (92).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1SoiL4F7UreB2iK9r5serHPS7abyoB8y6",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (93).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1CcNegN-D3rfJdsiv-gLtqpKubPfesxXt",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (94).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1c6KW5qD7tJarZUq9EC_f3OaJaIM9kIT4",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (95).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1FenKr2o26h2gJEpoFYQWQp3pupEO7i0M",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (96).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "13LuhpadNWPVq84JJnum_mmnf5zPujwM1",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (97).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "18wp4aF77mTCnWfGDlfbYrz9LwvVuuF3i",
+                        "name": "SAMBUT NATAL KA - 10DEC2022 (98).JPG"
+                    }
+                ],
+                "story": "Dokumentasi natal KA 2022.",
+                "title": "Natal Komisi Anak 2022"
+            },
+            {
+                "folder_id": "1u2qqSjvDfaf6dKG8q-OM4sIcH4qHhJky",
+                "last_update": "2024-08-20",
+                "photos": [
+                    {
+                        "date": "2023-11-17",
+                        "id": "1XoJz_n_gTDrDzm8umAIiIAWZpJ2BGtl2",
+                        "name": "25122022 - BABTIS (99).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Jus-3kLe8NREUE92CcqNVL8B0uksJeDY",
+                        "name": "25122022 - BABTIS (98).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1GKzv9gmNMAAsOw5L0KQSj389r8GXMHCL",
+                        "name": "25122022 - BABTIS (97).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1v-5-3D78iXqxUQqMhswx1Z_UASUn59nV",
+                        "name": "25122022 - BABTIS (96).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1M2stzKX97jLIXxNN-QtaIcrRlgxYMymN",
+                        "name": "25122022 - BABTIS (95).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1CVfLO2LcShR0i35oYgfTDKh2xHK4gv-f",
+                        "name": "25122022 - BABTIS (94).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "11VOPOsnhVyLMjFmd6xU62O5oCHWN9KLe",
+                        "name": "25122022 - BABTIS (93).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1OSRAii6H2ZRGGxPmA5ZmHASId8aMHafz",
+                        "name": "25122022 - BABTIS (92).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1n95ZUz-z2w7U7F4TvCa3lFZoFIrE3ZNb",
+                        "name": "25122022 - BABTIS (91).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1shjEs699LUCOp9F-kq_7Ex5j567_Ib7z",
+                        "name": "25122022 - BABTIS (90).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1hbik1jXlQyP_Uja2_XmUfIAxelWrsMFk",
+                        "name": "25122022 - BABTIS (9).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1kGTxEnqTNYSKTI4XQ9Q8xh3NjKg5Fbci",
+                        "name": "25122022 - BABTIS (89).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1N7PT2PtMHvVExprd0qyjrPQ7EOdgNkmn",
+                        "name": "25122022 - BABTIS (88).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1nomb8kXsHJLzHqannr98DnKW3zr3wYfA",
+                        "name": "25122022 - BABTIS (87).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1jQ1CqEnJbiyfXW-b1uXxsFcWE1WSagGO",
+                        "name": "25122022 - BABTIS (86).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1AX6xaPEXCqODB6ztyetl1RMPxv1SOusq",
+                        "name": "25122022 - BABTIS (85).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1vIuWe2Pw5kbcunDnSFRsuF28yeUmIrI8",
+                        "name": "25122022 - BABTIS (84).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1EO-eBhZtzVAq1WcCGQGZRzmbqi03XGbE",
+                        "name": "25122022 - BABTIS (83).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "16GdFh0sDhkQAN7iGiQbVBh_ucH4ZcIHh",
+                        "name": "25122022 - BABTIS (82).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1R15S11oRxZLxed24r02Ed20ckCCWO-tT",
+                        "name": "25122022 - BABTIS (81).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1uXLeGUhbr2KMv6Q8ubZQ9xpNLbreQuDM",
+                        "name": "25122022 - BABTIS (80).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1yNATXVXjR22B1J6S9ne4L1-inkOo2y5o",
+                        "name": "25122022 - BABTIS (8).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1WAnL9clxVj1fvlxs2WirmC_XvgT4cUbX",
+                        "name": "25122022 - BABTIS (79).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "13HyLaEARYyG3h78Sj1eGI1YfkYXkMy0s",
+                        "name": "25122022 - BABTIS (78).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1glDXV9sabsO-ny0Ohibj8qnTNZBg1DTT",
+                        "name": "25122022 - BABTIS (77).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1ildFxJCeo6gkSKV91ENk_TFOylcMST_t",
+                        "name": "25122022 - BABTIS (76).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "19bC5GOTQwCH70GHkc8pxO6oGqsrS-Ma6",
+                        "name": "25122022 - BABTIS (75).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "141BmF-fdR85ECYCfcqGfINQG1w0LFeGu",
+                        "name": "25122022 - BABTIS (74).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1zfOXn2HzmxxtPOl5MEqvinvprudJ-cWI",
+                        "name": "25122022 - BABTIS (73).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1qoNrCe_DmuEDpFjrHxra7UffpHltNqhF",
+                        "name": "25122022 - BABTIS (72).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "19Yi3kthLUL_ys9ZwEEgiFwHsYv55GwHm",
+                        "name": "25122022 - BABTIS (71).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1ktRUMA2HvzIZpgM0afaVynvOAfh99R6X",
+                        "name": "25122022 - BABTIS (70).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1g9TV9jpv1woi9Hh8iPrmC5PFwGLwY0tI",
+                        "name": "25122022 - BABTIS (7).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1H9bj4IpELr8NjmqSv0V94AiKJbiB1dBe",
+                        "name": "25122022 - BABTIS (69).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "14A1wizO5PIIbkpDth-pNcM7HWmA-jw7I",
+                        "name": "25122022 - BABTIS (68).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "10lgJF8CZR0b6KPrybbfl25Hpwr8OiPij",
+                        "name": "25122022 - BABTIS (67).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1jz0j3ZTClTTGqxDqer5qwEZSKGSbF3ER",
+                        "name": "25122022 - BABTIS (66).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1n0HC52z3Oq185qzT794PhugPOKoMpvjP",
+                        "name": "25122022 - BABTIS (65).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1RKw9tm5unthAYXLgYXdlQ3hXa48ZJnPx",
+                        "name": "25122022 - BABTIS (64).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Q6PtoaBBXzgZO1cJRa7VbcgWl3AkxHop",
+                        "name": "25122022 - BABTIS (63).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1AhbUL_t_gzqg4SFmK8zAD3y_YgtmnRea",
+                        "name": "25122022 - BABTIS (62).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1k3XlLVDw1avgPJsAouclG8_RAXz9aJfa",
+                        "name": "25122022 - BABTIS (61).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1QgCwVDUBfsQCaF0z58GdWpXSMByKEZr8",
+                        "name": "25122022 - BABTIS (60).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1eHKYoKkgBYOUBdtixn-1wYi1TuLx0KVa",
+                        "name": "25122022 - BABTIS (6).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1AyEChAwomnZ18mG-feLaZWyR9e-BnjlB",
+                        "name": "25122022 - BABTIS (59).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Omgo5vQMCYuYv0sBxAQ6fgC2xDzWCQ0q",
+                        "name": "25122022 - BABTIS (58).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "19gu8_E6D0NurbXxH48wCD1WDVDer4wWH",
+                        "name": "25122022 - BABTIS (57).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1zScXFXhqWwn9-aI-409gBOYoXL3zyXPj",
+                        "name": "25122022 - BABTIS (56).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1E91R-MGOf_kvjA8WoVx8DnIUUJMfL_Qb",
+                        "name": "25122022 - BABTIS (55).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1RaM7fqHzoFP2wcvqllogSjB8w_e19Iz_",
+                        "name": "25122022 - BABTIS (54).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1WBmHR3lLUsNm9H8DOvDDDaFjehEd9EuU",
+                        "name": "25122022 - BABTIS (53).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1xDnUKPV_luIN-G7N1p2dNDCW9TfXnaye",
+                        "name": "25122022 - BABTIS (52).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1916VM80wilnaMyjPL5o9l8QtqgXV9Tl-",
+                        "name": "25122022 - BABTIS (51).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1ElIyo2f5hAyvFwpYvvJ7yy10ew1puCt9",
+                        "name": "25122022 - BABTIS (50).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1qzCkL_xwOc5WIM-vjyPvLZ5dDAKsFFml",
+                        "name": "25122022 - BABTIS (5).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1goL-Lf7vrMPU1P5JbuGJEVPK98I-nGl5",
+                        "name": "25122022 - BABTIS (49).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1GkYHXguV73FhQsQA1EG0bFRza5OyB-2W",
+                        "name": "25122022 - BABTIS (48).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1EzD6IcqaNNX7CzRij6tL2qGmx3gr85gy",
+                        "name": "25122022 - BABTIS (47).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1qV5CYWfqhbtEaY6mZMy5l0DfpLnzd8V4",
+                        "name": "25122022 - BABTIS (46).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Xj30RgWZvjz6nX0rjbw1GGbY6-zSCtMD",
+                        "name": "25122022 - BABTIS (45).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1linkrhatVAwn0u42ntswJZt-djL598i4",
+                        "name": "25122022 - BABTIS (44).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "159ROEa4qSWYgYK6ogLzPLitwrCsOPUyC",
+                        "name": "25122022 - BABTIS (43).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "11pQ5LhidHKrk6fPp-Q_Sq8AdvKYE0dpd",
+                        "name": "25122022 - BABTIS (42).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1HgGZ-UXcZVFp_N3rNTYI3PJl2LVctbvd",
+                        "name": "25122022 - BABTIS (41).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1keFFjfAnHvvE22bdYvBS9zH_r99dOZlx",
+                        "name": "25122022 - BABTIS (40).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1c9Sg8Hl-4xdbeIM5jz-O04dI-5veaHMy",
+                        "name": "25122022 - BABTIS (4).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1qHa9V6zntBCQPZUzMNw2rIduj4wbNL__",
+                        "name": "25122022 - BABTIS (39).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1ES9gjJUUTz6N75ZGjUQLdlcUc8l9r43N",
+                        "name": "25122022 - BABTIS (38).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Fzak0w-s2U3cMUF9JnFhkpfXeEeHbMDA",
+                        "name": "25122022 - BABTIS (37).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1BgFqIwYL2blOMO55AyRLpt4-s8EYwxdx",
+                        "name": "25122022 - BABTIS (36).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1vV8wIDdRCTQec5zOTT3BQELj60s3rTK7",
+                        "name": "25122022 - BABTIS (35).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1SU4U1V7a1Hj0hSsUma-2ezyB7Y_-IfgR",
+                        "name": "25122022 - BABTIS (34).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1wlxPWDI6EIQWWpP370xghD3-6_Ijkvt_",
+                        "name": "25122022 - BABTIS (33).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1axBGFTUlZeM3Q5Febr2tbZONKYsA-1cH",
+                        "name": "25122022 - BABTIS (32).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1UZdFYSV2Ab-NQ1EvLA4U25GXyJ5CVdiX",
+                        "name": "25122022 - BABTIS (31).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1uPq8gwjWGr4bVXUGBiNmuKhkqR7ejnvh",
+                        "name": "25122022 - BABTIS (30).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "15G9MYz4ME-OYTap8FpQzRNuj7zWCWBqc",
+                        "name": "25122022 - BABTIS (3).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1j22_hK_f9vfOmHD4N6v0vs0QjSRiazpK",
+                        "name": "25122022 - BABTIS (29).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Q930Hy80CI-z1aRcx-cu8QlWS3xiRDEK",
+                        "name": "25122022 - BABTIS (28).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "19JZlxYM60Yn3m3CUCsbwpVuSX6-PA4VT",
+                        "name": "25122022 - BABTIS (27).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1-dELNgj9DqAhMimHWsRZTwok0Csy4ZOR",
+                        "name": "25122022 - BABTIS (26).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1ZMXbzRbWPzia-MMCSs8KnttXQE1SHLKv",
+                        "name": "25122022 - BABTIS (25).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1raCagT_yxLedGRTr21sk63AQAMP-Y4IJ",
+                        "name": "25122022 - BABTIS (24).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1TXPCryeFPD553-WVlCSadMbDEzQmMcy1",
+                        "name": "25122022 - BABTIS (23).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1RmcfqiEj0ET2-37Z75CoxqJOHtgl8eFE",
+                        "name": "25122022 - BABTIS (22).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1pujLJCvc5JLbJA-760JX37tEWWaLV1sG",
+                        "name": "25122022 - BABTIS (21).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1nmMyVK0r1Ar6PgMTf58Ogr9RmiUPF4Wc",
+                        "name": "25122022 - BABTIS (20).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Qsijy1P5Gv4Cue83chJgfoGzsZX_WKgN",
+                        "name": "25122022 - BABTIS (2).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1Yas09chD1r59tfzosFYAVffUFVW6O75w",
+                        "name": "25122022 - BABTIS (19).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1BsSju1kRtrGpfruSaJZpa7se0hDH4SKl",
+                        "name": "25122022 - BABTIS (18).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1qQhE4bhLKe2j1BDI9hcCu7XRm-7ejD_x",
+                        "name": "25122022 - BABTIS (17).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "10nHedP8sIsP6_xrvnG240keNv4DldW3N",
+                        "name": "25122022 - BABTIS (16).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1qwyF3171mYGb2an7Yn6tynvNocnKS6QS",
+                        "name": "25122022 - BABTIS (15).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "10aD70jZINSAtzvtBGX5fhvHc11H_ZouO",
+                        "name": "25122022 - BABTIS (14).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1z2jvdrv6-1qrayM_k8WVWMhE1cDukLB6",
+                        "name": "25122022 - BABTIS (130).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1f8y45fV-6__zkZbfCfEfu1uv7ueJQGoy",
+                        "name": "25122022 - BABTIS (13).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1gtSIePokKNfeTy_j8NTiNpjcUbsYz57i",
+                        "name": "25122022 - BABTIS (129).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1SlFNV6RINagGpGh3zzor6RBtWjt9Ol3r",
+                        "name": "25122022 - BABTIS (128).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1GRjIima0q1Ol5KC2r-Xhc8xSjoJvI9I-",
+                        "name": "25122022 - BABTIS (127).JPG"
+                    },
+                    {
+                        "date": "2023-11-17",
+                        "id": "1CVSddBkTqMYbPtQVXsUzDjQ8sW-TXlm1",
+                        "name": "25122022 - BABTIS (126).JPG"
+                    }
+                ],
+                "story": "Foto dokumentasi baptis anak.",
+                "title": "Baptis Anak Desember 2022"
             }
         ]
     }
