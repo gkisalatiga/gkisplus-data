@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 176,
-        "last-update": 1724098594,
+        "update-count": 177,
+        "last-update": 1724163315,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
@@ -935,6 +935,14 @@
         "yt-video": {
             "saren": [
                 {
+                    "title": "SaRen Pagi | 20 Agu 2024",
+                    "date": "2024-08-19",
+                    "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                    "link": "https://www.youtube.com/watch?v=UbxREfTvtxQ",
+                    "thumbnail": "https://i2.ytimg.com/vi/UbxREfTvtxQ/hqdefault.jpg",
+                    "is_live": 0
+                },
+                {
                     "title": "SaRen Pagi | 19  Agu 2024",
                     "date": "2024-08-18",
                     "desc": "Dibawakan oleh Ibu Alia Katharina",
@@ -1012,14 +1020,6 @@
                     "desc": "Dibawakan oleh Ibu Renny Handayani",
                     "link": "https://www.youtube.com/watch?v=45uc5Bj5oxo",
                     "thumbnail": "https://i1.ytimg.com/vi/45uc5Bj5oxo/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 7 Agu 2024 | Kita Sudah Merdeka",
-                    "date": "2024-08-06",
-                    "desc": "Dibawakan oleh Ibu Yedida Christa Pujianti",
-                    "link": "https://www.youtube.com/watch?v=V57hq_fmBTg",
-                    "thumbnail": "https://i3.ytimg.com/vi/V57hq_fmBTg/hqdefault.jpg",
                     "is_live": 0
                 }
             ],
