@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 177,
-        "last-update": 1724163315,
-        "last-updated-item": "yt-video/saren",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 178,
+        "last-update": 1724169175,
+        "last-updated-item": "agenda",
+        "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
     "data": {
@@ -1425,7 +1425,7 @@
                     "name": "Latihan Pemandu Pemahaman Alkitab",
                     "time": "18:00",
                     "place": "Ruang Kana",
-                    "representative": "Komisi PPK"
+                    "representative": "Komisi Pengajaran dan Pengabaran Injil"
                 }
             ],
             "tue": [
@@ -1433,7 +1433,7 @@
                     "name": "Pemahaman Alkitab Wilayah",
                     "time": "17:00",
                     "place": "Wilayah masing-masing",
-                    "representative": "Komisi PPK"
+                    "representative": "Komisi Pengajaran dan Pengabaran Injil"
                 }
             ],
             "wed": [
