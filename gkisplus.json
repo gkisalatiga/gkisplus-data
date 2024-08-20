@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 179,
-        "last-update": 1724169271,
-        "last-updated-item": "agenda",
+        "update-count": 180,
+        "last-update": 1724169530,
+        "last-updated-item": "forms",
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
@@ -1514,6 +1514,10 @@
             ]
         },
         "forms": [
+            {
+                "title": "Update Data Diri SODA GKI Salatiga 2024",
+                "url": "https://forms.gle/zXgJuCCjCn6ixk8m7"
+            },
             {
                 "title": "Update Data Anggota Jemaat dan Simpatisan GKI Salatiga",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdhMVZ-AxgvaVX-VBPo5_XdL-0qUd4erO_rh5HFLM9u0pyTFA/viewform"
