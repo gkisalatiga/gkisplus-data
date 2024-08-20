@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 178,
-        "last-update": 1724169175,
+        "update-count": 179,
+        "last-update": 1724169271,
         "last-updated-item": "agenda",
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
@@ -1442,6 +1442,12 @@
                     "time": "18:00",
                     "place": "Ruang Konsistori",
                     "representative": "Komisi Dewasa"
+                },
+                {
+                    "name": "Katekisasi",
+                    "time": "17:00",
+                    "place": "Ruang Kana",
+                    "representative": "Majelis Jemaat"
                 }
             ],
             "thu": [
@@ -1498,6 +1504,12 @@
                     "time": "16:30",
                     "place": "Gedung Utama GKI Salatiga",
                     "representative": "Majelis Jemaat"
+                },
+                {
+                    "name": "Ibadah Sekolah Minggu",
+                    "time": "07:00",
+                    "place": "Ruang Kelas Sesuai Usia Masing-Masing",
+                    "representative": "Komisi Anak"
                 }
             ]
         },
