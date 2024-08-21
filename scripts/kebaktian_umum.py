@@ -82,21 +82,38 @@ def get_data():
     j['meta']['last-update'] = int( time.mktime(dt.now().timetuple()) )
     j['meta']['last-updated-item'] = 'yt-video/umum'
     
-    # Resetting the JSON node.
-    j['data']['yt-video']['umum'] = []
-    # Assumes identical s1, s2 and s3 list size.
-    # Writes the scraped data into the JSON file.
-    print('Morphing the JSON data ...')
-    for i in range(len(s1)):
-        print(f'Writing data no. {i}: {s1[i]}')
-        j['data']['yt-video']['umum'].append({
-            'title': s1[i],
-            'date': s3[i],
-            'desc': s4[i],
-            'link': s5[i],
-            'thumbnail': s6[i],
-            'is_live': 1
-        })
+    # Detecting which node is this playlist's
+    node_title = 'Kebaktian Umum'
+    k = j['data']['yt']['pinned'].copy()
+    k.extend(j['data']['yt']['standard'])
+    for a in k:
+        print(json.dumps(k[0], indent=2))
+        if not a['title'] == node_title:
+            continue
+        else:
+            # Detecting which parent node this playlist node belongs to.
+            for x in ['pinned', 'standard']:
+                if j['data']['yt'][x].__contains__(a):
+                    parent_node = x
+                    node_index = j['data']['yt'][x].index(a)
+            
+            # Resetting the JSON node.
+            j['data']['yt'][parent_node][node_index]['content'] = []
+            # Assumes identical s1, s2 and s3 list size.
+            # Writes the scraped data into the JSON file.
+            print('Morphing the JSON data ...')
+            for i in range(len(s1)):
+                print(f'Writing data no. {i}: {s1[i]}')
+                j['data']['yt'][parent_node][node_index]['content'].append({
+                    'title': s1[i],
+                    'date': s3[i],
+                    'desc': s4[i],
+                    'link': s5[i],
+                    'thumbnail': s6[i],
+                    'is_live': 1
+                })
+            
+            break
     
     # Writing into the remote GitHub repo's file.
     # SOURCE: https://www.perplexity.ai/search/show-me-how-to-write-into-gith-YSsKLQ9wTGun0NGHscbNzw
