@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 182,
-        "last-update": 1724193036,
-        "last-updated-item": "yt",
-        "last-actor": "SIMON_PETRUS",
+        "update-count": 183,
+        "last-update": 1724249780,
+        "last-updated-item": "yt-video/saren",
+        "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
     },
     "data": {
@@ -935,6 +935,14 @@
         "yt-video": {
             "saren": [
                 {
+                    "title": "SaRen Pagi | 22 Agu 2024",
+                    "date": "2024-08-21",
+                    "desc": "Dibawakan oleh Ibu Rini Hari Adi",
+                    "link": "https://www.youtube.com/watch?v=tWmUKrztzB0",
+                    "thumbnail": "https://i1.ytimg.com/vi/tWmUKrztzB0/hqdefault.jpg",
+                    "is_live": 0
+                },
+                {
                     "title": "SaRen Pagi | 21 Agu 2024",
                     "date": "2024-08-20",
                     "desc": "Dibawakan oleh Pnt. Hendra Aribowo",
@@ -1004,22 +1012,6 @@
                     "desc": "Dibawakan oleh Ibu Retno Triandhini",
                     "link": "https://www.youtube.com/watch?v=8Bk6zaaTW1E",
                     "thumbnail": "https://i1.ytimg.com/vi/8Bk6zaaTW1E/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 10 Agu 2024",
-                    "date": "2024-08-09",
-                    "desc": "Dibawakan oleeh Pnt. Benny Kailola",
-                    "link": "https://www.youtube.com/watch?v=fMrEIZfh_Ic",
-                    "thumbnail": "https://i3.ytimg.com/vi/fMrEIZfh_Ic/hqdefault.jpg",
-                    "is_live": 0
-                },
-                {
-                    "title": "SaRen Pagi | 9 Agu 2024 | Berharga di Mata Allah",
-                    "date": "2024-08-08",
-                    "desc": "Dibawakan oleh Sdri. Phoebe Bernadette",
-                    "link": "https://www.youtube.com/watch?v=JWMkxNdebyQ",
-                    "thumbnail": "https://i3.ytimg.com/vi/JWMkxNdebyQ/hqdefault.jpg",
                     "is_live": 0
                 }
             ],
