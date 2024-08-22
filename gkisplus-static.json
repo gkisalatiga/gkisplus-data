@@ -1,0 +1,46 @@
+{
+    "meta": {
+        "update-count": 0,
+        "last-update": 1724099120,
+        "last-actor": "SIMON_PETRUS",
+        "schema-version": "0.1.0"
+    },
+    "static": [
+        {
+            "banner": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+            "title": "Badan Pelayanan (Bapel)",
+            "content": [
+                {
+                    "title": "Contoh Saja",
+                    "subtitle": "-",
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
+                    "html": "<b>ahuehfe</b>"
+                },
+                {
+                    "title": "Contoh Saja 2",
+                    "subtitle": "-",
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/00_profil_gereja.webp",
+                    "html": "<b>ahuehfe</b>"
+                }
+            ]
+        },
+        {
+            "banner": "http://gkisalatiga.org/wp-content/uploads/2020/10/20_majelis_jemaat.webp",
+            "title": "Apa hayo?",
+            "content": [
+                {
+                    "title": "Contoh Saja",
+                    "subtitle": "-",
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
+                    "html": "<b>ahuehfe</b>"
+                },
+                {
+                    "title": "Contoh Saja 2",
+                    "subtitle": "-",
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/00_profil_gereja.webp",
+                    "html": "<b>ahuehfe</b>"
+                }
+            ]
+        }
+    ]
+}
