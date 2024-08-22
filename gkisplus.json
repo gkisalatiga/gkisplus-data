@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 190,
-        "last-update": 1724357851,
+        "update-count": 191,
+        "last-update": 1724366287,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 23 Agu 2024 | Kekuatan dalam Kelemahan",
+                            "date": "2024-08-22",
+                            "desc": "Dibawakan oleh Ibu Made Rai Shanti",
+                            "link": "https://www.youtube.com/watch?v=Tq0dlYyyo5w",
+                            "thumbnail": "https://i1.ytimg.com/vi/Tq0dlYyyo5w/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 22 Agu 2024",
                             "date": "2024-08-21",
