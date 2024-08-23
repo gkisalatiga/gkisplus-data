@@ -1,46 +1,64 @@
 {
     "meta": {
-        "update-count": 0,
-        "last-update": 1724099120,
+        "update-count": 2,
+        "last-update": 1724386645,
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
     "static": [
         {
             "banner": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
-            "title": "Badan Pelayanan (Bapel)",
             "content": [
                 {
-                    "title": "Contoh Saja",
-                    "subtitle": "-",
                     "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
-                    "html": "<b>ahuehfe</b>"
+                    "html": "<b>ahuehfe</b>",
+                    "subtitle": "-",
+                    "title": "Contoh Saja"
                 },
                 {
-                    "title": "Contoh Saja 2",
-                    "subtitle": "-",
                     "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/00_profil_gereja.webp",
-                    "html": "<b>ahuehfe</b>"
+                    "html": "<b>ahuehfe</b>",
+                    "subtitle": "-",
+                    "title": "Contoh Saja 2"
                 }
-            ]
+            ],
+            "title": "Badan Pelayanan (Bapel)"
         },
         {
             "banner": "http://gkisalatiga.org/wp-content/uploads/2020/10/20_majelis_jemaat.webp",
-            "title": "Apa hayo?",
             "content": [
                 {
-                    "title": "Contoh Saja",
-                    "subtitle": "-",
                     "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
-                    "html": "<b>ahuehfe</b>"
+                    "html": "<b>ahuehfe</b>",
+                    "subtitle": "-",
+                    "title": "Contoh Saja"
                 },
                 {
-                    "title": "Contoh Saja 2",
-                    "subtitle": "-",
                     "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/00_profil_gereja.webp",
-                    "html": "<b>ahuehfe</b>"
+                    "html": "<b>ahuehfe</b>",
+                    "subtitle": "-",
+                    "title": "Contoh Saja 2"
+                },
+                {
+                    "featured-image": "https://wefefwf",
+                    "html": "<!DOCTYPE html>\n        <html>\n        <head>\n          <title>Custom HTML Page</title>\n        </head>\n        <body>\n          <h1>Welcome to my custom HTML page!</h1>\n          <p>This is a sample HTML page displayed in a PyQt5 application.</p>\n          <p><a href=\"https://www.perplexity.ai/search/python-markdown-renderer-with-rBKW8FRJSsyXNA3esinIKQ\">link to</a></p>\n          <p><img alt=\"image to\" src=\"https://raw.githubusercontent.com/tanthehack/noted/master/Icons/small_Logo.png\" /></p>\n        </body>\n        </html>",
+                    "subtitle": "wiefjiawjeofjoawjfiowjeiofj",
+                    "title": "O tan jou bi"
                 }
-            ]
+            ],
+            "title": "Apa hayo?"
+        },
+        {
+            "banner": "http://gkisalatiga.org/wp-content/uploads/2024/08/17an-2024.webp",
+            "content": [
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "html": "Hello World!\n\n<img src=\"http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg\" style=\"width: 100%;\"/>\n\n<h1>Nice to see you!</h1>",
+                    "subtitle": "asd",
+                    "title": "Sejarah Drum di GKI Salatiga"
+                }
+            ],
+            "title": "Komisi Musik dan Drum"
         }
     ]
 }
