@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 201,
-        "last-update": 1724508818,
-        "last-updated-item": "pdf/wj",
+        "update-count": 202,
+        "last-update": 1724508880,
+        "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
     },
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi  | 24 Agu 2024 | Dipanggil Untuk Memberikan Dampak",
+                            "date": "2024-08-23",
+                            "desc": "Dibawakan oleh Pnt. Nadia SIta",
+                            "link": "https://www.youtube.com/watch?v=1LQaowAitrs",
+                            "thumbnail": "https://i2.ytimg.com/vi/1LQaowAitrs/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 23 Agu 2024 | Kekuatan dalam Kelemahan",
                             "date": "2024-08-22",
@@ -98,14 +106,6 @@
                             "desc": "dibawakan oleh Sdri. Gabrilia Dewi",
                             "link": "https://www.youtube.com/watch?v=vrT5nZmq-Lk",
                             "thumbnail": "https://i3.ytimg.com/vi/vrT5nZmq-Lk/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 12 Agu 2024",
-                            "date": "2024-08-11",
-                            "desc": "Dibawakan oleh Ibu Retno Triandhini",
-                            "link": "https://www.youtube.com/watch?v=8Bk6zaaTW1E",
-                            "thumbnail": "https://i1.ytimg.com/vi/8Bk6zaaTW1E/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
