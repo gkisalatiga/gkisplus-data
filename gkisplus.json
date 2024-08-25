@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 211,
-        "last-update": 1724595192,
+        "update-count": 212,
+        "last-update": 1724617152,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 26 Agu 2024",
+                            "date": "2024-08-25",
+                            "desc": "Dibawakan oleh Bpk. Henry Kristiyanto",
+                            "link": "https://www.youtube.com/watch?v=D1jHDQY4N-A",
+                            "thumbnail": "https://i1.ytimg.com/vi/D1jHDQY4N-A/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi  | 24 Agu 2024 | Dipanggil Untuk Memberikan Dampak",
                             "date": "2024-08-23",
@@ -98,14 +106,6 @@
                             "desc": "Dibawakan oleh Pnt. Catur Winarno",
                             "link": "https://www.youtube.com/watch?v=Rqo8jfsJAQA",
                             "thumbnail": "https://i3.ytimg.com/vi/Rqo8jfsJAQA/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 13 Agu 2024",
-                            "date": "2024-08-12",
-                            "desc": "dibawakan oleh Sdri. Gabrilia Dewi",
-                            "link": "https://www.youtube.com/watch?v=vrT5nZmq-Lk",
-                            "thumbnail": "https://i3.ytimg.com/vi/vrT5nZmq-Lk/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
