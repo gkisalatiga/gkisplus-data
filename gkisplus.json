@@ -1204,26 +1204,51 @@
             {
                 "bank-name": "Bank Central Asia",
                 "bank-abbr": "BCA",
-                "bank-number": "088.12.345.67",
+                "bank-number": "320.678.8899",
                 "account-holder": "GKI Salatiga"
             },
             {
                 "bank-name": "CIMB Niaga",
                 "bank-abbr": "CIMB",
-                "bank-number": "012.34.567.89",
-                "account-holder": "Tan Ik Hay"
+                "bank-number": "8001.0331.5400",
+                "account-holder": "GKI Salatiga"
+            }
+        ],
+        "offertory-code": [
+            {
+                "unique-code": "13",
+                "title": "Pundi Samaria",
+                "desc": "Persembahan digunakan untuk memberikan beasiswa pendidikan bagi anggota dan simpatisan GKI Salatiga"
             },
             {
-                "bank-name": "Bank Mandiri",
-                "bank-abbr": "MANDIRI",
-                "bank-number": "643.15.624.3651",
-                "account-holder": "GKI Salatiga Komisi Anak"
+                "unique-code": "19",
+                "title": "GKI Salatiga Peduli",
+                "desc": "Persembahan dikelola untuk membantu para korban bencana alam serta membantu orang-orang yang membutuhkan"
             },
             {
-                "bank-name": "Bank Negara Indonesia",
-                "bank-abbr": "BNI",
-                "bank-number": "123.45.678.90",
-                "account-holder": "Yayasan Pendidikan Eben Haezer"
+                "unique-code": "24",
+                "title": "Malam Natal",
+                "desc": "Persembahan dalam rangka ibadah malam natal GKI Salatiga"
+            },
+            {
+                "unique-code": "25",
+                "title": "Malam Natal",
+                "desc": "Persembahan dalam rangka perayaan natal setiap tanggal 25 Desember di GKI Salatiga"
+            },
+            {
+                "unique-code": "33",
+                "title": "Dana Kebersamaan Klasis (DKK)",
+                "desc": "Persembahan dipakai untuk mendukung pelayanan gereja-gereja dalam lingkup Klasis Magelang"
+            },
+            {
+                "unique-code": "50",
+                "title": "Unduh-Unduh",
+                "desc": "Persembahan dipakai dalam kegiatan unduh-unduh pada rangkaian Paskah tahunan GKI Salatiga"
+            },
+            {
+                "unique-code": "93",
+                "title": "Yayasan Pendidikan Eben Haezer (YPE)",
+                "desc": "Persembahan dikelola untuk mendukung pelayanan pendidikan di Yayasan Pendidikan Eben Haezer GKI Salatiga"
             }
         ],
         "carousel": {
@@ -1292,13 +1317,6 @@
                 "yt-link": "https://www.youtube.com/watch?v=-iNvJ9i1_nY&pp=ygUMZ2tpIHNhbGF0aWdh",
                 "yt-thumbnail": "https://i.ytimg.com/vi/-iNvJ9i1_nY/maxresdefault.jpg",
                 "yt-is_live": 0
-            }
-        },
-        "helper-title": {
-            "yt-video": {
-                "saren": "Sapaan dan Renungan Pagi",
-                "umum": "Kebaktian Umum",
-                "es": "English Service"
             }
         }
     }
