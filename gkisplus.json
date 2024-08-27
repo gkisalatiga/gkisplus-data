@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 215,
-        "last-update": 1724768105,
+        "update-count": 216,
+        "last-update": 1724789895,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 28 Agu 2024",
+                            "date": "2024-08-27",
+                            "desc": "Dibawakan oleh Ibu Krisulastri",
+                            "link": "https://www.youtube.com/watch?v=IvmvFyGlFYo",
+                            "thumbnail": "https://i2.ytimg.com/vi/IvmvFyGlFYo/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 27 Agu 2024",
                             "date": "2024-08-26",
@@ -98,14 +106,6 @@
                             "desc": "Dibawakan oleh Ibu Raema Andreyana",
                             "link": "https://www.youtube.com/watch?v=KuCk3Klr274",
                             "thumbnail": "https://i4.ytimg.com/vi/KuCk3Klr274/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 15 Agu 2024 | Merdeka dari Menggerutu",
-                            "date": "2024-08-14",
-                            "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                            "link": "https://www.youtube.com/watch?v=9SrpSfk4xt4",
-                            "thumbnail": "https://i2.ytimg.com/vi/9SrpSfk4xt4/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
