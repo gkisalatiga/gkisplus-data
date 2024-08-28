@@ -1,0 +1,12 @@
+{
+    "feeds": {
+        "app-update": {
+            "version-code": 25,
+            "version-name": "0.4.2-beta",
+            "download-url": "https://github.com/gkisalatiga/gki-salatiga-plus/releases/tag/v0.4.2-beta"
+        },
+        "last-gallery-update": 1724387161,
+        "last-metadata-update": 1724387161,
+        "last-static-update": 1724387161
+    }
+}
