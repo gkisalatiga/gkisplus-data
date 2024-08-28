@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 216,
-        "last-update": 1724789895,
+        "update-count": 217,
+        "last-update": 1724854514,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 29 Agu 2024",
+                            "date": "2024-08-28",
+                            "desc": "Dibawakan oleh Ibu Trevie Rumuat",
+                            "link": "https://www.youtube.com/watch?v=-xtaNHwDS74",
+                            "thumbnail": "https://i2.ytimg.com/vi/-xtaNHwDS74/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 28 Agu 2024",
                             "date": "2024-08-27",
