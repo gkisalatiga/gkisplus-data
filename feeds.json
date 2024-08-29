@@ -2,7 +2,7 @@
     "feeds": {
         "app-update": {
             "version-code": 27,
-            "version-name": "1.2.3.4.5-test",
+            "version-name": "bisa-update-manual-bang",
             "download-url": "https://github.com/gkisalatiga/gki-salatiga-plus/releases/tag/v0.4.2-beta"
         },
         "last-gallery-update": 1724099120,
