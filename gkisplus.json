@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 220,
-        "last-update": 1724962644,
+        "update-count": 221,
+        "last-update": 1725027351,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
@@ -20,6 +20,22 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 31 Agu 2024",
+                            "date": "2024-08-29",
+                            "desc": "Dibawakan oleh Sdri. Debora Mayang Arum",
+                            "link": "https://www.youtube.com/watch?v=FkS7Kt7pr1M",
+                            "thumbnail": "https://i3.ytimg.com/vi/FkS7Kt7pr1M/hqdefault.jpg",
+                            "is_live": 0
+                        },
+                        {
+                            "title": "SaRen Pagi | 30 Agu 2024 | Memilih Jalan Yang Tidak Mudah",
+                            "date": "2024-08-29",
+                            "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
+                            "link": "https://www.youtube.com/watch?v=wCKAPJ68nGw",
+                            "thumbnail": "https://i4.ytimg.com/vi/wCKAPJ68nGw/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 29 Agu 2024",
                             "date": "2024-08-28",
@@ -98,22 +114,6 @@
                             "desc": "Dibawakan oleh Ibu Alia Katharina",
                             "link": "https://www.youtube.com/watch?v=j8lB6E__IoQ",
                             "thumbnail": "https://i3.ytimg.com/vi/j8lB6E__IoQ/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 17 Agu 2024 | NUSANTARA BARU (PEMIMPIN BARU &) INDONESIA MAJU",
-                            "date": "2024-08-16",
-                            "desc": "Dibawakan oleh Bpk. Dwi Prasetyo\n\nPertama-tama aku menasihatkan: Naikkanlah permohonan, doa syafaat dan ucapan syukur untuk semua orang,  untuk raja-raja dan untuk semua pembesar, agar kita dapat hidup tenang dan tenteram dalam segala kesalehan dan kehormatan.  Itulah yang baik dan yang berkenan kepada Allah, Juruselamat kita,  yang menghendaki supaya semua orang diselamatkan dan memperoleh pengetahuan akan kebenaran. \n1 Timotius 2:1-4",
-                            "link": "https://www.youtube.com/watch?v=V7R3ccx6EM4",
-                            "thumbnail": "https://i3.ytimg.com/vi/V7R3ccx6EM4/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 16 Agu 2024",
-                            "date": "2024-08-15",
-                            "desc": "Dibawakan oleh Ibu Raema Andreyana",
-                            "link": "https://www.youtube.com/watch?v=KuCk3Klr274",
-                            "thumbnail": "https://i4.ytimg.com/vi/KuCk3Klr274/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
