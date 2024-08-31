@@ -122,6 +122,25 @@ def get_data():
         json.dump(j, fo, ensure_ascii=False, indent=4)
         fo.close()
     
+    # ------------------------------- UPDATING THE FEEDS ------------------------------- #
+    
+    # Parsing the current JSON file.
+    json_path = 'feeds.json'
+    fi = open(json_path, 'r')
+    j = json.load(fi)
+    fi.close()
+    
+    # Incrementing the update count and updating the 'last update' item.
+    j['feeds']['last-maindata-update'] = int( time.mktime(dt.now().timetuple()) )
+    
+    # Writing into the remote GitHub repo's file.
+    print('Writing the JSON file ...')
+    with open(json_path, 'w') as fo:
+        json.dump(j, fo, ensure_ascii=False, indent=4)
+        fo.close()
+    
+    # ---------------------------------------------------------------------------------- #
+    
     # Logging out.
     print('-' * 25)
     print('Finished the automation!')
