@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 10,
-        "last-update": 1725075957,
+        "update-count": 12,
+        "last-update": 1725077697,
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
@@ -37,52 +37,52 @@
             "title": "Profil GKI Salatiga"
         },
         {
-            "banner": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+            "banner": "https://raw.githubusercontent.com/gkisalatiga/gki-salatiga-plus/main/AndroidStudioProject/app/src/main/res/drawable-nodpi/thumbnail_loading_no_text.webp",
             "content": [
                 {
-                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+                    "featured-image": "https://raw.githubusercontent.com/gkisalatiga/gki-salatiga-plus/main/AndroidStudioProject/app/src/main/res/drawable-nodpi/thumbnail_loading_no_text.webp",
                     "html": "Dummy",
                     "subtitle": "Periode 2017 s.d. Sekarang",
                     "title": "Pdt. Helen Ruth Manurung"
                 },
                 {
-                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+                    "featured-image": "https://raw.githubusercontent.com/gkisalatiga/gki-salatiga-plus/main/AndroidStudioProject/app/src/main/res/drawable-nodpi/thumbnail_loading_no_text.webp",
                     "html": "Dummy",
                     "subtitle": "Periode 2008 s.d. Sekarang",
                     "title": "Pdt. Yefta Setiawan Krisgunadi"
                 },
                 {
-                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+                    "featured-image": "https://raw.githubusercontent.com/gkisalatiga/gki-salatiga-plus/main/AndroidStudioProject/app/src/main/res/drawable-nodpi/thumbnail_loading_no_text.webp",
                     "html": "Dummy",
                     "subtitle": "Periode 1998 s.d. 2015",
                     "title": "Pdt. Em. Iman Santoso"
                 },
                 {
-                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+                    "featured-image": "https://raw.githubusercontent.com/gkisalatiga/gki-salatiga-plus/main/AndroidStudioProject/app/src/main/res/drawable-nodpi/thumbnail_loading_no_text.webp",
                     "html": "Dummy",
                     "subtitle": "Periode 1989 s.d. 1998",
                     "title": "Pdt. Yahya Wijaya"
                 },
                 {
-                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+                    "featured-image": "https://raw.githubusercontent.com/gkisalatiga/gki-salatiga-plus/main/AndroidStudioProject/app/src/main/res/drawable-nodpi/thumbnail_loading_no_text.webp",
                     "html": "Dummy",
                     "subtitle": "Periode 1979 s.d. 1989",
                     "title": "Pdt. The Koen Bik"
                 },
                 {
-                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+                    "featured-image": "https://raw.githubusercontent.com/gkisalatiga/gki-salatiga-plus/main/AndroidStudioProject/app/src/main/res/drawable-nodpi/thumbnail_loading_no_text.webp",
                     "html": "Dummy",
                     "subtitle": "Periode 1966 s.d. 1987",
                     "title": "Pdt. Tan Tjioe Gwan (Paulus Widihandjojo)"
                 },
                 {
-                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+                    "featured-image": "https://raw.githubusercontent.com/gkisalatiga/gki-salatiga-plus/main/AndroidStudioProject/app/src/main/res/drawable-nodpi/thumbnail_loading_no_text.webp",
                     "html": "Dummy",
                     "subtitle": "Periode 1959 s.d. 1965",
                     "title": "Pdt. Go Eng Tjoe (Paulus Sudiego)"
                 },
                 {
-                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+                    "featured-image": "https://raw.githubusercontent.com/gkisalatiga/gki-salatiga-plus/main/AndroidStudioProject/app/src/main/res/drawable-nodpi/thumbnail_loading_no_text.webp",
                     "html": "Dummy",
                     "subtitle": "Pendeta pertama GKI Salatiga, periode 1941 s.d. 1959",
                     "title": "Tan Ik Hay (Iskak Gunawan)"
