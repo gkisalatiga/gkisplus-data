@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 4,
-        "last-update": 1725074544,
+        "update-count": 10,
+        "last-update": 1725075957,
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
@@ -19,14 +19,75 @@
                     "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/gkisalatiga-2024.jpg",
                     "html": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Dummy Lorem Ipsum Page</title>\n    <style>\n    body {\n    font-family: Arial, sans-serif;\n    margin: 0;\n    padding: 0;\n    display: flex;\n    flex-direction: column;\n    min-height: 100vh;\n}\n\nheader {\n    background-color: #333;\n    color: #fff;\n    padding: 1em;\n    text-align: center;\n}\n\nmain {\n    flex-grow: 1;\n}\n\n.content {\n    padding: 2em;\n}\n\nfooter {\n    background-color: #333;\n    color: #fff;\n    padding: 1em;\n    text-align: center;\n}\n\n    </style>\n</head>\n<body>\n    <header>\n        <h1>Dummy Lorem Ipsum Page</h1>\n        <img src=\"http://gkisalatiga.org/wp-content/uploads/2024/07/Cuplikan-layar-2024-07-13-154156.webp\" width=\"50%\" />\n    </header>\n    <main>\n        <section class=\"content\">\n            <button id=\"clickable\">Click Me!</button>\n            <p id=\"clickable-action\"></p>\n            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n            <p>Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n            <p>Nulla quis lorem ut libero malesuada feugiat. Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta.</p>\n            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n            <p>Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n            <p>Nulla quis lorem ut libero malesuada feugiat. Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta.</p>\n            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n            <p>Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n            <p>Nulla quis lorem ut libero malesuada feugiat. Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta.</p>\n            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n            <p>Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n            <p>Nulla quis lorem ut libero malesuada feugiat. Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta.</p>\n        </section>\n    </main>\n    <footer>\n        <p>&copy; 2024 Dummy Lorem Ipsum Page</p>\n    </footer>\n    <script type=\"text/javascript\">\n    // Example JavaScript code\nconsole.log(\"Hello, World!\");\n// alert(\"Hello world\");\ndocument.getElementById(\"clickable\").onclick = function() {\n    document.getElementById(\"clickable-action\").innerHTML = \"You just clicked the dummy button.\"\n};\n\n    </script>\n</body>\n</html>",
                     "subtitle": "",
-                    "title": "Apa Itu Cinta?"
+                    "title": "Sejarah GKI Salatiga"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "html": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Dummy Lorem Ipsum Page</title>\n    <style>\n    body {\n    font-family: Arial, sans-serif;\n    margin: 0;\n    padding: 0;\n    display: flex;\n    flex-direction: column;\n    min-height: 100vh;\n}\n\nheader {\n    background-color: #333;\n    color: #fff;\n    padding: 1em;\n    text-align: center;\n}\n\nmain {\n    flex-grow: 1;\n}\n\n.content {\n    padding: 2em;\n}\n\nfooter {\n    background-color: #333;\n    color: #fff;\n    padding: 1em;\n    text-align: center;\n}\n\n    </style>\n</head>\n<body>\n    <header>\n        <h1>Dummy Lorem Ipsum Page</h1>\n        <img src=\"http://gkisalatiga.org/wp-content/uploads/2024/07/Cuplikan-layar-2024-07-13-154156.webp\" width=\"50%\" />\n    </header>\n    <main>\n        <section class=\"content\">\n            <button id=\"clickable\">Click Me!</button>\n            <p id=\"clickable-action\"></p>\n            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n            <p>Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n            <p>Nulla quis lorem ut libero malesuada feugiat. Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta.</p>\n            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n            <p>Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n            <p>Nulla quis lorem ut libero malesuada feugiat. Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta.</p>\n            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n            <p>Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n            <p>Nulla quis lorem ut libero malesuada feugiat. Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta.</p>\n            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n            <p>Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>\n            <p>Nulla quis lorem ut libero malesuada feugiat. Donec rutrum congue leo eget malesuada. Cras ultricies ligula sed magna dictum porta.</p>\n        </section>\n    </main>\n    <footer>\n        <p>&copy; 2024 Dummy Lorem Ipsum Page</p>\n    </footer>\n    <script type=\"text/javascript\">\n    // Example JavaScript code\nconsole.log(\"Hello, World!\");\n// alert(\"Hello world\");\ndocument.getElementById(\"clickable\").onclick = function() {\n    document.getElementById(\"clickable-action\").innerHTML = \"You just clicked the dummy button.\"\n};\n\n    </script>\n</body>\n</html>",
+                    "subtitle": "",
+                    "title": "Potret Diri"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "html": "<h3>Dummy</h3>\n<iframe src=\"https://osm.quelltextlich.at/viewer-js.html?kml_url=https://osm.quelltextlich.at/demo/demo.kml\" width=\"100%\" height=\"480\"></iframe>\n\n\n\nhttp://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "subtitle": "",
+                    "title": "Profil Ruangan"
                 }
             ],
             "title": "Profil GKI Salatiga"
         },
         {
             "banner": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
-            "content": [],
+            "content": [
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+                    "html": "Dummy",
+                    "subtitle": "Periode 2017 s.d. Sekarang",
+                    "title": "Pdt. Helen Ruth Manurung"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+                    "html": "Dummy",
+                    "subtitle": "Periode 2008 s.d. Sekarang",
+                    "title": "Pdt. Yefta Setiawan Krisgunadi"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+                    "html": "Dummy",
+                    "subtitle": "Periode 1998 s.d. 2015",
+                    "title": "Pdt. Em. Iman Santoso"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+                    "html": "Dummy",
+                    "subtitle": "Periode 1989 s.d. 1998",
+                    "title": "Pdt. Yahya Wijaya"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+                    "html": "Dummy",
+                    "subtitle": "Periode 1979 s.d. 1989",
+                    "title": "Pdt. The Koen Bik"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+                    "html": "Dummy",
+                    "subtitle": "Periode 1966 s.d. 1987",
+                    "title": "Pdt. Tan Tjioe Gwan (Paulus Widihandjojo)"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+                    "html": "Dummy",
+                    "subtitle": "Periode 1959 s.d. 1965",
+                    "title": "Pdt. Go Eng Tjoe (Paulus Sudiego)"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+                    "html": "Dummy",
+                    "subtitle": "Pendeta pertama GKI Salatiga, periode 1941 s.d. 1959",
+                    "title": "Tan Ik Hay (Iskak Gunawan)"
+                }
+            ],
             "title": "Kependetaan"
         },
         {
@@ -36,19 +97,19 @@
                     "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
                     "html": "<b>ahuehfe</b>",
                     "subtitle": "-",
-                    "title": "Contoh Saja"
+                    "title": "Struktur Fungsional dan Kategorial"
                 },
                 {
                     "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/00_profil_gereja.webp",
                     "html": "<b>ahuehfe</b>",
                     "subtitle": "-",
-                    "title": "Contoh Saja 2"
+                    "title": "Program Pokok Bidang"
                 },
                 {
-                    "featured-image": "https://wefefwf",
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
                     "html": "<!DOCTYPE html>\n        <html>\n        <head>\n          <title>Custom HTML Page</title>\n        </head>\n        <body>\n          <h1>Welcome to my custom HTML page!</h1>\n          <p>This is a sample HTML page displayed in a PyQt5 application.</p>\n          <p><a href=\"https://www.perplexity.ai/search/python-markdown-renderer-with-rBKW8FRJSsyXNA3esinIKQ\">link to</a></p>\n          <p><img alt=\"image to\" src=\"https://raw.githubusercontent.com/tanthehack/noted/master/Icons/small_Logo.png\" /></p>\n        </body>\n        </html>",
-                    "subtitle": "wiefjiawjeofjoawjfiowjeiofj",
-                    "title": "O tan jou bi"
+                    "subtitle": "Periode Kerja 2024 s.d. 2025",
+                    "title": "Personalia Majelis Jemaat"
                 }
             ],
             "title": "Kemajelisan"
@@ -58,15 +119,87 @@
             "content": [
                 {
                     "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
-                    "html": "<b>ahuehfe</b>",
-                    "subtitle": "-",
-                    "title": "Contoh Saja"
+                    "html": "fiufhewiufewf",
+                    "subtitle": "Komisi Anak",
+                    "title": "KA"
                 },
                 {
                     "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/00_profil_gereja.webp",
                     "html": "<b>ahuehfe</b>",
-                    "subtitle": "-",
-                    "title": "Contoh Saja 2"
+                    "subtitle": "Komisi Dewasa",
+                    "title": "KD"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webpq",
+                    "html": "wqwfqwf",
+                    "subtitle": "Komisi Diakonia The Koen Bik",
+                    "title": "KDT"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
+                    "html": "qwdawd",
+                    "subtitle": "Komisi Hubungan Internasional",
+                    "title": "KHI"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
+                    "html": "awdawdawdadawd",
+                    "subtitle": "Komisi Musik dan Liturgi",
+                    "title": "KML"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
+                    "html": "afwfawfawfaw",
+                    "subtitle": "Komisi Kesejahteraan",
+                    "title": "KOMKES"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
+                    "html": "asdasdasd",
+                    "subtitle": "Komisi Remaja",
+                    "title": "KR"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
+                    "html": "Dummt",
+                    "subtitle": "Komisi Pemuda",
+                    "title": "KP"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
+                    "html": "awdawdaw",
+                    "subtitle": "Komisi Pengajaran dan Pengabaran Injil",
+                    "title": "KPPI"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
+                    "html": "qqfqfqfw",
+                    "subtitle": "Komisi Perkunjungan dan Pelayanan Kematian",
+                    "title": "KPPK"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
+                    "html": "<b>ahuehfe</b>",
+                    "subtitle": "Komisi Usia Lanjut",
+                    "title": "KUL"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
+                    "html": "awawfawfawfw",
+                    "subtitle": "Komisi Sarana Prasarana dan Multimedia",
+                    "title": "SARPRAS"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
+                    "html": "wfawfawfawf",
+                    "subtitle": "",
+                    "title": "Tim Samaria"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
+                    "html": "wafafwawfawfwf",
+                    "subtitle": "",
+                    "title": "Tim Warung Tiberias"
                 }
             ],
             "title": "Badan Pelayanan"
@@ -77,8 +210,74 @@
                 {
                     "featured-image": "http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
                     "html": "Hello World!\n\n<img src=\"http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg\" style=\"width: 100%;\"/>\n\n<h1>Nice to see you!</h1>",
-                    "subtitle": "asd",
-                    "title": "Sejarah Drum di GKI Salatiga"
+                    "subtitle": "",
+                    "title": "Wilayah I"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "html": "<h3>Dummy</h3>\n<iframe src=\"https://osm.quelltextlich.at/viewer-js.html?kml_url=https://osm.quelltextlich.at/demo/demo.kml\" width=\"100%\" height=\"480\"></iframe>",
+                    "subtitle": "",
+                    "title": "Wilayah II/VIII"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "html": "<h3>Dummy</h3>\n<iframe src=\"https://osm.quelltextlich.at/viewer-js.html?kml_url=https://osm.quelltextlich.at/demo/demo.kml\" width=\"100%\" height=\"480\"></iframe>",
+                    "subtitle": "",
+                    "title": "Wilayah III"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "html": "<h3>Dummy</h3>\n<iframe src=\"https://osm.quelltextlich.at/viewer-js.html?kml_url=https://osm.quelltextlich.at/demo/demo.kml\" width=\"100%\" height=\"480\"></iframe>\n\n\n\nhttp://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "subtitle": "",
+                    "title": "Wilayah IV"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "html": "<h3>Dummy</h3>\n<iframe src=\"https://osm.quelltextlich.at/viewer-js.html?kml_url=https://osm.quelltextlich.at/demo/demo.kml\" width=\"100%\" height=\"480\"></iframe>\n\n\n\nhttp://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "subtitle": "",
+                    "title": "Wilayah V"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "html": "<h3>Dummy</h3>\n<iframe src=\"https://osm.quelltextlich.at/viewer-js.html?kml_url=https://osm.quelltextlich.at/demo/demo.kml\" width=\"100%\" height=\"480\"></iframe>\n\n\n\nhttp://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "subtitle": "",
+                    "title": "Wilayah VI"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "html": "<h3>Dummy</h3>\n<iframe src=\"https://osm.quelltextlich.at/viewer-js.html?kml_url=https://osm.quelltextlich.at/demo/demo.kml\" width=\"100%\" height=\"480\"></iframe>\n\n\n\nhttp://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "subtitle": "",
+                    "title": "Wilayah VII"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "html": "<h3>Dummy</h3>\n<iframe src=\"https://osm.quelltextlich.at/viewer-js.html?kml_url=https://osm.quelltextlich.at/demo/demo.kml\" width=\"100%\" height=\"480\"></iframe>\n\n\n\nhttp://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "subtitle": "",
+                    "title": "Wilayah IX"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "html": "<h3>Dummy</h3>\n<iframe src=\"https://osm.quelltextlich.at/viewer-js.html?kml_url=https://osm.quelltextlich.at/demo/demo.kml\" width=\"100%\" height=\"480\"></iframe>\n\n\n\nhttp://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "subtitle": "",
+                    "title": "Wilayah X"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "html": "<h3>Dummy</h3>\n<iframe src=\"https://osm.quelltextlich.at/viewer-js.html?kml_url=https://osm.quelltextlich.at/demo/demo.kml\" width=\"100%\" height=\"480\"></iframe>\n\n\n\nhttp://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "subtitle": "",
+                    "title": "Wilayah XI"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "html": "<h3>Dummy</h3>\n<iframe src=\"https://osm.quelltextlich.at/viewer-js.html?kml_url=https://osm.quelltextlich.at/demo/demo.kml\" width=\"100%\" height=\"480\"></iframe>\n\n\n\nhttp://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "subtitle": "",
+                    "title": "Wilayah XII"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "html": "<h3>Dummy</h3>\n<iframe src=\"https://osm.quelltextlich.at/viewer-js.html?kml_url=https://osm.quelltextlich.at/demo/demo.kml\" width=\"100%\" height=\"480\"></iframe>\n\n\n\nhttp://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
+                    "subtitle": "",
+                    "title": "Wilayah XIII"
                 }
             ],
             "title": "Perwilayahan"
