@@ -45,6 +45,7 @@ jobs:
       - name: Commiting changes to files
         uses: actions4git/setup-git@v1
       - run: git add gkisplus.json
+      - run: git add feeds.json
       - run: git commit --message 'Autoupdated the "Kebaktian Umum" data'
       - run: git push origin main --force
         
