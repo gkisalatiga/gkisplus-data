@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 3,
-        "last-update": 1724387161,
+        "update-count": 4,
+        "last-update": 1725074544,
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
@@ -26,21 +26,8 @@
         },
         {
             "banner": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
-            "content": [
-                {
-                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
-                    "html": "<b>ahuehfe</b>",
-                    "subtitle": "-",
-                    "title": "Contoh Saja"
-                },
-                {
-                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/00_profil_gereja.webp",
-                    "html": "<b>ahuehfe</b>",
-                    "subtitle": "-",
-                    "title": "Contoh Saja 2"
-                }
-            ],
-            "title": "Badan Pelayanan (Bapel)"
+            "content": [],
+            "title": "Kependetaan"
         },
         {
             "banner": "http://gkisalatiga.org/wp-content/uploads/2020/10/20_majelis_jemaat.webp",
@@ -64,7 +51,25 @@
                     "title": "O tan jou bi"
                 }
             ],
-            "title": "Apa hayo?"
+            "title": "Kemajelisan"
+        },
+        {
+            "banner": "http://gkisalatiga.org/wp-content/uploads/2020/10/30_badan_pelayanan.webp",
+            "content": [
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/40_pa_wilayah.webp",
+                    "html": "<b>ahuehfe</b>",
+                    "subtitle": "-",
+                    "title": "Contoh Saja"
+                },
+                {
+                    "featured-image": "http://gkisalatiga.org/wp-content/uploads/2020/10/00_profil_gereja.webp",
+                    "html": "<b>ahuehfe</b>",
+                    "subtitle": "-",
+                    "title": "Contoh Saja 2"
+                }
+            ],
+            "title": "Badan Pelayanan"
         },
         {
             "banner": "http://gkisalatiga.org/wp-content/uploads/2024/08/17an-2024.webp",
@@ -76,7 +81,7 @@
                     "title": "Sejarah Drum di GKI Salatiga"
                 }
             ],
-            "title": "Komisi Musik dan Drum"
+            "title": "Perwilayahan"
         }
     ]
 }
