@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 239,
-        "last-update": 1725145484,
-        "last-updated-item": "yt-video/umum",
+        "update-count": 240,
+        "last-update": 1725151115,
+        "last-updated-item": "carousel",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
     },
@@ -1262,35 +1262,16 @@
             }
         ],
         "carousel": {
-            "item_1723620544136278628": {
-                "banner": "https://i.ytimg.com/vi/upuEZcYTziE/maxresdefault.jpg",
-                "title": "Jadi Mitra Allah",
-                "type": "yt",
-                "date-created": "2024-08-14",
-                "yt-title": "\"Menjadi Mitra Allah di Dunia\" | Lagu Tema HUT GKI Salatiga ke-80 | cipt. Siswanto Tri Utomo",
-                "yt-date": "2023-02-03",
-                "yt-desc": "\"Menjadi Mitra Allah di Dunia\" \n(Lagu Tema HUT GKI Salatiga ke-80)\ncipt. Siswanto Tri Utomo\narr. Siswanto Tri Utomo\n\nconductor: Eriyani Tenga Lunga\nTim Musik Chronicles \nExtra Miles Chamber Music\nSinger: Reina, Maldin, Dinda, Jeffrey, Andreas",
-                "yt-link": "https://www.youtube.com/watch?v=upuEZcYTziE&pp=ygUMZ2tpIHNhbGF0aWdh",
-                "yt-thumbnail": "https://i.ytimg.com/vi/upuEZcYTziE/maxresdefault.jpg",
-                "yt-is_live": 0
-            },
-            "1723617981758372387": {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/banner_1723617981758494905.webp",
-                "title": "Yuo",
-                "type": "article",
-                "date-created": "2024-08-14",
-                "article-url": "https://www.perplexity.ai/search/android-cannot-extract-folder-l3HH_40DSEWYYoU9RB7lMw"
-            },
             "00_komisi_anak": {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/00_komisi_anak.jpeg",
+                "banner": "banner.jpeg",
                 "title": "Bergabunglah dengan Komisi Anak",
                 "type": "poster",
                 "date-created": "2024-07-12",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/00_komisi_anak_poster.jpg",
+                "poster-image": "poster.jpg",
                 "poster-caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu venenatis metus, eu dictum nisl. Aenean vestibulum enim orci, eget pellentesque nunc dignissim eu. Cras quam lorem, condimentum porta quam nec, pulvinar pellentesque ante. Maecenas cursus orci sed euismod commodo. Vestibulum erat urna, condimentum nec tortor ut, lobortis scelerisque diam. Morbi cursus aliquet ligula, vitae vestibulum ligula tempor sed. Donec congue, felis et egestas fringilla, risus libero interdum ante, sed fringilla arcu nulla eget ante. Sed ac ornare lectus."
             },
             "10_contoh_video_youtube": {
-                "banner": "https://i.ytimg.com/vi/rGBAbI7HYKE/hqdefault.jpg",
+                "banner": "banner.jpg",
                 "title": "Hanya Contoh Saja Bor!",
                 "type": "yt",
                 "date-created": "2024-07-22",
@@ -1302,31 +1283,11 @@
                 "yt-is_live": 0
             },
             "20_artikel_renungan": {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/20_artikel_renungan.png",
+                "banner": "banner.png",
                 "title": "Renungan Hari Ini",
                 "type": "article",
                 "date-created": "2024-07-31",
                 "article-url": "https://alkitab.mobi/renungan/sh/"
-            },
-            "1723617345666460561": {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/banner_1723617981758494905.webp",
-                "title": "Contoh 2",
-                "type": "poster",
-                "date-created": "2024-08-14",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/poster_1723617345670718616.png",
-                "poster-caption": "Lorem Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up"
-            },
-            "item_1723618195484752058": {
-                "banner": "https://i.ytimg.com/vi/-iNvJ9i1_nY/maxresdefault.jpg",
-                "title": "abc",
-                "type": "yt",
-                "date-created": "2024-08-14",
-                "yt-title": "PESPARANA \"Harmoni Dalam Keberagaman\"  || GKI Klasis Magelang 2024",
-                "yt-date": "2024-03-11",
-                "yt-desc": "PESPARANA (Pesta Paduan Suara Gerejawi Anak) 2024\nTema : \"Harmoni Dalam Keberagaman\"\nGKI Klasis Magelang\nBalairung UKSW - Senin, 11 Maret 2024\nPukul 10.30 WIB\nDilayani oleh Pdt. Raharjo Widhipangreksa (GKI Tegalrejo, Salatiga)",
-                "yt-link": "https://www.youtube.com/watch?v=-iNvJ9i1_nY&pp=ygUMZ2tpIHNhbGF0aWdh",
-                "yt-thumbnail": "https://i.ytimg.com/vi/-iNvJ9i1_nY/maxresdefault.jpg",
-                "yt-is_live": 0
             }
         }
     }
