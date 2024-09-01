@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 240,
-        "last-update": 1725151115,
-        "last-updated-item": "carousel",
+        "update-count": 241,
+        "last-update": 1725151879,
+        "last-updated-item": "yt-video/es",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
     },
@@ -293,6 +293,14 @@
                 {
                     "content": [
                         {
+                            "title": "GKI Salatiga | English Service | Sunday, September 1st, 2024 | 10 a.m. Jakarta Time",
+                            "date": "2024-08-30",
+                            "desc": "GOD LOOKS AT THE HEART\nLuke 21: 1-4\n\nLed by\nPhoebe Bernadette\n\n\nUsher: Nadia, Gita  A.\nPL: Debo\nReader: Ika\nOffertory: Pramusita\nPrayer: James, Diane\nPemusik: Bung and Friends\nSL: Angel\nPPT: Elis\nMultiMedia: Pak Bamz",
+                            "link": "https://www.youtube.com/watch?v=PsKN32yM844",
+                            "thumbnail": "https://i.ytimg.com/vi/PsKN32yM844/hqdefault_live.jpg",
+                            "is_live": 1
+                        },
+                        {
                             "title": "GKI Salatiga | English Service | Sunday, Aug. 4th. 2024 | 10 a.m. Jakarta Time",
                             "date": "2024-08-02",
                             "desc": "APPEAL TO THE HOLY SPIRIT\n1 Cor 6: 19\n\nLed by\nMrs. Anita Dudek\n\n\nUsher: Sita + Gita A.\nPL: Diane\nReader: Debora\nPrayer: Gita H.\nSL: Kezya\nPemusik: Bung and Friends + Lyka\nPPT: James\nMultiMedia: Pak Bamz",
@@ -354,14 +362,6 @@
                             "desc": "Welcome to English Service GKI Salatiga. (Sunday, 7 May 2023) \n\nTheme: The God who Loves Life\nSermon: Mr. Calvin Collins\nLiturgost: Gita\nSong Leader: Angel\nPianist: Lyka\nReader: Debora\n\nmultimedia GKI Salatiga, 2023",
                             "link": "https://www.youtube.com/watch?v=FASW5GG_cio",
                             "thumbnail": "https://i.ytimg.com/vi/FASW5GG_cio/hqdefault.jpg",
-                            "is_live": 1
-                        },
-                        {
-                            "title": "English Service | April 2nd, 2022",
-                            "date": "2023-04-01",
-                            "desc": "Theme: The God of Jeremiah\nSpeaker: Mr. Nathan Fosdahl\nLiturgist: Diane\nSong Leader: Cinta. Rizky\nMusician: Teddy",
-                            "link": "https://www.youtube.com/watch?v=gMt0l6YbSHw",
-                            "thumbnail": "https://i.ytimg.com/vi/gMt0l6YbSHw/hqdefault.jpg",
                             "is_live": 1
                         }
                     ],
