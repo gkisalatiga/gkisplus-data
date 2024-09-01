@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 241,
-        "last-update": 1725151879,
-        "last-updated-item": "yt-video/es",
+        "update-count": 242,
+        "last-update": 1725152944,
+        "last-updated-item": "pdf/liturgi",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
     },
@@ -978,6 +978,13 @@
             ],
             "liturgi": [
                 {
+                    "title": "Tata Ibadah 1 September 2024",
+                    "date": "2024-09-01",
+                    "link": "https://drive.google.com/file/d/1frGFRfnX3tcOTOSStH_cquLEFthRwkgC/preview",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-1-september-2024/",
+                    "thumbnail": ""
+                },
+                {
                     "title": "Tata Ibadah Minggu 25 Agustus 2024",
                     "date": "2024-08-25",
                     "link": "https://drive.google.com/file/d/1o3PLHctYdIJK9d3txNqCIyXzrTrJJF0E/preview",
@@ -1038,13 +1045,6 @@
                     "date": "2024-06-29",
                     "link": "https://drive.google.com/file/d/1QLxZ0bXpqJm2a9-J1_1jvxFWm09jorMu/preview",
                     "post-page": "https://gkisalatiga.org/tata-ibadah-30-juni-2024/",
-                    "thumbnail": ""
-                },
-                {
-                    "title": "Tata Ibadah 23 Juni 2024",
-                    "date": "2024-06-22",
-                    "link": "https://drive.google.com/file/d/1dNH87jeqIuTEKhkjHYTJ-TbmhFPQ-500/preview",
-                    "post-page": "https://gkisalatiga.org/tata-ibadah-23-juni-2024/",
                     "thumbnail": ""
                 }
             ]
