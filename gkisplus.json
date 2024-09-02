@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 255,
-        "last-update": 1725286435,
+        "update-count": 256,
+        "last-update": 1725308180,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 3 Sep 2024",
+                            "date": "2024-09-02",
+                            "desc": "Dibawakan oleh Ibu Yari Dwikurnaningsih",
+                            "link": "https://www.youtube.com/watch?v=zCWI5j1HCUw",
+                            "thumbnail": "https://i3.ytimg.com/vi/zCWI5j1HCUw/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 2 Sep 2024",
                             "date": "2024-09-01",
@@ -98,14 +106,6 @@
                             "desc": "Dibawakan oleh Ibu Rini Hari Adi",
                             "link": "https://www.youtube.com/watch?v=tWmUKrztzB0",
                             "thumbnail": "https://i1.ytimg.com/vi/tWmUKrztzB0/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 21 Agu 2024",
-                            "date": "2024-08-20",
-                            "desc": "Dibawakan oleh Pnt. Hendra Aribowo",
-                            "link": "https://www.youtube.com/watch?v=ps9Ro9xIQDs",
-                            "thumbnail": "https://i1.ytimg.com/vi/ps9Ro9xIQDs/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
