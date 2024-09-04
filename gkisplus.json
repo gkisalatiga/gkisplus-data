@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 266,
-        "last-update": 1725448054,
-        "last-updated-item": "yt-video/es",
+        "update-count": 267,
+        "last-update": 1725459225,
+        "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
     },
@@ -20,6 +20,22 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 6 Sep 2024",
+                            "date": "2024-09-04",
+                            "desc": "Dibawakan oleh Ibu Wahyu Agustina Rimbita",
+                            "link": "https://www.youtube.com/watch?v=L66VpMJsTTU",
+                            "thumbnail": "https://i1.ytimg.com/vi/L66VpMJsTTU/hqdefault.jpg",
+                            "is_live": 0
+                        },
+                        {
+                            "title": "SaRen Pagi | 5 Sep 2024 | Pengetahuan, Hikmat, dan Iman",
+                            "date": "2024-09-04",
+                            "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
+                            "link": "https://www.youtube.com/watch?v=yy1mcQzFMI8",
+                            "thumbnail": "https://i2.ytimg.com/vi/yy1mcQzFMI8/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 4 Sep 2024",
                             "date": "2024-09-03",
@@ -90,22 +106,6 @@
                             "desc": "Dibawakan oleh Bpk. Henry Kristiyanto",
                             "link": "https://www.youtube.com/watch?v=D1jHDQY4N-A",
                             "thumbnail": "https://i1.ytimg.com/vi/D1jHDQY4N-A/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi  | 24 Agu 2024 | Dipanggil Untuk Memberikan Dampak",
-                            "date": "2024-08-23",
-                            "desc": "Dibawakan oleh Pnt. Nadia SIta",
-                            "link": "https://www.youtube.com/watch?v=1LQaowAitrs",
-                            "thumbnail": "https://i2.ytimg.com/vi/1LQaowAitrs/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 23 Agu 2024 | Kekuatan dalam Kelemahan",
-                            "date": "2024-08-22",
-                            "desc": "Dibawakan oleh Ibu Made Rai Shanti",
-                            "link": "https://www.youtube.com/watch?v=Tq0dlYyyo5w",
-                            "thumbnail": "https://i1.ytimg.com/vi/Tq0dlYyyo5w/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
