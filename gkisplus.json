@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 276,
-        "last-update": 1725583337,
-        "last-updated-item": "yt-video/es",
+        "update-count": 277,
+        "last-update": 1725584900,
+        "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
     },
@@ -21,19 +21,19 @@
                 {
                     "content": [
                         {
+                            "title": "SaRen Pagi | 6 Sep 2024",
+                            "date": "2024-09-05",
+                            "desc": "Dibawakan oleh Ibu Wahyu Agustina Rimbita",
+                            "link": "https://www.youtube.com/watch?v=L66VpMJsTTU",
+                            "thumbnail": "https://i1.ytimg.com/vi/L66VpMJsTTU/hqdefault.jpg",
+                            "is_live": 0
+                        },
+                        {
                             "title": "SaRen Pagi | 5 Sep 2024 | Pengetahuan, Hikmat, dan Iman",
                             "date": "2024-09-04",
                             "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                             "link": "https://www.youtube.com/watch?v=yy1mcQzFMI8",
                             "thumbnail": "https://i2.ytimg.com/vi/yy1mcQzFMI8/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 6 Sep 2024",
-                            "date": "2024-09-04",
-                            "desc": "Dibawakan oleh Ibu Wahyu Agustina Rimbita",
-                            "link": "https://www.youtube.com/watch?v=L66VpMJsTTU",
-                            "thumbnail": "https://i1.ytimg.com/vi/L66VpMJsTTU/hqdefault.jpg",
                             "is_live": 0
                         },
                         {
