@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 278,
-        "last-update": 1725620911,
-        "last-updated-item": "yt-video/es",
+        "update-count": 279,
+        "last-update": 1725632020,
+        "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
     },
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 7 Sep 2024",
+                            "date": "2024-09-06",
+                            "desc": "Dibawakan oleh Bpk Yahya Kristanto",
+                            "link": "https://www.youtube.com/watch?v=0OD7a9mMdV4",
+                            "thumbnail": "https://i1.ytimg.com/vi/0OD7a9mMdV4/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 6 Sep 2024",
                             "date": "2024-09-05",
