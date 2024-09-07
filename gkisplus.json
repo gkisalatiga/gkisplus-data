@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 291,
-        "last-update": 1725707222,
-        "last-updated-item": "yt-video/es",
+        "update-count": 292,
+        "last-update": 1725707421,
+        "last-updated-item": "pdf/liturgi",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
     },
@@ -978,6 +978,13 @@
             ],
             "liturgi": [
                 {
+                    "title": "Tata Ibadah 8 September 2024",
+                    "date": "2024-09-07",
+                    "link": "https://drive.google.com/file/d/1wAqdOAO_T5Z-4WZ97li1UgkUypgtQA-D/preview",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-8-september-2024/",
+                    "thumbnail": ""
+                },
+                {
                     "title": "Tata Ibadah 1 September 2024",
                     "date": "2024-09-01",
                     "link": "https://drive.google.com/file/d/1frGFRfnX3tcOTOSStH_cquLEFthRwkgC/preview",
@@ -1038,13 +1045,6 @@
                     "date": "2024-07-06",
                     "link": "https://drive.google.com/file/d/1jkskSKTwg3TBOBl-al8SexV-Ph_tAyVU/preview",
                     "post-page": "https://gkisalatiga.org/tata-ibadah-7-juli-2024/",
-                    "thumbnail": ""
-                },
-                {
-                    "title": "Tata Ibadah 30 Juni 2024",
-                    "date": "2024-06-29",
-                    "link": "https://drive.google.com/file/d/1QLxZ0bXpqJm2a9-J1_1jvxFWm09jorMu/preview",
-                    "post-page": "https://gkisalatiga.org/tata-ibadah-30-juni-2024/",
                     "thumbnail": ""
                 }
             ]
