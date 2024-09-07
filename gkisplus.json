@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 287,
-        "last-update": 1725687457,
-        "last-updated-item": "forms",
+        "update-count": 288,
+        "last-update": 1725689942,
+        "last-updated-item": "agenda",
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
@@ -1081,7 +1081,7 @@
             ],
             "wed": [
                 {
-                    "name": "Pemahaman Alkitab Kambium",
+                    "name": "Kambium",
                     "time": "18:00",
                     "place": "Ruang Konsistori",
                     "representative": "Komisi Dewasa"
