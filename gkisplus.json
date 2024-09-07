@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 286,
-        "last-update": 1725685939,
-        "last-updated-item": "pdf/liturgi",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 287,
+        "last-update": 1725687457,
+        "last-updated-item": "forms",
+        "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
     "data": {
@@ -1157,6 +1157,10 @@
             ]
         },
         "forms": [
+            {
+                "title": "[INSIDERS] Presensi Harian Penguji GKI Salatiga+",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSdip9IYuzryKfmF6zdIea6s07Rvvpa_GoRBIhzHge25xGtLCQ/viewform?usp=sf_link"
+            },
             {
                 "title": "Update Data Diri SODA GKI Salatiga 2024",
                 "url": "https://forms.gle/zXgJuCCjCn6ixk8m7"
