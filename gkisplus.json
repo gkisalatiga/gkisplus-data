@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 297,
-        "last-update": 1725729215,
-        "last-updated-item": "pdf/wj",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 298,
+        "last-update": 1725739626,
+        "last-updated-item": "forms",
+        "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
     "data": {
@@ -1160,6 +1160,10 @@
             {
                 "title": "[INSIDERS] Presensi Harian Penguji GKI Salatiga+",
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSdip9IYuzryKfmF6zdIea6s07Rvvpa_GoRBIhzHge25xGtLCQ/viewform?usp=sf_link"
+            },
+            {
+                "title": "[INSIDERS] Laporan Bug dan Saran-Masukan GKI Salatiga+",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSe0qoIzygxWO5VPBCzSnpEF4tnM4gfOmWbKZayTU6SMVtI2Sw/viewform?usp=sf_link"
             },
             {
                 "title": "Update Data Diri SODA GKI Salatiga 2024",
