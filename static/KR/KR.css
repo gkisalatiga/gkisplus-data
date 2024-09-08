@@ -1,0 +1,102 @@
+/* Mengatur font dasar dan margin/padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  /* Container utama */
+  .container {
+    width: 100%;
+    max-width: 400px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  /* Header styling */
+  header {
+    background-color: #ffc5b3;
+    padding: 20px;
+    text-align: center;
+    color: rgba(159, 87, 23, 0.626);
+  }
+  
+  header h1 {
+    font-size: 24px;
+  }
+  
+  /* Konten Lembaga */
+  .institution-content {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .institution-image {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .institution-description h2 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .institution-description p {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  .institution-details {
+    margin-top: 20px;
+  }
+  
+  .institution-details h3 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .institution-details p {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.6;
+  }
+  
+  .institution-contact {
+    margin-top: 20px;
+  }
+  
+  .institution-contact h3 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .institution-contact p {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.6;
+  }
+  
+
+/* Justify textual content alignment. */
+div.institution-description p {
+  text-align: justify;
+  text-justify :auto;
+  text-indent: 10%;
+}
+  
