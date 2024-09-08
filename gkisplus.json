@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 302,
-        "last-update": 1725757487,
-        "last-updated-item": "pdf/liturgi",
+        "update-count": 303,
+        "last-update": 1725758049,
+        "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
     },
@@ -106,14 +106,6 @@
                             "desc": "Dibawakan oleh Pnt. Rodiana",
                             "link": "https://www.youtube.com/watch?v=fyutFq9vY9o",
                             "thumbnail": "https://i3.ytimg.com/vi/fyutFq9vY9o/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 26 Agu 2024",
-                            "date": "2024-08-25",
-                            "desc": "Dibawakan oleh Bpk. Henry Kristiyanto",
-                            "link": "https://www.youtube.com/watch?v=D1jHDQY4N-A",
-                            "thumbnail": "https://i1.ytimg.com/vi/D1jHDQY4N-A/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
