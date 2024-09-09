@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 309,
-        "last-update": 1725844248,
+        "update-count": 310,
+        "last-update": 1725912594,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 10 Sep 2024 | Apa Yang Hilang",
+                            "date": "2024-09-09",
+                            "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                            "link": "https://www.youtube.com/watch?v=4hTxnc83o0Y",
+                            "thumbnail": "https://i1.ytimg.com/vi/4hTxnc83o0Y/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 9 Sep 2024",
                             "date": "2024-09-08",
@@ -98,14 +106,6 @@
                             "desc": "Dibawakan oleh Ibu Trevie Rumuat",
                             "link": "https://www.youtube.com/watch?v=-xtaNHwDS74",
                             "thumbnail": "https://i2.ytimg.com/vi/-xtaNHwDS74/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 28 Agu 2024",
-                            "date": "2024-08-27",
-                            "desc": "Dibawakan oleh Ibu Krisulastri",
-                            "link": "https://www.youtube.com/watch?v=IvmvFyGlFYo",
-                            "thumbnail": "https://i2.ytimg.com/vi/IvmvFyGlFYo/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
