@@ -1049,6 +1049,32 @@
             "10_pendeta": "Kependetaan"
         },
         "agenda": {
+            "sun": [
+                {
+                    "name": "Kebaktian Umum I",
+                    "time": "07:00",
+                    "place": "Gedung Utama GKI Salatiga",
+                    "representative": "Majelis Jemaat"
+                },
+                {
+                    "name": "Kebaktian Umum II",
+                    "time": "09:30",
+                    "place": "Gedung Utama GKI Salatiga",
+                    "representative": "Majelis Jemaat"
+                },
+                {
+                    "name": "Kebaktian Umum III",
+                    "time": "16:30",
+                    "place": "Gedung Utama GKI Salatiga",
+                    "representative": "Majelis Jemaat"
+                },
+                {
+                    "name": "Ibadah Sekolah Minggu",
+                    "time": "07:00",
+                    "place": "Ruang Kelas Sesuai Usia Masing-Masing",
+                    "representative": "Komisi Anak"
+                }
+            ],
             "mon": [
                 {
                     "name": "Doa Tengah Hari",
@@ -1118,32 +1144,6 @@
                     "name": "Persiapan Mengajar Guru Sekolah Minggu",
                     "time": "14:00",
                     "place": "Ruang Kana",
-                    "representative": "Komisi Anak"
-                }
-            ],
-            "sun": [
-                {
-                    "name": "Kebaktian Umum I",
-                    "time": "07:00",
-                    "place": "Gedung Utama GKI Salatiga",
-                    "representative": "Majelis Jemaat"
-                },
-                {
-                    "name": "Kebaktian Umum II",
-                    "time": "09:30",
-                    "place": "Gedung Utama GKI Salatiga",
-                    "representative": "Majelis Jemaat"
-                },
-                {
-                    "name": "Kebaktian Umum III",
-                    "time": "16:30",
-                    "place": "Gedung Utama GKI Salatiga",
-                    "representative": "Majelis Jemaat"
-                },
-                {
-                    "name": "Ibadah Sekolah Minggu",
-                    "time": "07:00",
-                    "place": "Ruang Kelas Sesuai Usia Masing-Masing",
                     "representative": "Komisi Anak"
                 }
             ]
@@ -1242,7 +1242,7 @@
             },
             {
                 "unique-code": "25",
-                "title": "Malam Natal",
+                "title": "Natal",
                 "desc": "Persembahan dalam rangka perayaan natal setiap tanggal 25 Desember di GKI Salatiga"
             },
             {
