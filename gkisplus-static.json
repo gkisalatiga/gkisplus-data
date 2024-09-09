@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 30,
-        "last-update": 1725914262,
+        "update-count": 31,
+        "last-update": 1725916648,
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
@@ -221,8 +221,8 @@
                 },
                 {
                     "featured-image": "http://gkisalatiga.org/wp-content/uploads/2024/08/WARTA-JEMAAT-MINGGU-4-AGUSTUS-2024.jpg",
-                    "html": "<h3>Dummy</h3>\n<iframe src=\"https://osm.quelltextlich.at/viewer-js.html?kml_url=https://osm.quelltextlich.at/demo/demo.kml\" width=\"100%\" height=\"480\"></iframe>",
-                    "subtitle": "",
+                    "html": "<!DOCTYPE html>\n<html>\n<head><title>Sample</title></head>\n<body>\n\n<h3>Dummy</h3>\n<iframe width=\"100%\" height=\"300px\" frameborder=\"0\" allowfullscreen allow=\"geolocation\" src=\"https://framacarte.org/en/map/untitled-map_195099?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=null&editMode=disabled&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=none&captionBar=false&captionMenus=false&fullscreenControl=null&captionControl=null&editinosmControl=null\"></iframe>\n\n</body>\n</html>",
+                    "subtitle": "With Sample Map",
                     "title": "Wilayah III"
                 },
                 {
