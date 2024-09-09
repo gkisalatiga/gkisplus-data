@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 311,
-        "last-update": 1725914017,
+        "update-count": 310,
+        "last-update": 1725912594,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
@@ -1080,7 +1080,7 @@
                     "name": "Doa Tengah Hari",
                     "time": "12:00",
                     "place": "Ruang Kapernaum",
-                    "representative": "Majelis Jemaat Bidang I"
+                    "representative": "Komisi Dewasa"
                 },
                 {
                     "name": "Latihan Pemandu Pemahaman Alkitab",
