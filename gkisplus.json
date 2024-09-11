@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 327,
-        "last-update": 1726085326,
+        "update-count": 328,
+        "last-update": 1726086780,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 12 Sep 2024",
+                            "date": "2024-09-11",
+                            "desc": "Dibawakan oleh Ibu Henny Julyanti",
+                            "link": "https://www.youtube.com/watch?v=3AHjaSiFNwI",
+                            "thumbnail": "https://i4.ytimg.com/vi/3AHjaSiFNwI/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 11 Sep 2024",
                             "date": "2024-09-10",
@@ -98,14 +106,6 @@
                             "desc": "Dibawakan oleh Sdri. Debora Mayang Arum",
                             "link": "https://www.youtube.com/watch?v=FkS7Kt7pr1M",
                             "thumbnail": "https://i3.ytimg.com/vi/FkS7Kt7pr1M/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 30 Agu 2024 | Memilih Jalan Yang Tidak Mudah",
-                            "date": "2024-08-29",
-                            "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
-                            "link": "https://www.youtube.com/watch?v=wCKAPJ68nGw",
-                            "thumbnail": "https://i4.ytimg.com/vi/wCKAPJ68nGw/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
