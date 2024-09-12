@@ -221,7 +221,7 @@
                 },
                 {
                     "featured-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-banner/banner_wilayah_3.webp",
-                    "html": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/profiles/Wilayah%203.html",
+                    "html": "<iframe src=\"https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/profiles/Wilayah%203.html\" width=\"100%\" height=\"480\"></iframe>",
                     "subtitle": "With Sample Map",
                     "title": "Wilayah III"
                 },
