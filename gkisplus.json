@@ -1263,11 +1263,11 @@
         ],
         "carousel": {
 
-            "00_komisi_anak1": {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/00_komisi_anak.jpeg",
-                "title": "Bergabunglah dengan Komisi Anak",
+            "ktb_2024_09_13": {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/banner_kr_ktb_13sep24.webp",
+                "title": "Fraternal Correction",
                 "type": "poster",
-                "date-created": "2024-07-12",
+                "date-created": "2024-09-13",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/00_komisi_anak_poster.jpg",
                 "poster-caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu venenatis metus, eu dictum nisl. Aenean vestibulum enim orci, eget pellentesque nunc dignissim eu. Cras quam lorem, condimentum porta quam nec, pulvinar pellentesque ante. Maecenas cursus orci sed euismod commodo. Vestibulum erat urna, condimentum nec tortor ut, lobortis scelerisque diam. Morbi cursus aliquet ligula, vitae vestibulum ligula tempor sed. Donec congue, felis et egestas fringilla, risus libero interdum ante, sed fringilla arcu nulla eget ante. Sed ac ornare lectus."
             },
