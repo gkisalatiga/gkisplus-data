@@ -1263,62 +1263,96 @@
         ],
         "carousel": {
 
-            "ktb_2024_09_13": {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/banner_kr_ktb_13sep24.webp",
-                "title": "Fraternal Correction",
+            "dth_setiap_senin": {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_dth.jpg?raw=true",
+                "title": "Doa Tengah Hari",
                 "type": "poster",
                 "date-created": "2024-09-13",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/00_komisi_anak_poster.jpg",
-                "poster-caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu venenatis metus, eu dictum nisl. Aenean vestibulum enim orci, eget pellentesque nunc dignissim eu. Cras quam lorem, condimentum porta quam nec, pulvinar pellentesque ante. Maecenas cursus orci sed euismod commodo. Vestibulum erat urna, condimentum nec tortor ut, lobortis scelerisque diam. Morbi cursus aliquet ligula, vitae vestibulum ligula tempor sed. Donec congue, felis et egestas fringilla, risus libero interdum ante, sed fringilla arcu nulla eget ante. Sed ac ornare lectus."
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_dth.jpg?raw=true",
+                "poster-caption": "Setiap hari Senin - pk. 12.00 WIB - bertempat di Ruang Kapernaum."
             },
 
-            "item_1723620544136278628": {
-                "banner": "https://i.ytimg.com/vi/upuEZcYTziE/maxresdefault.jpg",
-                "title": "Jadi Mitra Allah",
-                "type": "yt",
-                "date-created": "2024-08-14",
-                "yt-title": "\"Menjadi Mitra Allah di Dunia\" | Lagu Tema HUT GKI Salatiga ke-80 | cipt. Siswanto Tri Utomo",
-                "yt-date": "2023-02-03",
-                "yt-desc": "\"Menjadi Mitra Allah di Dunia\" \n(Lagu Tema HUT GKI Salatiga ke-80)\ncipt. Siswanto Tri Utomo\narr. Siswanto Tri Utomo\n\nconductor: Eriyani Tenga Lunga\nTim Musik Chronicles \nExtra Miles Chamber Music\nSinger: Reina, Maldin, Dinda, Jeffrey, Andreas",
-                "yt-link": "https://www.youtube.com/watch?v=upuEZcYTziE&pp=ygUMZ2tpIHNhbGF0aWdh",
-                "yt-thumbnail": "https://i.ytimg.com/vi/upuEZcYTziE/maxresdefault.jpg",
-                "yt-is_live": 0
-            },
-            "1723617981758372387": {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/banner_1723617981758494905.webp",
-                "title": "Yuo",
-                "type": "article",
-                "date-created": "2024-08-14",
-                "article-url": "https://www.perplexity.ai/search/android-cannot-extract-folder-l3HH_40DSEWYYoU9RB7lMw"
-            },
-            "00_komisi_anak": {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/00_komisi_anak.jpeg",
-                "title": "Bergabunglah dengan Komisi Anak",
+            "ppa_setiap_senin": {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_persiapan_pa.jpg?raw=true",
+                "title": "Persiapan Pemandu PA",
                 "type": "poster",
-                "date-created": "2024-07-12",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/00_komisi_anak_poster.jpg",
-                "poster-caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eu venenatis metus, eu dictum nisl. Aenean vestibulum enim orci, eget pellentesque nunc dignissim eu. Cras quam lorem, condimentum porta quam nec, pulvinar pellentesque ante. Maecenas cursus orci sed euismod commodo. Vestibulum erat urna, condimentum nec tortor ut, lobortis scelerisque diam. Morbi cursus aliquet ligula, vitae vestibulum ligula tempor sed. Donec congue, felis et egestas fringilla, risus libero interdum ante, sed fringilla arcu nulla eget ante. Sed ac ornare lectus."
+                "date-created": "2024-09-13",
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_persiapan_pa.jpg?raw=true",
+                "poster-caption": "Setiap hari Senin - pk. 18.00 WIB - bertempat di Ruang Konsistori."
             },
-            "10_contoh_video_youtube": {
-                "banner": "https://i.ytimg.com/vi/rGBAbI7HYKE/hqdefault.jpg",
-                "title": "Hanya Contoh Saja Bor!",
-                "type": "yt",
-                "date-created": "2024-07-22",
-                "yt-title": "Ibadah Minggu 28 Juli 2024 - Gereja Kristen Indonesia (GKI) Cinere",
-                "yt-date": "2024-07-28",
-                "yt-desc": "Tema Ibadah : \"Solidaritas yang Menular\"\nBacaan Alkitab : 2 Raja-Raja 4:42-44; Mazmur 145:10-18; Efesus 3:14-21; Yohanes 6:1-21\nDilayani oleh : Pdt. Kristian Dewantara (GKI Sarua Indah)\nLiturgi dapat di unduh : https://drive.google.com/file/d/1Hp8oczoYFVdJMOGGP19lAw16DclVFYwP/view?usp=sharing",
-                "yt-link": "https://www.youtube.com/watch?v=rGBAbI7HYKE",
-                "yt-thumbnail": "https://i.ytimg.com/vi/rGBAbI7HYKE/hqdefault.jpg",
-                "yt-is_live": 0
-            },
-            "1723617345666460561": {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/banner_1723617981758494905.webp",
-                "title": "Contoh 2",
+
+            "pa_wilayah_setiap_selasa": {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_pa.jpg?raw=true",
+                "title": "Pemahaman Alkitab (PA) Wilayah",
                 "type": "poster",
-                "date-created": "2024-08-14",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/poster_1723617345670718616.png",
-                "poster-caption": "Lorem Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up Up Lorem Up"
+                "date-created": "2024-09-13",
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_pa.jpg?raw=true",
+                "poster-caption": "Setiap hari Selasa - pk. 17.00 / 18.00 WIB - bertempat di wilayah masing-masing."
+            },
+
+            "katekisasi_setiap_rabu": {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_katekisasi.jpg?raw=true",
+                "title": "Katekisasi",
+                "type": "poster",
+                "date-created": "2024-09-13",
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_katekisasi.jpg?raw=true",
+                "poster-caption": "Setiap hari Rabu - pk. 17.00 WIB - bertempat di Ruang Kana."
+            },
+
+            "kambium_setiap_rabu": {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_kambium.jpg?raw=true",
+                "title": "Kambium",
+                "type": "poster",
+                "date-created": "2024-09-13",
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_kambium.jpg?raw=true",
+                "poster-caption": "Setiap hari Rabu - pk. 18.00 WIB - bertempat di Ruang Konsistori."
+            },
+
+            "ktb_setiap_jumat": {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_ktb.jpg?raw=true",
+                "title": "Kelompok Tumbuh Bersama (KTB)",
+                "type": "poster",
+                "date-created": "2024-09-13",
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/poster_kr15092024.jpg?raw=true",
+                "poster-caption": "Setiap hari Jumat - pk. 17.00 WIB - bertempat di Ruang Kapernaum."
+            },
+
+            "warung_tiberias_setiap_sabtu": {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_warung_tiberias.jpg?raw=true",
+                "title": "Warung Tiberias",
+                "type": "poster",
+                "date-created": "2024-09-13",
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_warung_tiberias.jpg?raw=true",
+                "poster-caption": "Setiap hari Sabtu - pk. 11.00 WIB - bertempat di area gereja."
+            },
+
+            "soda_setiap_sabtu": {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_hut_soda.jpg?raw=true",
+                "title": "HUT Ke-11 Sobat Muda GKI Salatiga",
+                "type": "poster",
+                "date-created": "2024-09-13",
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/poster_hut_soda.jpg?raw=true",
+                "poster-caption": "dilayani oleh Pdt. Merry Rungkat - Sabtu, 14 September 2024 - 17.00 WIB."
+            },
+
+            "sekolah_minggu": {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/banner_sm_15sep2024.webp",
+                "title": "Sekolah Minggu",
+                "type": "poster",
+                "date-created": "2024-09-13",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/banner_sm_15sep2024.webp",
+                "poster-caption": "Setiap hari Minggu - pk. 07.00 WIB."
+            },
+
+            "kr_setiap_minggu": {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/banner_kr_15sep24.webp",
+                "title": "Ibadah Komisi Remaja GKI Salatiga",
+                "type": "poster",
+                "date-created": "2024-09-13",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/banner_kr_15sep24.webp",
+                "poster-caption": "Setiap hari Minggu - pk. 07.30 WIB - bertempat di Aula Kanna."
             }
+           
         }
     }
 }
