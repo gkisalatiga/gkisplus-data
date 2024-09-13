@@ -2,7 +2,7 @@
     "feeds": {
         "app-update": {
             "_comment": "Set to zero to disable update checking.",
-            "version-code": 0,
+            "version-code": 26,
             "version-name": "0.4.3-beta",
             "download-url": "https://play.google.com"
         },
