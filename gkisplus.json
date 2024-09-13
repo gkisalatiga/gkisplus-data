@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 347,
-        "last-update": 1726261660,
+        "update-count": 348,
+        "last-update": 1726263148,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 14 Sep 2024",
+                            "date": "2024-09-13",
+                            "desc": "Dibawakan oleh Bpk. Prasetyandaru Pirenantyo",
+                            "link": "https://www.youtube.com/watch?v=cZzKkA8aC3A",
+                            "thumbnail": "https://i4.ytimg.com/vi/cZzKkA8aC3A/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 13 Sep 2024 | Keep Calm and Put God First",
                             "date": "2024-09-12",
