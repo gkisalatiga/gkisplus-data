@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 361,
-        "last-update": 1726323188,
-        "last-updated-item": "pdf/wj",
+        "update-count": 362,
+        "last-update": 1726333595,
+        "last-updated-item": "yt-video/umum",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
     },
@@ -127,7 +127,7 @@
                         {
                             "title": "Ibadah Minggu GKI Salatiga | 15 September 2024 | Murid Yang Sejati",
                             "date": "2024-09-14",
-                            "desc": "*KEBAKTIAN MINGGU GKI Salatiga 15 September 2024; Pukul 07:00 WIB\n\nTema: Murid Yang Sejati\n\nBerita Anugerah: Yohanes 1:16\nBacaan I: Yesaya 50:4-9\nMazmur Tanggapan: Mazmur 116:1-9\nBacaan II: Yakobus 3:1-12\nBacaan Injil: Markus 8:27-38\nPersembahan: Lukas 6:38\nNyanyian: PKJ 11:1-2; Selidiki Aku; Bersukacitalah Selalu; PKJ 132; PKJ 147; PKJ 267\n\nPelayan Firman: Pdt.Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Paul A.W. Gulo\nKredo dan Warta : Pnt. Hendra Aribowo\nSambut Tamu: Pnt. Benny A. Kailola\n\nPemandu Liturgi: Retty Andrea\nLektor 1: Mariani\nLektor 2: Grace Yolanda\n\nPemusik: Elhanan\nPNK; Pemazmur: Eryani T. Lunga / Dara\n\nTim Multimedia: I Made Satya Arnawa, Daniel Eko, Ruben, Benaya, Evangs, Erio, Jeffrey\n\nUsher dan Kolektan: Wilayah IV: Fanitayanti; Moris; Indriati; Dio; Hario Kuncoro\n\nFlorist : Tim Aster\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
+                            "desc": "*KEBAKTIAN MINGGU GKI Salatiga 15 September 2024; Pukul 07:00 WIB\n\nTema: Murid Yang Sejati\n\nBerita Anugerah: Yohanes 1:16\nBacaan I: Yesaya 50:4-9\nMazmur Tanggapan: Mazmur 116:1-9\nBacaan II: Yakobus 3:1-12\nBacaan Injil: Markus 8:27-38\nPersembahan: Lukas 6:38\nNyanyian: PKJ 11:1-2; Selidiki Aku; Bersukacitalah Selalu; PKJ 132; PKJ 147; PKJ 267\n\nPelayan Firman: Pdt.Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Paul A.W. Gulo\nKredo dan Warta : Pnt. Hendra Aribowo\nSambut Tamu: Pnt. Benny A. Kailola\n\nPemandu Liturgi: Retty Andrea\nLektor 1: Mariani\nLektor 2: Grace Yolanda\n\nPemusik: Elhanan\nPNK; Pemazmur: Eriyani T. Lunga / Dara\n\nTim Multimedia: I Made Satya Arnawa, Daniel Eko, Ruben, Benaya, Evangs, Erio, Jeffrey\n\nUsher dan Kolektan: Wilayah IV: Fanitayanti; Moris; Indriati; Dio; Hario Kuncoro\n\nFlorist : Tim Aster\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
                             "link": "https://www.youtube.com/watch?v=G_wydztp79I",
                             "thumbnail": "https://i.ytimg.com/vi/G_wydztp79I/hqdefault_live.jpg",
                             "is_live": 1
@@ -1100,7 +1100,6 @@
                     "representative": "Majelis Jemaat",
                     "note": ""
                 }
-                
             ],
             "mon": [
                 {
@@ -1163,7 +1162,6 @@
                     "representative": "Komisi Dewasa",
                     "note": ""
                 }
-                
             ],
             "thu": [
                 {
@@ -1219,7 +1217,6 @@
                     "representative": "Komisi Remaja",
                     "note": ""
                 }
-                
             ]
         },
         "forms": [
