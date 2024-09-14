@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 53,
-        "last-update": 1726253757,
+        "update-count": 54,
+        "last-update": 1726320372,
         "last-actor": "SIMON_PETRUS",
         "schema-version": "0.1.0"
     },
@@ -277,7 +277,7 @@
             "title": "Perwilayahan"
         },
         {
-            "banner": "https://",
+            "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-profile/banner_profil_ruangan.webp",
             "content": [
                 {
                     "featured-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-profile/ruang_betlehem_1.jpg?raw=true",
