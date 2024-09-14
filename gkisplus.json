@@ -1059,42 +1059,84 @@
         "agenda": {
             "sun": [
                 {
+                    "name": "Ibadah Sekolah Minggu",
+                    "time": "07:00",
+                    "place": "Ruang kelas sesuai usia masing-masing",
+                    "representative": "Komisi Anak",
+                    "note": ""
+                },
+                {
                     "name": "Kebaktian Umum I",
                     "time": "07:00",
                     "place": "Gedung Utama GKI Salatiga",
-                    "representative": "Majelis Jemaat"
+                    "representative": "Majelis Jemaat",
+                    "note": ""
+                },
+                {
+                    "name": "Kebaktian Komisi Remaja",
+                    "time": "07:30",
+                    "place": "Ruang Kana",
+                    "representative": "Komisi Remaja",
+                    "note": ""
                 },
                 {
                     "name": "Kebaktian Umum II",
                     "time": "09:30",
                     "place": "Gedung Utama GKI Salatiga",
-                    "representative": "Majelis Jemaat"
+                    "representative": "Majelis Jemaat",
+                    "note": ""
+                },
+                {
+                    "name": "English Service",
+                    "time": "10:00",
+                    "place": "Ruang Kana",
+                    "representative": "Komisi Hubungan Internasional",
+                    "note": "Dilakukan pada minggu pertama setiap bulan."
                 },
                 {
                     "name": "Kebaktian Umum III",
                     "time": "16:30",
                     "place": "Gedung Utama GKI Salatiga",
-                    "representative": "Majelis Jemaat"
-                },
-                {
-                    "name": "Ibadah Sekolah Minggu",
-                    "time": "07:00",
-                    "place": "Ruang Kelas Sesuai Usia Masing-Masing",
-                    "representative": "Komisi Anak"
+                    "representative": "Majelis Jemaat",
+                    "note": ""
                 }
+                
             ],
             "mon": [
                 {
                     "name": "Doa Tengah Hari",
                     "time": "12:00",
                     "place": "Ruang Kapernaum",
-                    "representative": "Majelis Jemaat Bidang I"
+                    "representative": "Majelis Jemaat Bidang I",
+                    "note": ""
                 },
                 {
-                    "name": "Latihan Pemandu Pemahaman Alkitab",
+                    "name": "Line Dance",
+                    "time": "16:00",
+                    "place": "Halaman SD Kristen 03",
+                    "representative": "Komisi Dewasa",
+                    "note": ""
+                },
+                {
+                    "name": "Latihan PS. Imanuel",
+                    "time": "17:00",
+                    "place": "Ruang Kapernaum",
+                    "representative": "Komisi Musik dan Liturgi",
+                    "note": ""
+                },
+                {
+                    "name": "Latihan PS. Sola Gratia",
+                    "time": "17:30",
+                    "place": "Gedung Utama GKI Salatiga",
+                    "representative": "Komisi Musik dan Liturgi",
+                    "note": ""
+                },
+                {
+                    "name": "Persiapan Pemandu Pemahaman Alkitab",
                     "time": "18:00",
-                    "place": "Ruang Kana",
-                    "representative": "Komisi Pengajaran dan Pengabaran Injil"
+                    "place": "Ruang Konsistori",
+                    "representative": "Komisi Pengajaran dan Pengabaran Injil",
+                    "note": ""
                 }
             ],
             "tue": [
@@ -1102,58 +1144,82 @@
                     "name": "Pemahaman Alkitab Wilayah",
                     "time": "17:00",
                     "place": "Wilayah masing-masing",
-                    "representative": "Komisi Pengajaran dan Pengabaran Injil"
+                    "representative": "Komisi Pengajaran dan Pengabaran Injil",
+                    "note": ""
                 }
             ],
             "wed": [
                 {
-                    "name": "Kambium",
-                    "time": "18:00",
-                    "place": "Ruang Konsistori",
-                    "representative": "Komisi Dewasa"
-                },
-                {
                     "name": "Katekisasi",
                     "time": "17:00",
                     "place": "Ruang Kana",
-                    "representative": "Majelis Jemaat"
+                    "representative": "Majelis Jemaat",
+                    "note": ""
+                },
+                {
+                    "name": "Kambium",
+                    "time": "18:00",
+                    "place": "Ruang Konsistori",
+                    "representative": "Komisi Dewasa",
+                    "note": ""
                 }
+                
             ],
             "thu": [
                 {
-                    "name": "Latihan SODA",
+                    "name": "Persiapan Persekutuan SODA",
                     "time": "18:00",
                     "place": "Ruang Kana",
-                    "representative": "Komisi Pemuda"
+                    "representative": "Komisi Pemuda",
+                    "note": ""
                 }
             ],
             "fri": [
                 {
-                    "name": "Latihan SODA",
+                    "name": "Persiapan Persekutuan SODA",
                     "time": "18:00",
                     "place": "Ruang Kana",
-                    "representative": "Komisi Pemuda"
+                    "representative": "Komisi Pemuda",
+                    "note": ""
                 }
             ],
             "sat": [
                 {
-                    "name": "Persekutuan Sobat Muda (SODA)",
-                    "time": "17:00",
-                    "place": "Ruang Kana",
-                    "representative": "Komisi Pemuda"
-                },
-                {
-                    "name": "Latihan Kebaktian Remaja",
-                    "time": "20:00",
-                    "place": "Ruang Kana",
-                    "representative": "Komisi Remaja"
+                    "name": "Warung Tiberias",
+                    "time": "11:00",
+                    "place": "Halaman Gereja",
+                    "representative": "Tim Warung Tiberias",
+                    "note": ""
                 },
                 {
                     "name": "Persiapan Mengajar Guru Sekolah Minggu",
                     "time": "14:00",
                     "place": "Ruang Kana",
-                    "representative": "Komisi Anak"
+                    "representative": "Komisi Anak",
+                    "note": ""
+                },
+                {
+                    "name": "Persekutuan Sobat Muda (SODA)",
+                    "time": "17:00",
+                    "place": "Ruang Kana",
+                    "representative": "Komisi Pemuda",
+                    "note": ""
+                },
+                {
+                    "name": "Gladi Resik Kebaktian Minggu",
+                    "time": "17:00",
+                    "place": "Gedung Utama GKI Salatiga",
+                    "representative": "Majelis Jemaat",
+                    "note": ""
+                },
+                {
+                    "name": "Persiapan Kebaktian Remaja",
+                    "time": "20:00",
+                    "place": "Ruang Kana",
+                    "representative": "Komisi Remaja",
+                    "note": ""
                 }
+                
             ]
         },
         "forms": [
@@ -1244,14 +1310,9 @@
                 "desc": "Persembahan dikelola untuk membantu para korban bencana alam serta membantu orang-orang yang membutuhkan"
             },
             {
-                "unique-code": "24",
-                "title": "Malam Natal",
-                "desc": "Persembahan dalam rangka ibadah malam natal GKI Salatiga"
-            },
-            {
                 "unique-code": "25",
                 "title": "Natal",
-                "desc": "Persembahan dalam rangka perayaan natal setiap tanggal 25 Desember di GKI Salatiga"
+                "desc": "Persembahan dalam rangka perayaan Natal setiap tanggal 25 Desember di GKI Salatiga"
             },
             {
                 "unique-code": "33",
@@ -1261,7 +1322,7 @@
             {
                 "unique-code": "50",
                 "title": "Unduh-Unduh",
-                "desc": "Persembahan dipakai dalam kegiatan unduh-unduh pada rangkaian Paskah tahunan GKI Salatiga"
+                "desc": "Persembahan Syukur Tahunan/Unduh-unduh yang dipersembahkan pada perayaan Pentakosta di GKI Salatiga."
             },
             {
                 "unique-code": "93",
