@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 344,
-        "last-update": 1726188128,
-        "last-updated-item": "yt-video/saren",
+        "update-count": 360,
+        "last-update": 1726312312,
+        "last-updated-item": "pdf/wj",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
     },
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 14 Sep 2024",
+                            "date": "2024-09-13",
+                            "desc": "Dibawakan oleh Bpk. Prasetyandaru Pirenantyo",
+                            "link": "https://www.youtube.com/watch?v=cZzKkA8aC3A",
+                            "thumbnail": "https://i4.ytimg.com/vi/cZzKkA8aC3A/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 13 Sep 2024 | Keep Calm and Put God First",
                             "date": "2024-09-12",
@@ -117,11 +125,19 @@
                 {
                     "content": [
                         {
+                            "title": "Ibadah Minggu GKI Salatiga | 15 September 2024 | Murid Yang Sejati",
+                            "date": "2024-09-14",
+                            "desc": "*KEBAKTIAN MINGGU GKI Salatiga 15 September 2024; Pukul 07:00 WIB\n\nTema: Murid Yang Sejati\n\nBerita Anugerah: Yohanes 1:16\nBacaan I: Yesaya 50:4-9\nMazmur Tanggapan: Mazmur 116:1-9\nBacaan II: Yakobus 3:1-12\nBacaan Injil: Markus 8:27-38\nPersembahan: Lukas 6:38\nNyanyian: PKJ 11:1-2; Selidiki Aku; Bersukacitalah Selalu; PKJ 132; PKJ 147; PKJ 267\n\nPelayan Firman: Pdt.Yefta Setiawan Krisgunadi\nKoordinator Ibadah dan Persembahan: Pnt. Paul A.W. Gulo\nKredo dan Warta : Pnt. Hendra Aribowo\nSambut Tamu: Pnt. Benny A. Kailola\n\nPemandu Liturgi: Retty Andrea\nLektor 1: Mariani\nLektor 2: Grace Yolanda\n\nPemusik: Elhanan\nPNK; Pemazmur: Eryani T. Lunga / Dara\n\nTim Multimedia: I Made Satya Arnawa, Daniel Eko, Ruben, Benaya, Evangs, Erio, Jeffrey\n\nUsher dan Kolektan: Wilayah IV: Fanitayanti; Moris; Indriati; Dio; Hario Kuncoro\n\nFlorist : Tim Aster\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
+                            "link": "https://www.youtube.com/watch?v=G_wydztp79I",
+                            "thumbnail": "https://i.ytimg.com/vi/G_wydztp79I/hqdefault_live.jpg",
+                            "is_live": 1
+                        },
+                        {
                             "title": "Ibadah Minggu GKI Salatiga | 8 Sep. 2024 | Menjadi Gereja dan Sekolah Misional (Penutupan Pepenkris)",
                             "date": "2024-09-07",
-                            "desc": "*KEBAKTIAN MINGGU GKI Salatiga 8 September 2024; Pukul 07:00 WIB*\n*PENUTUPAN PEKAN PENDIDIKAN KRISTEN*\n\nTema: \"Menjadi Gereja dan Sekolah Misional\" (Penutupan Pepenkris)\n\nBerita Anugerah: Efesus 2:1-2,4-5\nBacaan : Lukas 13:22-30\nPersembahan: 1 Petrus 2:5\nNyanyian: medley Dengar Dia Panggil Nama Saya & PKJ13:1-2; NKB 126:1-2,\n          PKJ 216:1-3; KJ 256:1,3\n\nPelayan Firman: Pdt.Edward Kristian Tambunan (GKI Beringin)\nKoordinator Ibadah dan Persembahan: Pnt. Rodiana\nKredo dan Warta : Pnt. Nadia Sitaresmi\nSambut Tamu: Pnt. Shielly Gunawan\n\nPemandu Liturgi: Roosye Rice Irene Supit\nLektor : Martha Sulistya Wening\n\nPemusik: Chronivles\nPNK; Pemazmur: Yambres\n\nPadua Suara: PS. Dian Kasih - GKI Beringin\n\nTim Multimedia: Arlianto KP, Bambang, Revo, Alvin + Okta Kambuno\n\nUsher dan Kolektan: SMP Kristen 02: (Kristian Yuliadi; Novita)\n\nFlorist : Tim Mimosa\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
+                            "desc": "*KEBAKTIAN MINGGU GKI Salatiga 8 September 2024; Pukul 07:00 WIB*\n*PENUTUPAN PEKAN PENDIDIKAN KRISTEN*\n\nTema: \"Menjadi Gereja dan Sekolah Misional\" (Penutupan Pepenkris)\n\nBerita Anugerah: Efesus 2:1-2,4-5\nBacaan : Lukas 13:22-30\nPersembahan: 1 Petrus 2:5\nNyanyian: medley Dengar Dia Panggil Nama Saya & PKJ13:1-2; NKB 126:1-2,\n          PKJ 216:1-3; KJ 256:1,3\n\nPelayan Firman: Pdt.Edward Kristian Tambunan (GKI Beringin)\nKoordinator Ibadah dan Persembahan: Pnt. Rodiana\nKredo dan Warta : Pnt. Nadia Sitaresmi\nSambut Tamu: Pnt. Shielly Gunawan\n\nPemandu Liturgi: Roosye Rice Irene Supit\nLektor : Martha Sulistya Wening\n\nPemusik: Chronicles\nPNK; Pemazmur: Yambres\n\nPadua Suara: PS. Dian Kasih - GKI Beringin\n\nTim Multimedia: Arlianto,  Bambang,  Revo,  Alvin,  Okta\n\nUsher dan Kolektan: SMP Kristen 02: (Kristian Yuliadi;, Novita)\n\nFlorist : Tim Mimosa\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
                             "link": "https://www.youtube.com/watch?v=fNc_SoiwGng",
-                            "thumbnail": "https://i.ytimg.com/vi/fNc_SoiwGng/hqdefault_live.jpg",
+                            "thumbnail": "https://i.ytimg.com/vi/fNc_SoiwGng/hqdefault.jpg",
                             "is_live": 1
                         },
                         {
@@ -266,14 +282,6 @@
                             "desc": "Ibadah Minggu GKI SALATIGA 9 JUNI 2024\nJam 07.00 WIB\n\nTema: Dosa Yang Tidak Dapat Diampuni\n\nBerita Anugerah: Mazmur 103:8-13\nBacaan I: Kejadian 3:8-15\nTanggapan: Mazmur 130\nBacaan II: 2 Korintus 4:13-5:1\nBacaan Injil: Markus 3:20-35\nAyat Persembahan: Kolose 3:17\nNyanyian: KJ 3:1-3; KJ 378:1-2; Sejauh Timur Dari Barat; PKJ 149; NKB 127\n\nPelayan Firman: Pdt. Helen Ruth Manurung\nKoordinator Ibadah dan Persembahan: Pnt. Priyo Hari Adi\nKredo dan Warta: Pnt. Yuliani Nugroho\nSambut Tamu: Pnt. Yosua Candana H. H. , Pnt July Silooy\n\nPemandu Liturgi: Sri Silviana Hidayat\nLektor 1: Selvi Aneke Umbas\nLektor 2: Nathalia Arviandri\nPemusik: Lamentations\nPNK: Pnt. Gita Hastuti \nPemazmur: Aurell\nPaduan Suara : Yoseph\nTim Multimedia: Sakti, Joshua A.G, Revo, Okta, Iwandi\nTim Dokumentasi: Pnt. Yosua Candana H.K. / Erio / Jeffrey\n\nUsher dan Kolektan: KD\nFlorist: Tim Ruskus\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
                             "link": "https://www.youtube.com/watch?v=AO8L_29YLfs",
                             "thumbnail": "https://i.ytimg.com/vi/AO8L_29YLfs/hqdefault.jpg",
-                            "is_live": 1
-                        },
-                        {
-                            "title": "Ibadah Minggu GKI SALATIGA | 2 JUNI 2024 | Sabat Yang Sejati (Pukul 09.30)",
-                            "date": "2024-06-02",
-                            "desc": "Ibadah Minggu GKI SALATIGA 2 JUNI 2024\nJam 09.30 WIB\n\nTema: Sabat Yang Sejati\n\nBerita Anugerah: 1 Yohanes 1:8-9\nBacaan I: Ulangan 5:12-15\nTanggapan: Mazmur 81 :1-10\nBacaan II: 2 Korintus 4:5-12\nBacaan Injil: Markus 2:23-3:6\nAyat Persembahan: Ibrani 13:16\nNyanyian: PKJ 11; KJ 21; NKB 204:1-2; NKB 133; NKB 200\n\nPelayan Firman: Sdr Joe Elliot (Mhs. Fak.Teol UKSW)\nKoordinator Ibadah dan Persembahan: Pnt. Yosua Candana H.K.\nKredo dan Warta: Pnt. Desemy Ch. N. Ballo.\nSambut Tamu: Pnt. Johnson U. Radda dan Pnt. Catur Winarno\n\nPemandu Liturgi: Nastiti Lintang S.\nLektor 1: Sri Yuliani\nLektor 2: Stefani Gracia\nPemusik: Elhanan\nPNK: Victoria\nPemazmur: Reina\n\nTim Multimedia: Tunggul, Rubem, Tora, Kia\nTim Dokumentasi: Pnt. Yosua Candana H.K. / Erio / Jeffrey\n\nUsher dan Kolektan: Wilayah XIII\nFlorist: Tim Leather Leaf\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
-                            "link": "https://www.youtube.com/watch?v=rbO5GlX1Fgk",
-                            "thumbnail": "https://i.ytimg.com/vi/rbO5GlX1Fgk/hqdefault.jpg",
                             "is_live": 1
                         }
                     ],
@@ -1262,7 +1270,6 @@
             }
         ],
         "carousel": {
-
             "dth_setiap_senin": {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_dth.jpg?raw=true",
                 "title": "Doa Tengah Hari",
@@ -1271,7 +1278,6 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_dth.jpg?raw=true",
                 "poster-caption": "Setiap hari Senin - pk. 12.00 WIB - bertempat di Ruang Kapernaum."
             },
-
             "ppa_setiap_senin": {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_persiapan_pa.jpg?raw=true",
                 "title": "Persiapan Pemandu PA",
@@ -1280,7 +1286,6 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_persiapan_pa.jpg?raw=true",
                 "poster-caption": "Setiap hari Senin - pk. 18.00 WIB - bertempat di Ruang Konsistori."
             },
-
             "pa_wilayah_setiap_selasa": {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_pa.jpg?raw=true",
                 "title": "Pemahaman Alkitab (PA) Wilayah",
@@ -1289,7 +1294,6 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_pa.jpg?raw=true",
                 "poster-caption": "Setiap hari Selasa - pk. 17.00 / 18.00 WIB - bertempat di wilayah masing-masing."
             },
-
             "katekisasi_setiap_rabu": {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_katekisasi.jpg?raw=true",
                 "title": "Katekisasi",
@@ -1298,7 +1302,6 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_katekisasi.jpg?raw=true",
                 "poster-caption": "Setiap hari Rabu - pk. 17.00 WIB - bertempat di Ruang Kana."
             },
-
             "kambium_setiap_rabu": {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_kambium.jpg?raw=true",
                 "title": "Kambium",
@@ -1307,7 +1310,6 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_kambium.jpg?raw=true",
                 "poster-caption": "Setiap hari Rabu - pk. 18.00 WIB - bertempat di Ruang Konsistori."
             },
-
             "ktb_setiap_jumat": {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_ktb.jpg?raw=true",
                 "title": "Kelompok Tumbuh Bersama (KTB)",
@@ -1316,7 +1318,6 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/poster_kr15092024.jpg?raw=true",
                 "poster-caption": "Setiap hari Jumat - pk. 17.00 WIB - bertempat di Ruang Kapernaum."
             },
-
             "warung_tiberias_setiap_sabtu": {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_warung_tiberias.jpg?raw=true",
                 "title": "Warung Tiberias",
@@ -1325,7 +1326,6 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_warung_tiberias.jpg?raw=true",
                 "poster-caption": "Setiap hari Sabtu - pk. 11.00 WIB - bertempat di area gereja."
             },
-
             "soda_setiap_sabtu": {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_hut_soda.jpg?raw=true",
                 "title": "HUT Ke-11 Sobat Muda GKI Salatiga",
@@ -1334,7 +1334,6 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/poster_hut_soda.jpg?raw=true",
                 "poster-caption": "dilayani oleh Pdt. Merry Rungkat - Sabtu, 14 September 2024 - 17.00 WIB."
             },
-
             "sekolah_minggu_15092024": {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_sm_15sep2024.jpg?raw=true",
                 "title": "Sekolah Minggu",
@@ -1343,7 +1342,6 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_sm_15sep2024.jpg?raw=true",
                 "poster-caption": "Setiap hari Minggu - pk. 07.00 WIB."
             },
-
             "kr_setiap_minggu": {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/banner_kr_15sep24.webp",
                 "title": "Ibadah Komisi Remaja GKI Salatiga",
@@ -1352,7 +1350,6 @@
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/banner_kr_15sep24.webp",
                 "poster-caption": "Setiap hari Minggu - pk. 07.30 WIB - bertempat di Aula Kanna."
             },
-
             "kr_setiap_minggu1": {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_soda21092024.jpg?raw=true",
                 "title": "Sekolah Minggu",
@@ -1361,7 +1358,6 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_soda21092024.jpg?raw=true",
                 "poster-caption": "Setiap hari Sabtu - pk. 17.00 WIB."
             },
-
             "sekolah_minggu_22092024": {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_sm_22sep2024.jpg?raw=true",
                 "title": "Sekolah Minggu",
@@ -1370,8 +1366,6 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_sm_22sep2024.jpg?raw=true",
                 "poster-caption": "Setiap hari Minggu - pk. 07.00 WIB."
             }
-            
-            
         }
     }
 }
