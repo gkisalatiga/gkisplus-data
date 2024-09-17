@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 384,
-        "last-update": 1726603773,
+        "update-count": 385,
+        "last-update": 1726605261,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 18 Sep 2024",
+                            "date": "2024-09-17",
+                            "desc": "Dibawakan oleh Bpk. Wempianus Bria",
+                            "link": "https://www.youtube.com/watch?v=5m658EJq1tQ",
+                            "thumbnail": "https://i2.ytimg.com/vi/5m658EJq1tQ/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 17 Sep 2024",
                             "date": "2024-09-16",
@@ -106,14 +114,6 @@
                             "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
                             "link": "https://www.youtube.com/watch?v=yy1mcQzFMI8",
                             "thumbnail": "https://i2.ytimg.com/vi/yy1mcQzFMI8/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 4 Sep 2024",
-                            "date": "2024-09-03",
-                            "desc": "Dibawakan oleh Ibu Natalia Setiawati",
-                            "link": "https://www.youtube.com/watch?v=gJnWz4ChAFk",
-                            "thumbnail": "https://i4.ytimg.com/vi/gJnWz4ChAFk/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
