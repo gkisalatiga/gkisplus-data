@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 392,
-        "last-update": 1726620139,
+        "update-count": 393,
+        "last-update": 1726690196,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 19 Sep 2024",
+                            "date": "2024-09-18",
+                            "desc": "Dibawakan oleh Bpk. Sutarto Wijono",
+                            "link": "https://www.youtube.com/watch?v=0_alVi5plZY",
+                            "thumbnail": "https://i1.ytimg.com/vi/0_alVi5plZY/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 18 Sep 2024",
                             "date": "2024-09-17",
@@ -98,22 +106,6 @@
                             "desc": "Dibawakan oleh Bpk Yahya Kristanto",
                             "link": "https://www.youtube.com/watch?v=0OD7a9mMdV4",
                             "thumbnail": "https://i1.ytimg.com/vi/0OD7a9mMdV4/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 6 Sep 2024",
-                            "date": "2024-09-05",
-                            "desc": "Dibawakan oleh Ibu Wahyu Agustina Rimbita",
-                            "link": "https://www.youtube.com/watch?v=L66VpMJsTTU",
-                            "thumbnail": "https://i1.ytimg.com/vi/L66VpMJsTTU/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 5 Sep 2024 | Pengetahuan, Hikmat, dan Iman",
-                            "date": "2024-09-04",
-                            "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                            "link": "https://www.youtube.com/watch?v=yy1mcQzFMI8",
-                            "thumbnail": "https://i2.ytimg.com/vi/yy1mcQzFMI8/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
