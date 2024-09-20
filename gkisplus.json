@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 410,
-        "last-update": 1726792982,
+        "update-count": 411,
+        "last-update": 1726863009,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 21  Sep 2024",
+                            "date": "2024-09-20",
+                            "desc": "Dibawakan oleh Pnt. Johnson Umbu Radda",
+                            "link": "https://www.youtube.com/watch?v=oZVX4eIOTfg",
+                            "thumbnail": "https://i4.ytimg.com/vi/oZVX4eIOTfg/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 20 Sep 2024 | Dibentuk Dari Bawah",
                             "date": "2024-09-19",
