@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 513,
-        "last-update": 1727780903,
-        "last-updated-item": "yt-video/es",
+        "update-count": 514,
+        "last-update": 1727813408,
+        "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "0.1.0"
     },
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 2 Okt 2024",
+                            "date": "2024-10-01",
+                            "desc": "Dibawakan oleh Pdt. Merry Rungkat",
+                            "link": "https://www.youtube.com/watch?v=zADnfUWZPbQ",
+                            "thumbnail": "https://i3.ytimg.com/vi/zADnfUWZPbQ/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 1 Okt 2024 | Warisan Iman",
                             "date": "2024-09-30",
@@ -98,14 +106,6 @@
                             "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
                             "link": "https://www.youtube.com/watch?v=DftMHVjDVwQ",
                             "thumbnail": "https://i1.ytimg.com/vi/DftMHVjDVwQ/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 19 Sep 2024",
-                            "date": "2024-09-18",
-                            "desc": "Dibawakan oleh Bpk. Sutarto Wijono",
-                            "link": "https://www.youtube.com/watch?v=0_alVi5plZY",
-                            "thumbnail": "https://i1.ytimg.com/vi/0_alVi5plZY/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
