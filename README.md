@@ -23,3 +23,11 @@ Regularly auto-updated cloud data for the GKI Salatiga Plus app
 - **article**: the carousel is of online article type; upon click, opens ScreenWebView and displays the link
 - **poster**: the carousel is of poster type; upon click, displays a zoomable poster pop-up
 - **yt**: the carousel is of video type; upon click, opens ScreenVideo/ScreenVideoLive and loads the embedded YouTube video
+
+## To-Do
+
+- [ ] Remove `carousel/` (unused since migration to v2)
+- [ ] Remove `gkisplus-carousel.zip` (unused since migration to v2)
+- [ ] Remove `gkisplus-static.zip` (unused since migration to v2)
+- [ ] Remove `static/` (unused since migration to v2)
+- [ ] Remove `test/` (unused since migration to v2)
