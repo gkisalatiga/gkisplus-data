@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 563,
-        "last-update": 1728137605,
-        "last-updated-item": "pdf/wj",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 564,
+        "last-update": 1728143710,
+        "last-updated-item": "offertory",
+        "last-actor": "SIMON_PETRUS",
         "schema-version": "1.0"
     },
     "data": {
@@ -1292,14 +1292,12 @@
                 "bank-name": "Bank Central Asia",
                 "bank-abbr": "BCA",
                 "bank-number": "320.678.8899",
-                "bank-logo-url": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/bca_logo.png",
                 "account-holder": "GKI Salatiga"
             },
             {
                 "bank-name": "CIMB Niaga",
                 "bank-abbr": "CIMB",
                 "bank-number": "8001.0331.5400",
-                "bank-logo-url": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/cimb_niaga_logo.png",
                 "account-holder": "GKI Salatiga"
             }
         ],
