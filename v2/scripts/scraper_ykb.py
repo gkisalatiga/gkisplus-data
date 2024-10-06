@@ -1,10 +1,6 @@
 from copy import deepcopy
-from datetime import datetime as dt
-from lxml import etree
 from lxml import html
-import json
 import requests as rq
-import time
 
 from scraper import Scraper
 
@@ -40,16 +36,15 @@ months_indonesian = [
     'Desember',
 ]
 
-# 2-digit zero-padding.
-def zero_pad(l):
-    if len(str(l)) == 0:
-        return '00'
-    elif len(str(l)) == 1:
-        return f'0{l}'
-    else:
-        return l
 
-# -- OOP Approach.
+# 2-digit zero-padding.
+def zero_pad(num):
+    if len(str(num)) == 0:
+        return '00'
+    elif len(str(num)) == 1:
+        return f'0{num}'
+    else:
+        return num
 
 
 class ScraperYKB(Scraper):
@@ -79,21 +74,24 @@ class ScraperYKB(Scraper):
 
             # Check if this newly retrieved data has previously been scraped.
             previous_data = src_list_old[i]['posts']
+            data_exists = False
             for j in range(len(previous_data)):
                 if a['date'] == previous_data[j]['date']:
-                    print(f'[{self.__class__.__name__}] Already scraped for the title: {a["title"]}')
+                    print(f'[{self.__class__.__name__}] Already scraped for the title: {a["title"]} ({a['date']})')
+                    data_exists = True
                     break
 
-            # Applying changes.
-            print(f'[{self.__class__.__name__}] Prepending the following post to node: {a["title"]}')
-            current_node.insert(0, a)
+            if not data_exists:
+                # Applying changes.
+                print(f'[{self.__class__.__name__}] Prepending the following post to node: {a["title"]} ({a['date']})')
+                current_node.insert(0, a)
 
-            # Ensuring that there are at most N-number of posts in each source list.
-            if len(current_node) > self.MAX_POSTS_PER_SOURCE:
-                list(current_node).pop()
+                # Ensuring that there are at most N-number of posts in each source list.
+                if len(current_node) > self.MAX_POSTS_PER_SOURCE:
+                    list(current_node).pop()
 
         # Write changes.
-        super().write()
+        super().write(write_msg='ykb')
 
         # Finalizing the script.
         super().finish()
@@ -117,7 +115,7 @@ class ScraperYKB(Scraper):
             ' ')[1]
 
         # The scraped devotional scripture.
-        a['scripture'] = c.xpath('//p[@class="has-text-align-center"]//strong/text()')[0]
+        a['scripture'] = c.xpath('//p[@class="has-text-align-center"]//strong/text()')[0].replace('Bacaan:', '').replace('Bacaan', '')
 
         # The scraped month.
         _m = [l.strip() for l in c.xpath('//div[@class="devotion-date-bulan"]/span/text()')][0]

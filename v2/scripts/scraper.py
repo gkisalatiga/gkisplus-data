@@ -27,7 +27,7 @@ class Scraper(object):
 
     def finish(self):
         """ Finalize the current scraper's session. """
-        print(f'Finished the scraper. Total script time: {dt.now() - self.t}')
+        print(f'[{self.__class__.__name__}] Finished the scraper. Total script time: {dt.now() - self.t}')
     
     def run(self):
         
