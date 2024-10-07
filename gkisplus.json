@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 584,
-        "last-update": 1728299381,
-        "last-updated-item": "yt-video/es",
+        "update-count": 585,
+        "last-update": 1728331852,
+        "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "1.0"
     },
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 8 Okt 2024 | Menerima Kekuatan dan Kelemahan sebagai Anugerah Tuhan",
+                            "date": "2024-10-07",
+                            "desc": "Dibawakan oleh Ibu Ratnaningtyas Lestari",
+                            "link": "https://www.youtube.com/watch?v=_gQn3OCgG7I",
+                            "thumbnail": "https://i4.ytimg.com/vi/_gQn3OCgG7I/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 7 Okt 2024 | Keluarga Pembina Iman",
                             "date": "2024-10-06",
@@ -106,14 +114,6 @@
                             "desc": "Dibawakan oleh Pnt. Paul A.W. Gulö",
                             "link": "https://www.youtube.com/watch?v=FA9jRAwo4kY",
                             "thumbnail": "https://i3.ytimg.com/vi/FA9jRAwo4kY/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 24 Sep 2024",
-                            "date": "2024-09-23",
-                            "desc": "Dibawakan oleh Bpk. A.M. Widiatmoko",
-                            "link": "https://www.youtube.com/watch?v=3Sz6Mw2kpwo",
-                            "thumbnail": "https://i4.ytimg.com/vi/3Sz6Mw2kpwo/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
