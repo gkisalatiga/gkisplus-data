@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 581,
-        "last-update": 1728256113,
-        "last-updated-item": "yt-video/es",
+        "update-count": 582,
+        "last-update": 1728261992,
+        "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "1.0"
     },
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 7 Okt 2024 | Keluarga Pembina Iman",
+                            "date": "2024-10-06",
+                            "desc": "Dibawakan oleh Sdri. Indry Mabilaka",
+                            "link": "https://www.youtube.com/watch?v=lXEfuYQUmf4",
+                            "thumbnail": "https://i1.ytimg.com/vi/lXEfuYQUmf4/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 5 Okt 2024 | Kehausan Spiritual",
                             "date": "2024-10-04",
@@ -106,14 +114,6 @@
                             "desc": "Dibawakan oleh Bpk. A.M. Widiatmoko",
                             "link": "https://www.youtube.com/watch?v=3Sz6Mw2kpwo",
                             "thumbnail": "https://i4.ytimg.com/vi/3Sz6Mw2kpwo/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 23  Sep 2024 | Bahasa Kasih Yesus",
-                            "date": "2024-09-22",
-                            "desc": "Dibawakan oleh Ibu Gita Hastuti",
-                            "link": "https://www.youtube.com/watch?v=sw9faQj9JY8",
-                            "thumbnail": "https://i4.ytimg.com/vi/sw9faQj9JY8/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
