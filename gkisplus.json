@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 597,
-        "last-update": 1728423233,
+        "update-count": 598,
+        "last-update": 1728425349,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "1.0"
@@ -21,19 +21,19 @@
                 {
                     "content": [
                         {
-                            "title": "SaRen Pagi | 10 Okt 2024 | Tanggung Jawab Orang Kuat",
-                            "date": "2024-10-08",
-                            "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                            "link": "https://www.youtube.com/watch?v=OQRwpt__J1M",
-                            "thumbnail": "https://i4.ytimg.com/vi/OQRwpt__J1M/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
                             "title": "SaRen Pagi | 9 Okt 2024 | Keluarga Yang Saling Mengasihi",
                             "date": "2024-10-08",
                             "desc": "Dibawakan oleh Ibu Endah Mardikaningtyas",
                             "link": "https://www.youtube.com/watch?v=i1HVEEqR43A",
                             "thumbnail": "https://i2.ytimg.com/vi/i1HVEEqR43A/hqdefault.jpg",
+                            "is_live": 0
+                        },
+                        {
+                            "title": "SaRen Pagi | 10 Okt 2024 | Tanggung Jawab Orang Kuat",
+                            "date": "2024-10-08",
+                            "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                            "link": "https://www.youtube.com/watch?v=OQRwpt__J1M",
+                            "thumbnail": "https://i4.ytimg.com/vi/OQRwpt__J1M/hqdefault.jpg",
                             "is_live": 0
                         },
                         {
