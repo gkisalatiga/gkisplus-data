@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 611,
-        "last-update": 1728521043,
+        "update-count": 612,
+        "last-update": 1728591031,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "1.0"
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 11 Okt 2024",
+                            "date": "2024-10-10",
+                            "desc": "Dibawakan oleh Pnt. Hananto Seno",
+                            "link": "https://www.youtube.com/watch?v=p_9Ii38e3Ro",
+                            "thumbnail": "https://i1.ytimg.com/vi/p_9Ii38e3Ro/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 10 Okt 2024 | Tanggung Jawab Orang Kuat",
                             "date": "2024-10-09",
@@ -98,22 +106,6 @@
                             "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
                             "link": "https://www.youtube.com/watch?v=LO_NCzv-VKc",
                             "thumbnail": "https://i1.ytimg.com/vi/LO_NCzv-VKc/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 28 Sep 2024",
-                            "date": "2024-09-27",
-                            "desc": "Dibawakan oleh Ibu Krisulastri",
-                            "link": "https://www.youtube.com/watch?v=nLaW3c3vdUE",
-                            "thumbnail": "https://i3.ytimg.com/vi/nLaW3c3vdUE/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 27 Sep 2024",
-                            "date": "2024-09-26",
-                            "desc": "Dibawakan oleh Bpk. Erio FanggidaE",
-                            "link": "https://www.youtube.com/watch?v=OV3-b6FoxDU",
-                            "thumbnail": "https://i4.ytimg.com/vi/OV3-b6FoxDU/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
