@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 620,
-        "last-update": 1728607455,
+        "update-count": 621,
+        "last-update": 1728677406,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "1.0"
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 12 Okt 2024",
+                            "date": "2024-10-11",
+                            "desc": "Dibawakan oleh Sdri. Ayu Putri Lape",
+                            "link": "https://www.youtube.com/watch?v=8EzFpVV6bzw",
+                            "thumbnail": "https://i1.ytimg.com/vi/8EzFpVV6bzw/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 11 Okt 2024",
                             "date": "2024-10-10",
@@ -98,14 +106,6 @@
                             "desc": "Dibawakan oleh Pnt. Ervien Dian",
                             "link": "https://www.youtube.com/watch?v=aOcQ7FAzLNo",
                             "thumbnail": "https://i2.ytimg.com/vi/aOcQ7FAzLNo/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 30 Sep 2024 | Pelajaran Dari Anak Yang Hilang",
-                            "date": "2024-09-29",
-                            "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
-                            "link": "https://www.youtube.com/watch?v=LO_NCzv-VKc",
-                            "thumbnail": "https://i1.ytimg.com/vi/LO_NCzv-VKc/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
