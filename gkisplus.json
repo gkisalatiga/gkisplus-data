@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 632,
-        "last-update": 1728730931,
-        "last-updated-item": "yt-video/umum",
+        "update-count": 633,
+        "last-update": 1728731601,
+        "last-updated-item": "pdf/wj",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "1.0"
     },
@@ -906,6 +906,13 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 13 Oktober 2024",
+                    "date": "2024-10-12",
+                    "link": "https://drive.google.com/file/d/1RSWe_1O8tFC1WAWjL3EIx-I8myIwD4ln/preview",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-13-oktober-2024/",
+                    "thumbnail": ""
+                },
+                {
                     "title": "Warta Jemaat 6 Oktober 2024",
                     "date": "2024-10-05",
                     "link": "https://drive.google.com/file/d/1KA8TD0rfN5ezHdXjxTZxFer-F7wu8hSI/preview",
@@ -966,13 +973,6 @@
                     "date": "2024-08-10",
                     "link": "https://drive.google.com/file/d/1hIpsXG-LQIaJh_XHoPQGd7KmgVSvwFPZ/preview",
                     "post-page": "https://gkisalatiga.org/warta-jemaat-11-agustus-2024/",
-                    "thumbnail": ""
-                },
-                {
-                    "title": "Warta Jemaat 4 Agustus 2024",
-                    "date": "2024-08-04",
-                    "link": "https://drive.google.com/file/d/1sIMdTk50arD-RRE9Qc5fGL8Pj0UigKxm/preview",
-                    "post-page": "https://gkisalatiga.org/warta-jemaat-4-agustus-2024/",
                     "thumbnail": ""
                 }
             ],
