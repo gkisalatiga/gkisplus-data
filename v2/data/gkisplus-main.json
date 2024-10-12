@@ -1655,6 +1655,35 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_sm_22sep2024.webp?raw=true",
                 "poster-caption": "Setiap hari Minggu - pk. 07.00 WIB."
             }
-        }
+        },
+        "pukat-berkat": [
+            {
+                "title": "Roti Bakar Coklat Keju",
+                "desc": "Roti klasik dengan topping keju yang melimpah, mbikin ketagihan!",
+                "price": "Rp. 12.000",
+                "contact": "628123456789",
+                "vendor": "PT Agung Boga",
+                "type": "food",
+                "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_cheese.webp"
+            },
+            {
+                "title": "Kapur Barus Anti-Kecoa",
+                "desc": "Usir segala bentuk perkecoaan dengan kapur barus ini. Ayo dibeli dengan harga murah!",
+                "price": "Rp. 90.000",
+                "contact": "628123456789",
+                "vendor": "PT Industri Antikecoa",
+                "type": "non-food",
+                "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_bug.webp"
+            },
+            {
+                "title": "Pijat Lulur Refleksi",
+                "desc": "Anda sedang penat? Yok pijat dulu!",
+                "price": "Harga Bervariasi",
+                "contact": "628123456789",
+                "vendor": "Apotek Keluarga Besar",
+                "type": "service",
+                "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_massage.webp"
+            }
+        ]
     }
 }
