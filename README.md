@@ -1,6 +1,12 @@
 # gkisplus-data
 Regularly auto-updated cloud data for the GKI Salatiga Plus app
 
+## Actors
+
+- **GITHUB_ACTIONS**: Updated automatically by GitHub's `cron`-scheduled actions
+- **MANUAL_INTERVENTION**: Updated manually by hand
+- **SIMON_PETRUS**: Updated programmatically using the Simon Petrus administrator dashboard app
+
 ## Update interval (in UTC+7)
 
 - **English Service**: at 6 AM and 6 PM on day 1-7 of the month

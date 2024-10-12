@@ -1,0 +1,56 @@
+{
+    "meta": {
+        "update-count": 1,
+        "last-update": 1728971270,
+        "last-actor": "MANUAL_INTERVENTION",
+        "schema-version": "2.0"
+    },
+    "modules": {
+        "bible": [
+            {
+                "name": "Alkitab Yang Terbuka",
+                "abbr": "AYT",
+                "lang": "idn",
+                "source": "https://ebible.org/details.php?id=indayt",
+                "source-json": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/v2/modules/bible/indayt.min.json",
+                "source-size": "4.82 MB",
+                "filename": "indayt.min.json",
+                "license": "CC-BY-NC-SA-4.0",
+                "license-url": "https://spdx.org/licenses/CC-BY-NC-SA-4.0.html",
+                "author": "Yayasan Lembaga SABDA (YLSA)",
+                "author-url": "https://ylsa.org",
+                "description": "AYT adalah keseluruhan sistem pembelajaran Alkitab (Bible Study Sistem) yang lengkap dan terintegrasi dengan Pustaka Terbuka serta Komunitas Terbuka dengan memanfaatkan perkembangan teknologi abad ke-21."
+            },
+            {
+                "name": "Bible in Basic English",
+                "abbr": "BBE",
+                "lang": "eng",
+                "source": "https://ebible.org/find/show.php?id=engBBE",
+                "source-json": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/v2/modules/bible/engbbe.min.json",
+                "source-size": "4.40 MB",
+                "filename": "engbbe.min.json",
+                "license": "Public Domain",
+                "license-url": "https://www.bible-discovery.com/bible-license-bbe.php",
+                "author": "Samuel Henry Hooke, Cambridge Press",
+                "author-url": "https://ebible.org/find/show.php?id=engBBE",
+                "description": "The Bible In Basic English was printed in 1965 by Cambridge Press in England. Published without any copyright notice and distributed in America, this work fell immediately and irretrievably into the Public Domain in the United States according to the UCC convention of that time. A call to Cambridge prior to placing this work in etext resulted in an admission of this fact."
+            },
+            {
+                "name": "World English Bible",
+                "abbr": "WEB",
+                "lang": "eng",
+                "source": "https://ebible.org/find/show.php?id=engwebp",
+                "source-json": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/v2/modules/bible/engwebp.min.json",
+                "source-size": "4.30 MB",
+                "filename": "engwebp.min.json",
+                "license": "Public Domain",
+                "license-url": "https://worldenglish.bible",
+                "author": "Michael Paul Johnson",
+                "author-url": "https://mljohnson.org",
+                "description": "The World English Bible is a Public Domain translation of the Holy Bible into modern English."
+            }
+        ],
+        "library": [
+        ]
+    }
+}
