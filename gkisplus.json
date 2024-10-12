@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 637,
-        "last-update": 1728763644,
-        "last-updated-item": "yt-video/umum",
+        "update-count": 638,
+        "last-update": 1728763759,
+        "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "1.0"
     },
@@ -98,14 +98,6 @@
                             "desc": "Dibawakan oleh Pdt. Merry Rungkat",
                             "link": "https://www.youtube.com/watch?v=zADnfUWZPbQ",
                             "thumbnail": "https://i3.ytimg.com/vi/zADnfUWZPbQ/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 1 Okt 2024 | Warisan Iman",
-                            "date": "2024-09-30",
-                            "desc": "Dibawakan oleh Pnt. Ervien Dian",
-                            "link": "https://www.youtube.com/watch?v=aOcQ7FAzLNo",
-                            "thumbnail": "https://i2.ytimg.com/vi/aOcQ7FAzLNo/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
