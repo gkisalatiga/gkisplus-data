@@ -1276,13 +1276,15 @@
                 "bank-name": "Bank Central Asia",
                 "bank-abbr": "BCA",
                 "bank-number": "320.678.8899",
-                "account-holder": "GKI Salatiga"
+                "account-holder": "GKI Salatiga",
+                "bank-logo-url": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/bca_logo.png"
             },
             {
                 "bank-name": "CIMB Niaga",
                 "bank-abbr": "CIMB",
                 "bank-number": "8001.0331.5400",
-                "account-holder": "GKI Salatiga"
+                "account-holder": "GKI Salatiga",
+                "bank-logo-url": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/cimb_niaga_logo.png"
             }
         ],
         "offertory-code": [
