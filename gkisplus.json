@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 647,
-        "last-update": 1728775979,
+        "update-count": 648,
+        "last-update": 1728866791,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "1.0"
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 14 Okt 2024",
+                            "date": "2024-10-13",
+                            "desc": "Dibawakan oleh Ibu Lilis Supriyanti",
+                            "link": "https://www.youtube.com/watch?v=cBb2j8xq8qc",
+                            "thumbnail": "https://i4.ytimg.com/vi/cBb2j8xq8qc/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 12 Okt 2024",
                             "date": "2024-10-11",
