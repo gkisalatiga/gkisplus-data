@@ -1628,8 +1628,8 @@
                 "desc": "Persembahan dikelola untuk mendukung pelayanan pendidikan di Yayasan Pendidikan Eben Haezer GKI Salatiga"
             }
         ],
-        "carousel": {
-            "dth_setiap_senin": {
+        "carousel": [
+            {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_dth.webp?raw=true",
                 "title": "Doa Tengah Hari",
                 "type": "poster",
@@ -1637,7 +1637,7 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_dth.webp?raw=true",
                 "poster-caption": "Setiap hari Senin - pk. 12.00 WIB - bertempat di Ruang Kapernaum."
             },
-            "ppa_setiap_senin": {
+            {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_persiapan_pa.webp?raw=true",
                 "title": "Persiapan Pemandu PA",
                 "type": "poster",
@@ -1645,7 +1645,7 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_persiapan_pa.webp?raw=true",
                 "poster-caption": "Setiap hari Senin - pk. 18.00 WIB - bertempat di Ruang Konsistori."
             },
-            "pa_wilayah_setiap_selasa": {
+            {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_pa.webp?raw=true",
                 "title": "Pemahaman Alkitab (PA) Wilayah",
                 "type": "poster",
@@ -1653,7 +1653,7 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_pa.webp?raw=true",
                 "poster-caption": "Setiap hari Selasa - pk. 17.00 / 18.00 WIB - bertempat di wilayah masing-masing."
             },
-            "katekisasi_setiap_rabu": {
+            {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_katekisasi.webp?raw=true",
                 "title": "Katekisasi",
                 "type": "poster",
@@ -1661,7 +1661,7 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_katekisasi.webp?raw=true",
                 "poster-caption": "Setiap hari Rabu - pk. 17.00 WIB - bertempat di Ruang Kana."
             },
-            "kambium_setiap_rabu": {
+            {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_kambium.webp?raw=true",
                 "title": "Kambium",
                 "type": "poster",
@@ -1669,7 +1669,7 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_kambium.webp?raw=true",
                 "poster-caption": "Setiap hari Rabu - pk. 18.00 WIB - bertempat di Ruang Konsistori."
             },
-            "ktb_setiap_jumat": {
+            {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_ktb.webp?raw=true",
                 "title": "Kelompok Tumbuh Bersama (KTB)",
                 "type": "poster",
@@ -1677,7 +1677,7 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/poster_kr_ktb_20sep24.webp?raw=true",
                 "poster-caption": "Setiap hari Jumat - pk. 17.00 WIB - bertempat di Ruang Kapernaum."
             },
-            "warung_tiberias_setiap_sabtu": {
+            {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_warung_tiberias.webp?raw=true",
                 "title": "Warung Tiberias",
                 "type": "poster",
@@ -1685,7 +1685,7 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_warung_tiberias.webp?raw=true",
                 "poster-caption": "Setiap hari Sabtu - pk. 11.00 WIB - bertempat di area gereja."
             },
-            "soda_setiap_sabtu": {
+            {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_hut_soda.webp?raw=true",
                 "title": "HUT Ke-11 Sobat Muda GKI Salatiga",
                 "type": "poster",
@@ -1693,7 +1693,7 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/poster_hut_soda.webp?raw=true",
                 "poster-caption": "dilayani oleh Pdt. Merry Rungkat - Sabtu, 14 September 2024 - 17.00 WIB."
             },
-            "sekolah_minggu_15092024": {
+            {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_sm_22sep2024.webp?raw=true",
                 "title": "Sekolah Minggu",
                 "type": "poster",
@@ -1701,7 +1701,7 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_sm_22sep2024.webp?raw=true",
                 "poster-caption": "Setiap hari Minggu - pk. 07.00 WIB."
             },
-            "kr_setiap_minggu": {
+            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/banner_kr_22sep24.webp",
                 "title": "Ibadah Komisi Remaja GKI Salatiga",
                 "type": "poster",
@@ -1709,7 +1709,7 @@
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-carousel/banner_kr_22sep24.webp",
                 "poster-caption": "Setiap hari Minggu - pk. 07.30 WIB - bertempat di Aula Kanna."
             },
-            "kr_setiap_minggu1": {
+            {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_soda21092024.webp?raw=true",
                 "title": "Sekolah Minggu",
                 "type": "poster",
@@ -1717,7 +1717,7 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_soda21092024.webp?raw=true",
                 "poster-caption": "Setiap hari Sabtu - pk. 17.00 WIB."
             },
-            "sekolah_minggu_22092024": {
+            {
                 "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_sm_22sep2024.webp?raw=true",
                 "title": "Sekolah Minggu",
                 "type": "poster",
@@ -1725,7 +1725,7 @@
                 "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_sm_22sep2024.webp?raw=true",
                 "poster-caption": "Setiap hari Minggu - pk. 07.00 WIB."
             }
-        },
+        ],
         "pukat-berkat": [
             {
                 "title": "Roti Bakar Coklat Keju",
