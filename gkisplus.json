@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 657,
-        "last-update": 1728953097,
+        "update-count": 658,
+        "last-update": 1729023029,
         "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "1.0"
@@ -20,6 +20,14 @@
             "pinned": [
                 {
                     "content": [
+                        {
+                            "title": "SaRen Pagi | 16 Okt 2024 | Belajar Dari Mereka",
+                            "date": "2024-10-15",
+                            "desc": "Dibawakan oleh Ibu Risti Mendrofa",
+                            "link": "https://www.youtube.com/watch?v=pueLLw3-yRg",
+                            "thumbnail": "https://i1.ytimg.com/vi/pueLLw3-yRg/hqdefault.jpg",
+                            "is_live": 0
+                        },
                         {
                             "title": "SaRen Pagi | 15 Okt 2024 | Cinta Tak Bersyarat",
                             "date": "2024-10-14",
@@ -98,14 +106,6 @@
                             "desc": "Dibawakan oleh Pnt. Nadia Sita",
                             "link": "https://www.youtube.com/watch?v=wiNmKbQWn8w",
                             "thumbnail": "https://i4.ytimg.com/vi/wiNmKbQWn8w/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 3 Okt 2024",
-                            "date": "2024-10-02",
-                            "desc": "Dibawakan oleh Bpk. Joko Suyono",
-                            "link": "https://www.youtube.com/watch?v=Pdi-BzwkfNY",
-                            "thumbnail": "https://i1.ytimg.com/vi/Pdi-BzwkfNY/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
