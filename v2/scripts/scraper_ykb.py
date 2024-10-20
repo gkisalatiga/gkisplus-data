@@ -49,7 +49,7 @@ def zero_pad(num):
 
 class ScraperYKB(Scraper):
 
-    MAX_POSTS_PER_SOURCE = 3
+    MAX_POSTS_PER_SOURCE = 10
     
     def __init__(self):
         super().__init__()
@@ -85,11 +85,12 @@ class ScraperYKB(Scraper):
                 # Applying changes.
                 print(f'[{self.__class__.__name__}] Prepending the following post to node: {a["title"]} ({a['date']})')
                 current_node.insert(0, a)
-
-                # Ensuring that there are at most N-number of posts in each source list.
-                if len(current_node) > self.MAX_POSTS_PER_SOURCE:
-                    list(current_node).pop()
-
+        
+            # Ensuring that there are at most N-number of posts in each source list.
+            print(f'[{self.__class__.__name__}] Pruning the dictionary ...')
+            for b in current_node[self.MAX_POSTS_PER_SOURCE:]:
+                current_node.remove(b)
+        
         # Write changes.
         super().write(write_msg='ykb')
 
