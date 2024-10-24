@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 685,
-        "last-update": 1729379207,
-        "last-updated-item": "yt-video/umum",
+        "update-count": 686,
+        "last-update": 1729800629,
+        "last-updated-item": "yt-video/saren",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "1.0"
     },
@@ -21,91 +21,59 @@
                 {
                     "content": [
                         {
-                            "title": "SaRen Pagi | 17 Okt 2024 | Supaya Kamu Saling Mengasihi",
-                            "date": "2024-10-16",
-                            "desc": "Dibawakan oleh Pnt. Hendra Aribowo",
-                            "link": "https://www.youtube.com/watch?v=8IRKD4noZcM",
-                            "thumbnail": "https://i1.ytimg.com/vi/8IRKD4noZcM/hqdefault.jpg",
+                            "title": "SaRen Pagi | 25 Okt 2024",
+                            "date": "2024-10-24",
+                            "desc": "Dibawakan oleh Pdt. Esther Helena Tulung",
+                            "link": "https://www.youtube.com/watch?v=ZL_fnl9-PzU",
+                            "thumbnail": "https://i3.ytimg.com/vi/ZL_fnl9-PzU/hqdefault.jpg",
                             "is_live": 0
                         },
                         {
-                            "title": "SaRen Pagi | 16 Okt 2024 | Belajar Dari Mereka",
-                            "date": "2024-10-15",
-                            "desc": "Dibawakan oleh Ibu Risti Mendrofa",
-                            "link": "https://www.youtube.com/watch?v=pueLLw3-yRg",
-                            "thumbnail": "https://i1.ytimg.com/vi/pueLLw3-yRg/hqdefault.jpg",
+                            "title": "SaRen Pagi | 24 Okt 2024",
+                            "date": "2024-10-23",
+                            "desc": "Dibawakan oleh Bpk. Ishak Danang Purnomo",
+                            "link": "https://www.youtube.com/watch?v=julSkIcdGZw",
+                            "thumbnail": "https://i3.ytimg.com/vi/julSkIcdGZw/hqdefault.jpg",
                             "is_live": 0
                         },
                         {
-                            "title": "SaRen Pagi | 15 Okt 2024 | Cinta Tak Bersyarat",
-                            "date": "2024-10-14",
-                            "desc": "Dibawakan oleh Ibu Liana Poedjihastuti",
-                            "link": "https://www.youtube.com/watch?v=fC5MNl-tj9s",
-                            "thumbnail": "https://i3.ytimg.com/vi/fC5MNl-tj9s/hqdefault.jpg",
+                            "title": "SaRen Pagi | 23 Okt 2024",
+                            "date": "2024-10-22",
+                            "desc": "Dibawakan oleh Ibu Monika Manuella",
+                            "link": "https://www.youtube.com/watch?v=upuFZorwD1U",
+                            "thumbnail": "https://i2.ytimg.com/vi/upuFZorwD1U/hqdefault.jpg",
                             "is_live": 0
                         },
                         {
-                            "title": "SaRen Pagi | 14 Okt 2024",
-                            "date": "2024-10-13",
-                            "desc": "Dibawakan oleh Ibu Lilis Supriyanti",
-                            "link": "https://www.youtube.com/watch?v=cBb2j8xq8qc",
-                            "thumbnail": "https://i4.ytimg.com/vi/cBb2j8xq8qc/hqdefault.jpg",
+                            "title": "SaRen Pagi | 22 Okt 2024 | Keluarga Inklusif",
+                            "date": "2024-10-21",
+                            "desc": "Dibawakan oleh Pnt. Samuel Martono",
+                            "link": "https://www.youtube.com/watch?v=FK94-QcrqkA",
+                            "thumbnail": "https://i3.ytimg.com/vi/FK94-QcrqkA/hqdefault.jpg",
                             "is_live": 0
                         },
                         {
-                            "title": "SaRen Pagi | 12 Okt 2024",
-                            "date": "2024-10-11",
-                            "desc": "Dibawakan oleh Sdri. Ayu Putri Lape",
-                            "link": "https://www.youtube.com/watch?v=8EzFpVV6bzw",
-                            "thumbnail": "https://i1.ytimg.com/vi/8EzFpVV6bzw/hqdefault.jpg",
+                            "title": "SaRen Pagi | 21 Okt 2024 | Keluarga: Yang Kuat Menanggung Yang Lemah",
+                            "date": "2024-10-20",
+                            "desc": "Dibawakan oleh Pdt. Helen Ruth Manurung",
+                            "link": "https://www.youtube.com/watch?v=k-MpIYjUUkE",
+                            "thumbnail": "https://i4.ytimg.com/vi/k-MpIYjUUkE/hqdefault.jpg",
                             "is_live": 0
                         },
                         {
-                            "title": "SaRen Pagi | 11 Okt 2024",
-                            "date": "2024-10-10",
-                            "desc": "Dibawakan oleh Pnt. Hananto Seno",
-                            "link": "https://www.youtube.com/watch?v=p_9Ii38e3Ro",
-                            "thumbnail": "https://i1.ytimg.com/vi/p_9Ii38e3Ro/hqdefault.jpg",
+                            "title": "SaRen Pagi | 19 Okt 2024 | Menghormati Orang Tua",
+                            "date": "2024-10-18",
+                            "desc": "Dibawakan oleh Iby Celly Murniningsih",
+                            "link": "https://www.youtube.com/watch?v=OqDORT19q7A",
+                            "thumbnail": "https://i4.ytimg.com/vi/OqDORT19q7A/hqdefault.jpg",
                             "is_live": 0
                         },
                         {
-                            "title": "SaRen Pagi | 10 Okt 2024 | Tanggung Jawab Orang Kuat",
-                            "date": "2024-10-09",
-                            "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
-                            "link": "https://www.youtube.com/watch?v=OQRwpt__J1M",
-                            "thumbnail": "https://i4.ytimg.com/vi/OQRwpt__J1M/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 9 Okt 2024 | Keluarga Yang Saling Mengasihi",
-                            "date": "2024-10-08",
-                            "desc": "Dibawakan oleh Ibu Endah Mardikaningtyas",
-                            "link": "https://www.youtube.com/watch?v=i1HVEEqR43A",
-                            "thumbnail": "https://i2.ytimg.com/vi/i1HVEEqR43A/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 8 Okt 2024 | Menerima Kekuatan dan Kelemahan sebagai Anugerah Tuhan",
-                            "date": "2024-10-07",
-                            "desc": "Dibawakan oleh Ibu Ratnaningtyas Lestari",
-                            "link": "https://www.youtube.com/watch?v=_gQn3OCgG7I",
-                            "thumbnail": "https://i4.ytimg.com/vi/_gQn3OCgG7I/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 7 Okt 2024 | Keluarga Pembina Iman",
-                            "date": "2024-10-06",
-                            "desc": "Dibawakan oleh Sdri. Indry Mabilaka",
-                            "link": "https://www.youtube.com/watch?v=lXEfuYQUmf4",
-                            "thumbnail": "https://i1.ytimg.com/vi/lXEfuYQUmf4/hqdefault.jpg",
-                            "is_live": 0
-                        },
-                        {
-                            "title": "SaRen Pagi | 5 Okt 2024 | Kehausan Spiritual",
-                            "date": "2024-10-04",
-                            "desc": "Dibawakan oleh Pdt. Em. Yahya Wijaya",
-                            "link": "https://www.youtube.com/watch?v=LXXtwDsAsHE",
-                            "thumbnail": "https://i1.ytimg.com/vi/LXXtwDsAsHE/hqdefault.jpg",
+                            "title": "SaRen Pagi | 18 Okt 2024 | Bagi Sluruh Org Tua yg Membsrkan Anak Berkebutuhan Khusus, Anda Pst Bisa",
+                            "date": "2024-10-17",
+                            "desc": "Dibawakan oleh Bpk. Agastya Rama Listya",
+                            "link": "https://www.youtube.com/watch?v=QsGxMHT1Z1c",
+                            "thumbnail": "https://i2.ytimg.com/vi/QsGxMHT1Z1c/hqdefault.jpg",
                             "is_live": 0
                         }
                     ],
