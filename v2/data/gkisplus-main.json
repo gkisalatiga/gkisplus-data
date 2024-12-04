@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 1904,
-        "last-update": 1733325191,
-        "last-updated-item": "ykb",
+        "update-count": 1905,
+        "last-update": 1733325758,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -19,6 +19,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 5 Des 2024 | Adventus Continua",
+                        "date": "2024-12-04",
+                        "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
+                        "link": "https://www.youtube.com/watch?v=oY-JlKPChDQ",
+                        "thumbnail": "https://i4.ytimg.com/vi/oY-JlKPChDQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 4 Des 2024",
                         "date": "2024-12-03",
@@ -95,13 +102,6 @@
                         "desc": "Dibawakan oleh Pnt. Shielly Gunawan",
                         "link": "https://www.youtube.com/watch?v=Gg-EplUXWp8",
                         "thumbnail": "https://i4.ytimg.com/vi/Gg-EplUXWp8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 21 Nov 2024 | Meraih Kesembuhan",
-                        "date": "2024-11-20",
-                        "desc": "Dibawakan oleh Ibu Sintarini Utomo",
-                        "link": "https://www.youtube.com/watch?v=GjdSt4nNASQ",
-                        "thumbnail": "https://i4.ytimg.com/vi/GjdSt4nNASQ/hqdefault.jpg"
                     }
                 ],
                 "last-update": "2024-12-04",
