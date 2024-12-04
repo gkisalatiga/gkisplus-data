@@ -1,0 +1,26 @@
+name: Initiating Python on GitHub Actions
+run-name: ${{ github.actor }} is installing Python and its PIP dependencies 🚀
+on:
+  workflow_dispatch:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    # This workflow will run at 00:00 every 10th and 20th day of the month.
+    - cron:  '0 0 10,20 * *'
+jobs:
+  Init-Python:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Preamble logging
+        run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12' # Specify the Python version you need
+        
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt  # --- install the required packages
+        
+      - run: echo "🍏 This job's status is ${{ job.status }}."
