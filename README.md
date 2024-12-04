@@ -1,6 +1,8 @@
 # gkisplus-data
 Regularly auto-updated cloud data for the GKI Salatiga Plus app
 
+- The `v1` data updater now no longer receives updates.
+
 ## Actors
 
 - **GITHUB_ACTIONS**: Updated automatically by GitHub's `cron`-scheduled actions
