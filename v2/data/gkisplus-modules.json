@@ -84,6 +84,84 @@
                 "source": "https://lpps.or.id/wp/2024/09/09/masa-adven-natal-2024",
                 "size": "3.46 MB"
             }
-        ]
+        ],
+        "attributions": {
+            "webview": [
+                {
+                    "title": "Framacarte",
+                    "license": "CC-BY-SA-4.0",
+                    "license-url": "https://creativecommons.org/licenses/by-sa/4.0/deed",
+                    "year": "2024",
+                    "author": "Framasoft",
+                    "link": "https://framacarte.org/abc/en"
+                },
+                {
+                    "title": "OpenStreetMap",
+                    "license": "Open Data Commons Open Database License v1.0",
+                    "license-url": "https://opendatacommons.org/licenses/odbl/1-0",
+                    "year": "2024",
+                    "author": "OpenStreetMap Foundation (OSMF)",
+                    "link": "https://www.openstreetmap.org"
+                },
+                {
+                    "title": "Plus Jakarta Sans",
+                    "license": "SIL Open Font License 1.1",
+                    "license-url": "https://opensource.org/license/OFL-1.1",
+                    "year": "2020",
+                    "author": "Tokotype",
+                    "link": "https://fonts.google.com/specimen/Plus+Jakarta+Sans?query=plus+jakarta+sans"
+                }
+            ],
+            "books": [
+                {
+                    "title": "Alkitab Yang Terbuka",
+                    "license": "CC-BY-NC-SA-4.0",
+                    "license-url": "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
+                    "year": "2011-2024",
+                    "author": "Yayasan Lembaga SABDA (YLSA)",
+                    "link": "https://ayt.co"
+                },
+                {
+                    "title": "Bible in Basic English",
+                    "license": "Public Domain",
+                    "license-url": "https://ebible.org/find/show.php?id=engBBE",
+                    "year": "",
+                    "author": "Samuel Henry Hooke, Cambridge Press",
+                    "link": "https://ebible.org/find/show.php?id=engBBE"
+                },
+                {
+                    "title": "Bulan Keluarga 2024: \u201cSupaya Kamu Saling Mengasihi\u201d",
+                    "license": "Non-Profit",
+                    "license-url": "https://lpps.or.id/wp/2024/07/29/bulan-keluarga-2024",
+                    "year": "2024",
+                    "author": "LPP Sinode GKJ dan GKI SW Jateng",
+                    "link": "https://lpps.or.id/wp/2024/07/29/bulan-keluarga-2024"
+                },
+                {
+                    "title": "Masa Adven Natal 2024: \u201cDia Tinggal Di Antara Kita\u201d",
+                    "license": "Non-Profit",
+                    "license-url": "https://lpps.or.id/wp/2024/09/09/masa-adven-natal-2024",
+                    "year": "2024",
+                    "author": "LPP Sinode GKJ dan GKI SW Jateng",
+                    "link": "https://lpps.or.id/wp/2024/09/09/masa-adven-natal-2024"
+                },
+                {
+                    "title": "Masa Paskah 2024: \u201cBangkit Untuk Menata Kehidupan\u201d",
+                    "license": "Non-Profit",
+                    "license-url": "https://lpps.or.id/wp/2023/12/05/masa-paskah",
+                    "year": "2023",
+                    "author": "LPP Sinode GKJ dan GKI SW Jateng",
+                    "link": "https://lpps.or.id/wp/2023/12/05/masa-paskah"
+                },
+                {
+                    "title": "World English Bible",
+                    "license": "Public Domain",
+                    "license-url": "https://ebible.org/find/show.php?id=engwebp",
+                    "year": "",
+                    "author": "Michael Paul Johnson",
+                    "link": "https://worldenglish.bible"
+                }
+            ]
+        }
     }
 }

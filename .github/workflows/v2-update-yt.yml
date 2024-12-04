@@ -1,12 +1,15 @@
-name: v2 - Scraping "YKB" Data
-run-name: ${{ github.actor }} is scraping the YKB data of the day 🚀
+name: v2 - Scraping "YouTube" Data
+env:
+  YT_API_KEY: ${{ secrets.YT_V3_APIKEY }}
+run-name: ${{ github.actor }} is scraping the YouTube data of the day 🚀
 on:
   # Manual trigger.
   workflow_dispatch:
   schedule:
     # * is a special character in YAML so you have to quote this string
     # SOURCE: https://cron.help
-    - cron: '0 0,3,6,9,12,15,18,21 * * *'
+    - cron: '0,15,30,45 0,20,21,22,23 * * *'
+    - cron: '0 3,6,9,12,15,18 * * *'
 jobs:
   Run-Python:
     permissions:
@@ -37,13 +40,13 @@ jobs:
       
       # SOURCE: https://www.geeksforgeeks.org/run-python-script-in-github-actions/
       - name: Running the updater
-        run: python v2/scripts/scraper_ykb.py
+        run: python v2/scripts/scraper_yt.py
       
       # SOURCE: https://github.com/marketplace/actions/add-commit-and-push
       - name: Commiting changes to files
         uses: actions4git/setup-git@v1
       - run: git add v2/*
-      - run: git commit --message "(v2) Scraped the YKB content"
+      - run: git commit --message "(v2) Scraped the YouTube content"
       - run: git push origin main --force
         
       - run: echo "🍏 This job's status is ${{ job.status }}."

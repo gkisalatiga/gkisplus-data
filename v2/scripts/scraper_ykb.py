@@ -1,6 +1,5 @@
 from copy import deepcopy
 from lxml import html
-import requests as rq
 
 from scraper import Scraper
 
@@ -56,6 +55,9 @@ class ScraperYKB(Scraper):
     
     def run(self):
         super().run()
+
+        # Preamble logging.
+        print('Beginning the automation script for updating data: Renungan YKB')
         
         # Get all the list of source lists.
         src_list = self.json_data['data']['ykb']
@@ -101,7 +103,7 @@ class ScraperYKB(Scraper):
         """ :return: The cleaned HTML string of the scraped target HTML page. """
 
         # Retrieve the YKB page.
-        r = rq.get(url)
+        r = self.rq.get(url)
         c = html.fromstring(r.content)
 
         # Building the post content dictionary.
@@ -119,7 +121,8 @@ class ScraperYKB(Scraper):
             ' ')[1]
 
         # The scraped devotional scripture.
-        a['scripture'] = c.xpath('//p[@class="has-text-align-center"]//strong/text()')[0].replace('Bacaan:', '').replace('Bacaan', '')
+        _scripture = c.xpath('//p[@class="has-text-align-center"]//text()[normalize-space()]')
+        a['scripture'] = '' if len(_scripture) == 0 else _scripture
 
         # The scraped month.
         _m = [l.strip() for l in c.xpath('//div[@class="devotion-date-bulan"]/span/text()')][0]
