@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 1965,
-        "last-update": 1733497958,
-        "last-updated-item": "ykb",
+        "update-count": 1966,
+        "last-update": 1733498498,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -95,13 +95,6 @@
                         "desc": "Dibawakan oleh Sdri. Hanny Handayani",
                         "link": "https://www.youtube.com/watch?v=HV87ui9oSPo",
                         "thumbnail": "https://i1.ytimg.com/vi/HV87ui9oSPo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 23 Nov 2024",
-                        "date": "2024-11-22",
-                        "desc": "Dibawakan oleh Bpk. Chandra Hutabarat",
-                        "link": "https://www.youtube.com/watch?v=y9redh_vvME",
-                        "thumbnail": "https://i2.ytimg.com/vi/y9redh_vvME/hqdefault.jpg"
                     }
                 ],
                 "last-update": "2024-12-06",
@@ -324,6 +317,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "GKI Salatiga | English Service | Sunday, December 8th, 2024 | 10 a.m. Jakarta Time",
+                        "date": "2024-12-06",
+                        "desc": "PREPARE THE WAY FOR THE LORD\nLuke 3:1-6\n\nLed by\nRev. Raharjo Widhipangreksa\n\nPL: Diane N.\nPrayer: Gita H.\nReader: Cevi\nOffertory: Nadia S. + Debora\nPrayer ES: James + Irma\nMultimedia: Bambang + James\nPemusik: Bung and Friends, Lyka\nSL: Tika",
+                        "link": "https://www.youtube.com/watch?v=2HUyaTXC0cQ",
+                        "thumbnail": "https://i.ytimg.com/vi/2HUyaTXC0cQ/hqdefault_live.jpg"
+                    },
                     {
                         "title": "GKI Salatiga | English Service | Sunday, November 3rd, 2024 | 10 a.m. Jakarta Time",
                         "date": "2024-10-31",
