@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 1986,
-        "last-update": 1733542425,
-        "last-updated-item": "yt",
+        "update-count": 1987,
+        "last-update": 1733548640,
+        "last-updated-item": "pdf/liturgi",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -1281,13 +1281,22 @@
             ],
             "liturgi": [
                 {
+                    "title": "Tata Ibadah 8 Desember 2024",
+                    "date": "2024-12-07",
+                    "link": "https://drive.google.com/file/d/1yTDTFNVZMAzVgd5KUWc5Ot7dgWf0U6mn/preview",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-8-desember-2024/",
+                    "thumbnail": "",
+                    "id": "1yTDTFNVZMAzVgd5KUWc5Ot7dgWf0U6mn",
+                    "size": "0.45 MB"
+                },
+                {
                     "title": "Tata Ibadah 1 Desember 2024",
                     "date": "2024-11-30",
-                    "link": "hhttps://drive.google.com/file/d/1DXYQ1XDTlB9yj5MM1cwDEfGlSHOziCSy/preview",
+                    "link": "https://drive.google.com/file/d/1DXYQ1XDTlB9yj5MM1cwDEfGlSHOziCSy/preview",
                     "post-page": "https://gkisalatiga.org/tata-ibadah-1-desember-2024/",
                     "thumbnail": "",
-                    "id": "h1DXYQ1XDTlB9yj5MM1cwDEfGlSHOziCSy",
-                    "size": "- MB"
+                    "id": "1DXYQ1XDTlB9yj5MM1cwDEfGlSHOziCSy",
+                    "size": "0.33 MB"
                 },
                 {
                     "title": "Tata Ibadah 24 November 2024",
@@ -1450,15 +1459,6 @@
                     "thumbnail": "",
                     "id": "1RlznHPNw7EuPp4Fz4yULoEuxABGUQHKR",
                     "size": "0.16 MB"
-                },
-                {
-                    "title": "Tata Ibadah 14 Juli 2024",
-                    "date": "2024-07-13",
-                    "link": "https://drive.google.com/file/d/1ci_-5c52SmrzViytC3xTStk7tNYLYevR/preview",
-                    "post-page": "https://gkisalatiga.org/tata-ibadah-14-juli-2024/",
-                    "thumbnail": "",
-                    "id": "1ci_-5c52SmrzViytC3xTStk7tNYLYevR",
-                    "size": "0.31 MB"
                 }
             ]
         },
