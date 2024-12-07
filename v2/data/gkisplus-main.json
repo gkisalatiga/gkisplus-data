@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2007,
-        "last-update": 1733595306,
-        "last-updated-item": "ykb",
+        "update-count": 2008,
+        "last-update": 1733595970,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -95,13 +95,6 @@
                         "desc": "Dibawakan oleh Ibu Chandra Novita",
                         "link": "https://www.youtube.com/watch?v=Xsw2tjjjTQ8",
                         "thumbnail": "https://i1.ytimg.com/vi/Xsw2tjjjTQ8/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 25  Nov 2024",
-                        "date": "2024-11-24",
-                        "desc": "Dibawakan oleh Sdri. Hanny Handayani",
-                        "link": "https://www.youtube.com/watch?v=HV87ui9oSPo",
-                        "thumbnail": "https://i1.ytimg.com/vi/HV87ui9oSPo/hqdefault.jpg"
                     }
                 ],
                 "last-update": "2024-12-07",
