@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 1987,
-        "last-update": 1733548640,
-        "last-updated-item": "pdf/liturgi",
+        "update-count": 1988,
+        "last-update": 1733548919,
+        "last-updated-item": "pdf/wj",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -1099,6 +1099,15 @@
         "pdf": {
             "wj": [
                 {
+                    "title": "Warta Jemaat 8 Desember 2024",
+                    "date": "2024-12-07",
+                    "link": "https://drive.google.com/file/d/1bOoHtgjTpum_ZpZlOi_HZPG4bH72OfbG/preview",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-8-desember-2024/",
+                    "thumbnail": "",
+                    "id": "1bOoHtgjTpum_ZpZlOi_HZPG4bH72OfbG",
+                    "size": "2.45 MB"
+                },
+                {
                     "title": "Warta Jemaat 1 Desember 2024",
                     "date": "2024-11-30",
                     "link": "https://drive.google.com/file/d/1z_ZT6x1_EWLadHSdzpeRrJGE2U1U_JUI/preview",
@@ -1268,15 +1277,6 @@
                     "thumbnail": "",
                     "id": "1kZzEvI9M0fdBS_jLM0GUhqmRX5VV_dDL",
                     "size": "1.74 MB"
-                },
-                {
-                    "title": "Warta Jemaat 21 Juli 2024",
-                    "date": "2024-07-21",
-                    "link": "https://drive.google.com/file/d/13s2cKbqKQoEJTLOcLvyQkABfwt5QRHW7/preview",
-                    "post-page": "https://gkisalatiga.org/warta-jemaat-21-juli-2024/",
-                    "thumbnail": "https://gkisalatiga.org/wp-content/uploads/2024/07/Screenshot-2024-07-21-002700.png",
-                    "id": "13s2cKbqKQoEJTLOcLvyQkABfwt5QRHW7",
-                    "size": "1.45 MB"
                 }
             ],
             "liturgi": [
