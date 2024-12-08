@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2040,
-        "last-update": 1733681681,
-        "last-updated-item": "ykb",
+        "update-count": 2041,
+        "last-update": 1733682363,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -19,6 +19,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 9 Des 2024 | Menanti dengan Iman Walau Dalam Penderitaan",
+                        "date": "2024-12-08",
+                        "desc": "Dibawakan oleh Sdr. Yapi Valiano",
+                        "link": "https://www.youtube.com/watch?v=BWCzYM9YSnI",
+                        "thumbnail": "https://i3.ytimg.com/vi/BWCzYM9YSnI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 7 Des 2024 | Berani Melangkah Bersama Allah (Lukas 1:35-38)",
                         "date": "2024-12-06",
@@ -88,13 +95,6 @@
                         "desc": "Dibawakan oleh Pnt. Rodiana",
                         "link": "https://www.youtube.com/watch?v=d4wSzxzcm6E",
                         "thumbnail": "https://i1.ytimg.com/vi/d4wSzxzcm6E/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 26 Nov 2024 | Melepas Dendam",
-                        "date": "2024-11-25",
-                        "desc": "Dibawakan oleh Ibu Chandra Novita",
-                        "link": "https://www.youtube.com/watch?v=Xsw2tjjjTQ8",
-                        "thumbnail": "https://i1.ytimg.com/vi/Xsw2tjjjTQ8/hqdefault.jpg"
                     }
                 ],
                 "last-update": "2024-12-08",
@@ -322,7 +322,7 @@
                         "date": "2024-12-06",
                         "desc": "PREPARE THE WAY FOR THE LORD\nLuke 3:1-6\n\nLed by\nRev. Raharjo Widhipangreksa\n\nPL: Diane N.\nPrayer: Gita H.\nReader: Cevi\nOffertory: Nadia S. + Debora\nPrayer ES: James + Irma\nMultimedia: Bambang + James\nPemusik: Bung and Friends, Lyka\nSL: Tika",
                         "link": "https://www.youtube.com/watch?v=2HUyaTXC0cQ",
-                        "thumbnail": "https://i.ytimg.com/vi/2HUyaTXC0cQ/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/2HUyaTXC0cQ/hqdefault.jpg"
                     },
                     {
                         "title": "GKI Salatiga | English Service | Sunday, November 3rd, 2024 | 10 a.m. Jakarta Time",
