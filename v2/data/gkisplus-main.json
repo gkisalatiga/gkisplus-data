@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2069,
-        "last-update": 1733757204,
-        "last-updated-item": "ykb",
+        "update-count": 2070,
+        "last-update": 1733757746,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -19,6 +19,20 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 11 Des 2024 | Ciptaan Baru",
+                        "date": "2024-12-09",
+                        "desc": "Dibawakan oleh Ibu Henny Julyanti",
+                        "link": "https://www.youtube.com/watch?v=kiRk9Kd_ZLo",
+                        "thumbnail": "https://i4.ytimg.com/vi/kiRk9Kd_ZLo/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi |10 Des 2024 | Allah Yang Dekat",
+                        "date": "2024-12-09",
+                        "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
+                        "link": "https://www.youtube.com/watch?v=AQiqsbqWYXg",
+                        "thumbnail": "https://i2.ytimg.com/vi/AQiqsbqWYXg/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 9 Des 2024 | Menanti dengan Iman Walau Dalam Penderitaan",
                         "date": "2024-12-08",
@@ -81,20 +95,6 @@
                         "desc": "Dibawakan oleh Ibu Trinamawati",
                         "link": "https://www.youtube.com/watch?v=DVHB7JJ_ERY",
                         "thumbnail": "https://i1.ytimg.com/vi/DVHB7JJ_ERY/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 28 Nov 2024 | Injil yang Menguatkan",
-                        "date": "2024-11-27",
-                        "desc": "Dibawakan oleh Bpk. Tejo Prayitno",
-                        "link": "https://www.youtube.com/watch?v=2YEXPJ53AoY",
-                        "thumbnail": "https://i3.ytimg.com/vi/2YEXPJ53AoY/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 27 Nov 2024 | Saya Doakan ya?",
-                        "date": "2024-11-26",
-                        "desc": "Dibawakan oleh Pnt. Rodiana",
-                        "link": "https://www.youtube.com/watch?v=d4wSzxzcm6E",
-                        "thumbnail": "https://i1.ytimg.com/vi/d4wSzxzcm6E/hqdefault.jpg"
                     }
                 ],
                 "last-update": "2024-12-09",
