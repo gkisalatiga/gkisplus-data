@@ -1,7 +1,7 @@
 {
     "meta": {
         "update-count": 2114,
-        "last-update": 1733873266,
+        "last-update": 1733874154,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2224,8 +2224,8 @@
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/banner_ktb.webp",
                 "title": "Kelompok Tumbuh Bersama (KTB)",
                 "type": "poster",
-                "date-created": "2024-11-23",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
+                "date-created": "2024-12-11",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/banner_ktb.webp",
                 "poster-caption": "Setiap hari Jumat - pk. 17.00 WIB - bertempat di Ruang Kapernaum."
             },
             {
@@ -2237,12 +2237,12 @@
                 "poster-caption": "Setiap hari Sabtu - pk. 11.00 WIB - bertempat di area gereja."
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
-                "title": "Pundi-Pundi Samaria",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
+                "title": "Kelompok Tumbuh Bersama (KTB)",
                 "type": "poster",
-                "date-created": "2024-11-09",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_tim_samaria.webp",
-                "poster-caption": "Bagi yang membutuh bantuan, dapat menghubungi Bu Kristin (no tertera di poster)"
+                "date-created": "2024-12-11",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
+                "poster-caption": "Setiap hari Jumat - pk. 17.00 WIB - bertempat di Ruang Kapernaum."
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
@@ -2277,14 +2277,6 @@
                 "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/sambut_natal_ka.webp",
-                "title": "Sambut Natal Komisi Anak 2024",
-                "type": "poster",
-                "date-created": "2024-11-30",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/sambut_natal_ka.webp",
-                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
-            },
-            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_agenda_mrn.webp",
                 "title": "Agenda Masa Raya Natal 2024",
                 "type": "poster",
@@ -2299,6 +2291,30 @@
                 "date-created": "2024-12-10",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_persembahan.webp",
                 "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://i3.ytimg.com/vi/live/pnh0LbOsu_Y?si=zGhETXhHms1xoXWX/maxresdefault.jpg",
+                "title": "Sambut Natal Komisi Anak GKI Salatiga 2024",
+                "type": "yt",
+                "date-created": "2024-12-11",
+                "yt-title": "\"Ibadah Sambut Natal Komisi Anak GKI Salatiga 2024 || GKI Salatiga 2024",
+                "yt-date": "2024-12-10",
+                "yt-desc": "\"Ibadah Sambut Natal Komisi Anak - GKI Salatiga 2024\" \n\nTema: Yesus Datang Untukmu, Untukku, Untuk Kita Semua\nPelayan Firman: Kak Grace Devina | 1 Yohanes 4:14\nHari/Tanggal: Sabtu, 14 Desember 2024\nWaktu: 16.30 - 18.30 WIB\nTempat: Gedung Gereja GKI Salatiga",
+                "yt-link": "https://www.youtube.com/live/pnh0LbOsu_Y?si=zGhETXhHms1xoXWX",
+                "yt-thumbnail": "https://i3.ytimg.com/vi/live/pnh0LbOsu_Y?si=zGhETXhHms1xoXWX/maxresdefault.jpg",
+                "yt-is_live": 1
+            },
+            {
+                "banner": "https://i3.ytimg.com/vi/J-TQEHFPYgE/maxresdefault.jpg",
+                "title": "Perayaan Natal Komisi Pemuda GKI Salatiga 2024",
+                "type": "yt",
+                "date-created": "2024-12-11",
+                "yt-title": "\"Video Promosi Natal KP 2024  |  GKI Salatiga 2024",
+                "yt-date": "2024-12-10",
+                "yt-desc": "\"Perayaan Natal Komisi Pemuda GKI Salatiga 2024\" \n\nTema: A Call To Action To Be Shinning With God\nDilayani oleh Pdt. Adi Setyo Kristianto\nHari/Tanggal: Sabtu, 11 Januari 2025\nWaktu: 17.00 WIB\nTempat: Aula Kana GKI Salatiga",
+                "yt-link": "https://youtu.be/J-TQEHFPYgE",
+                "yt-thumbnail": "https://i3.ytimg.com/vi/J-TQEHFPYgE/maxresdefault.jpg",
+                "yt-is_live": 0
             }
         ],
         "pukat-berkat": [
