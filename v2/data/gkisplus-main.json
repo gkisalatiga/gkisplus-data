@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2109,
-        "last-update": 1733867291,
+        "update-count": 2110,
+        "last-update": 1733868721,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -20,18 +20,18 @@
             {
                 "content": [
                     {
+                        "title": "SaRen Pagi | 11 Des 2024 | Ciptaan Baru",
+                        "date": "2024-12-10",
+                        "desc": "Dibawakan oleh Ibu Henny Julyanti",
+                        "link": "https://www.youtube.com/watch?v=kiRk9Kd_ZLo",
+                        "thumbnail": "https://i4.ytimg.com/vi/kiRk9Kd_ZLo/hqdefault.jpg"
+                    },
+                    {
                         "title": "SaRen Pagi |10 Des 2024 | Allah Yang Dekat",
                         "date": "2024-12-09",
                         "desc": "Dibawakan oleh Pdt. Em. Iman Santoso",
                         "link": "https://www.youtube.com/watch?v=AQiqsbqWYXg",
                         "thumbnail": "https://i2.ytimg.com/vi/AQiqsbqWYXg/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 11 Des 2024 | Ciptaan Baru",
-                        "date": "2024-12-09",
-                        "desc": "Dibawakan oleh Ibu Henny Julyanti",
-                        "link": "https://www.youtube.com/watch?v=kiRk9Kd_ZLo",
-                        "thumbnail": "https://i4.ytimg.com/vi/kiRk9Kd_ZLo/hqdefault.jpg"
                     },
                     {
                         "title": "SaRen Pagi | 9 Des 2024 | Menanti dengan Iman Walau Dalam Penderitaan",
