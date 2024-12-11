@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2128,
-        "last-update": 1733929982,
-        "last-updated-item": "ykb",
+        "update-count": 2129,
+        "last-update": 1733930537,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -19,6 +19,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |12 Des 2024 | Menanti dengan Diam",
+                        "date": "2024-12-11",
+                        "desc": "Dibawakan oleh Sdri. Chrissandhy",
+                        "link": "https://www.youtube.com/watch?v=Qfg3m-x0oDQ",
+                        "thumbnail": "https://i2.ytimg.com/vi/Qfg3m-x0oDQ/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 11 Des 2024 | Ciptaan Baru",
                         "date": "2024-12-10",
@@ -88,13 +95,6 @@
                         "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
                         "link": "https://www.youtube.com/watch?v=tAu7hLuRk2Q",
                         "thumbnail": "https://i1.ytimg.com/vi/tAu7hLuRk2Q/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 29 Nov 2024 | Sikap Hati Seorang Hamba",
-                        "date": "2024-11-28",
-                        "desc": "Dibawakan oleh Ibu Trinamawati",
-                        "link": "https://www.youtube.com/watch?v=DVHB7JJ_ERY",
-                        "thumbnail": "https://i1.ytimg.com/vi/DVHB7JJ_ERY/hqdefault.jpg"
                     }
                 ],
                 "last-update": "2024-12-11",
