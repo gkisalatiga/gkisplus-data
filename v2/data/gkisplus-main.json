@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2162,
-        "last-update": 1734028148,
+        "update-count": 2163,
+        "last-update": 1734034464,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -19,6 +19,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |13 Des 2024 | Pendoa Teladan",
+                        "date": "2024-12-12",
+                        "desc": "Dibawakan oleh Ibu Claudia A. Lazarusli",
+                        "link": "https://www.youtube.com/watch?v=J-uixGRzb-Y",
+                        "thumbnail": "https://i3.ytimg.com/vi/J-uixGRzb-Y/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |12 Des 2024 | Menanti dengan Diam",
                         "date": "2024-12-11",
@@ -88,13 +95,6 @@
                         "desc": "Dibawakan oleh Pnt. Johnson Umbu Radda",
                         "link": "https://www.youtube.com/watch?v=h3lnMTpYhaA",
                         "thumbnail": "https://i1.ytimg.com/vi/h3lnMTpYhaA/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 30 Nov 2024 | Aku Datang Segera",
-                        "date": "2024-11-29",
-                        "desc": "Dibawakan oleh Pdt. Yefta Setiawan Krisgunadi",
-                        "link": "https://www.youtube.com/watch?v=tAu7hLuRk2Q",
-                        "thumbnail": "https://i1.ytimg.com/vi/tAu7hLuRk2Q/hqdefault.jpg"
                     }
                 ],
                 "last-update": "2024-12-12",
