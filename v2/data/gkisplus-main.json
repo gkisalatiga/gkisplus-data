@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2192,
-        "last-update": 1734113808,
-        "last-updated-item": "ykb",
+        "update-count": 2193,
+        "last-update": 1734114495,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -19,6 +19,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi |14 Des 2024 | Bertobat, Mengingat, dan Berbuat",
+                        "date": "2024-12-13",
+                        "desc": "Dibawakan oleh Sdri. Jena Ariantje Taopan",
+                        "link": "https://www.youtube.com/watch?v=U1V16DTabNE",
+                        "thumbnail": "https://i2.ytimg.com/vi/U1V16DTabNE/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi |13 Des 2024 | Pendoa Teladan",
                         "date": "2024-12-12",
