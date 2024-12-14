@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2224,
-        "last-update": 1734179349,
-        "last-updated-item": "pdf/liturgi",
+        "update-count": 2225,
+        "last-update": 1734179829,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -81,13 +81,6 @@
                         "desc": "Dibawakan oleh Ibu Iryatun Trikorini",
                         "link": "https://www.youtube.com/watch?v=oY-JlKPChDQ",
                         "thumbnail": "https://i4.ytimg.com/vi/oY-JlKPChDQ/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Des 2024",
-                        "date": "2024-12-03",
-                        "desc": "Dibawakan oleh Sdri. Ester Juliawati",
-                        "link": "https://www.youtube.com/watch?v=k2aZaHK6IUo",
-                        "thumbnail": "https://i4.ytimg.com/vi/k2aZaHK6IUo/hqdefault.jpg"
                     }
                 ],
                 "last-update": "2024-12-14",
@@ -98,6 +91,13 @@
             },
             {
                 "content": [
+                    {
+                        "title": "Ibadah Minggu GKI Salatiga | 15 Desember 2024 | Sukacita Dalam Pertobatan",
+                        "date": "2024-12-14",
+                        "desc": "*KEBAKTIAN MINGGU GKI Salatiga 15 Desember 2024; Pukul 07:00 WIB\n\nTema: Sukacita Dalam Pertobatan\n\nBerita Anugerah: Mazmur 32:1-2\nBacaan I: Zefanya 3:14:20\nBacaan II: Filipi 4: 4-7\nPersembahan: 2 Korintus 9:7\nNyanyian: KK 153:1,3,5; KK 147; KK 479; NKB 470; KK 556\n\nPelayan Firman: Pdt. Wisnu Sapto Nugroho (LPP Sinode GKJ dan GKI SW Jateng)\nKoordinator Ibadah dan Persembahan: Pnt. Paul A. W. Gulo\nKredo dan Warta : Pnt. Adita Sutresno\nSambut Tamu: Pnt. Yulianu Nugroho; Pnt. Desemy Ch. N. Ballo\n\nPemandu Liturgi: Joko Suyono\nLektor I: Abdi Siswanto\nLektor II: Ona Parzis Aponno\n\nPemusik: Ecclesiastes + Noah\nPNK/ PMZ: Yohana / Parahita Yippy\n\nTim Multimedia: Bayu, Daniel Eko; Hermawan; Atma; Nuel; Erio; Jeffrey\n\nUsher dan Kolektan: Wil. V: Purwaning Yohana; Berta\n\nFlorist : Tim Puma\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
+                        "link": "https://www.youtube.com/watch?v=zSlbgv2ZBTk",
+                        "thumbnail": "https://i.ytimg.com/vi/zSlbgv2ZBTk/hqdefault_live.jpg"
+                    },
                     {
                         "title": "Ibadah Minggu Adven II GKI Salatiga | 8 Desember 2024 | \"Tuhan Sudah Dekat\"",
                         "date": "2024-12-06",
@@ -293,13 +293,6 @@
                         "desc": "Ibadah Minggu GKI SALATIGA | 14 JULI 2024 | Jam 07.00 WIB \n\nTema: Pil Pahit Kebenaran\n\nBacaan I: Amos 7:7-15\nTanggapan: Mazmur 85:8-13\nBacaan II: Efesus 1:3-14\nBacaan Injil: Markus 6:14-29\nBerita Anugrah: 1 Petrus 2:24-25\nPersembahan: 2 Korintus 9:8\nNyanyian: KK1; KK 501; NKB 204:1,2,4; KJ 450; KJ 426:1,4\n\nPelayan Firman: Pdt. Maidy P. Tumengkol (GPIB Tamansari Salatiga)\nKoordinator Ibadah dan Persembahan: Pnt. Benny A. Kailola\nKredo dan Warta: Pnt. Paul A.W. Gulo\nSambut Tamu: Pnt. Ervien Dian W.\n\nPemandu Liturgi: Dwi Handari\nLektor 1: Prijani\nLektor 2: Dorothea Dyah\nPemusik:  Ecclesiastes\nPNK/Pemazmur: Evangs / Parahita\n\nTim Multimedia: Arya Gustin, Tunggul Laras, Revo, Alvin, Jhosua\nTim Dokumentasi: Erio / Jeffrey\n\nUsher dan Kolektan: KPPK (Hanna H., Lukas S., Lanny S., Nanik D., Siany)\nFlorist: Tim Mimosa\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
                         "link": "https://www.youtube.com/watch?v=bqIVKLms3AI",
                         "thumbnail": "https://i.ytimg.com/vi/bqIVKLms3AI/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Ibadah Minggu GKI SALATIGA | 7 JULI 2024 | Keteguhan Seorang Pembawa Pesan",
-                        "date": "2024-07-06",
-                        "desc": "Ibadah Minggu GKI SALATIGA | 7 JULI 2024 | Jam 16.30 WIB \n\nTema: Keteguhan Seorang Pembawa Pesan\n\nBacaan I: Yehezkiel 2:1-5\nTanggapan: Mazmur 123\nBacaan II: 2 Korintus 12:2-10\nBacaan Injil: Markus 6:1-13\nBerita Anugrah: 2 Korintus 5: 17\nPersembahan: Amsal 3:9-10\nNyanyian: KK1; Memuji Tuhan Selalu, PKJ 124:1,3; NKB 21:1,3; KJ 464:1; KJ310; NKB134;\n NKB 128:1-3\n\nPelayan Firman: Pdt. Wisnu Sapto N.\nKoordinator Ibadah dan Persembahan: Pnt. Yosua Candana H.K\nKredo dan Warta: Pnt. Desemy Ch. N. Ballo\nSambut Tamu: Pnt. Sandy M. Santoso, Pnt. Benny A. Kailol\n\nPemandu Liturgi: Pnt. July Silooy\nLektor 1: Pnt. Priyo Hari Adi\nLektor 2: Pnt. Paul A.W. Gulo\nPemusik:  Revelation\nPNK: Agastya Rama Listya\nPemazmur: Lia\n\nTim Multimedia: Bayu Octa, Hermawan, Evan, Wayan, Puguh\nTim Dokumentasi: Erio / Jeffrey\n\nUsher dan Kolektan: Majelis Jemaat\nFlorist: Tim Ruskus\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKI",
-                        "link": "https://www.youtube.com/watch?v=BKmE5n2HtLA",
-                        "thumbnail": "https://i.ytimg.com/vi/BKmE5n2HtLA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "2024-12-14",
