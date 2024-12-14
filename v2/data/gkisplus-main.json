@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2210,
-        "last-update": 1734146726,
-        "last-updated-item": "ykb",
+        "update-count": 2211,
+        "last-update": 1734147084,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -95,13 +95,6 @@
                         "desc": "Dibawakan oleh Pnt. Nadia Sita",
                         "link": "https://www.youtube.com/watch?v=1FBcLpYEFNM",
                         "thumbnail": "https://i2.ytimg.com/vi/1FBcLpYEFNM/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Des 2024 | Penantian Yang Berpengharapan",
-                        "date": "2024-12-01",
-                        "desc": "Dibawakan oleh Pnt. Johnson Umbu Radda",
-                        "link": "https://www.youtube.com/watch?v=h3lnMTpYhaA",
-                        "thumbnail": "https://i1.ytimg.com/vi/h3lnMTpYhaA/hqdefault.jpg"
                     }
                 ],
                 "last-update": "2024-12-14",
