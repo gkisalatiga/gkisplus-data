@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2211,
-        "last-update": 1734147084,
-        "last-updated-item": "yt",
+        "update-count": 2212,
+        "last-update": 1734153421,
+        "last-updated-item": "pdf/liturgi",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -1274,6 +1274,15 @@
             ],
             "liturgi": [
                 {
+                    "title": "Tata Ibadah 15 Desember 2024",
+                    "date": "2024-12-14",
+                    "link": "https://drive.google.com/file/d/1lxHn1ljnf_uX_cl0OyQ13wSpy4v8rZNX/preview",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-15-desember-2024/",
+                    "thumbnail": "",
+                    "id": "1lxHn1ljnf_uX_cl0OyQ13wSpy4v8rZNX",
+                    "size": "0.33 MB"
+                },
+                {
                     "title": "Tata Ibadah 8 Desember 2024",
                     "date": "2024-12-07",
                     "link": "https://drive.google.com/file/d/1yTDTFNVZMAzVgd5KUWc5Ot7dgWf0U6mn/preview",
@@ -1443,15 +1452,6 @@
                     "thumbnail": "",
                     "id": "1-hub0aGbeLGGNZtZSkeliJHeqU7-lE7z",
                     "size": "0.40 MB"
-                },
-                {
-                    "title": "Tata Ibadah 21 Juli 2024",
-                    "date": "2024-07-21",
-                    "link": "https://drive.google.com/file/d/1RlznHPNw7EuPp4Fz4yULoEuxABGUQHKR/preview",
-                    "post-page": "https://gkisalatiga.org/tata-ibadah-21-juli-2024/",
-                    "thumbnail": "",
-                    "id": "1RlznHPNw7EuPp4Fz4yULoEuxABGUQHKR",
-                    "size": "0.16 MB"
                 }
             ]
         },
