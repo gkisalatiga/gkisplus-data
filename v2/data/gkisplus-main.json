@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2218,
-        "last-update": 1734167519,
-        "last-updated-item": "ykb",
+        "update-count": 2219,
+        "last-update": 1734167972,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -88,13 +88,6 @@
                         "desc": "Dibawakan oleh Sdri. Ester Juliawati",
                         "link": "https://www.youtube.com/watch?v=k2aZaHK6IUo",
                         "thumbnail": "https://i4.ytimg.com/vi/k2aZaHK6IUo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Des 2024 | Lilin Lilin Masa Adven",
-                        "date": "2024-12-02",
-                        "desc": "Dibawakan oleh Pnt. Nadia Sita",
-                        "link": "https://www.youtube.com/watch?v=1FBcLpYEFNM",
-                        "thumbnail": "https://i2.ytimg.com/vi/1FBcLpYEFNM/hqdefault.jpg"
                     }
                 ],
                 "last-update": "2024-12-14",
