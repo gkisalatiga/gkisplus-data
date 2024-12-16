@@ -1,7 +1,7 @@
 {
     "meta": {
         "update-count": 2289,
-        "last-update": 1734341000,
+        "last-update": 1734343449,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2391,8 +2391,8 @@
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/banner_ktb.webp",
                 "title": "Kelompok Tumbuh Bersama (KTB)",
                 "type": "poster",
-                "date-created": "2024-12-11",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/banner_ktb.webp",
+                "date-created": "2024-12-16",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
                 "poster-caption": "Setiap hari Jumat - pk. 17.00 WIB - bertempat di Ruang Kapernaum."
             },
             {
@@ -2420,20 +2420,20 @@
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka.webp",
+                "title": "Informasi Kebaktian Komisi Anak",
+                "type": "poster",
+                "date-created": "2024-12-16",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr.webp",
                 "title": "Informasi Kebaktian Komisi Remaja",
                 "type": "poster",
                 "date-created": "2024-11-30",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_khi.webp",
-                "title": "English Service - Moving Advent",
-                "type": "poster",
-                "date-created": "2024-12-10",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_khi.webp",
-                "poster-caption": "December 14, 2024."
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_scmt_2025.webp",
@@ -2452,24 +2452,20 @@
                 "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
             },
             {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrn_2.webp",
+                "title": "Agenda Masa Raya Natal 2024",
+                "type": "poster",
+                "date-created": "2024-12-16",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrn_2.webp",
+                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
+            },
+            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_informasi_persembahan.webp",
                 "title": "Informasi Persembahan Natal",
                 "type": "poster",
                 "date-created": "2024-12-10",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_persembahan.webp",
                 "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://i3.ytimg.com/vi/live/pnh0LbOsu_Y?si=zGhETXhHms1xoXWX/maxresdefault.jpg",
-                "title": "Sambut Natal Komisi Anak GKI Salatiga 2024",
-                "type": "yt",
-                "date-created": "2024-12-11",
-                "yt-title": "\"Ibadah Sambut Natal Komisi Anak GKI Salatiga 2024 || GKI Salatiga 2024",
-                "yt-date": "2024-12-10",
-                "yt-desc": "\"Ibadah Sambut Natal Komisi Anak - GKI Salatiga 2024\" \n\nTema: Yesus Datang Untukmu, Untukku, Untuk Kita Semua\nPelayan Firman: Kak Grace Devina | 1 Yohanes 4:14\nHari/Tanggal: Sabtu, 14 Desember 2024\nWaktu: 16.30 - 18.30 WIB\nTempat: Gedung Gereja GKI Salatiga",
-                "yt-link": "https://www.youtube.com/live/pnh0LbOsu_Y?si=zGhETXhHms1xoXWX",
-                "yt-thumbnail": "https://i3.ytimg.com/vi/live/pnh0LbOsu_Y?si=zGhETXhHms1xoXWX/maxresdefault.jpg",
-                "yt-is_live": 1
             },
             {
                 "banner": "https://i3.ytimg.com/vi/J-TQEHFPYgE/maxresdefault.jpg",
