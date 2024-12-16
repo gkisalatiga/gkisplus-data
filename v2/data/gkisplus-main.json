@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2296,
-        "last-update": 1734373017,
-        "last-updated-item": "ykb",
+        "update-count": 2297,
+        "last-update": 1734373751,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -19,6 +19,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 17 Des 2024 | Kepedulian yang Menguatkan",
+                        "date": "2024-12-16",
+                        "desc": "Dibawakan oleh Pnt. Priyo Hari Adi",
+                        "link": "https://www.youtube.com/watch?v=2f_q-GaBJ2g",
+                        "thumbnail": "https://i3.ytimg.com/vi/2f_q-GaBJ2g/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 16 Des 2024 | Kado",
                         "date": "2024-12-15",
@@ -74,13 +81,6 @@
                         "desc": "Dibawakan oleh Sdr. Samarthya Lykamanuella",
                         "link": "https://www.youtube.com/watch?v=uz608TpGpa4",
                         "thumbnail": "https://i2.ytimg.com/vi/uz608TpGpa4/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 6 Des 2024 | Hadiah dari Kristus",
-                        "date": "2024-12-05",
-                        "desc": "Dibawakan oleh Pnt.Jully Silooi",
-                        "link": "https://www.youtube.com/watch?v=5EhmCh8Dbm0",
-                        "thumbnail": "https://i2.ytimg.com/vi/5EhmCh8Dbm0/hqdefault.jpg"
                     }
                 ],
                 "last-update": "2024-12-16",
