@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2335,
-        "last-update": 1734473503,
+        "update-count": 2336,
+        "last-update": 1734474697,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -19,6 +19,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 18 Des 2024 | Raja Yang Sederhana",
+                        "date": "2024-12-17",
+                        "desc": "Dibawakan oleh Sdri. Neria Awahita",
+                        "link": "https://www.youtube.com/watch?v=7eXfudVY4xI",
+                        "thumbnail": "https://i4.ytimg.com/vi/7eXfudVY4xI/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 17 Des 2024 | Kepedulian yang Menguatkan",
                         "date": "2024-12-16",
