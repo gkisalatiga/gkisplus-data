@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2354,
-        "last-update": 1734534760,
-        "last-updated-item": "ykb",
+        "update-count": 2355,
+        "last-update": 1734535271,
+        "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -19,6 +19,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 19 Des 2024",
+                        "date": "2024-12-18",
+                        "desc": "Dibawakan oleh Bpk. Eko Swasono",
+                        "link": "https://www.youtube.com/watch?v=ZteGPE5ywQs",
+                        "thumbnail": "https://i3.ytimg.com/vi/ZteGPE5ywQs/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 18 Des 2024 | Raja Yang Sederhana",
                         "date": "2024-12-17",
