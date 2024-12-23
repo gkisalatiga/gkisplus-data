@@ -1,7 +1,7 @@
 {
     "meta": {
         "update-count": 2510,
-        "last-update": 1734911280,
+        "last-update": 1734912991,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2460,6 +2460,22 @@
                 "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
             },
             {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_natal_bersama_bkgs_2024.webp",
+                "title": "Ibadah Natal Bersama Umat Kristiani Kota Salatiga",
+                "type": "poster",
+                "date-created": "2024-12-23",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_natal_bersama_bkgs_2024.webp",
+                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_agenda_mrn_24_25_des_2024.webp",
+                "title": "Agenda Masa Raya Natal 24-25 Desember 2024",
+                "type": "poster",
+                "date-created": "2024-12-23",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_agenda_mrn_24_25_des_2024.webp",
+                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
+            },
+            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrn_2.webp",
                 "title": "Agenda Masa Raya Natal 2024",
                 "type": "poster",
@@ -2473,6 +2489,14 @@
                 "type": "poster",
                 "date-created": "2024-12-10",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_persembahan.webp",
+                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_salatiga_christmas_parade.webp",
+                "title": "Salatiga Christmas Parade",
+                "type": "poster",
+                "date-created": "2024-12-23",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_salatiga_christmas_parade.webp",
                 "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
             },
             {
