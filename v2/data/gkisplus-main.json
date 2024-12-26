@@ -1,7 +1,7 @@
 {
     "meta": {
-        "update-count": 2616,
-        "last-update": 1735237546,
+        "update-count": 2617,
+        "last-update": 1735243939,
         "last-updated-item": "yt",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -19,6 +19,13 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 27 Des 2024 | Melihat Kehadiran Tuhan",
+                        "date": "2024-12-26",
+                        "desc": "Dibawakan oleh Ibu Krisulastri",
+                        "link": "https://www.youtube.com/watch?v=RamAGttADps",
+                        "thumbnail": "https://i3.ytimg.com/vi/RamAGttADps/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 26 Des 2024 | Adakah Ruang Bagi-Nya?",
                         "date": "2024-12-25",
