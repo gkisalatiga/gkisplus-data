@@ -1,7 +1,7 @@
 {
     "feeds": {
         "app-update": {
-            "enable-update-check": 1,
+            "enable-update-check": 0,
             "version-code": 999,
             "version-name": "9.9.9-alpha",
             "download-url": "https://play.google.com/store/apps/details?id=org.gkisalatiga.plus"
