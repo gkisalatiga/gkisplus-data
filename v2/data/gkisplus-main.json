@@ -1,7 +1,7 @@
 {
     "meta": {
         "update-count": 2717,
-        "last-update": 1735593062,
+        "last-update": 1735594582,
         "last-updated-item": "ykb",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
@@ -2434,92 +2434,20 @@
                 "poster-caption": "Setiap hari Jumat - pk. 17.00 WIB - bertempat di Ruang Kapernaum."
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
-                "title": "Persekutuan SODA (Komisi Pemuda)",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd.webp",
+                "title": "Perayaan Natal Komisi Dewasa",
                 "type": "poster",
-                "date-created": "2024-12-10",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
+                "date-created": "2024-12-31",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kd.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka.webp",
-                "title": "Informasi Kebaktian Komisi Anak",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_perayaan_natal_kp.webp",
+                "title": "Perayaan Natal Komisi Pemuda",
                 "type": "poster",
-                "date-created": "2024-12-16",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka.webp",
+                "date-created": "2024-12-31",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_perayaan_natal_kp.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr.webp",
-                "title": "Informasi Kebaktian Komisi Remaja",
-                "type": "poster",
-                "date-created": "2024-11-30",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_scmt_2025.webp",
-                "title": "Seleksi Calon Mahasiswa Teologi GKI tahun 2025",
-                "type": "poster",
-                "date-created": "2024-11-23",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_seleksi_calon_mahasiswa_teologi_gki_2025.webp",
-                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_usda_kr.webp",
-                "title": "Usaha Dana Komisi Remaja",
-                "type": "poster",
-                "date-created": "2024-12-16",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_usda_kr.webp",
-                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_agenda_mrn.webp",
-                "title": "Agenda Masa Raya Natal 2024",
-                "type": "poster",
-                "date-created": "2024-12-10",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrn.webp",
-                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_natal_bersama_bkgs_2024.webp",
-                "title": "Ibadah Natal Bersama Umat Kristiani Kota Salatiga",
-                "type": "poster",
-                "date-created": "2024-12-23",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_natal_bersama_bkgs_2024.webp",
-                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_agenda_mrn_24_25_des_2024.webp",
-                "title": "Agenda Masa Raya Natal 24-25 Desember 2024",
-                "type": "poster",
-                "date-created": "2024-12-23",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_agenda_mrn_24_25_des_2024.webp",
-                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrn_2.webp",
-                "title": "Agenda Masa Raya Natal 2024",
-                "type": "poster",
-                "date-created": "2024-12-16",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrn_2.webp",
-                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_informasi_persembahan.webp",
-                "title": "Informasi Persembahan Natal",
-                "type": "poster",
-                "date-created": "2024-12-10",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_persembahan.webp",
-                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_salatiga_christmas_parade.webp",
-                "title": "Salatiga Christmas Parade",
-                "type": "poster",
-                "date-created": "2024-12-23",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_salatiga_christmas_parade.webp",
-                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
             },
             {
                 "banner": "https://i3.ytimg.com/vi/J-TQEHFPYgE/maxresdefault.jpg",
@@ -2532,6 +2460,62 @@
                 "yt-link": "https://www.youtube.com/watch?v=J-TQEHFPYgE",
                 "yt-thumbnail": "https://i3.ytimg.com/vi/J-TQEHFPYgE/maxresdefault.jpg",
                 "yt-is_live": 0
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr_3.webp",
+                "title": "Perayaan Natal Komisi Remaja",
+                "type": "poster",
+                "date-created": "2024-12-31",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr_3.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_usda_kr.webp",
+                "title": "Usaha Dana Komisi Remaja",
+                "type": "poster",
+                "date-created": "2024-12-31",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_usda_kr.webp",
+                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_salatiga_christmas_parade.webp",
+                "title": "Salatiga Christmas Parade",
+                "type": "poster",
+                "date-created": "2024-12-23",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_salatiga_christmas_parade.webp",
+                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka.webp",
+                "title": "Informasi Kebaktian Komisi Anak",
+                "type": "poster",
+                "date-created": "2024-12-31",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
+                "title": "Persekutuan SODA (Komisi Pemuda)",
+                "type": "poster",
+                "date-created": "2024-12-10",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
+                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_scmt_2025.webp",
+                "title": "Seleksi Calon Mahasiswa Teologi GKI tahun 2025",
+                "type": "poster",
+                "date-created": "2024-11-23",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_seleksi_calon_mahasiswa_teologi_gki_2025.webp",
+                "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_agenda_mrn.webp",
+                "title": "Agenda Masa Raya Natal 2024",
+                "type": "poster",
+                "date-created": "2024-12-10",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrn.webp",
+                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
             }
         ],
         "pukat-berkat": [
