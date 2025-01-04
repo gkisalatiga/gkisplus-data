@@ -1,15 +1,12 @@
-name: v2 - Scraping "Liturgi" Data
-env:
-  GDRIVE_API_KEY: ${{ secrets.GDRIVE_V3_APIKEY }}
-run-name: ${{ github.actor }} is updating the liturgy data 🚀
+name: Mirror gkisplus-data-json
+run-name: ${{ github.actor }} is mirroring gkisplus-data-json 🚀
 on:
   # Manual trigger.
   workflow_dispatch:
   schedule:
     # * is a special character in YAML so you have to quote this string
     # SOURCE: https://cron.help
-    - cron: '0 5,8,11,14,17,20 * * 6'
-    - cron: '0 12 * * *'
+    - cron: '0 * * * *'
 jobs:
   Run-Python:
     permissions:
@@ -40,13 +37,13 @@ jobs:
       
       # SOURCE: https://www.geeksforgeeks.org/run-python-script-in-github-actions/
       - name: Running the updater
-        run: python v2/scripts/scraper_pdf_liturgi.py
+        run: python scripts-defer/mirror_gkisplus-data-json.py
       
       # SOURCE: https://github.com/marketplace/actions/add-commit-and-push
       - name: Commiting changes to files
         uses: actions4git/setup-git@v1
       - run: git add v2/*
-      - run: git commit --message "(v2) Scraped the Liturgi content"
+      - run: git commit --message "Mirrored `gkisplus-data-json`"
       - run: git push origin main --force
         
       - run: echo "🍏 This job's status is ${{ job.status }}."
