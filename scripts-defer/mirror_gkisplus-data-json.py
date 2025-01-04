@@ -34,7 +34,10 @@ for l in sources:
     if j_loc != j:
         exit_code_zero = True
         with open(prefix_local + l, 'w') as fo:
-            json.dump(j, fo)
+            if l.__contains__('.min.json'):
+                json.dump(j, fo, separators=(',', ':'))
+            else:
+                json.dump(j, fo, indent=4)
     
 print(f'Exit with code zero: {exit_code_zero}')
 sys.exit(0 if exit_code_zero else 234)

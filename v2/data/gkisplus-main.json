@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 2874,
-        "last-update": 1736030899,
-        "last-updated-item": "yt",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 2658,
+        "last-update": 1736029655,
+        "last-updated-item": "pdf",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.0"
     },
     "data": {
@@ -1071,7 +1071,16 @@
         "pdf": {
             "wj": [
                 {
-                    "title": "Warta 29 Desember 2024",
+                    "title": "Warta Jemaat 5 Januari 2025",
+                    "date": "2025-01-04",
+                    "link": "https://drive.google.com/file/d/1YdmVQVTAz9haSqoRMthuZQuZzVJf22QN/preview",
+                    "post-page": "https://gkisalatiga.org/warta-jemaat-5-januari-2025/",
+                    "thumbnail": "",
+                    "id": "1YdmVQVTAz9haSqoRMthuZQuZzVJf22QN",
+                    "size": "1.30 MB"
+                },
+                {
+                    "title": "Warta Jemaat 29 Desember 2024",
                     "date": "2024-12-28",
                     "link": "https://drive.google.com/file/d/19pwmsNsy47YbkJoo83mPOjkt4GeK9QFv/preview",
                     "post-page": "https://gkisalatiga.org/warta-jemaat-29-desember-2024/",
@@ -1080,7 +1089,7 @@
                     "size": "1.90 MB"
                 },
                 {
-                    "title": "Warta 22 Desember 2024",
+                    "title": "Warta Jemaat 22 Desember 2024",
                     "date": "2024-12-21",
                     "link": "https://drive.google.com/file/d/1-L64MVIRFeZgmS-8QJuJLUR56jfA5KFD/preview",
                     "post-page": "https://gkisalatiga.org/warta-22-desember-2024/",
@@ -1261,6 +1270,24 @@
                 }
             ],
             "liturgi": [
+                {
+                    "title": "Tata Ibadah 5 Januari 2025",
+                    "date": "2025-01-04",
+                    "link": "https://drive.google.com/file/d/1ockYNdqmDRXd0mG7vSdR1CP9FW6sdNIM/preview",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-5-januari-2025/",
+                    "thumbnail": "",
+                    "id": "1ockYNdqmDRXd0mG7vSdR1CP9FW6sdNIM",
+                    "size": "0.33 MB"
+                },
+                {
+                    "title": "Tata Ibadah Tutup Tahun 31 Desember 2024",
+                    "date": "2024-12-31",
+                    "link": "https://drive.google.com/file/d/1-xH_jZNYigPvrbqpbRpy7QLeTISMBlwP/preview",
+                    "post-page": "https://gkisalatiga.org/tata-ibadah-31-desember-2024/",
+                    "thumbnail": "",
+                    "id": "1-xH_jZNYigPvrbqpbRpy7QLeTISMBlwP",
+                    "size": "0.37 MB"
+                },
                 {
                     "title": "Tata Ibadah 29 Desember 2024",
                     "date": "2024-12-27",
@@ -1754,12 +1781,8 @@
         },
         "forms": [
             {
-                "title": "[INSIDERS] Presensi Harian Penguji GKI Salatiga+",
-                "url": "https://docs.google.com/forms/d/e/1FAIpQLSdip9IYuzryKfmF6zdIea6s07Rvvpa_GoRBIhzHge25xGtLCQ/viewform?usp=sf_link"
-            },
-            {
-                "title": "[INSIDERS] Laporan Bug dan Saran-Masukan GKI Salatiga+",
-                "url": "https://docs.google.com/forms/d/e/1FAIpQLSe0qoIzygxWO5VPBCzSnpEF4tnM4gfOmWbKZayTU6SMVtI2Sw/viewform?usp=sf_link"
+                "title": "Laporan Bug dan Saran-Masukan GKI Salatiga+",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSe0qoIzygxWO5VPBCzSnpEF4tnM4gfOmWbKZayTU6SMVtI2Sw/viewform"
             },
             {
                 "title": "Update Data Diri SODA GKI Salatiga 2024",
@@ -2375,6 +2398,62 @@
         ],
         "carousel": [
             {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_dth.webp?raw=true",
+                "title": "Doa Tengah Hari",
+                "type": "poster",
+                "date-created": "2024-11-17",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_poster_dth.webp",
+                "poster-caption": "Setiap hari Senin - pk. 12.00 WIB - bertempat di Ruang Kapernaum."
+            },
+            {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_persiapan_pa.webp?raw=true",
+                "title": "Persiapan Pemandu PA",
+                "type": "poster",
+                "date-created": "2024-09-13",
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_persiapan_pa.webp?raw=true",
+                "poster-caption": "Setiap hari Senin - pk. 18.00 WIB - bertempat di Ruang Konsistori."
+            },
+            {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_pa.webp?raw=true",
+                "title": "Pemahaman Alkitab (PA) Wilayah",
+                "type": "poster",
+                "date-created": "2024-09-13",
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_pa.webp?raw=true",
+                "poster-caption": "Setiap hari Selasa - pk. 17.00 / 18.00 WIB - bertempat di wilayah masing-masing."
+            },
+            {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_katekisasi.webp?raw=true",
+                "title": "Katekisasi",
+                "type": "poster",
+                "date-created": "2024-09-13",
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_katekisasi.webp?raw=true",
+                "poster-caption": "Setiap hari Rabu - pk. 17.00 WIB - bertempat di Ruang Kana."
+            },
+            {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_kambium.webp?raw=true",
+                "title": "Kambium",
+                "type": "poster",
+                "date-created": "2024-09-13",
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_kambium.webp?raw=true",
+                "poster-caption": "Setiap hari Rabu - pk. 18.00 WIB - bertempat di Ruang Konsistori."
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/banner_ktb.webp",
+                "title": "Kelompok Tumbuh Bersama (KTB)",
+                "type": "poster",
+                "date-created": "2024-12-16",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
+                "poster-caption": "Setiap hari Jumat - pk. 17.00 WIB - bertempat di Ruang Kapernaum."
+            },
+            {
+                "banner": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_warung_tiberias.webp?raw=true",
+                "title": "Warung Tiberias",
+                "type": "poster",
+                "date-created": "2024-09-13",
+                "poster-image": "https://github.com/gkisalatiga/gkisplus-data/blob/main/images-carousel/banner_warung_tiberias.webp?raw=true",
+                "poster-caption": "Setiap hari Sabtu - pk. 11.00 WIB - bertempat di area gereja."
+            },
+            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ktb.webp",
                 "title": "Kelompok Tumbuh Bersama (KTB)",
                 "type": "poster",
@@ -2383,63 +2462,27 @@
                 "poster-caption": "Setiap hari Jumat - pk. 17.00 WIB - bertempat di Ruang Kapernaum."
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_salatiga_christmas_parade.webp",
-                "title": "Salatiga Christmas Parade",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
+                "title": "Persekutuan SODA (Komisi Pemuda)",
                 "type": "poster",
-                "date-created": "2025-01-04",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_salatiga_christmas_parade.webp",
-                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_perayaan_natal_kp.webp",
-                "title": "Perayaan Natal Komisi Pemuda",
-                "type": "poster",
-                "date-created": "2024-12-31",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_perayaan_natal_kp.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://i3.ytimg.com/vi/J-TQEHFPYgE/maxresdefault.jpg",
-                "title": "Perayaan Natal Komisi Pemuda GKI Salatiga 2024",
-                "type": "yt",
-                "date-created": "2024-12-11",
-                "yt-title": "\"Video Promosi Natal KP 2024  |  GKI Salatiga 2024",
-                "yt-date": "2024-12-10",
-                "yt-desc": "\"Perayaan Natal Komisi Pemuda GKI Salatiga 2024\" \n\nTema: A Call To Action To Be Shinning With God\nDilayani oleh Pdt. Adi Setyo Kristianto\nHari/Tanggal: Sabtu, 11 Januari 2025\nWaktu: 17.00 WIB\nTempat: Aula Kana GKI Salatiga",
-                "yt-link": "https://www.youtube.com/watch?v=J-TQEHFPYgE",
-                "yt-thumbnail": "https://i3.ytimg.com/vi/J-TQEHFPYgE/maxresdefault.jpg",
-                "yt-is_live": 0
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr_3.webp",
-                "title": "Perayaan Natal Komisi Remaja",
-                "type": "poster",
-                "date-created": "2024-12-31",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr_3.webp",
+                "date-created": "2024-12-10",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka.webp",
                 "title": "Informasi Kebaktian Komisi Anak",
                 "type": "poster",
-                "date-created": "2024-12-31",
+                "date-created": "2024-12-16",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_2.webp",
-                "title": "Informasi Kebaktian Komisi Anak",
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr.webp",
+                "title": "Informasi Kebaktian Komisi Remaja",
                 "type": "poster",
-                "date-created": "2025-01-04",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_ka_2.webp",
-                "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
-            },
-            {
-                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
-                "title": "Persekutuan SODA (Komisi Pemuda)",
-                "type": "poster",
-                "date-created": "2024-12-10",
-                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kp.webp",
+                "date-created": "2024-11-30",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_kr.webp",
                 "poster-caption": "Informasi lebih lanjut dapat dilihat di poster yang tertera"
             },
             {
@@ -2451,110 +2494,146 @@
                 "poster-caption": "Informasi lebih lanjut dapat menghubungi ke nomor yang tertera di poster."
             },
             {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_usda_kr.webp",
+                "title": "Usaha Dana Komisi Remaja",
+                "type": "poster",
+                "date-created": "2024-12-16",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_usda_kr.webp",
+                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
+            },
+            {
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_agenda_mrn.webp",
                 "title": "Agenda Masa Raya Natal 2024",
                 "type": "poster",
                 "date-created": "2024-12-10",
                 "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrn.webp",
                 "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrn_2.webp",
+                "title": "Agenda Masa Raya Natal 2024",
+                "type": "poster",
+                "date-created": "2024-12-16",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_mrn_2.webp",
+                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_banner_informasi_persembahan.webp",
+                "title": "Informasi Persembahan Natal",
+                "type": "poster",
+                "date-created": "2024-12-10",
+                "poster-image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-carousel/carousel_warta_persembahan.webp",
+                "poster-caption": "Informasi selengkapnya dapat dilihat di poster yang tertera"
+            },
+            {
+                "banner": "https://i3.ytimg.com/vi/J-TQEHFPYgE/maxresdefault.jpg",
+                "title": "Perayaan Natal Komisi Pemuda GKI Salatiga 2024",
+                "type": "yt",
+                "date-created": "2024-12-11",
+                "yt-title": "\"Video Promosi Natal KP 2024  |  GKI Salatiga 2024",
+                "yt-date": "2024-12-10",
+                "yt-desc": "\"Perayaan Natal Komisi Pemuda GKI Salatiga 2024\" \n\nTema: A Call To Action To Be Shinning With God\nDilayani oleh Pdt. Adi Setyo Kristianto\nHari/Tanggal: Sabtu, 11 Januari 2025\nWaktu: 17.00 WIB\nTempat: Aula Kana GKI Salatiga",
+                "yt-link": "https://youtu.be/J-TQEHFPYgE",
+                "yt-thumbnail": "https://i3.ytimg.com/vi/J-TQEHFPYgE/maxresdefault.jpg",
+                "yt-is_live": 0
             }
         ],
         "pukat-berkat": [
             {
                 "title": "Roti Bakar Coklat Keju",
-                "desc": "Roti klasik dengan topping keju yang melimpah, mbikin ketagihan!",
+                "desc": "[TESTING] Roti klasik dengan topping keju yang melimpah, mbikin ketagihan!",
                 "price": "Rp. 12.000",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "PT Agung Boga",
                 "type": "food",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_cheese.webp"
             },
             {
                 "title": "Kapur Barus Anti-Kecoa",
-                "desc": "Usir segala bentuk perkecoaan dengan kapur barus ini. Ayo dibeli dengan harga murah!",
+                "desc": "[TESTING] Usir segala bentuk perkecoaan dengan kapur barus ini. Ayo dibeli dengan harga murah!",
                 "price": "Rp. 90.000",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "PT Industri Antikecoa",
                 "type": "goods",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_bug.webp"
             },
             {
                 "title": "Pijat Lulur Refleksi",
-                "desc": "Anda sedang penat? Yok pijat dulu!",
+                "desc": "[TESTING] Anda sedang penat? Yok pijat dulu!",
                 "price": "Harga Bervariasi",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "Apotek Keluarga Besar",
                 "type": "service",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_massage.webp"
             },
             {
                 "title": "Sapu Ajaib",
-                "desc": "Membantu membersihkan kotoran lantai di rumah Anda. Belilah dengan harga terjangkau.",
+                "desc": "[TESTING] Membantu membersihkan kotoran lantai di rumah Anda. Belilah dengan harga terjangkau.",
                 "price": "Rp. 75.000",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "PT Industri Sapu Sejahtera",
                 "type": "goods",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_broom.webp"
             },
             {
                 "title": "Jasa Fotografer Wisuda",
-                "desc": "Area Salatiga, Jogjakarta, dan Semarang",
+                "desc": "[TESTING] Area Salatiga, Jogjakarta, dan Semarang",
                 "price": "Rp. 150.000",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "ABC Studio",
                 "type": "service",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_camera.webp"
             },
             {
                 "title": "Pupuk NPK Kualitas Tinggi",
-                "desc": "Tumbuhkan tanaman Anda dalam waktu cepat!",
+                "desc": "[TESTING] Tumbuhkan tanaman Anda dalam waktu cepat!",
                 "price": "Rp. 125.000",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "PT Argomulyo Makmur Abadi",
                 "type": "goods",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_fertilizer.webp"
             },
             {
                 "title": "Servis Laptop & Handphone",
-                "desc": "Berkualitas, Terpercaya. Dapat menangani berbagai masalah pada laptop dan HP, mulai dari blue screen, soft brick, sampai laptop/HP ngehang. Juga melayani upgrade RAM dan SDD.",
+                "desc": "[TESTING] Berkualitas, Terpercaya. Dapat menangani berbagai masalah pada laptop dan HP, mulai dari blue screen, soft brick, sampai laptop/HP ngehang. Juga melayani upgrade RAM dan SDD.",
                 "price": "Harga Bervariasi",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "Indokomputa Salatiga",
                 "type": "service",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_laptop.webp"
             },
             {
                 "title": "Minuman Teh Herbal",
-                "desc": "Ayo dibeli minuman sehat untuk keluarga, resep turun temurun nenek. Harga untuk 1 pak isi 6 teh.",
+                "desc": "[TESTING] Ayo dibeli minuman sehat untuk keluarga, resep turun temurun nenek. Harga untuk 1 pak isi 6 teh.",
                 "price": "Rp. 20.000",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "CV Salatiga Sehat Makmur",
                 "type": "food",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_lemon.webp"
             },
             {
                 "title": "Popcorn Meletup",
-                "desc": "Tersedia berbagai varian rasa: keju, coklat, kacang hijau, dan apel",
+                "desc": "[TESTING] Tersedia berbagai varian rasa: keju, coklat, kacang hijau, dan apel",
                 "price": "Rp. 10.000",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "CV Jajanan Sehat Salatiga",
                 "type": "food",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_popcorn.webp"
             },
             {
                 "title": "Beras Pandan Wangi Murah",
-                "desc": "Sedang diskon/promo besar-besaran! Ayo dibeli sebelum habis.",
+                "desc": "[TESTING] Sedang diskon/promo besar-besaran! Ayo dibeli sebelum habis.",
                 "price": "Rp. 65.000",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "PT Agribisnis Makmur Senjoyo",
                 "type": "food",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_rice.webp"
             },
             {
                 "title": "Teh Mujarab",
-                "desc": "Sembuhkan berbagai penyakit seperti konstipasi dan ambeyen dengan teh ini.",
+                "desc": "[TESTING] Sembuhkan berbagai penyakit seperti konstipasi dan ambeyen dengan teh ini.",
                 "price": "Rp. 30.000",
-                "contact": "628123456789",
+                "contact": "123",
                 "vendor": "Klinik Sehat Salatiga",
                 "type": "food",
                 "image": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images/sample_tea.webp"
