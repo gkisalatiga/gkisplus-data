@@ -1,8 +1,8 @@
 {
     "meta": {
-        "update-count": 2690,
-        "last-update": 1736600906,
-        "last-updated-item": "yt",
+        "update-count": 2692,
+        "last-update": 1736609439,
+        "last-updated-item": "agenda-ruangan",
         "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
@@ -1080,7 +1080,7 @@
                         "date": "2025-01-10",
                         "desc": "*NATAL SODA (KOMISI PEMUDA) GKI SALATIGA 2024 - Sabtu, 11 Januari 2025*\n\n\"A Call to Action to be Shining with God\"\nLukas 2:15\nDipimpin oleh Pdt. Adi Setyo Kristianto\nMajelis Pendamping: Pnt. Johnson Umbu Radda\n\nSobat Muda GKI Salatiga\nAKU MUDA, KAMU MUDA, KITA BISA!",
                         "link": "https://www.youtube.com/watch?v=BBt8wl5lrOw",
-                        "thumbnail": "https://i.ytimg.com/vi/BBt8wl5lrOw/hqdefault_live.jpg"
+                        "thumbnail": "https://i.ytimg.com/vi/BBt8wl5lrOw/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -3351,6 +3351,20 @@
                 "place": "Ruang Kapernaum",
                 "representative": "Wilayah",
                 "pic": "Maria Wil. 10",
+                "status": "w",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik natal kr",
+                "time": "09:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-01-12",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Aurell ",
                 "status": "w",
                 "note": ""
             }
