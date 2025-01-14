@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 2717,
-        "last-update": 1736879427,
-        "last-updated-item": "ykb",
-        "last-actor": "GITHUB_ACTIONS",
+        "update-count": 2721,
+        "last-update": 1736884780,
+        "last-updated-item": "backend",
+        "last-actor": "MANUAL_INTERVENTION",
         "schema-version": "2.0"
     },
     "data": {
@@ -2046,18 +2046,6 @@
                 "url": "https://docs.google.com/forms/d/e/1FAIpQLSe0qoIzygxWO5VPBCzSnpEF4tnM4gfOmWbKZayTU6SMVtI2Sw/viewform"
             },
             {
-                "title": "[TESTING]",
-                "url": "https://gkisalatiga.org"
-            },
-            {
-                "title": "[TESTING 2]",
-                "url": "https://plus.gkisalatiga.org"
-            },
-            {
-                "title": "[TESTING 3]",
-                "url": "https://instagram.com/gkisalatiga"
-            },
-            {
                 "title": "Update Data Diri SODA GKI Salatiga 2024",
                 "url": "https://forms.gle/zXgJuCCjCn6ixk8m7"
             },
@@ -2980,62 +2968,6 @@
                 "note": "Latihan dan rekaman"
             },
             {
-                "name": "Testing",
-                "time": "07:00",
-                "time-to": "23:00",
-                "timezone": "WIB",
-                "date": "2025-01-15",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Rindu",
-                "representative": "Komisi Sarana Prasarana dan Multimedia",
-                "pic": "Samarthya L.",
-                "status": "w",
-                "note": "Testing Fitur Aplikasi GKI Salatiga+. Jangan Dihapus."
-            },
-            {
-                "name": "Testing",
-                "time": "10:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2025-01-15",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Kesal",
-                "representative": "Komisi Sarana Prasarana dan Multimedia",
-                "pic": "Samarthya L.",
-                "status": "c",
-                "note": "Testing fitur aplikasi GKI Salatiga+. Jangan dihapus."
-            },
-            {
-                "name": "Testing.",
-                "time": "10:00",
-                "time-to": "23:00",
-                "timezone": "WIB",
-                "date": "2025-01-15",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Mengsedih",
-                "representative": "Komisi Sarana Prasarana dan Multimedia",
-                "pic": "Samarthya L.",
-                "status": "n",
-                "note": "Testing fitur aplikasi GKI Salatiga+. Jangan dihapus!"
-            },
-            {
-                "name": "Testing",
-                "time": "10:00",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2025-01-15",
-                "weekday": "wed",
-                "type": "proposal",
-                "place": "Ruang Marah",
-                "representative": "Komisi Sarana Prasarana dan Multimedia",
-                "pic": "Samarthya L.",
-                "status": "y",
-                "note": "Testing fitur"
-            },
-            {
                 "name": "Rapat panitia mrp 2025",
                 "time": "18:00",
                 "time-to": "20:00",
@@ -3398,16 +3330,93 @@
                 "pic": "Cedric",
                 "status": "w",
                 "note": ""
+            },
+            {
+                "name": "Testing aplikasi GKI Salatiga+",
+                "time": "01:00",
+                "time-to": "23:00",
+                "timezone": "WIB",
+                "date": "2025-01-01",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Tidak meminjam ruangan",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya L.",
+                "status": "w",
+                "note": "Hanya testing"
+            },
+            {
+                "name": "Testing aplikasi GKI Salatiga+",
+                "time": "01:00",
+                "time-to": "23:00",
+                "timezone": "WIB",
+                "date": "2025-01-01",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Tidak pinjam ruangan",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya L.",
+                "status": "w",
+                "note": "Testing."
+            },
+            {
+                "name": "Testing",
+                "time": "01:00",
+                "time-to": "23:00",
+                "timezone": "WIB",
+                "date": "2025-01-01",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Tidak pinjam",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya L.",
+                "status": "w",
+                "note": "Testing"
+            },
+            {
+                "name": "Testing",
+                "time": "01:00",
+                "time-to": "23:00",
+                "timezone": "WIB",
+                "date": "2025-01-01",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Tidak pinjam",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya L.",
+                "status": "w",
+                "note": "Testing"
+            },
+            {
+                "name": "Testing",
+                "time": "01:00",
+                "time-to": "23:00",
+                "timezone": "WIB",
+                "date": "2025-01-01",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Tidak ada",
+                "representative": "Komisi Sarana Prasarana dan Multimedia",
+                "pic": "Samarthya L.",
+                "status": "w",
+                "note": "Testing GKI Salatiga+ (Aplikasi Android)"
             }
         ],
         "backend": {
             "flags": {
-                "is_lapak_enabled": 0
+                "is_feature_agenda_shown": 1,
+                "is_feature_persembahan_shown": 1,
+                "is_feature_ykb_shown": 1,
+                "is_feature_formulir_shown": 1,
+                "is_feature_galeri_shown": 1,
+                "is_feature_bible_shown": 0,
+                "is_feature_library_shown": 1,
+                "is_feature_lapak_shown": 0
             },
             "strings": {
                 "address": "Jl. Jend. Sudirman 111B, Salatiga, 50742, Jawa Tengah, Indonesia",
                 "greetings_top": "Syalom!",
-                "greetings_bottom": "Jemaat & simpatisan GKIS terkasih"
+                "greetings_bottom": "Jemaat & simpatisan GKIS yang terkasih"
             }
         }
     }
