@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Visi dan Misi</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Plus+Jakarta+Sans">
+  <style>
+    body {
+        font-family: 'Plus Jakarta Sans', sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+    }
+
+    .container {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: white;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .header {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .header img {
+        width: 90%;
+        max-width: 600px;
+        border-radius: 8px;
+        margin-bottom: 10px;
+    }
+
+    .address, .verse {
+        font-size: 1.1em;
+        text-align: center;
+        margin-bottom: 20px;
+        color: #333;
+        padding: 10px 20px;
+        border-radius: 8px;
+    }
+
+    .address {
+        background-color: #fff3d8;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    }
+
+    .address p {
+        margin: 0;
+        font-weight: bold;
+        font-size: 1em;
+    }
+
+    .verse {
+        background-color: #fff4ef;
+        font-style: italic;
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    }
+
+    .verse p {
+        margin: 0;
+        font-weight: bold;
+        font-size: 1em;
+    }
+
+    .verse small {
+        display: block;
+        margin-top: 5px;
+        font-style: normal;
+        color: #555;
+    }
+
+    .content {
+        padding: 20px;
+    }
+
+    .content h1 {
+        text-align: center;
+        margin-bottom: 15px;
+        color: #000000;
+        padding-bottom: 10px;
+    }
+
+    .content p {
+        text-align: left;
+        margin-bottom: 10px;
+        color: #000000;
+    }
+
+    @media only screen and (min-width: 600px) {
+        .container {
+            max-width: 600px;
+        }
+
+        .header img {
+            width: 100%;
+        }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Bagian Header -->
+    <div class="header">
+      <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-profile/banner_gki_salatiga_2024.webp" alt="GKI Salatiga">
+    </div>
+
+    <!-- Bagian Alamat Gereja -->
+    <div class="address">
+      <small>Alamat Gereja</small>
+      <p>Jend. Sudirman No.111b, Kutowinangun Kidul,</p>
+      <p>Kec. Tingkir, Kota Salatiga, Jawa Tengah 50742</p>
+    </div>
+
+    <!-- Bagian Ayat Alkitab -->
+    <div class="verse">
+      <p>"Kamu semua adalah tubuh Kristus dan"</p>
+      <p>kamu masing-masing adalah anggotanya."</p>
+      <small>1 Korintus 12:27</small>
+    </div>
+
+    <!-- Bagian Konten Visi dan Misi -->
+    <div class="content">
+      <h1>VISI</h1>
+      <p>Mewujudkan damai sejahtera di tengah masyarakat Indonesia, khususnya Gereja Kristen Indonesia Salatiga menjadi mitra Allah di Kota Salatiga yang pluralistis.</p>
+
+      <h1>MISI</h1>
+      <p>1. Mengembangkan spiritualitas yang berpusat pada hubungan yang hidup dengan Allah.</p>
+      <p>2. Mewujudkan dan meningkatkan persekutuan orang-orang percaya yang kohesif.</p>
+      <p>3. Meningkatkan kecintaan anggota jemaat terhadap GKI sebagai tubuh Kristus.</p>
+      <p>4. Mengembangkan kesaksian dan pelayanan di tengah masyarakat.</p>
+      <p>5. Memperjuangkan perwujudan keesaan gereja dan persaudaraan umat manusia.</p>
+      <p>6. Meningkatkan pertumbuhan anggota jemaat dan pertumbuhan Jemaat.</p>
+      <p>7. Mengembangkan SDM yang memadai bagi kepemimpinan gereja dan aktivis pelayanan gereja pada umumnya, dengan memperhatikan kemandirian teologi dan kesetaraan gender.</p>
+    </div>
+  </div>
+</body>
+</html>
+
+
+
+
+<!-- BEFORE - Visi dan Misi diubah ke tampilan CSS pada umumnya (bapel dan wilayah) -->
+<!-- <!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Church Profile</title>\n    <style>\n    * {\n    margin: 0;\n    padding: 0;\n    box-sizing: border-box;\n}\n\nbody {\n    font-family: Arial, sans-serif;\n    line-height: 1.6;\n    color: #333;\n}\n\nheader {\n    background: url('http://gkisalatiga.org/wp-content/uploads/2020/10/gkisalatiga-2024.jpg') no-repeat center center/cover;\n    position: relative;\n    color: white;\n    text-align: center;\n    height: 300px;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    width: 100vw; /* Ensure the header spans the full viewport width */\n    margin-left: calc(-50vw + 50%); /* Fix centering issues on smaller screens */\n    margin-right: calc(-50vw + 50%); /* Fix centering issues on smaller screens */\n}\n\nheader .overlay {\n    background: rgb(74,42,4);\n    background: linear-gradient(180deg, rgba(64, 37, 3, 0.472) 0%, rgba(228, 225, 218, 0.46) 54%, rgba(249,248,248,0.8477766106442577) 84%, rgba(252,252,252,1) 100%);\n    position: relative;\n    color: #ffffff;\n    font-family: Verdana, Geneva, Tahoma, sans-serif;\n    font-weight: bold;\n    text-align: center;\n    text-shadow: 0px 1px 5px rgb(81, 81, 81);\n    width:auto;\n    height: 300px;\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    justify-content: center;\n    width: 100%; /* Ensure the overlay spans the full width of the header */\n    max-width: 1200px; /* Optional max-width to keep content manageable */\n    margin: 0 auto; /* Center the overlay content */\n}\n\nheader h1 {\n    margin-bottom: 0.5rem;\n}\nheader h2 {\n    margin-bottom: 0.5rem;\n    margin-inline: 70px;\n    font-size:70%;\n    line-height:17px;\n}\nheader img{\n    max-width: 35%;\n    max-height: 35%;\n}\n\nnav ul {\n    list-style: none;\n    padding: 0;\n}\n\nnav ul li {\n    display: inline;\n    margin: 0 0.5rem;\n}\n\nnav ul li a {\n    color: #333;\n    text-decoration: none;\n}\n\nmain {\n    padding: 1rem;\n    margin-left: 15px;\n    margin-right: 15px;\n}\n\ndiv {    \n    text-align: justify;\n    text-justify:auto;\n}\nsection {\n    margin-bottom: 1rem;\n}\n\nmain .quotes{\n    text-align: center;\n}\n\nsection h2 {\n    border-bottom: 2px solid #4CAF50;\n    padding-bottom: 0.5rem;\n    margin-bottom: 1rem;\n}\n\nform label {\n    display: block;\n    margin: 0.5rem 0 0.2rem;\n}\n\nform input, form textarea {\n    width: 100%;\n    padding: 0.5rem;\n    margin-bottom: 1rem;\n    border: 1px solid #ccc;\n    border-radius: 4px;\n}\n\nform button {\n    background-color: #4CAF50;\n    color: white;\n    border: none;\n    padding: 0.5rem 1rem;\n    cursor: pointer;\n    border-radius: 4px;\n}\n\nform button:hover {\n    background-color: #45a049;\n}\n\n@media (min-width: 768px) {\n    header, main, footer {\n        max-width: 600px;\n        margin: 0 auto;\n    }\n\n    nav ul li {\n        margin: 0 1rem;\n    }\n}\n\n    </style>\n</head>\n<body>\n    <header>\n        <div class=\"overlay\">\n            <img src=\"http://gkisalatiga.org/wp-content/uploads/2020/10/logo-gki-putih.png\">\n            <h1>GKI Salatiga</h1>\n            <h2>Jl. Jend. Sudirman No.111b, Kutowinangun Kidul, Kec. Tingkir, Kota Salatiga, Jawa Tengah 50742</h2>\n    </header>\n    <main>\n        <div class=\"quotes\">\n        <section id=\"quotes\">\n            <p style=\"font-weight: bold;\">\"Kamu semua adalah tubuh Kristus dan kamu masing-masing adalah anggotanya.\"</p>\n                <p>1 Korintus 12: 27</p>\n        </section>\n        </div>\n        <div id=\"content\">\n        <section id=\"visi\">\n            <h2>Visi</h2>\n            <p>Mewujudkan damai sejahtera di tengah masyarakat Indonesia, khususnya Gereja Kristen Indonesia Salatiga menjadi mitra Allah dalam di Kota Salatiga yang pluralistis.</p>\n        </section>\n        <section id=\"misi\">\n            <h2>Misi</h2>\n            <p>1. Mengembangkan spiritualitas yang berpusat pada hubungan yang hidup dengan Allah</p>\n            <p>2. Mewujudkan dan meningkatkan persekutuan orang-orang percaya yang kohesif.</p>\n            <p>3. Meningkatkan kecintaan anggota jemaat terhadap GKI sebagai tubuh Kristus.</p>\n            <p>4. Mengembangkan kesaksian dan pelayanan di tengah masyarakat.</p>\n            <p>5. Memperjuangkan perwujudan keesaan gereja dan persaudaraan umat manusia.</p>\n            <p>6. Meningkatkan pertumbuhan anggota jemaat dan pertumbuhan Jemaat.</p>\n            <p>7. Mengembangkan SDM yang memadai bagi kepemimpinan gereja dan aktivis pelayanan gereja pada umumnya, dengan memperhatikan kemandirian teologi dan kesetaraan gender.</p>\n        </section>\n        </div>\n    </main>\n</body>\n</html> -->
+
+
+<!-- AFTER -->
+<!-- <!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n  <meta charset=\"UTF-8\">\r\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n  <title>Visi dan Misi<\/title>\r\n  <link rel=\"stylesheet\" href=\"https:\/\/fonts.googleapis.com\/css?family=Plus+Jakarta+Sans\">\r\n  <style>\r\n    body {\r\n        font-family: 'Plus Jakarta Sans', sans-serif;\r\n        margin: 0;\r\n        padding: 0;\r\n        background-color: #f4f4f4;\r\n    }\r\n\r\n    .container {\r\n        max-width: 100%;\r\n        margin: 0 auto;\r\n        padding: 20px;\r\n        background-color: white;\r\n        border-radius: 8px;\r\n        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);\r\n    }\r\n\r\n    .header {\r\n        text-align: center;\r\n        margin-bottom: 20px;\r\n    }\r\n\r\n    .header img {\r\n        width: 90%;\r\n        max-width: 600px;\r\n        border-radius: 8px;\r\n        margin-bottom: 10px;\r\n    }\r\n\r\n    .address, .verse {\r\n        font-size: 1.1em;\r\n        text-align: center;\r\n        margin-bottom: 20px;\r\n        color: #333;\r\n        padding: 10px 20px;\r\n        border-radius: 8px;\r\n    }\r\n\r\n    .address {\r\n        background-color: #fff3d8;\r\n        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);\r\n    }\r\n\r\n    .address p {\r\n        margin: 0;\r\n        font-weight: bold;\r\n        font-size: 1em;\r\n    }\r\n\r\n    .verse {\r\n        background-color: #fff4ef;\r\n        font-style: italic;\r\n        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);\r\n    }\r\n\r\n    .verse p {\r\n        margin: 0;\r\n        font-weight: bold;\r\n        font-size: 1em;\r\n    }\r\n\r\n    .verse small {\r\n        display: block;\r\n        margin-top: 5px;\r\n        font-style: normal;\r\n        color: #555;\r\n    }\r\n\r\n    .content {\r\n        padding: 20px;\r\n    }\r\n\r\n    .content h1 {\r\n        text-align: center;\r\n        margin-bottom: 15px;\r\n        color: #000000;\r\n        padding-bottom: 10px;\r\n    }\r\n\r\n    .content p {\r\n        text-align: left;\r\n        margin-bottom: 10px;\r\n        color: #000000;\r\n    }\r\n\r\n    @media only screen and (min-width: 600px) {\r\n        .container {\r\n            max-width: 600px;\r\n        }\r\n\r\n        .header img {\r\n            width: 100%;\r\n        }\r\n    }\r\n  <\/style>\r\n<\/head>\r\n<body>\r\n  <div class=\"container\">\r\n    <!-- Bagian Header -->\r\n    <div class=\"header\">\r\n      <img src=\"https:\/\/raw.githubusercontent.com\/gkisalatiga\/gkisplus-data\/refs\/heads\/main\/images-profile\/banner_gki_salatiga_2024.webp\" alt=\"GKI Salatiga\">\r\n    <\/div>\r\n\r\n    <!-- Bagian Alamat Gereja -->\r\n    <div class=\"address\">\r\n      <small>Alamat Gereja<\/small>\r\n      <p>Jend. Sudirman No.111b, Kutowinangun Kidul,<\/p>\r\n      <p>Kec. Tingkir, Kota Salatiga, Jawa Tengah 50742<\/p>\r\n    <\/div>\r\n\r\n    <!-- Bagian Ayat Alkitab -->\r\n    <div class=\"verse\">\r\n      <p>\"Kamu semua adalah tubuh Kristus dan\"<\/p>\r\n      <p>kamu masing-masing adalah anggotanya.\"<\/p>\r\n      <small>1 Korintus 12:27<\/small>\r\n    <\/div>\r\n\r\n    <!-- Bagian Konten Visi dan Misi -->\r\n    <div class=\"content\">\r\n      <h1>VISI<\/h1>\r\n      <p>Mewujudkan damai sejahtera di tengah masyarakat Indonesia, khususnya Gereja Kristen Indonesia Salatiga menjadi mitra Allah di Kota Salatiga yang pluralistis.<\/p>\r\n\r\n      <h1>MISI<\/h1>\r\n      <p>1. Mengembangkan spiritualitas yang berpusat pada hubungan yang hidup dengan Allah.<\/p>\r\n      <p>2. Mewujudkan dan meningkatkan persekutuan orang-orang percaya yang kohesif.<\/p>\r\n      <p>3. Meningkatkan kecintaan anggota jemaat terhadap GKI sebagai tubuh Kristus.<\/p>\r\n      <p>4. Mengembangkan kesaksian dan pelayanan di tengah masyarakat.<\/p>\r\n      <p>5. Memperjuangkan perwujudan keesaan gereja dan persaudaraan umat manusia.<\/p>\r\n      <p>6. Meningkatkan pertumbuhan anggota jemaat dan pertumbuhan Jemaat.<\/p>\r\n      <p>7. Mengembangkan SDM yang memadai bagi kepemimpinan gereja dan aktivis pelayanan gereja pada umumnya, dengan memperhatikan kemandirian teologi dan kesetaraan gender.<\/p>\r\n    <\/div>\r\n  <\/div>\r\n<\/body>\r\n<\/html> -->

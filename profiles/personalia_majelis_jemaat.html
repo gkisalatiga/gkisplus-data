@@ -1,0 +1,674 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Personalia Majelis Jemaat</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Plus+Jakarta+Sans">
+  <style>
+    /* Global Styles */
+    body {
+      margin: 0 auto;
+      padding: 20px;
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      background-color: #f4f4f4;
+      text-align: center;
+    }
+
+    .header-image img {
+      width: 100%;
+      max-width: 600px;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+
+    .big-text {
+      font-size: 1.8em;
+      font-weight: 600;
+      margin: 20px 0;
+      color: #000;
+    }
+
+    /* Kontainer Profil */
+    .profile-container {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: space-between;
+      background-color: white;
+      margin: 20px auto;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      max-width: 600px;
+      text-align: left;
+    }
+
+    /* Kontainer Profil */
+    .keterangan {
+      display: block;
+      align-items: center;
+      justify-content: space-between;
+      margin: 20px auto;
+      padding: 20px;
+      border-radius: 8px;
+      max-width: 600px;
+      text-align: left;
+    }
+
+    .keterangan p {
+      margin-top: 5px !important;
+      margin-bottom: 0px !important;
+    }
+
+    /* Foto Profil */
+    .profile-photo {
+      flex: 0 0 100px; /* Ukuran tetap */
+      width: 100px;
+      height: 100px;
+      background: #d3d3d3;
+      border-radius: 10px;
+      overflow: hidden;
+      margin-right: 15px;
+    }
+
+    .profile-photo img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    /* Informasi Profil */
+    .profile-info {
+      flex: 1;
+      font-size: 1em;
+      color: #333;
+    }
+
+    .profile-info p {
+      margin: 5px 0;
+      font-size: 1em;
+    }
+
+    .profile-info strong {
+      font-weight: bold;
+    }
+
+    .list {
+      margin-top: 10px;
+    }
+
+    .list .names {
+      margin-top: 5px;
+      padding-left: 20px;
+    }
+
+    .list .names p {
+      margin: 0;
+      font-weight: normal;
+    }
+
+    span.label {
+      padding-top: 5px;
+      font-weight: bold;
+      font-size: 16px;
+      text-transform: uppercase;
+    }
+
+    .nama-lengkap {
+      font-weight: bold;
+      font-size: 150% !important;
+      padding-bottom: 5px;
+    }
+
+    .profile-container {
+        flex-direction: row;
+        align-items: flex-start; /* Foto tetap di kiri */
+        padding: 15px;
+      }
+
+    .profile-photo {
+        flex: 0 0 90px;
+        width: 120px;
+        height: 120px;
+        margin-right: 20px;
+      }
+    
+    .profile-photo img {
+        margin-top: 35px;
+        scale: 175%;
+      }
+
+    /* Responsif untuk Mobile */
+    @media (max-width: 768px) {
+      .profile-container {
+        flex-direction: row;
+        align-items: flex-start; /* Foto tetap di kiri */
+        padding: 15px;
+      }
+
+      .profile-photo {/*
+        flex: 0 0 80px;
+        width: 80px;
+        height: 80px;
+        margin-right: 10px;*/
+        
+        flex: 0 0 90px;
+        width: 120px;
+        height: 120px;
+        margin-right: 20px;
+      }
+
+      .profile-info p {
+        font-size: 0.9em;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .big-text {
+        font-size: 1.5em;
+      }
+
+      .profile-photo {/*
+        flex: 0 0 80px;
+        width: 80px;
+        height: 80px;
+        margin-right: 10px;*/
+        
+        flex: 0 0 90px;
+        width: 120px;
+        height: 120px;
+        margin-right: 20px;
+      }
+
+      .profile-info p {
+        font-size: 0.85em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Bagian Header -->
+  <div class="header-image">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/banner_personalia_majelis_jemaat.webp" alt="Personalia Majelis Jemaat">
+  </div>
+
+  <!-- Teks Besar -->
+  <div class="big-text">Personalia Majelis Jemaat</br>GKI Salatiga</div>
+
+  <!-- Profil Pdt. Yefta-->
+  <div class="profile-container">
+    <div class="profile-photo">
+      <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pdt_yefta.webp" alt="Pdt. Yefta">
+    </div>
+
+    <div class="profile-info">
+      <p class="nama-lengkap">Pdt. Yefta Setiawan Krisgunadi</p>
+      <!-- <i>(Peneguhan)</i> -->
+      <p><strong>Ditahbiskan: </strong>01 Juli 2008</p>
+
+      <div class="list">
+        <span class="label">Peran:</span>
+        <div class="names">
+          <p>- Anggota BPMK GKI Klasis Magelang 2024-2027</p>
+          <p>- Anggota BPMJ</p>
+          <p>- Anggota Majelis Bidang I & III</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!--Profil Pdt. Helen-->
+  <div class="profile-container">
+    <div class="profile-photo">
+      <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pdt_helen.webp" alt="Pdt. Helen">
+    </div>
+    <div class="profile-info">
+      <p class="nama-lengkap">Pdt. Helen Ruth Manurung</p>
+      <!-- <i>(Peneguhan Penatua Penahbisan)</i> -->
+      <p><strong>Ditahbiskan: </strong>07 Agustus 2017</p>
+
+      <div class="list">
+        <span class="label">Peran:</span>
+        <div class="names">
+          <p>- Ketua II BPMJ</p>
+          <p>- Anggota Majelis Bidang II & III</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<!--Profil Pnt. Hendra Aribowo-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_hendra.webp" alt="Pnt. Hendra">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Pnt. Hendra Aribowo</p>
+    <p><strong>Diangkat I: </strong>17 Maret 2019</p>
+    <p><strong>Diangkat II: </strong>17 Maret 2022</p>
+    <p><strong>Berakhir: </strong>16 Maret 2025</p>
+    
+    <div class="list">
+      <span class="label">Peran:</span>
+      <div class="names">
+        <p>- Anggota BPMJ</p>
+        <p>- Anggota Majelis Bidang III</p>
+        <p>- MJP Wilayah IV</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Profil Pnt. Priyo Hari Adi-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_priyo.webp" alt="Pnt. Priyo">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Pnt. Priyo Hari Adi</p>
+    <p><strong>Diangkat I: </strong>16 Juni 2019</p>
+    <p><strong>Diangkat II: </strong>16 Juni 2022</p>
+    <p><strong>Berakhir: </strong>15 Juni 2025</p>
+    
+    <div class="list">
+      <span class="label">Peran:</span>
+      <div class="names">
+        <p>- Personalia BPHMK GKI Klasis Magelang 2024-2027</p>
+        <p>- Anggota Majelis Bidang II</p>
+        <p>- MJP Tim Samaria</p>
+        <p>- MJP Wilayah XIII</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Profil Pnt. July Silooy-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_july.webp" alt="Pnt. July">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Pnt. July Silooy</p>
+    <p><strong>Diangkat I: </strong>16 Juni 2019</p>
+    <p><strong>Diangkat II: </strong>16 Juni 2022</p>
+    <p><strong>Berakhir: </strong>15 Juni 2025</p>
+    
+    <div class="list">
+      <span class="label">Peran:</span>
+      <div class="names">
+        <p>- Anggota Majelis Bidang III</p>
+        <p>- MJP Komisi Usia Lanjut</p>
+        <p>- MJP Wilayah V</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Profil Pnt. Yuliani Nugroho-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_yuliani.webp" alt="Pnt. Yuliani">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Pnt. Yuliani Nugroho</p>
+    <p><strong>Diangkat I: </strong>08 Desember 2019</p>
+    <p><strong>Diangkat II: </strong>08 Desember 2022</p>
+    <p><strong>Berakhir: </strong>07 Desember 2025</p>
+    
+    <div class="list">
+      <span class="label">Peran:</span>
+      <div class="names">
+        <p>- Anggota BPMJ</p>
+        <p>- Koordinator Majelis Bidang III</p>
+        <p>- MJP Komisi Perkunjungan dan Pelayanan Kematian</p>
+        <p>- MJP Tim Warung Tiberias</p>
+        <p>- MJP Wilayah III</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Profil Pnt. Johnson Umbu Radda-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_johnson.webp" alt="Pnt. Johnson">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Pnt. Johnson Umbu Radda</p>
+    <p><strong>Diangkat I: </strong>05 Januari 2020</p>
+    <p><strong>Diangkat II: </strong>05 Januari 2023</p>
+    <p><strong>Berakhir: </strong>04 Januari 2026</p>
+    
+    <div class="list">
+      <span class="label">Peran:</span>
+      <div class="names">
+        <p>- Sekretaris I BPMK GKI Klasis Magelang 2024-2027</p>
+        <p>- Ketua I BPMJ</p>
+        <p>- Anggota Majelis Bidang III</p>
+        <p>- MJP Komisi Pemuda</p>
+        <p>- MJP Wilayah VI</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Profil Pnt. Desemy Ch. Natalia Ballo-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_desemy.webp" alt="Pnt. Desemy">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Pnt. Desemy Ch. Natalia Ballo</p>
+    <p><strong>Diangkat I: </strong>05 Januari 2020</p>
+    <p><strong>Diangkat II: </strong>05 Januari 2023</p>
+    <p><strong>Berakhir: </strong>04 Januari 2026</p>
+    
+    <div class="list">
+      <span class="label">Peran:</span>
+      <div class="names">
+        <p>- Anggota BPMK GKI Klasis Magelang 2024-2027</p>
+        <p>- Sekretaris BPMJ</p>
+        <p>- Koordinator Majelis Bidang I</p>
+        <p>- MJP Komisi Musik dan Liturgi</p>
+        <p>- MJP Komisi Perkunjungan dan Kematian</p>
+        <p>- MJP Wilayah II/VIII</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Profil Pnt. Adita Sutresno-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_adita.webp" alt="Pnt. Adita">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Pnt. Adita Sutresno</p>
+    <p><strong>Diangkat I: </strong>12 Juli 2020</p>
+    <p><strong>Diangkat II: </strong>12 Juli 2023</p>
+    <p><strong>Berakhir: </strong>11 Juli 2026</p>
+    
+    <div class="list">
+      <span class="label">Peran:</span>
+      <div class="names">
+        <p>- Anggota Majelis Bidang II</p>
+        <p>- MJP Komisi Diakonia The Koen Bik</p>
+        <p>- MJP Wilayah I</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Profil Pnt. Sri Yuniwati Retnoningsih-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_sri_yuniwati.webp" alt="Pnt. Sri Yuniwati">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Pnt. Sri Yuniwati Retnoningsih</p>
+    <p><strong>Diangkat I: </strong>12 Juli 2020</p>
+    <p><strong>Diangkat II: </strong>12 Juli 2023</p>
+    <p><strong>Berakhir: </strong>11 Juli 2026</p>
+    
+    <div class="list">
+      <span class="label">Peran:</span>
+      <div class="names">
+        <p>- Bendahara II BPMJ</p>
+        <p>- Anggota Majelis Bidang I & II</p>
+        <p>- MJP Komisi Kesejahteraan</p>
+        <p>- MJP Wilayah II/VIII</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Profil Pnt. Paul Arototonafo Warisman Gulo-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_paul.webp" alt="Pnt. Paul">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Pnt. Paul Arototonafo Warisman Gulo</p>
+    <p><strong>Diangkat I: </strong>11 April 2021</p>
+    <p><strong>Diangkat II: </strong>11 April 2024</p>
+    <p><strong>Berakhir: </strong>10 April 2027</p>
+    
+    <div class="list">
+      <span class="label">Peran:</span>
+      <div class="names">
+        <p>- Anggota Majelis Bidang I</p>
+        <p>- MJP Komisi Anak</p>
+        <p>- MJP Wilayah IX</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Profil Pnt. Nadia Sitaresmi-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_nadia.webp" alt="Pnt. Nadia">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Pnt. Nadia Sitaresmi</p>
+    <p><strong>Diangkat I: </strong>11 April 2021</p>
+    <p><strong>Diangkat II: </strong>11 April 2024</p>
+    <p><strong>Berakhir: </strong>10 April 2027</p>
+    
+    <div class="list">
+      <span class="label">Peran:</span>
+      <div class="names">
+        <p>- Anggota Majelis Bidang I</p>
+        <p>- MJP Komisi Hubungan Internasional</p>
+        <p>- MJP Wilayah VII</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Profil Pnt. Catur Winarno Hari Sungkowo-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_catur.webp" alt="Pnt. Catur">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Pnt. Catur Winarno Hari Sungkowo</p>
+    <p><strong>Diangkat I: </strong>23 Januari 2022</p>
+    <p><strong>Diangkat II: </strong>23 Januari 2025</p>
+    <p><strong>Berakhir: </strong>22 Januari 2028</p>
+    
+    <div class="list">
+      <span class="label">Peran:</span>
+      <div class="names">
+        <p>- Anggota BPMJ</p>
+        <p>- Koordinator Majelis Bidang II</p>
+        <p>- MJP Komisi Pengajaran dan Pengabaran Injil</p>
+        <p>- MJP Wilayah V</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Profil Pnt. Benny Andrey Kailola-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_benny.webp" alt="Pnt. Benny">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Pnt. Benny Andrey Kailola</p>
+    <p><strong>Diangkat I: </strong>15 Januari 2023</p>
+    <p><strong>Diangkat II: </strong>-</p>
+    <p><strong>Berakhir: </strong>14 Januari 2026</p>
+    
+    <div class="list">
+      <span class="label">Peran:</span>
+      <div class="names">
+        <p>- Anggota Majelis Bidang II</p>
+        <p>- MJP Komisi Dewasa</p>
+        <p>- MJP Wilayah IX</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Profil Pnt. Ervien Dian Widyawati-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_ervien.webp" alt="Pnt. Ervien">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Pnt. Ervien Dian Widyawati</p>
+    <p><strong>Diangkat I: </strong>17 September 2023</p>
+    <p><strong>Diangkat II: </strong>-</p>
+    <p><strong>Berakhir: </strong>16 September 2026</p>
+    
+    <div class="list">
+      <span class="label">Peran:</span>
+      <div class="names">
+        <p>- Bendahara I BPMJ</p>
+        <p>- Anggota Majelis Bidang I & III</p>
+        <p>- MJP Komisi Anak</p>
+        <p>- MJP Wilayah IV</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Profil Pnt. Yosua Candana Hidayat Kuncoro-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_yosua.webp" alt="Pnt. Yosua">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Pnt. Yosua Candana Hidayat Kuncoro</p>
+    <p><strong>Diangkat I: </strong>14 April 2024</p>
+    <p><strong>Diangkat II: </strong>-</p>
+    <p><strong>Berakhir: </strong>13 April 2027</p>
+    
+    <div class="list">
+      <span class="label">Peran:</span>
+      <div class="names">
+        <p>- Anggota Majelis Bidang III</p>
+        <p>- MJP Komisi Remaja</p>
+        <p>- MJP Komisi Sarana Prasarana dan Multimedia</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Profil Pnt. Rodiana-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_rodiana.webp" alt="Pnt. Rodiana">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Pnt. Rodiana</p>
+    <p><strong>Diangkat I: </strong>28 Juli 2024</p>
+    <p><strong>Diangkat II: </strong>-</p>
+    <p><strong>Berakhir: </strong>27 Juli 2027</p>
+    
+    <div class="list">
+      <span class="label">Peran:</span>
+      <div class="names">
+        <p>- Anggota Majelis Bidang II</p>
+        <p>- MJP Tim Warung Tiberias</p>
+        <p>- MJP Wilayah XI</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Profil Pnt. Samuel Martono-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_samuel.webp" alt="Pnt. Samuel">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Pnt. Samuel Martono</p>
+    <p><strong>Diangkat I: </strong>01 September 2024</p>
+    <p><strong>Diangkat II: </strong>-</p>
+    <p><strong>Berakhir: </strong>31 Agustus 2027</p>
+    
+    <div class="list">
+      <span class="label">Peran:</span>
+      <div class="names">
+        <p>- Anggota Majelis Bidang III</p>
+        <p>- MJP Komisi Sarana Prasarana dan Multimedia</p>
+        <p>- MJP Wilayah X</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Profil Pnt. Shielly Gunawan-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_shielly.webp" alt="Pnt. Shielly">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Pnt. Shielly Gunawan</p>
+    <p><strong>Diangkat I: </strong>01 September 2024</p>
+    <p><strong>Diangkat II: </strong>-</p>
+    <p><strong>Berakhir: </strong>31 Agustus 2027</p>
+    
+    <div class="list">
+      <span class="label">Peran:</span>
+      <div class="names">
+        <p>- Anggota Majelis Bidang II</p>
+        <p>- MJP Komisi Kesejahteraan</p>
+        <p>- MJP Wilayah VII</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Profil Pnt. Hananto Seno-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_hananto.webp" alt="Pnt. Hananto">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Pnt. Hananto Seno</p>
+    <p><strong>Diangkat I: </strong>01 September 2024</p>
+    <p><strong>Diangkat II: </strong>-</p>
+    <p><strong>Berakhir: </strong>31 Agustus 2027</p>
+    
+    <div class="list">
+      <span class="label">Peran:</span>
+      <div class="names">
+        <p>- Anggota Majelis Bidang I</p>
+        <p>- MJP Komisi Dewasa</p>
+        <p>- MJP Wilayah XII</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--Profil Pnt. Paskah Ika Nugroho-->
+<div class="profile-container">
+  <div class="profile-photo">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-mj/pnt_paskah.webp" alt="Pnt. Paskah">
+  </div>
+  <div class="profile-info">
+    <p class="nama-lengkap">Bp. Paskah Ika Nugroho</p>
+    <p><strong>Diangkat I: </strong>-</p>
+    <p><strong>Diangkat II: </strong>-</p>
+    <p><strong>Berakhir: </strong>-</p>
+    <p><i>Akan dilantik pada hari Minggu, 19 Januari 2025</i></p>
+  </div>
+</div>
+
+<div class="keterangan">
+  <h3 style="text-transform: uppercase;">Keterangan:</h3>
+  <p style="text-align: left;"><small><b>Bidang I:</b> <i>Bidang Pembangunan Jemaat</i></small></p>
+  <p style="text-align: left;"><small><b>Bidang II:</b> <i>Bidang Kesaksian dan Pelayanan</i></small></p>
+  <p style="text-align: left;"><small><b>Bidang III:</b> <i>Bidang Penatalayanan</i></small></p>
+  <p style="text-align: left;"><small><b>BPHMK:</b> <i>Badan Pemeriksa Harta Milik Klasis</i></small></p>
+  <p style="text-align: left;"><small><b>BPMK:</b> <i>Badan Pekerja Majelis Klasis</i></small></p>
+  <p style="text-align: left;"><small><b>BPMJ:</b> <i>Badan Pekerja Majelis Jemaat</i></small></p>
+  <p style="text-align: left;"><small><b>MJP:</b> <i>Majelis Pendamping</i></small></p>
+</div>
+  
+</body>
+</html>

@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Struktur Fungsional dan Kategorial</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Plus+Jakarta+Sans">
+  <style>
+    /* Global Styles */
+    body {
+      margin: 0 auto;
+      padding: 20px;
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      background-color: #f4f4f4;
+      text-align: center;
+    }
+
+    /* Gaya untuk Gambar Salib */
+    .header-image img {
+      width: 100%;
+      max-width: 300px; /* Gambar salib lebih kecil */
+      object-fit: cover;
+      border-radius: 8px;
+    }
+
+    /* Teks Utama */
+    .big-text {
+      font-size: 1.7em;
+      font-weight: 600;
+      margin: 20px 0;
+      color: #000;
+    }
+
+    /* Gaya untuk Gambar Struktur */
+    .profile-photo {
+      width: 100%;
+      max-width: 600px; /* Gambar struktur lebih besar */
+      margin: 20px auto;
+      overflow: hidden;
+      border-radius: 8px;
+      cursor: zoom-in; /* Menunjukkan ikon zoom */
+      position: relative;
+    }
+
+    .profile-photo img {
+      width: 100%;
+      height: auto;
+      object-fit: contain;
+      transition: transform 0.3s ease; /* Transisi halus saat zoom */
+      border-radius: 3px; /* Tetap menjaga sudut membulat */
+    }
+
+    /* Responsif untuk Mobile */
+    @media (max-width: 768px) {
+      .big-text {
+        font-size: 1.5em;
+      }
+
+      .header-image img {
+        max-width: 180px; /* Ukuran gambar salib lebih kecil di mobile */
+      }
+
+      .profile-photo {
+        max-width: 350px; /* Ukuran gambar struktur tetap besar di mobile */
+      }
+    }
+
+    @media (max-width: 480px) {
+      .big-text {
+        font-size: 1.2em;
+      }
+
+      .header-image img {
+        max-width: 150px; /* Ukuran gambar salib lebih kecil lagi */
+      }
+
+      .profile-photo {
+        max-width: 300px; /* Ukuran gambar struktur tetap besar */
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Bagian Header -->
+  <div class="header-image">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-profile/foto_salib_1.webp" alt="Foto Salib">
+  </div>
+
+  <!-- Teks Besar -->
+  <div class="big-text">Struktur Fungsional dan Kategorial</div>
+
+  <!-- Gambar Struktur -->
+  <div class="profile-photo" id="zoomableImage">
+    <img src="https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/refs/heads/main/images-profile/struktur_fungsional_dan_kategorial.webp" alt="Struktur Fungsional dan Kategorial">
+  </div>
+
+  <script>
+    const zoomableImage = document.getElementById('zoomableImage');
+    const img = zoomableImage.querySelector('img');
+
+    let scale = 1;
+    let isDragging = false;
+    let startX = 0;
+    let startY = 0;
+    let offsetX = 0;
+    let offsetY = 0;
+
+    zoomableImage.addEventListener('click', () => {
+      scale = scale === 1 ? 2 : 1;  // Toggle zoom in and zoom out
+      img.style.transform = `scale(${scale}) translate(${offsetX}px, ${offsetY}px)`;
+    });
+
+    // Handle touch events for zooming and dragging with two fingers
+    zoomableImage.addEventListener('touchstart', (e) => {
+      if (e.touches.length === 2) {
+        e.preventDefault(); // Prevent default touch events like zoom
+        scale = scale === 1 ? 2 : 1;
+        img.style.transform = `scale(${scale}) translate(${offsetX}px, ${offsetY}px)`;
+      } else if (e.touches.length === 1) {
+        isDragging = true;
+        startX = e.touches[0].clientX;
+        startY = e.touches[0].clientY;
+      }
+    });
+
+    zoomableImage.addEventListener('touchmove', (e) => {
+      if (isDragging && e.touches.length === 1) {
+        e.preventDefault();
+        const dx = e.touches[0].clientX - startX;
+        const dy = e.touches[0].clientY - startY;
+        offsetX += dx;
+        offsetY += dy;
+        img.style.transform = `scale(${scale}) translate(${offsetX}px, ${offsetY}px)`;
+        startX = e.touches[0].clientX;
+        startY = e.touches[0].clientY;
+      }
+    });
+
+    zoomableImage.addEventListener('touchend', () => {
+      isDragging = false;
+    });
+
+    // Handle mouse events for dragging
+    zoomableImage.addEventListener('mousedown', (e) => {
+      isDragging = true;
+      startX = e.clientX;
+      startY = e.clientY;
+      zoomableImage.style.cursor = 'grabbing';
+    });
+
+    zoomableImage.addEventListener('mousemove', (e) => {
+      if (isDragging) {
+        const dx = e.clientX - startX;
+        const dy = e.clientY - startY;
+        offsetX += dx;
+        offsetY += dy;
+        img.style.transform = `scale(${scale}) translate(${offsetX}px, ${offsetY}px)`;
+        startX = e.clientX;
+        startY = e.clientY;
+      }
+    });
+
+    zoomableImage.addEventListener('mouseup', () => {
+      isDragging = false;
+      zoomableImage.style.cursor = 'grab';
+    });
+
+    zoomableImage.addEventListener('mouseleave', () => {
+      isDragging = false;
+      zoomableImage.style.cursor = 'grab';
+    });
+  </script>
+</body>
+</html>
