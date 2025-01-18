@@ -36,16 +36,16 @@ Regularly auto-updated cloud data for the GKI Salatiga Plus app
 
 ### Back-End and Programmaticals
 
-- [ ] Remove `carousel/` (unused since migration to v2)
-- [ ] Remove `gkisplus-carousel.zip` (unused since migration to v2)
-- [ ] Remove `gkisplus-static.zip` (unused since migration to v2)
-- [ ] Remove `static/` (unused since migration to v2)
-- [ ] Remove `test/` (unused since migration to v2)
+- [X] Remove `carousel/` (unused since migration to v2)
+- [X] Remove `gkisplus-carousel.zip` (unused since migration to v2)
+- [X] Remove `gkisplus-static.zip` (unused since migration to v2)
+- [X] Remove `static/` (unused since migration to v2)
+- [X] Remove `test/` (unused since migration to v2)
 
 ### Content
 
-- [ ] Profil GKI Salatiga :: Visi dan Misi (only typo fix and HTML regularization)
-- [ ] Profil GKI Salatiga :: Sejarah GKI Salatiga
-- [ ] Profil GKI Salatiga :: Peranti Administrasi
-- [ ] Kemajelisan
-- [ ] Kependetaan
+- [X] Profil GKI Salatiga :: Visi dan Misi (only typo fix and HTML regularization)
+- [X] Profil GKI Salatiga :: Sejarah GKI Salatiga
+- [X] Profil GKI Salatiga :: Peranti Administrasi
+- [X] Kemajelisan
+- [X] Kependetaan
