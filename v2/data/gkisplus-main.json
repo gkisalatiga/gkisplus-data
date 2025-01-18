@@ -1,9 +1,9 @@
 {
     "meta": {
-        "update-count": 2721,
-        "last-update": 1736884780,
-        "last-updated-item": "backend",
-        "last-actor": "MANUAL_INTERVENTION",
+        "update-count": 2742,
+        "last-update": 1737167831,
+        "last-updated-item": "agenda-ruangan",
+        "last-actor": "GITHUB_ACTIONS",
         "schema-version": "2.0"
     },
     "data": {
@@ -20,6 +20,34 @@
         "yt": [
             {
                 "content": [
+                    {
+                        "title": "SaRen Pagi | 18 Jan 2025",
+                        "date": "2025-01-17",
+                        "desc": "Dibawakan oleh Ibu Yari Dwi Kurnaningsih",
+                        "link": "https://www.youtube.com/watch?v=itg8F-GzGt0",
+                        "thumbnail": "https://i2.ytimg.com/vi/itg8F-GzGt0/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 17 Jan 2025",
+                        "date": "2025-01-16",
+                        "desc": "Dibawakan oleh Ibu Retty Andrea",
+                        "link": "https://www.youtube.com/watch?v=L1p8wfWQMRc",
+                        "thumbnail": "https://i1.ytimg.com/vi/L1p8wfWQMRc/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 16 Jan 2025 | Hidup Kekal",
+                        "date": "2025-01-15",
+                        "desc": "Dibawakan oleh Sdri. Adoltina Muloko",
+                        "link": "https://www.youtube.com/watch?v=wxOcBeHPLUI",
+                        "thumbnail": "https://i4.ytimg.com/vi/wxOcBeHPLUI/hqdefault.jpg"
+                    },
+                    {
+                        "title": "SaRen Pagi | 15 Jan  2025 | Dalam Genggaman Tuhan",
+                        "date": "2025-01-14",
+                        "desc": "Dibawkan oleh Ibu Liana Poedjihastuti",
+                        "link": "https://www.youtube.com/watch?v=j7JAnFFfwTA",
+                        "thumbnail": "https://i3.ytimg.com/vi/j7JAnFFfwTA/hqdefault.jpg"
+                    },
                     {
                         "title": "SaRen Pagi | 14 Jan 2025",
                         "date": "2025-01-13",
@@ -75,27 +103,6 @@
                         "desc": "Dibawakan oleh Pdt. Merry Rungkat",
                         "link": "https://www.youtube.com/watch?v=x93YrIX2Kgo",
                         "thumbnail": "https://i1.ytimg.com/vi/x93YrIX2Kgo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 4 Jan  2025 | Melibatkan Tuhan Dalam Rencana",
-                        "date": "2025-01-03",
-                        "desc": "Dibawakan oleh Pnt. Paul A. Gul\u00f6",
-                        "link": "https://www.youtube.com/watch?v=nDZ9WJUocFo",
-                        "thumbnail": "https://i3.ytimg.com/vi/nDZ9WJUocFo/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 3 Jan 2025 | Manusia Seribu Rencana",
-                        "date": "2025-01-02",
-                        "desc": "Dibawakan oleh Bpk. A.M. Widiatmoko",
-                        "link": "https://www.youtube.com/watch?v=Yas-mH8plNw",
-                        "thumbnail": "https://i2.ytimg.com/vi/Yas-mH8plNw/hqdefault.jpg"
-                    },
-                    {
-                        "title": "SaRen Pagi | 2 Jan 2025 | Melangkah di Tahun Yang Baru Bersama Tuhan",
-                        "date": "2025-01-01",
-                        "desc": "Dibawakan oleh Pnt. Nadia Sita",
-                        "link": "https://www.youtube.com/watch?v=vqpeQECCbpM",
-                        "thumbnail": "https://i3.ytimg.com/vi/vqpeQECCbpM/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -454,6 +461,13 @@
             {
                 "content": [
                     {
+                        "title": "PERSEKUTUAN  USIA LANJUT GKI SALATIGA 16 Januari 2025 | \u201cHati Yang Bersyukur\u201d",
+                        "date": "2025-01-15",
+                        "desc": "*PERSEKUTUAN USIA LANJUT GKI SALATIGA BULAN JANUARI 2025\n16 Januari 2025 | Pukul 16.00 WIB\n\nTema : \u201cHati yang Bersyukur\"\nPelayan Firman : Pdt. Izak Lattu\n\nMJP : Pnt. Yuliani Nugroho\nMusik : Ryu\nPnk : Ibu Hana\nMultimedia : Bayu, Samarthya, Glori\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
+                        "link": "https://www.youtube.com/watch?v=CJSwgjyrYfQ",
+                        "thumbnail": "https://i.ytimg.com/vi/CJSwgjyrYfQ/hqdefault.jpg"
+                    },
+                    {
                         "title": "IBADAH SAMBUT NATAL  USIA LANJUT GKI SALATIGA 19 Desember 2024 | \u201cDia Tinggal di Antara Kita\u201d",
                         "date": "2024-12-17",
                         "desc": "*SAMBUT NATAL USIA LANJUT GKI SALATIGA BULAN DESEMBER 2024\n19 Desember 2024 | Pukul 16.00 WIB\n\nTema : \u201cDia Tinggal di Antara Kita\"\nPelayan Firman : Pdt.Yefta Setiawan Krisgunadi\n\nMJP : Pnt. Jhonson U. Radda\nMusik : Lamentation\nPnk : Ibu Gita Hastuti\nMultimedia : Bayu, Joshua, Budi, Iwandi\n\n*Kidung Jemaat dan Pelengkap Kidung Jemaat: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Yayasan Musik Gereja Indonesia (Yamuger) @yamugerindonesia\n\n*Nyanyikanlah Kidung Baru: Hak cipta terjemahan dan hak cipta pengarang Indonesia dipegang oleh Sinode Am GKIFirman Tuhan Pemandu Hidup Kita",
@@ -655,13 +669,6 @@
                         "desc": "PF : Pdt. Yefta S. Krisgunadi\nTema : Hati-hati Dengan Lidah (Amsal 18 : 21)\nPemusik : Bram, Christian \u2502PNK : Ones \u2502Voice Over : Bianda \u2502 Kameramen : Iwandi\u2502\nTim Multimedia : Joshua Abdi Gracia\u2502 PPT : Tony Harnoto",
                         "link": "https://www.youtube.com/watch?v=MW7_8HJze2E",
                         "thumbnail": "https://i.ytimg.com/vi/MW7_8HJze2E/hqdefault.jpg"
-                    },
-                    {
-                        "title": "Persekutuan Komisi Usia Lanjut GKI Salatiga April 2022",
-                        "date": "2022-04-21",
-                        "desc": "Persekutuan Komisi Usia Lanjut GKI Salatiga April 2022\nKamis, 21 April 2022\n\"Kemenangan Untuk Kehidupan\"\n\nPelayan Firman : Pdt. Em. Iman Santoso",
-                        "link": "https://www.youtube.com/watch?v=LFssOM8Wk1A",
-                        "thumbnail": "https://i.ytimg.com/vi/LFssOM8Wk1A/hqdefault.jpg"
                     }
                 ],
                 "last-update": "-",
@@ -2081,6 +2088,36 @@
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-ykb/bannerykb_renungankiddy.webp",
                 "posts": [
                     {
+                        "title": "Abraham Lulus Ujian Iman",
+                        "shortlink": "https://www.ykb-wasiat.org/?p=269",
+                        "scripture": [
+                            "Kejadian 22:11-13"
+                        ],
+                        "date": "2025-01-18",
+                        "featured-image": "",
+                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Abraham Lulus Ujian Iman</h2><div class=\"date\">18 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Kejadian 22:11-13</strong></p>\n<p style=\"text-align: center;\"><strong><em>\u201c\u2026</em></strong> <strong><em>sebab</em></strong> <strong><em>sekarang</em></strong> <strong><em>telah</em></strong> <strong><em>Kuketahui</em></strong> <strong><em>bahwa</em></strong> <strong><em>engkau</em></strong> <strong><em>takut</em></strong> <strong><em>akan</em></strong> <strong><em>Allah</em></strong> <strong><em>dan</em></strong> <strong><em>tidak</em></strong><strong><em> segan-segan</em></strong> <strong><em>untuk</em></strong> <strong><em>menyerahkan</em></strong> <strong><em>anakmu</em></strong> <strong><em>yang</em></strong> <strong><em>satu-satunya</em></strong> <strong><em>itu</em></strong> <strong><em>kepada-Ku.\u201d</em></strong></p>\n<p style=\"text-align: center;\"><strong><em>(Kejadian 22:12)</em></strong></p><p>\u201cTito, bolehkah Mama berikan buah mangga ini kepada Yosi dan Litta?\u201d tanya Mama kepada Tito. Buah mangga itu adalah kesukaan Tito. Yosi dan Litta baru saja tiba dari Surabaya. Mereka lapar dan hanya ada buah mangga itu di kulkas. \u201cTentu saja boleh, Ma,\u201d jawab Tito seraya tersenyum kepada kedua saudara sepupunya itu.</p><p>Adik-adik, jika kita mempunyai sesuatu dan itu diminta oleh Allah, apakah kita bersedia memberikannya? <u>Mari kita membaca <strong>Kejadian 22:11-13</strong></u>. Ishak adalah anak Abraham satu-satunya. Anak yang kehadirannya ditunggu selama puluhan tahun. Namun, Allah memintanya kembali. Bagaimana sikap Abra- ham? Apakah dia menolak? Tidak. Abraham rela menyerahkan anaknya itu kembali kepada Allah. Dan ternyata, permintaan untuk mempersembahkan Ishak itu adalah sebuah ujian iman. Dan\u2026 Abraham lulus ujian itu!</p><p>Adik-adik, terkadang kebaikan hati kita diuji, ketika sesuatu di- minta dari kita. Apakah kita akan rela memberi, ataukah tidak. Semoga kamu pun lulus ujian itu!</p>\n<p><strong>Doa:</strong><strong>\u00a0\u00a0\u00a0 <em>Bapa di surga, ajarlah aku agar selalu memberi dengan tulus, baik kepada sesamaku, </em></strong></p>\n<p><strong><em>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 maupun kepada Engkau. Dalam nama Tuhan Yesus aku berdoa. Amin.</em></strong></p>        </div>\n       </div></body></html>"
+                    },
+                    {
+                        "title": "Ketaatan Ishak",
+                        "shortlink": "https://www.ykb-wasiat.org/?p=269",
+                        "scripture": [
+                            "Kejadian 22:9-10"
+                        ],
+                        "date": "2025-01-17",
+                        "featured-image": "",
+                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Ketaatan Ishak</h2><div class=\"date\">17 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Kejadian 22:9-10</strong></p>\n<p style=\"text-align: center;\"><strong><em>\u2026</em></strong> <strong><em>Abraham</em></strong> <strong><em>mendirikan</em></strong> <strong><em>mezbah</em></strong> <strong><em>di</em></strong> <strong><em>sana,</em></strong> <strong><em>menyusun</em></strong> <strong><em>kayu,</em></strong> <strong><em>mengikat</em></strong> <strong><em>Ishak </em></strong><strong><em>anaknya,</em></strong> <strong><em>dan</em></strong> <strong><em>meletakkannya</em></strong> <strong><em>di</em></strong> <strong><em>mezbah</em></strong> <strong><em>itu,</em></strong> <strong><em>di</em></strong> <strong><em>atas</em></strong> <strong><em>kayu</em></strong> <strong><em>api.</em></strong></p>\n<p style=\"text-align: center;\"><strong><em>(Kejadian 22:9)</em></strong></p><p>\u201cHai, Meta, kenapa pagi-pagi mukamu cemberut begitu?\u201d tanya Kiki, ketika mereka berpapasan di gerbang sekolah. \u201cUuh, biasalah Ki! Ibuku selalu bikin kesal. Pagi-pagi sudah cerewet! Suruh mandilah! <em>Beresin </em>tempat tidurlah!\u201d \u201cHuuh! Ibuku itu ibu yang paling cerewet sedunia!\u201d lanjut Meta lagi.</p><p>Adik-adik, banyak anak yang suka membantah orangtuanya. Tapi tidak begitu dengan Ishak. <u>Mari kita</u> <u>membaca <strong>Kejadian 22:9-</strong></u><strong style=\"color: initial;\"><u>10</u></strong><span style=\"color: initial;\">. Ishak tentu sudah tahu bagaimana cara orang mempersembahkan kurban. Jadi, ketika ia diikat ayahnya, lalu diletakkan di atas mezbah persembahan, Ishak tentu mengerti bahwa ia akan dijadikan sebagai kurban bakaran. Namun, ia tidak menolak. Ia tidak melawan. Ia taat kepada ayahnya, karena ia tahu bahwa itu dilakukan ayahnya sebagai tanda kasih dan ketaatannya kepada Allah.</span></p><p>Adik-adik, sebagai anak Tuhan, kita pun dipanggil untuk taat ke- pada Allah. Bukan dengan cara menjadi kurban bakaran di atas mezbah, melainkan dengan hidup seturut kehendak Tuhan. Bagaimana caranya? Caranya adalah dengan taat dan hormat kepada orangtua kita.</p>\n<p><strong>Doa:</strong><strong>\u00a0\u00a0\u00a0 <em>Bapa di surga, aku pun ingin menjadi anak yang mempersembahkan hidupku </em></strong></p>\n<p><strong><em>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 kepada-Mu. </em></strong><strong><em>Dalam</em></strong> <strong><em>nama</em></strong> <strong><em>Tuhan</em></strong> <strong><em>Yesus</em></strong> <strong><em>aku</em></strong> <strong><em>berdoa.</em></strong> <strong><em>Amin.</em></strong></p>        </div>\n       </div></body></html>"
+                    },
+                    {
+                        "title": "Pertanyaan Ishak",
+                        "shortlink": "https://www.ykb-wasiat.org/?p=269",
+                        "scripture": [
+                            "Kejadian 22:6-8"
+                        ],
+                        "date": "2025-01-16",
+                        "featured-image": "",
+                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Pertanyaan Ishak</h2><div class=\"date\">16 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Kejadian 22:6-8</strong></p>\n<p style=\"text-align: center;\"><strong><em>\u2026</em></strong> <strong><em>Ishak</em></strong> <strong><em>bertanya,</em></strong> <strong><em>\u201cDi</em></strong> <strong><em>sini</em></strong> <strong><em>sudah</em></strong> <strong><em>ada</em></strong> <strong><em>api</em></strong> <strong><em>dan</em></strong> <strong><em>kayu, </em></strong><strong><em>tetapi</em></strong> <strong><em>di</em></strong> <strong><em>mana</em></strong> <strong><em>anak</em></strong> <strong><em>domba</em></strong> <strong><em>untuk</em></strong> <strong><em>kurban</em></strong> <strong><em>bakaran?\u201d </em></strong></p>\n<p style=\"text-align: center;\"><strong><em>(Kejadian 22:7)</em></strong></p>\n<p>\u201cMama, mana uang per- sembahan untuk Tito?\u201d tanya Tito sambil mengenakan sepatu. \u201cMama sudah berikan ke Kak Kiki. Nanti minta sama kakak, yaa.\u201d \u201cOoh, baik, Mama,\u201d jawab Tito. Setelah pamit, Tito berlari ke Sekolah Minggu.</p><p>Adik-adik, apabila kita mau memberikan persembahan, kita memerlukan sesuatu untuk dipersembahkan, bukan? Zaman sekarang, kita memper- sembahkan uang yang kita masukkan ke dalam kantong kolekte dalam ibadah. Pada zaman Abraham, orang mempersembahkan hewan, umumnya domba. Namun, apa yang dilakukan Abraham berbeda. Dan itu menimbulkan pertanyaan dari Ishak. <u>Mari kita membaca <strong>Kejadian</strong></u><strong> <u>22:6-8</u></strong>. Pertanyaan Ishak muncul, karena yang ia tahu adalah mereka pergi untuk memberi persembahan kepada Allah. Tetapi, di mana domba yang akan dipersembahkan itu?</p><p>Adik-adik, pertanyaan Ishak itu mungkin juga adalah pertanyaan Abraham di dalam hatinya. Namun, Abraham percaya satu hal, yaitu kasih Allah. Abraham percaya penuh pada kasih Allah itu dan ia percaya bahwa Allah akan menyediakan apa pun yang dibutuhkannya.</p>\n<p><strong>Doa:</strong><strong>\u00a0\u00a0\u00a0 <em>Bapa di surga, berilah aku iman seperti Abraham yang percaya bahwa Engkau </em></strong></p>\n<p><strong><em>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 akan menyediakan apa pun yang aku perlukan. </em></strong><strong><em>Dalam</em></strong> <strong><em>nama</em></strong> <strong><em>Tuhan</em></strong> <strong><em>Yesus</em></strong> <strong><em>aku</em></strong></p>\n<p><strong><em>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 berdoa.</em></strong> <strong><em>Amin.</em></strong></p>        </div>\n       </div></body></html>"
+                    },
+                    {
                         "title": "Dan Kemudian\u2026 Allah Meminta Ishak Kembali?",
                         "shortlink": "https://www.ykb-wasiat.org/?p=269",
                         "scripture": [
@@ -2149,36 +2186,6 @@
                         "date": "2025-01-08",
                         "featured-image": "",
                         "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Namamu Bukan Lagi Abram, Melainkan Abraham</h2><div class=\"date\">8 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Kejadian 17:1-8</strong></p>\n<p style=\"text-align: center;\"><strong><em>\u201cNamamu</em></strong> <strong><em>bukan</em></strong> <strong><em>lagi</em></strong> <strong><em>Abram,</em></strong> <strong><em>melainkan</em></strong> <strong><em>Abraham,</em></strong> <strong><em>karena</em></strong> <strong><em>engkau </em></strong><strong><em>telah</em></strong> <strong><em>Kutetapkan</em></strong> <strong><em>menjadi</em></strong> <strong><em>bapa</em></strong> <strong><em>sejumlah</em></strong> <strong><em>besar</em></strong> <strong><em>bangsa.\u201d</em></strong></p>\n<p style=\"text-align: center;\"><strong><em>(Kejadian</em></strong> <strong><em>17:5)</em></strong></p><p>\u201cSiapa yang bertugas menyapu hari ini?\u201d tanya Didi. \u201cSi Botak!\u201d jawab Melati. \u201cNamaku Timo, Melati!\u201d balas Timo kesal. \u201cPanggil aku Jasmine!\u201d balas Melati. <em>Jasmine </em>adalah bahasa Inggris dari namanya, dan Melati merasa itu keren. Tapi Timo menolak. Mereka bertengkar. Didi melerai mereka.</p><p>Adik-adik, mung- kin di hari-hari yang lalu kamu bertanya-tanya, mengapa kita menyebut Abram, padahal kita lebih akrab dengan nama Abraham? Nah, pertanyaan itu terjawab di sini. <u>Mari kita membaca <strong>Kejadian 17:1-8</strong></u>. Di sini Allah meresmikan perjanjian-Nya dengan Abram. Bahwa Abram akan menjadi bapa banyak bangsa. Oleh karena itu ia tidak lagi disebut Abram, melainkan Abraham. Begitu juga Sarai, istri Abraham, tidak lagi disebut Sarai, melainkan Sara.</p><p>Adik-adik, tahukah kamu apa arti namamu? Nama yang diberikan oleh orangtua kita biasanya mengandung arti yang baik dan mulia, agar kita hidup sebagaimana arti nama itu. Itulah sebabnya, kita wajib menjaga perbuatan kita agar selalu baik dan mulia.</p>\n<p><strong>Doa:</strong><strong>\u00a0\u00a0\u00a0 <em>Bapa di surga, aku pun ingin agar ketika orang mendengar namaku, mereka tahu </em></strong></p>\n<p><strong><em>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 aku adalah anak yang hidup baik dan mulia. </em></strong></p>\n<p><strong><em>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Dalam nama Tuhan Yesus aku berdoa. Amin.</em></strong></p>        </div>\n       </div></body></html>"
-                    },
-                    {
-                        "title": "Usaha Sara Mewujudkan Janji Allah",
-                        "shortlink": "https://www.ykb-wasiat.org/?p=269",
-                        "scripture": [
-                            "Kejadian 16:1-16"
-                        ],
-                        "date": "2025-01-07",
-                        "featured-image": "",
-                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Usaha Sara Mewujudkan Janji Allah</h2><div class=\"date\">7 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Kejadian 16:1-16</strong></p>\n<p style=\"text-align: center;\"><strong><em>Sarai,</em></strong> <strong><em>istri</em></strong> <strong><em>Abram,</em></strong> <strong><em>tidak</em></strong> <strong><em>melahirkan</em></strong> <strong><em>anak</em></strong> <strong><em>baginya. </em></strong><strong><em>Ia</em></strong> <strong><em>mempunyai</em></strong> <strong><em>seorang</em></strong> <strong><em>hamba</em></strong> <strong><em>perempuan</em></strong> <strong><em>bernama</em></strong> <strong><em>Hagar,</em></strong> <strong><em>orang</em></strong> <strong><em>Mesir.</em></strong></p>\n<p style=\"text-align: center;\"><strong><em>(Kejadian</em></strong> <strong><em>16:1)</em></strong></p><p>Saat ulangan harian, Sinta kedapatan menyontek. Wajah Sinta tampak pucat pasi ketika Ibu Ita mendekatinya. \u201cSinta, kenapa kamu menyontek?\u201d tanya Ibu Ita. \u201cKarena saya ingin mendapat nilai tinggi, Bu,\u201d jawab Sinta. \u201cTetapi menyontek bukan jalan keluar agar mendapat nilai tinggi!\u201d ujar Ibu Ita.</p><p>Adik-adik, Sarai tentu tahu apa janji Allah kepada Abram, suaminya. Saat itu mereka sudah sepuluh tahun tinggal di Tanah Kanaan. Tapi Sarai belum juga mempunyai anak, padahal mereka berdua sudah lanjut usia. Lalu bagaimana janji Allah tentang keturunan bisa terwujud? Sarai punya ide! <u>Mari kita membaca <strong>Kejadian 16:1-16</strong></u>. Mungkin Sarai berpikir, bahwa janji Allah itu berlaku bagi Abram saja. Sehingga ia mencari cara agar Abram mendapatkan anak dari Hagar. Namun ternyata, aksi Sarai itu membuat situasi malah semakin rumit! Karena bukan begitu kehendak Allah.</p><p>Adik-adik, janji Tuhan bagi kita adalah kehidupan yang baik dan indah. Tuhan ingin kita mendapatkannya dengan cara-cara yang sesuai dengan kehendak-Nya.</p>\n<p><strong>Doa:</strong><strong>\u00a0\u00a0\u00a0 <em>Bapa di surga, berilah aku kesabaran serta kebijaksanaan dalam menantikan janji </em></strong></p>\n<p><strong><em>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 berkat-Mu dalam kehidupanku. </em></strong><strong><em>Dalam</em></strong> <strong><em>nama</em></strong> <strong><em>Tuhan</em></strong> <strong><em>Yesus</em></strong> <strong><em>aku</em></strong> <strong><em>berdoa.</em></strong> <strong><em>Amin.</em></strong></p>        </div>\n       </div></body></html>"
-                    },
-                    {
-                        "title": "Janji Allah Memang Indah, Tetapi\u2026.",
-                        "shortlink": "https://www.ykb-wasiat.org/?p=269",
-                        "scripture": [
-                            "Kejadian 15:12-21"
-                        ],
-                        "date": "2025-01-06",
-                        "featured-image": "",
-                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Janji Allah Memang Indah, Tetapi\u2026.</h2><div class=\"date\">6 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Kejadian 15:12-21</strong></p>\n<p style=\"text-align: center;\"><strong><em>\u2026</em></strong> <strong><em>keturunanmu</em></strong> <strong><em>akan</em></strong> <strong><em>menjadi</em></strong> <strong><em>pendatang</em></strong> <strong><em>di</em></strong> <strong><em>suatu</em></strong> <strong><em>negeri,</em></strong> <strong><em>yang</em></strong> <strong><em>bukan</em></strong> <strong><em>milik</em></strong> <strong><em>mereka, </em></strong><strong><em>dan</em></strong> <strong><em>bahwa</em></strong> <strong><em>mereka</em></strong> <strong><em>akan</em></strong> <strong><em>diperbudak</em></strong> <strong><em>dan</em></strong> <strong><em>dianiaya</em></strong> <strong><em>\u2026. </em></strong></p>\n<p style=\"text-align: center;\"><strong><em>(Kejadian 15:13)</em></strong></p><p>\u201cAnak-anak, saat liburan sekolah nanti kita akan pergi ke Bali!\u201d janji Papa. \u201cHoreee!\u201d Kiki dan Tito menyambut gembira. \u201cTetapi\u2026 Nah ini, ada tapinya,\u201d ucap Mama melanjutkan, \u201cHanya kalau nilai sekolah kalian di atas delapan semua!\u201d</p><p>Adik-adik, sebuah janji yang indah, terkadang tidak didapatkan dengan mudah. Begitulah yang terjadi kepada Abram. <u>Mari kita mem</u><u>baca <strong>Kejadian 15:12-21</strong></u>. Di sini Allah memperlihatkan gambaran masa depan kepada Abram. Abram akan mendapatkan keturunan, sebagaimana yang Allah janjikan. Mereka juga akan tinggal di Tanah Kanaan yang dijanjikan itu. Namun, sebelum semua itu terwujud, mereka akan mengalami masa-masa yang berat. Mereka akan mengalami perbudakan dan penganiayaan di suatu negeri yang lain.</p><p>Adik-adik, janji Tuhan itu indah, tetapi tidak mudah. Akan ada banyak tantangan. Sama seperti kamu sebagai murid sekolah. Kamu harus belajar dengan rajin dan tekun lebih dulu, barulah kamu akan mendapatkan hasilnya di kemudian hari.</p>\n<p><strong>Doa:</strong><strong>\u00a0\u00a0\u00a0 <em>Bapa di surga, berilah aku kekuatan dan ketekunan agar aku mampu mendapatkan </em></strong></p>\n<p><strong><em>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 berkat-berkat yang Engkau janjikan. </em></strong><strong><em>Dalam</em></strong> <strong><em>nama</em></strong> <strong><em>Tuhan</em></strong> <strong><em>Yesus</em></strong> <strong><em>aku</em></strong> <strong><em>berdoa.</em></strong> <strong><em>Amin.</em></strong></p>        </div>\n       </div></body></html>"
-                    },
-                    {
-                        "title": "Janji Allah Tentang Tanah Kanaan",
-                        "shortlink": "https://www.ykb-wasiat.org/?p=269",
-                        "scripture": [
-                            "Kejadian 15:7-11"
-                        ],
-                        "date": "2025-01-04",
-                        "featured-image": "",
-                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Janji Allah Tentang Tanah Kanaan</h2><div class=\"date\">4 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Kejadian 15:7-11</strong></p>\n<p style=\"text-align: center;\"><strong><em>Firman</em></strong> <strong><em>TUHAN</em></strong> <strong><em>kepadanya</em></strong> <strong><em>lagi,</em></strong> <strong><em>\u201cAkulah</em></strong> <strong><em>TUHAN,</em></strong> <strong><em>yang</em></strong> <strong><em>membawa</em></strong> <strong><em>engkau</em></strong><strong><em> keluar</em></strong> <strong><em>dari</em></strong> <strong><em>Ur-Kasdim</em></strong> <strong><em>untuk</em></strong> <strong><em>memberikan</em></strong> <strong><em>negeri</em></strong> <strong><em>ini</em></strong> <strong><em>kepadamu</em></strong> <strong><em>\u2026\u201d </em></strong></p>\n<p style=\"text-align: center;\"><strong><em>(Kejadian 15:7)</em></strong></p><p>Kiki mendengarkan percakapan Karel dan Anita yang saling menyombongkan diri. \u201cAku <em>dong</em>, punya <em>gadget </em>baru!\u201d ucap Karel sambil memamerkan <em>tablet</em>nya. \u201cHuh! Begitu saja sombong,\u201d balas Anita. \u201cAku <em>dong</em>, dibelikan tanah di Bogor!\u201d \u201cWaah, selamat ya, Anita,\u201d ucap Kiki tulus. Karel jadi malu.</p><p>Adik-adik, selain dijanjikan keturunan, Abram juga dijanjikan hal yang lain oleh Allah. Apakah itu? <u>Mari kita</u> <u>membaca <strong>Kejadian 15: </strong></u><strong><u>7-11</u></strong>. Ternyata, Allah menjanjikan kepada Abram sebuah negeri, yakni Tanah Kanaan. Tanah Kanaan adalah negeri yang subur. TUHAN memanggil Abram dari kampung halamannya, agar pergi ke Tanah Kanaan. Di sana nantinya keturunan Abram akan menjadi bangsa yang besar dan menjadi berkat bagi bangsa-bangsa lainnya.</p><p>Adik-adik, sebagai anak Tuhan, kita pun dijanjikan Tanah Kanaan. Namun, Tanah Kanaan bagi kita, bukan berarti sebidang tanah dalam arti sesungguhnya. Melainkan suatu kehidupan yang berlimpah dengan berkat Allah. Apakah kamu juga mau menerima janji Allah itu?</p>\n<p><strong>Doa:</strong><strong>\u00a0\u00a0\u00a0 <em>Bapa di surga, aku pun ingin menjalani panggilan-Mu menuju Tanah Kanaan yang </em></strong></p>\n<p><strong><em>\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Engkau janjikan. Dalam nama Tuhan Yesus aku berdoa. Amin.</em></strong></p>        </div>\n       </div></body></html>"
                     }
                 ]
             },
@@ -2187,6 +2194,36 @@
                 "url": "https://www.ykb-wasiat.org/teens-for-christ",
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-ykb/bannerykb_teensforchrist.webp",
                 "posts": [
+                    {
+                        "title": "Menjamu Malaikat",
+                        "shortlink": "https://www.ykb-wasiat.org/?p=273",
+                        "scripture": [
+                            "Ibrani 13:1-3"
+                        ],
+                        "date": "2025-01-18",
+                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-TFC-18-Januari-2025-1024x1024.jpg",
+                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Menjamu Malaikat</h2><div class=\"date\">18 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\r\n         \n<p class=\"has-text-align-center\"><strong>Ibrani 13:1-3</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-TFC-18-Januari-2025-1024x1024.jpg\"></figure>\n<p style=\"text-align: center;\"><em>Jangan</em> <em>kamu</em> <em>lalai</em> <em>memberi </em><em>tumpangan kepada orang, sebab dengan berbuat demikian beberapa orang tanpa diketahuinya telah menjamu malaikat-malaikat.</em></p>\n<p style=\"text-align: center;\"><strong><em>(Ibrani</em></strong> <strong><em>13:2)</em></strong></p><p>Berbagai tradisi keagamaan mengenal figur malaikat. Mereka adalah utusan ilahi yang bertugas untuk menyampaikan pesan kepada manusia. Ada malaikat yang bertugas menyampaikan kabar baik, ada juga yang bertugas menyampaikan kabar buruk.</p><p>Tidak banyak orang yang pernah dikunjungi dan atau melihat malaikat. Namun, telah menjadi pemahaman umum bahwa kedatangan malaikat merupakan sebuah peristiwa yang istimewa, menggentarkan, sekaligus menyenangkan. Sayangnya, banyak orang baru menyadari bahwa mereka dikunjungi oleh malaikat setelah malaikat itu pergi, sehingga berharap dapat bertemu lagi. Penulis Surat Ibrani yang mengetahui pemikiran itu menggunakannya untuk memberi nasihat kepada penerima suratnya. Pada saat itu, masih banyak di antara mereka yang mementingkan dirinya, sehingga jemaat diingatkan untuk memelihara kasih persaudaraan terhadap semua orang. Kasih itu ditunjukkan antara lain melalui kesediaan untuk memberi tumpangan. Ini bukan perkara mudah sebab mereka cenderung mencurigai orang lain dan enggan untuk berbagi. Mereka diingatkan bahwa malaikat sering tampil dalam rupa orang yang tidak dikenal, bahkan mencurigakan.</p><p><em>Teens</em>, dengan semakin banyaknya orang jahat yang memanfaatkan kelengahan, kelemahan, dan atau kebaikan kita, maka biasanya kita akan sangat berhati-hati terhadap orang asing, apalagi bila tampilannya mencurigakan. Jangankan memberi tumpangan, bahkan membuka pintu untuk mereka pun tidak. Tapi hari ini kita diingatkan agar tak terburu-buru menghakimi orang lain yang tidak kita kenal. Bila ada orang asing yang membutuhkan pertolongan, kita harus bersedia untuk melakukannya. Sikap berhati-hati tidak boleh menutup pintu kepedulian kita sampai menolak mereka yang butuh tumpangan. Siapa tahu kita sedang menjamu malaikat.</p>        </div>\r\n       </div></body></html>"
+                    },
+                    {
+                        "title": "Utang Darah",
+                        "shortlink": "https://www.ykb-wasiat.org/?p=273",
+                        "scripture": [
+                            "Ulangan 22:8"
+                        ],
+                        "date": "2025-01-17",
+                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-TFC-17-Januari-2025-1024x1024.jpg",
+                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Utang Darah</h2><div class=\"date\">17 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\r\n         \n<p class=\"has-text-align-center\"><strong>Ulangan 22:8</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-TFC-17-Januari-2025-1024x1024.jpg\"></figure>\n<p style=\"text-align: center;\"><em>Apabila</em> <em>engkau</em> <em>mendirikan </em><em>rumah</em> <em>baru,</em> <em>maka</em> <em>haruslah </em><em>engkau memagari sotoh rumahmu, supaya jangan kaudatangkan utang darah atas rumahmu itu, jika seseorang jatuh dari atasnya.</em></p>\n<p style=\"text-align: center;\"><strong><em>(Ulangan</em></strong> <strong><em>22:8)</em></strong></p><p>Setiap orang, sengaja atau tidak, pasti pernah berutang dalam berbagai bentuk. Ada yang berutang materi, utang budi, utang nyawa, bahkan utang darah. Prinsip utamanya adalah bahwa utang harus dikembalikan atau dibayar sampai lunas.</p><p>Rumah-rumah di Israel pada umumnya memiliki atap berbentuk datar. Atap rumah yang datar itu disebut sotoh. Di situ orang bisa melakukan berbagai kegiatan seperti beribadah, menjemur kain atau buah-buahan, mendirikan tenda untuk dipakai tidur pada waktu malam, atau mengumumkan sesuatu kepada orang banyak. Orang bisa dengan mudah naik ke sotoh karena ada tangga di samping rumah untuk menuju ke atas. Itu sebabnya mereka diingatkan agar memberi pagar di sekeliling sotoh supaya tak ada orang yang jatuh dari sana lalu mati. Bila hal itu terjadi maka si pemilik rumah berutang darah terhadap mereka yang terjatuh dari atasnya.</p><p><em>Teens</em>, cobalah tanyakan kepada orangtuamu ketika mereka membangun rumah, apakah mereka mempertimbangkan keselamatan orang lain yang akan datang berkunjung ke rumahmu? Misalnya, apakah akses keluar masuknya mudah, lantai tidak licin, anak tangga nyaman untuk digunakan melangkah, penerangan yang cukup, dan sebagainya. Atau orangtuamu \u2013 dan mungkin kamu juga \u2013 berpikir: \u201cIni \u2018<em>kan </em>rumahku, kenapa harus <em>mikirin </em>orang lain?\u201d Hari ini kita belajar dan diingatkan bahwa tempat tinggal kita pun, bila tidak dibangun dengan memperhatikan faktor keselamatan, bisa menyebabkan orang lain celaka. Oleh karena itu kita harus dengan cermat memperhatikan dan mempertimbangkan faktor keselamatan, termasuk keselamatan orang lain, agar tidak ada orang yang celaka karenanya, dan menyebabkan kita berutang darah.</p>        </div>\r\n       </div></body></html>"
+                    },
+                    {
+                        "title": "Melindungi Binatang: Menjaga Kehidupan",
+                        "shortlink": "https://www.ykb-wasiat.org/?p=273",
+                        "scripture": [
+                            "Ulangan 22:6-7"
+                        ],
+                        "date": "2025-01-16",
+                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-TFC-16-Januari-2025-1024x1024.jpg",
+                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Melindungi Binatang: Menjaga Kehidupan</h2><div class=\"date\">16 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\r\n         \n<p class=\"has-text-align-center\"><strong>Ulangan 22:6-7</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-TFC-16-Januari-2025-1024x1024.jpg\"></figure>\n<p style=\"text-align: center;\"><em>Apabila</em> <em>engkau</em> <em>menemukan </em><em>sarang burung\u2026 maka engkau tidak boleh mengambil induk itu bersama anaknya\u2026 supaya baik keadaanmu dan hidupmu lama.</em></p>\n<p style=\"text-align: center;\"><strong><em>(Ulangan</em></strong> <strong><em>22:6-</em></strong><strong><em>7)</em></strong></p>\n<p>Banyak orang yang kurang peduli tentang bagaimana cara memperlakukan binatang karena beranggapan bahwa baik buruknya kehidupan manusia tidak berkaitan dengan hal itu. Merasa memiliki kedudukan yang lebih tinggi, manusia sering kali mengabaikan kepatutan dan mengeksploitasi makhluk hidup lain demi kepentingannya.</p><p>Menarik untuk diperhatikan bahwa di dalam berbagai peraturan yang diberikan TUHAN kepada umat Israel, tercakup tentang bagaimana mereka harus memperlakukan binatang. Burung adalah salah satu jenis binatang yang jumlahnya sangat banyak. Hanya burung-burung tertentu yang dilindungi karena jumlahnya sudah sangat sedikit. Jadi apabila ada burung yang sarangnya jatuh di tanah, kemungkinan besar itu adalah burung biasa yang dapat ditemukan dengan mudah di mana saja. Namun umat Israel tetap tidak boleh berlaku sembarangan. Bila mereka hendak mengambil, maka hanya diperbolehkan anaknya saja dan bukan induknya. Ini terkait dengan kelangsungan perkembangbiakan burung-burung itu. Peraturan itu berkaitan dengan kelangsungan hidup manusia.</p><p><em>Teens</em>, umumnya kita hanya peduli pada jenis binatang tertentu yang sering dipelihara, misalnya anjing dan kucing. Namun terhadap binatang liar yang tidak dipelihara, orang hampir tidak punya kepedulian apa pun. Hal ini terkait dengan cara pandang dan penghayatan orang tentang kehidupan. Sejatinya, semua makhluk yang diciptakan Tuhan memiliki perannya dalam ekosistem. Keberadaan dan kepunahan suatu makhluk berdampak pada kehidupan makhluk yang lain. Jadi, melindungi binatang bukan dilakukan sekadar karena rasa suka, tetapi dalam kesadaran untuk menjaga seluruh kehidupan.</p>        </div>\r\n       </div></body></html>"
+                    },
                     {
                         "title": "Yatim",
                         "shortlink": "https://www.ykb-wasiat.org/?p=273",
@@ -2256,32 +2293,6 @@
                         "date": "2025-01-08",
                         "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-TFC-8-Januari-2025-1024x1024.jpg",
                         "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Pergi Dan Perbuatlah</h2><div class=\"date\">8 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\r\n         \n<p class=\"has-text-align-center\"><strong>Lukas 10:25-37</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-TFC-8-Januari-2025-1024x1024.jpg\"></figure>\n<p style=\"text-align: center;\"><em>Jawab orang itu, \u201cOrang yang telah menunjukkan belas kasihan kepadanya.\u201d Kata Yesus kepadanya, \u201cPergilah dan perbuatlah demikian!\u201d</em></p>\n<p style=\"text-align: center;\"><strong><em>(Lukas</em></strong> <strong><em>10:37)</em></strong></p><p>Ada istilah untuk orang yang hanya bicara tanpa tindakan. Mereka itu biasanya diberi label <em>omdo</em>: omong doang atau <em>nato: no action talk only.</em></p><p>Orang Samaria yang murah hati dipakai sebagai judul perikop untuk bacaan hari ini. Kisah tersebut dengan sangat menohok dipakai oleh penulis Injil Lukas untuk mengajar pembacanya tentang siapa yang dimaksud sebagai sesama. Mengapa menohok? Sebab orang Israel pada saat itu beranggapan bahwa sesama mereka adalah orang- orang dari suku bangsa yang sama. Itu berarti orang-orang yang bukan Israel bukanlah sesama. Karena bukan sesama maka mereka tak perlu diperhatikan atau dipedulikan. Dalam hal ini orang Samaria. Sebenarnya mereka adalah Bangsa Israel, tetapi dari suku-suku yang tidak ikut ke pembuangan di Assyria. Hal ini menimbulkan dendam bagi sebagian Bangsa Israel yang ikut dalam pembuangan. Itulah sebabnya orang Israel akan menghindar saat bertemu dengan orang Samaria. Namun dalam kisah ini justru orang Samaria tampil sebagai pelaku hukum Taurat, yakni mengasihi sesama seperti diri sendiri.</p><p><em>Teens</em>, kebencian dapat menghalangi seseorang untuk peduli pada sesamanya, terutama mereka yang sedang mengalami kesusahan. Seseorang yang membenci orang lain yang berbeda dan atau yang pernah menyakitinya, akan menutup mata terhadap kesulitan atau penderitaan orang yang dibencinya itu. Semua perintah dan ketetapan Tuhan tentang mengasihi sesama tidak akan dilakukannya. Ia hanya menjadi orang yang omdo atau nato. Hari ini kita diingatkan bahwa semua orang, siapa pun mereka, apa pun mereka adalah sesama. Bila ada suatu hal buruk yang menimpa mereka, maka kita yang tidak mengalami keburukan itu harus mau menolong. Pergi dan perbuatlah demikian, jangan <em>omdo</em>!</p>        </div>\r\n       </div></body></html>"
-                    },
-                    {
-                        "title": "Hati-Hati",
-                        "shortlink": "https://www.ykb-wasiat.org/?p=273",
-                        "scripture": "",
-                        "date": "2025-01-07",
-                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-TFC-7-Januari-2025-1024x1024.jpg",
-                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Hati-Hati</h2><div class=\"date\">7 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\r\n         \n<h4 class=\"wp-block-heading has-text-align-center\">Amsal 14:31</h4><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-TFC-7-Januari-2025-1024x1024.jpg\"></figure>\n<p style=\"text-align: center;\"><em>Siapa menindas orang yang lemah menghina Penciptanya, tetapi siapa berbelaskasihan kepada orang miskin memuliakan Dia.</em></p>\n<p style=\"text-align: center;\"><strong><em>(Amsal</em></strong> <strong><em>14:31)</em></strong></p>\n<p><em>Hati-hati </em>mungkin menjadi nasihat yang paling sering diucapkan baik dari orangtua kepada anak, antarteman, antarsaudara, atau pada orang- orang lain. Kata-kata ini juga bisa diberikan sebagai peringatan, misalnya terhadap lawan.</p><p>Bacaan hari ini dapat dipahami sebagai peringatan. Orang-orang miskin di mana saja, sejak dulu, hampir tidak pernah punya kemampuan untuk membela diri. Mereka cenderung berada di posisi yang lemah, oleh karena itu mudah ditindas, dihina, diabaikan, dan atau dimanfaatkan. Hal ini digugat oleh penulis Kitab Amsal. Dalam penghayatan penulis Kitab Amsal, orang miskin tak boleh ditindas dan dihina sebab ada TUHAN yang melindungi mereka. Menindas dan menghina orang miskin itu sama artinya dengan menghina TUHAN, Sang Pencipta. Orang yang menghina dan atau menindas orang miskin, akan berhadapan dengan TUHAN. Di sinilah letak peringatannya: hati-hati bersikap terhadap orang miskin.</p><p><em>Teens</em>, orang memang punya kecenderungan untuk menindas dan atau menghina mereka yang lemah. Secara sosial orang-orang miskin sering tidak diperhitungkan, kecuali bila sedang dimanfaatkan untuk kepentingan sesaat. Hari ini kita diingatkan agar berhati-hati terhadap sikap semacam itu. Kita diingatkan bahwa justru karena kelemahan orang miskin, maka Tuhan sendirilah yang akan membela mereka. Sikap hati-hati perlu terus menerus kita kembangkan bukan karena merasa takut pada hukuman dari Tuhan, tetapi lebih pada kesadaran bahwa mereka pun adalah ciptaan Tuhan sama seperti kita. Hanya karena mereka miskin bukan berarti kita punya hak untuk menindas dan menghina mereka. Semiskin apa pun seseorang, pada kodratnya dia adalah ciptaan Tuhan yang harus dihargai dan diperlakukan dengan baik.</p>        </div>\r\n       </div></body></html>"
-                    },
-                    {
-                        "title": "Buka Tangan",
-                        "shortlink": "https://www.ykb-wasiat.org/?p=273",
-                        "scripture": [
-                            "Ulangan 15:7-11"
-                        ],
-                        "date": "2025-01-06",
-                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-TFC-6-Januari-2025-1024x1024.jpg",
-                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Buka Tangan</h2><div class=\"date\">6 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\r\n         \n<p class=\"has-text-align-center\"><strong>Ulangan 15:7-11</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-TFC-6-Januari-2025-1024x1024.jpg\"></figure>\n<p style=\"text-align: center;\"><em>\u2026 \u201dHaruslah engkau membuka tangan lebar- lebar bagi saudaramu, yang tertindas dan yang miskin di negerimu.\u201d</em></p>\n<p style=\"text-align: center;\"><strong><em>(Ulangan</em></strong> <strong><em>15:11)</em></strong></p><p>Kemiskinan adalah kondisi di mana seseorang tidak mampu memenuhi kebutuhan dasar hidupnya seperti makanan, pakaian, tempat tinggal, kesehatan, dan pendidikan.</p><p>Dalam bacaan hari ini, umat Israel diingatkan untuk memperhatikan kenyataan bahwa orang miskin akan selalu ada di negeri mereka. Keberadaan orang miskin adalah keniscayaan. Keberadaan mereka bukanlah hal yang dapat atau boleh diabaikan. Sebaliknya, keberadaan orang miskin dapat menyadarkan orang-orang kaya agar bersedia berbagi dengan mereka. Itu sebabnya Musa memerintahkan dengan tegas kepada umat Israel \u2013 yang kaya \u2013 agar mereka membuka tangan lebar-lebar bagi orang miskin. Membuka tangan lebar-lebar berarti bersedia untuk memberikan bantuan yang cukup sesuai keperluan mereka. Bukan hanya itu, membuka tangan lebar-lebar juga berarti tidak berlaku durjana dan culas dalam memberikan bantuan, hanya karena akan tiba tahun pembebasan. Hukum di Israel menyatakan bahwa setiap kelipatan tujuh adalah tahun pembebasan, oleh karena itu semua utang pun dihapuskan.</p><p><em>Teens</em>, dengan menggunakan ukuran seperti yang disampaikan di atas kita dapat mengetahui apakah kita termasuk dalam kelompok orang miskin atau tidak. Bila kita tidak termasuk dalam kelompok orang miskin, maka kita wajib untuk membuka tangan lebar-lebar bagi mereka yang miskin. Memberikan bantuan, pertama-tama sesuai kemampuan kita. Selanjutnya, sesuai kebutuhan mereka yang kita bantu. Yang sama pentingnya dengan itu adalah tidak mengharapkan bantuan itu kembali. Artinya, semua bantuan itu harus diberikan dengan tulus ikhlas. Berikan bantuan karena kita memang bisa memberikannya, tanpa mengharap kembali. Dengan demikian kita menjadi orang-orang yang bukan saja hidup dalam berkat Allah, tetapi sekaligus menjadi penyalur berkat-Nya.</p>\n        </div>\r\n       </div></body></html>"
-                    },
-                    {
-                        "title": "Untuk Aku",
-                        "shortlink": "https://www.ykb-wasiat.org/?p=273",
-                        "scripture": "",
-                        "date": "2025-01-04",
-                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-TFC-4-Januari-2025-1024x1024.jpg",
-                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Untuk Aku</h2><div class=\"date\">4 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\r\n         \n<h4 class=\"wp-block-heading has-text-align-center\"><strong>Matius 25:31-45</strong></h4><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-TFC-4-Januari-2025-1024x1024.jpg\"></figure>\n<p style=\"text-align: center;\"><em>\u2026</em> <em>Segala</em> <em>sesuatu</em> <em>yang</em> <em>telah </em><em>kamu</em> <em>lakukan</em> <em>untuk</em> <em>salah </em><em>seorang</em> <em>dari</em> <em>saudara-Ku</em> <em>yang </em><em>paling</em> <em>hina</em> <em>ini,</em> <em>kamu</em> <em>telah melakukannya</em> <em>untuk</em> <em>Aku.</em></p>\n<p style=\"text-align: center;\"><strong><em>(Matius</em></strong> <strong><em>25:40)</em></strong></p>\n<p>Konon Ibu Teresa pernah menolong orang yang tergeletak di got lalu membawanya pulang. Setelah tiba di rumah, orang itu mati tak lama setelah dibersihkan. Orang-orang yang melihatnya merasa heran karena Ibu Teresa seolah melakukan hal yang sia-sia.</p><p>Bacaan kita menggambarkan tentang hari penghakiman terakhir. Pada hari itu, sang Raja akan menghakimi setiap orang berdasarkan perbuatannya.\u00a0 Perbuatan yang dimaksud adalah bagaimana orang memperlakukan mereka yang paling hina sebagai sesamanya. Perhatikan, bukan sekadar hina tetapi yang paling hina. Pada masa itu, orang yang hina saja sudah disingkirkan, apalagi orang yang sangat hina. Mereka tidak diperlakukan sebagai sesama manusia. Dengan mereka yang paling hina itulah sang Raja menyamakan dirinya. Jadi apabila ada orang yang memperlakukan mereka yang paling hina sebagai sesamanya, itu berarti ia melakukannya untuk sang Raja. Mereka yang paling hina adalah mereka yang kelaparan, kehausan, orang asing, yang telanjang, sakit, dan di dalam penjara.</p><p><em>Teens</em>, apa yang dilakukan oleh Ibu Teresa dapat menjadi contoh tentang bagaimana kita dapat berbuat bagi mereka yang paling hina. Ibu Teresa bisa saja membiarkan orang itu tetap berada di dalam got sampai mati. Namun Ibu Teresa bersikap lain. Bila orang itu mati di got, ia adalah korban. Sedangkan bila ia mati di rumah, maka ia adalah sesama. Apa yang dilakukan oleh Ibu Teresa adalah perilaku yang dikehendaki Tuhan. Ia sudah melakukannya untuk Tuhan. Ini bukan sekadar berbuat baik, sebab itu jauh lebih mudah, melainkan menempatkan mereka yang paling hina pada posisi yang sama dengan diri kita sendiri, bahkan lebih dari itu, melakukannya seperti untuk Tuhan.</p>        </div>\r\n       </div></body></html>"
                     }
                 ]
             },
@@ -2290,6 +2301,36 @@
                 "url": "https://www.ykb-wasiat.org/youth-for-christ",
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-ykb/bannerykb_youthforchrist.webp",
                 "posts": [
+                    {
+                        "title": "Kembalilah Pada-Ku!",
+                        "shortlink": "https://www.ykb-wasiat.org/?p=249",
+                        "scripture": [
+                            "Yeremia 4:1-4"
+                        ],
+                        "date": "2025-01-18",
+                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-YFC-18-Januari-2025-1024x1024.png",
+                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Kembalilah Pada-Ku!</h2><div class=\"date\">18 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Yeremia 4:1-4</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-YFC-18-Januari-2025-1024x1024.png\"></figure>\n<p style=\"text-align: center;\"><em>Jika engkau mau kembali, hai Israel, demikianlah firman TUHAN, kembalilah engkau kepada-Ku. Jika engkau mau menyingkirkan berhala-</em><em>berhalamu</em> <em>yang</em> <em>menjijikkan\u2026.</em></p>\n<p style=\"text-align: center;\"><strong><em>(Yeremia</em></strong> <strong><em>4:1)</em></strong></p><p><em>Google Maps </em>adalah salah satu aplikasi yang dapat memandu kita untuk mencapai suatu tempat tujuan. Dengan menggunakan foto satelit, titik koordinat, serta <em>database </em>lalu lintas, <em>Google Maps </em>menjadi salah satu teknologi yang bisa diandalkan. Namun di satu sisi, meskipun memiliki kecanggihan dengan semua database yang selalu ter-<em>update</em>, tetap saja terkadang bisa membuat kita tersesat di jalan. Tidak sedikit pengguna diarahkan ke jalan buntu, melewati pematang sawah, bahkan ada yang harus melewati lahan pemakaman.</p><p>Dalam Yeremia 4:1-4 Allah menyampaikan pesan pada umat-Nya melalui Nabi Yeremia. Allah mengatakan bahwa Ia ingin agar umat-Nya kembali menyembah-Nya. Mengapa Allah mengatakan hal ini? Karena pada waktu itu orang Israel menyembah banyak berhala. Mereka tidak lagi menggantungkan hidup mereka kepada TUHAN. Mereka tidak lagi percaya kepada Allah yang telah membuktikan penyertaan-Nya. Mereka tidak lagi setia kepada Allah. Mereka telah tersesat terlalu jauh dari jalan yang dikehendaki Allah. Oleh karena itu Allah mengutus Nabi Yeremia untuk memperingatkan umat agar kembali kepada Allah. Masih ada waktu untuk kembali dari jalan mereka yang sesat, untuk berbalik kepada Allah, dan meninggalkan para berhala yang menyesatkan.</p><p><em>Youth</em>, adakah berhala-berhala di hati kita saat ini? Mungkin berhala itu berwujud keinginan, ambisi, ego, bahkan luka batin kita. Ketika semua hal itu tidak kita kelola dan kita serahkan kepada Tuhan, semuanya itu dapat menyesatkan hidup kita. Mari kita kembali kepada jalan hidup yang benar. Mari kita kembali kepada-Nya yang setia menanti kita berbalik.</p><p style=\"padding-left: 40px;\">1. Apa yang disampaikan Allah melalui Nabi Yeremia?<br>2. Hal apa saja yang menghambat kita untuk meninggalkan \u201dberhala\u201d masa kini?</p>\n<p style=\"padding-left: 40px;\"><br>Pokok Doa: <em>Berbalik kepada Tuhan.</em></p>        </div>\n       </div></body></html>"
+                    },
+                    {
+                        "title": "Foto Langitmu!",
+                        "shortlink": "https://www.ykb-wasiat.org/?p=249",
+                        "scripture": [
+                            "Mazmur 36:5-10"
+                        ],
+                        "date": "2025-01-17",
+                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-YFC-17-Januari-2025-1024x1024.png",
+                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Foto Langitmu!</h2><div class=\"date\">17 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Mazmur 36:5-10</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-YFC-17-Januari-2025-1024x1024.png\"></figure>\n<p style=\"text-align: center;\"><em>Ya</em> <em>TUHAN,</em> <em>kasih-Mu</em> <em>sampai</em><em> ke langit, kesetiaan-Mu sampai ke awan.</em></p>\n<p style=\"text-align: center;\"><strong><em>(Mazmur</em></strong> <strong><em>36:6)</em></strong></p><p>Beberapa waktu yang lalu <em>Instagram </em>meluncurkan sebuah fitur bagi para penggunanya untuk membuat <em>story </em>yang bertema <em>A Sky in Your Gallery</em>. Para pengguna <em>Instagram </em>pun mengunggah bermacam-macam foto langit yang sangat indah. Gradasi warna langit matahari terbenam adalah perpaduan antara warna kuning keemasan, ungu, merah jambu, serta jingga. Semua warna berpadu dengan indah. Begitu pula langit di saat matahari terbit, warna kuning keemasan yang begitu cerah berpadu dengan biru dan putihnya awan. Semua seakan merayakan keindahan tangan Tuhan yang merenda langit.</p><p>Inilah yang juga disaksikan oleh pemazmur. Pemazmur menggambarkan keindahan karya Allah melalui keindahan langit. Ia menggambarkan kasih dan kesetiaan TUHAN bagaikan langit yang begitu besar, tinggi, dan indah. Ia pun menggambarkan kesetiaan TUHAN itu seindah dan setinggi awan di langit. Setiap kali pemazmur melihat langit dan awan maka ia akan selalu mengingat kasih dan kesetiaan TUHAN dalam hidupnya. Dengan melihat langit dan awan ia mengucap syukur kepada Allah. Dengan melihat langit dan awan ia percaya bahwa kasih dan kesetiaan TUHAN akan selalu ada menaungi hidupnya.</p><p><em>Youth</em>, kenyataan dalam hidup kita sehari-hari kadang tak seindah yang kita inginkan. Mungkin kita sedang mengalami saat-saat sulit dalam hidup kita. Mungkin kita belum mendapatkan pekerjaan, belum menyelesaikan revisi skripsi, menghadapi berbagai penolakan, dan lain sebagainya. Mari kita bersama mengingat bahwa kasih dan setia Tuhan itu nyata dalam hidup kita, dengan cara melihat ke arah langit dan awan hari ini. Ia mengasihimu selalu!</p><p style=\"padding-left: 40px;\">1. Seperti apakah pemazmur menggambarkan keindahan karya Allah?<br>2. Apakah respons kita kepada Allah ketika melihat keindahan langit?</p>\n<p style=\"padding-left: 40px;\"><br>Pokok Doa: <em>Kepekaan melihat keindahan karya Tuhan di alam semesta.</em></p>        </div>\n       </div></body></html>"
+                    },
+                    {
+                        "title": "Bertobat Dari Niat Hati",
+                        "shortlink": "https://www.ykb-wasiat.org/?p=249",
+                        "scripture": [
+                            "Kisah Para Rasul 8:18-24"
+                        ],
+                        "date": "2025-01-16",
+                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-YFC-16-Januari-2025-1024x1024.png",
+                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Bertobat Dari Niat Hati</h2><div class=\"date\">16 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Kisah Para Rasul 8:18-24</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-YFC-16-Januari-2025-1024x1024.png\"></figure>\n<p style=\"text-align: center;\"><em>Jadi, bertobatlah dari kejahatanmu ini dan berdoalah kepada Tuhan semoga Ia mengampuni niat hatimu ini.</em></p>\n<p style=\"text-align: center;\"><strong><em>(Kisah Para Rasul 8:22)</em></strong></p><p>Seorang ibu menasihati putrinya yang akan berkuliah di luar kota. Sang ibu berkata, \u201cNak, jika kamu berbuat hal-hal yang salah, maka Mama akan segera tahu meskipun kamu tidak memberitahu Mama!\u201d Nasihat ini disampaikan sang ibu agar sang anak mengerti bahwa sebagai ibu, ia akan mengetahui apa yang dilakukan anaknya. Ada intuisi seorang ibu yang dapat dipercaya dan dipegang teguh. Niat hati sang putri akan dapat diketahui ibunya dengan atau tanpa pengakuan.</p><p>Niat hati Simon yang mengira bisa \u201cmembeli\u201d kuasa agar Roh Kudus turun dalam penumpangan tangan yang dilakukannya adalah sebuah kesalahan besar! Simon meminta hal ini kepada Petrus dan ia mendapat teguran yang sangat keras karena hal itu. Melalui Petrus, Allah menegur Simon agar ia segera bertobat karena niat hatinya yang jahat! Niat hatinya yang jahat lahir dari rasa iri hati yang pahit dan jeratan kejahatan (ay. 23). Dorongan dari niat hati yang jahat melahirkan sebuah tindakan yang sangat tidak berkenan di hati Allah. Oleh karena itu Petrus segera menyuruh Simon untuk bertobat dan berdoa kepada Allah. Niat hati yang salah dan bengkok membutuhkan pertobatan agar diperbarui sesuai dengan kehendak Allah.</p><p><em>Youth</em>, semua tindakan berangkat dari niat hati yang terdalam. Oleh karena itu sangat penting agar kita dapat mengenali niat hati yang sesungguhnya. Dengan mengenali niat hati kita, kita dapat menjaganya sesuai dengan hikmat Allah. Niat hati yang benar akan mengarahkan tindakan kita pada kebenaran-Nya.</p><p style=\"padding-left: 40px;\">1. Apakah niat hati Simon yang sesungguhnya?<br>2. Bagaimana menjaga niat hati yang baik dalam hidup kita?</p>\n<p style=\"padding-left: 40px;\"><br>Pokok Doa: <em>Menjaga niat hati yang baik.</em></p>        </div>\n       </div></body></html>"
+                    },
                     {
                         "title": "Tuhan Pembelahak Perempuan",
                         "shortlink": "https://www.ykb-wasiat.org/?p=249",
@@ -2359,36 +2400,6 @@
                         "date": "2025-01-08",
                         "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-YFC-8-Januari-2025-1024x1024.png",
                         "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>All By Himself!</h2><div class=\"date\">8 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Mazmur 72</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-YFC-8-Januari-2025-1024x1024.png\"></figure>\n<p style=\"text-align: center;\"><em>\u201cTerpujilah</em> <em>TUHAN,</em> <em>Allah</em> <em>Israel,</em><em> Ia seorang diri melakukan perbuatan yang ajaib!</em></p>\n<p style=\"text-align: center;\"><strong><em>(Mazmur</em></strong> <strong><em>72:18)</em></strong></p><p>Bayu, seorang pendaki gunung, selalu merasakan kekaguman yang besar pada Tuhan, secara khusus saat ia berada di puncak gunung. Tuhan menata langit dan bumi sedemikian rupa, menata gunung dengan semua keindahannya. Ia biasanya akan duduk diam untuk berdoa mengagumi dan mengucap syukur pada Tuhan.</p><p>Dalam Mazmur 72:18, pemazmur mengakui dan mengagumi pekerjaan serta perbuatan TUHAN yang ajaib. Semua karya-Nya yang indah dikerjakanNya seorang diri. TUHAN memutuskan, melaksanakan, merencanakan, dan mengerjakannya dengan pikiran-Nya sendiri. Hasilnya? Begitu indah. Bukan hanya alam semesta, tetapi seluruh hidup pemazmur ditata oleh TUHAN sedemikian rupa. Bagaikan seseorang yang menyusun <em>puzzle</em>, semua potongan kecil bertemu dengan potongan-potongan lain yang tepat, hingga terlihatlah gambaran indah dari satu kesatuan <em>puzzle</em>. Sekali lagi, semua dilakukan oleh TUHAN seorang diri! Betapa hebat dan ajaib itu semua! Dalam hidup pemazmur ia pasti mengalami karya ajaib TUHAN yang selalu ia rasakan dalam setiap pengalaman hidupnya. Suka, duka, naik, turun, dan hidup dalam pelarian tetap membuat pemazmur merasakan perlindungan-Nya. Semua pengalaman itu membawanya pada sebuah pujian tulus yang keluar dari dalam hatinya.</p><p><em>Youth</em>, dalam momen-momen hidup kita, temukan dan ciptakanlah kekagumanmu pada Allah yang melakukan setiap karya indah. Bukan hanya saja dalam peristiwa-peristiwa besar melainkan juga dalam ribuan hal-hal sederhana dalam hidup kita, seperti terbit dan tenggelamnya matahari, sejuknya udara pagi, serta makanan yang kita konsumsi. Semuanya itu menyadarkan kita bahwa karya Allah begitu nyata dan indah dalam hidup kita senantiasa.</p>\n<p style=\"padding-left: 40px;\">1. Mengapa pemazmur begitu kagum pada Allah?<br>2. Perbuatan Allah apa yang paling kamu kagumi?</p><p style=\"padding-left: 40px;\">Pokok Doa: <em>Mengingat karya ajaib Tuhan dan bersyukur pada-Nya.</em></p>        </div>\n       </div></body></html>"
-                    },
-                    {
-                        "title": "Dimulai Dari Pikiran",
-                        "shortlink": "https://www.ykb-wasiat.org/?p=249",
-                        "scripture": [
-                            "Efesus 4:17-5:1"
-                        ],
-                        "date": "2025-01-07",
-                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-YFC-7-Januari-2025-1024x1024.png",
-                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Dimulai Dari Pikiran</h2><div class=\"date\">7 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Efesus 4:17-5:1</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-YFC-7-Januari-2025-1024x1024.png\"></figure>\n<p style=\"text-align: center;\"><em>Sebab itu, kukatakan dan kutegaskan ini kepadamu di dalam Tuhan: Jangan hidup lagi seperti orang-orang yang tidak mengenal Allah dengan pikirannya yang sia-sia.</em></p>\n<p style=\"text-align: center;\"><strong><em>(Efesus</em></strong> <strong><em>4:17)</em></strong></p><p><em>You are what you think </em>adalah sebuah ungkapan yang berpadanan dengan kalimat <em>you are what you eat. </em>Kedua ungkapan ini menggambarkan bahwa apa yang kita masukkan ke dalam pikiran dan apa yang kita konsumsi akan mendefinisikan siapa diri kita yang sebenarnya. Pikiran kita menentukan tindakan yang akan kita ambil dan nilai diri kita di balik tindakan tersebut. Sebagai contoh, demi mendapat pengakuan dan pujian dari orang lain sebagai orang yang mempunyai banyak uang, seorang pemuda rela mencuri sehingga ia harus masuk penjara.</p><p>Rasul Paulus mengajarkan tentang kehidupan\u00a0 manusia baru. Manusia baru adalah manusia yang telah mengalami keselamatan dari Allah. Dengan itu ia meninggalkan semua kebiasaan buruk. Salah satunya adalah meninggalkan cara berpikirnya yang sia-sia. Dalam Alkitab terjemahan Bahasa Indonesia masa kini, pikiran yang sia-sia diterjemahkan sebagai memikirkan yang \u201ctidak-tidak\u201d. Salah satu bukti dari kehidupan manusia baru yang sudah ditebus dan meneladani Kristus adalah kemauan untuk melatih pikirannya sendiri. Mengisinya dengan pikiran Kristus. Pikiran Kristus adalah pikiran yang diisi dengan keinginan untuk mencari kehendak Allah, yaitu pikiran yang baik, adil, bijaksana, dan tidak mementingkan diri sendiri. Itulah salah satu bukti dari hidup seorang manusia baru.</p><p><em>Youth</em>, teruslah berlatih untuk mengisi pikiran kita dengan hal-hal baik tentang Allah. Teruslah berusaha untuk memikirkan hal yang baik dan yang membawa damai sejahtera. Pikiran yang baik akan membawa rasa damai sejahtera di tengan ketakutan. Pikiran yang baik akan membawa ketenangan di tengah kekhawatiran akan hidup. Mari memulai dari pikiran!</p>\n<p style=\"padding-left: 40px;\">1. Apakah yang dimaksud dengan pikiran yang sia-sia?<br>2. Bagaimanakah cara melatih pikiran kita sebagai manusia yang baru?</p><p style=\"padding-left: 40px;\"><br>Pokok Doa: <em>Pikiran yang baik dan benar dalam menjalani kehidupan.</em></p>        </div>\n       </div></body></html>"
-                    },
-                    {
-                        "title": "Rendah Hati",
-                        "shortlink": "https://www.ykb-wasiat.org/?p=249",
-                        "scripture": [
-                            "Efesus 3:1-12"
-                        ],
-                        "date": "2025-01-06",
-                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-YFC-6-Januari-2025-1024x1024.png",
-                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Rendah Hati</h2><div class=\"date\">6 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Efesus 3:1-12</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-YFC-6-Januari-2025-1024x1024.png\"></figure>\n<p style=\"text-align: center;\"><em>Kepadaku,</em> <em>yang</em> <em>paling</em> <em>hina</em> <em>di </em><em>antara</em> <em>segala</em> <em>orang</em> <em>kudus,</em> <em>telah</em><em> diberikan</em> <em>anugerah</em> <em>ini,</em> <em>untuk memberitakan</em> <em>kepada</em> <em>orang- </em><em>orang</em> <em>bukan</em> <em>Yahudi</em> <em>kekayaan </em><em>Kristus\u2026.\u201d</em></p>\n<p style=\"text-align: center;\"><strong><em>(Efesus</em></strong> <strong><em>3: 8)</em></strong></p><p>Akhir-akhir ini kita melihat banyak <em>influencer </em>yang memamerkan kekayaannya kepada para <em>follower </em>mereka. Kita seperti sedang diajak untuk mengejar kemewahan dan harta yang dapat dipamerkan di media sosial kita. Sadar atau tidak kita sedang digiring untuk terus berupaya menjadi yang paling hebat, paling mengikuti tren, bahkan berlomba-lomba mendapatkan <em>likes </em>dari para <em>follower-</em>nya.</p><p>Rasul Paulus menyadari siapa dirinya. Di hadapan jemaat Efesus ia tidak menempatkan diri sebagai rasul yang harus dihormati, tetapi ia menempatkan diri sebagai seseorang yang telah mengalami pengampunan dari Tuhan. Dalam kisah pertobatannya ia menempatkan diri sebagai orang yang paling hina di antara semua orang kudus. Ia merasa tidak pantas untuk menerima anugerah Tuhan, tetapi justru untuk itulah anugerah Tuhan diberikan agar manusia mengalami kasih-Nya. Oleh karena itu ia tidak malu untuk mengakui kelemahannya, dan hal itu menjadikannya manusia yang rendah hati. Kerendahan hati Paulus lahir dari pengalaman pertobatannya. Pengakuan tentang kelemahannya membuat kuasa Kristus menjadi yang utama dalam kesaksiannya kepada jemaat Efesus. Keselamatan oleh anugerah Tuhanlah yang membuatnya rendah hati untuk mengakui bahwa ia seorang yang hina namun dikasihi Allah.</p><p><em>Youth</em>, sikap rendah hati dimulai dari keberanian mengakui bahwa diri ini lemah dan tak berdaya tanpa kasih Allah. Oleh karena itu dalam kerendahan hati kita akan terus memfokuskan diri untuk menikmati kasih Allah dan mempersaksikannya kepada sesama manusia. Bukan untuk menyombongkan diri melainkan untuk membuat nama Tuhan dipermuliakan.</p>\n<p style=\"padding-left: 40px;\">1. Mengapa Paulus menganggap diri sebagai orang yang paling hina?<br>2. Bagaimana kita melatih diri untuk mempunyai karakter rendah hati?</p><p style=\"padding-left: 40px;\"><br>Pokok Doa: <em>Kerendahan hati untuk mempersaksikan kasih Kristus.</em></p>        </div>\n       </div></body></html>"
-                    },
-                    {
-                        "title": "Cara Tuhan Memanggil",
-                        "shortlink": "https://www.ykb-wasiat.org/?p=249",
-                        "scripture": [
-                            "Yesaya 6:1-5"
-                        ],
-                        "date": "2025-01-04",
-                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-YFC-4-Januari-2025-1024x1024.png",
-                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Cara Tuhan Memanggil</h2><div class=\"date\">4 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Yesaya 6:1-5</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-YFC-4-Januari-2025-1024x1024.png\"></figure>\n<p style=\"text-align: center;\"><em>Pada tahun kematian Raja Uzia, aku melihat Tuhan duduk di atas takhta yang tinggi dan menjulang, bagian bawa jubah- Nya memenuhi Bait Suci.</em></p>\n<p style=\"text-align: center;\"><strong><em>(Yesaya</em></strong> <strong><em>6:1)</em></strong></p><p>Seorang ayah mempunyai sebuah cara khusus untuk memanggil anaknya ketika anaknya hilang dari pandangannya, yaitu bersiul dengan kencang. Ketika di sebuah pasar ia kehilangan anaknya, ia pun memanggil dengan cara khusus itu agar anaknya kembali. Sebuah siulan yang dibunyikan dengan nada tertentu dan bunyi yang khas, membuat sang anak kembali menghampiri ayahnya. Sang anak sangat mengenali suara ayahnya dan ayahnya pun tahu suara siulannya pasti bisa memanggil anaknya.</p><p>Yesaya dipanggil TUHAN untuk melakukan sebuah tugas khusus yaitu memberitahukan nubuat tentang Yehuda dan Yerusalem. TUHAN memanggil Yesaya dengan sebuah cara yang unik, yaitu Yesaya melihat- Nya duduk di atas takhta. Sebuah penglihatan yang sangat jarang diberikan, tetapi Yesaya mendapatkan itu. Melihat TUHAN yang dalam kemuliaan-Nya duduk di atas takhta, membuat Yesaya menyadari bahwa ia tidak layak. Ia merasa tidak layak karena ia adalah seseorang yang najis bibir. Ia menyadari di hadapan sebuah penglihatan yang sangat luar biasa itu, ia adalah manusia hina dan tak berdaya. Cara TUHAN memanggil Yesaya membuatnya menyadari betapa besar kasih TUHAN atas dirinya. TUHAN memanggil dan memperlengkapi Yesaya untuk dapat melakukan tugasnya.</p><p><em>Youth</em>, kita dipanggil Tuhan untuk melakukan tugas dengan cara yang berbeda-beda. Dalam melakukan tugas panggilan yang Tuhan percayakan, kita akan dimampukan untuk melakukannya. Oleh karena itu marilah kita setia pada panggilan Tuhan dan melakukannya dengan tekun. Ia yang memanggil, maka Ia akan memperlengkapi dan memampukan kita.</p>\n<p style=\"padding-left: 40px;\">1. Apa yang Yesaya lihat ketika Tuhan memanggilnya?<br>2. Apakah sikap kita ketika Tuhan memercayakan sebuah tugas untuk kita lakukan?</p><p style=\"padding-left: 40px;\"><br>Pokok Doa: <em>Keberanian melakukan panggilan Tuhan.</em></p>        </div>\n       </div></body></html>"
                     }
                 ]
             },
@@ -2397,6 +2408,36 @@
                 "url": "https://www.ykb-wasiat.org/wasiat",
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-ykb/bannerykb_renunganwasiat.webp",
                 "posts": [
+                    {
+                        "title": "Aman Dalam Naunganmu",
+                        "shortlink": "https://www.ykb-wasiat.org/?p=124",
+                        "scripture": [
+                            "Mazmur 36:5-10"
+                        ],
+                        "date": "2025-01-18",
+                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-Wasiat-18-Januari-2025.jpg",
+                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Aman Dalam Naunganmu</h2><div class=\"date\">18 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Mazmur 36:5-10</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-Wasiat-18-Januari-2025.jpg\"></figure><figure class=\"wp-block-audio\"><audio controls src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/KKW-JANUARI-2025-018-SANTY-AMAN-DALAM-NAUNGANMU.mp3\"></audio></figure>\n<p style=\"text-align: center;\"><em>Betapa</em> <em>berharganya</em> <em>kasih</em> <em>setia-Mu,</em> <em>ya</em> <em>Allah! </em><em>Anak-anak manusia berlindung </em><em>dalam naungan sayap-Mu</em></p>\n<p style=\"text-align: center;\"><em>(Mazmur 36:8)</em></p><p>Sepulang dari mudik Lebaran, seorang juragan ayam yang terkenal di kampungnya mendapati peternakan ayamnya terbakar karena korsleting listrik. Pemilik peternakan itu merasa sangat sedih karena ayam-ayamnya habis terbakar, dan ia mengalami kerugian yang besar. Namun ketika ia membersihkan kandang dan mengangkat ayam-ayam yang hangus terbakar, ia menemukan dua anak ayam yang masih hidup. Anak-anak ayam itu berada di bawah sayap induk ayam yang melindungi mereka, meskipun induknya akhirnya mati. Juragan ayam itu sangat terhibur melihat anak-anak ayam yang masih hidup, seolah memberinya harapan untuk bangkit.</p><p>Gambaran gelapnya dunia yang tidak berpengharapan tidak membuat Daud jatuh ke dalam keputusasaan. Ia justru menemukan pengharapan di dalam TUHAN karena kasih-Nya begitu besar sampai ke langit dan kesetiaan-Nya sampai ke awan. Pemeliharaan dan perlindungan yang Allah berikan kepada umat-Nya adalah jaminan yang pasti. Karena itu anak-anak manusia dapat berlindung di bawah naungan sayap-Nya, aman tenteram bersama-Nya. Betapa kasih setia TUHAN sangat berharga, sebagai jaminan bagi kehidupan umat-Nya dalam segala situasi. Dari dalam diri-Nya terpancar terang yang menjadi sumber hidup bagi mereka yang bernaung kepada-Nya.</p><p>Mari kita mensyukuri betapa luar biasa kasih setia Tuhan yang tidak terbatas. Karena itu kita tidak boleh tergiur dengan segala gemerlap dunia ini, sebab dunia ini bukanlah tempat yang aman. Hanya di bawah naungan Tuhan saja kita merasa aman dan nyaman.</p>\n<p style=\"text-align: center;\"><strong>REFLEKSI:</strong></p>\n<p style=\"text-align: center;\">Tempat naungan yang aman hanyalah di bawah perlindungan-Nya yang mendatangkan rasa tenteram di hati.</p>\n<p style=\"text-align: center;\"><strong>Yer. 4:1-4; Mzm. 36:5-10; Luk. 11:14-23</strong></p>        </div>\n       </div></body></html>"
+                    },
+                    {
+                        "title": "Pentingnya Pengakuan Dosa",
+                        "shortlink": "https://www.ykb-wasiat.org/?p=124",
+                        "scripture": [
+                            "Yeremia 3:19-25"
+                        ],
+                        "date": "2025-01-17",
+                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-Wasiat-17-Januari-2025.jpg",
+                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Pentingnya Pengakuan Dosa</h2><div class=\"date\">17 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Yeremia 3:19-25</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-Wasiat-17-Januari-2025.jpg\"></figure><figure class=\"wp-block-audio\"><audio controls src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/KKW-JANUARI-2025-017-SANTY-PENTINGNYA-PENGAKUAN-DOSA.mp3\"></audio></figure>\n<p style=\"text-align: center;\"><em>Marilah kita berbaring dengan rasa malu, dan biarlah noda kita menyelimuti kita, sebab kita telah berdosa kepada TUHAN, Allah kita,\u2026 </em></p>\n<p style=\"text-align: center;\"><em>(Yeremia 3:25)</em></p><p>Seorang pemuda yang sudah lama tidak datang ke gereja menghubungi pendeta untuk bercakap-cakap. Ia mengatakan bahwa ia sudah lama tidak beribadah pada hari Minggu karena ia menganggap dirinya tidak layak. Ia mengaku bahwa ia berganti- ganti pacar dan melakukan seks bebas yang melewati batas. Karena itu ia menyadari bahwa dirinya penuh dosa dan merasa tidak pantas datang ke gereja, walaupun dalam hatinya ia rindu untuk bersekutu dengan umat Tuhan di gereja.</p><p>Bangsa Israel di masa Nabi Yeremia juga hidup dalam dosa dan berpaling dari TUHAN. Yeremia mengingatkan Bangsa Israel agar bangsa itu menyadari dosanya dan berbalik kepada-Nya. Bila umat TUHAN berbalik, maka Yerusalem akan dipulihkan menjadi pusat ibadah segala bangsa demi nama TUHAN. Jika umat TUHAN mau kembali kepada-Nya, bukan saja mereka akan terhindar dari murka-Nya, tetapi hal ini juga akan berdampak besar bagi dunia. Sebab sesungguhnya pertobatan Bangsa Israel akan diterima oleh TUHAN, sehingga mereka boleh memanggilnya Bapa.</p><p>Seperti sang pemuda yang mengakui bahwa dirinya penuh dosa dan merasa tidak pantas datang ke gereja, pertobatan sejati dimulai dari kesadaran bahwa diri kita sangat berdosa kepada Tuhan dan tidak layak menerima pengampunan-Nya. Tentu ada rasa malu yang dalam ketika kita mengenang dosa-dosa yang telah dilakukan. Kesadaran itu harus mendorong kita untuk berbalik kepada Tuhan dan masuk dalam persekutuan dengan saudara- saudara seiman. Tuhan selalu menerima pertobatan kita dan Ia juga akan memulihkan relasi kita dengan sesama kita.</p>\n<p style=\"text-align: center;\"><strong>REFLEKSI:</strong></p>\n<p style=\"text-align: center;\">Akuilah segala dosa dan kesalahanmu di hadapan Tuhan, maka Ia akan mengampuni dan memulihkanmu, seberapa pun besar dosamu.</p><p style=\"text-align: center;\">\u00a0</p>\n<p style=\"text-align: center;\"><strong>Yer. 3:19-25; Mzm. 36:5-10; 1 Kor. 7:1-7</strong></p>        </div>\n       </div></body></html>"
+                    },
+                    {
+                        "title": "Tuhan Tidak Mendendam",
+                        "shortlink": "https://www.ykb-wasiat.org/?p=124",
+                        "scripture": [
+                            "Yeremia 3:1-5"
+                        ],
+                        "date": "2025-01-16",
+                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-Wasiat-16-Januari-2025.jpg",
+                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Tuhan Tidak Mendendam</h2><div class=\"date\">16 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Yeremia 3:1-5</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-Wasiat-16-Januari-2025.jpg\"></figure><figure class=\"wp-block-audio\"><audio controls src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/KKW-JANUARI-2025-016-SANTY-TUHAN-TIDAK-MENDENDAM.mp3\"></audio></figure>\n<p style=\"text-align: center;\"><em>Apakah</em> <em>Ia</em> <em>akan</em> <em>murka</em> <em>untuk</em> <em>selamanya</em> <em>atau</em> <em>menaruh</em> <em>dendam untuk seterusnya? \u2026</em></p>\n<p style=\"text-align: center;\"><em>(Yeremia</em> <em>3:5)</em></p><p>Seorang istri datang kepada seorang pendeta dan mengeluhkan suaminya yang berselingkuh dengan perempuan lain. Ia merasa sangat marah kepada suaminya karena sejak berpacaran ia telah banyak berkorban, bahkan ia bekerja keras untuk membantu membiayai perkuliahan suaminya sampai selesai. Setelah suaminya bekerja dan mendapat kedudukan yang baik, sang istri justru dikhianati begitu saja. Kemarahan sang istri begitu memuncak sehingga ia menaruh dendam, tidak mau memaafkan suaminya, dan memilih hidup bersama anaknya.</p><p>Yeremia menggambarkan Bangsa Yehuda seperti seorang istri yang meninggalkan suaminya, yaitu Allah, dan berzinah dengan banyak kekasih. Bangsa Yehuda memandang remeh dosanya ketika mereka berpaling dari TUHAN dan memilih menyembah dewa- dewa kafir. Bagaimana mungkin mengharapkan pengampunan dari TUHAN bila mereka mengkhianati Dia dengan sengaja? Namun kasih Allah luar biasa, Ia tidak mendendam, Ia memanggil umat untuk bertobat dan datang kepada-Nya. Pengampunan Allah terbuka bagi umat-Nya yang sungguh-sungguh mengakui dosanya, seberapa pun besar dosanya.</p><p>Berbeda dengan manusia, kasih dan pengampunan Allah sangatlah besar, bahkan di saat kita mengkhianati-Nya. Ia tetap mau menerima kita dan Ia tidak mendendam kepada kita. Namun, kita harus menghampiri hadirat-Nya dengan pertobatan penuh akan segala dosa dan kesalahan kita. Kita pun dipanggil untuk tidak mendendam dan mau memaafkan kesalahan orang lain.</p>\n<p style=\"text-align: center;\"><strong>REFLEKSI:</strong></p>\n<p style=\"text-align: center;\">Janganlah memandang enteng dosa, datanglah kepada Tuhan dengan pertobatan yang sungguh-sungguh.</p>\n<p style=\"text-align: center;\"><strong>Yer. 3:1-5; Mzm. 36:5-10; Kis. 8:18-24</strong></p>        </div>\n       </div></body></html>"
+                    },
                     {
                         "title": "Ingatlah Tuhan Itu Baik",
                         "shortlink": "https://www.ykb-wasiat.org/?p=124",
@@ -2466,36 +2507,6 @@
                         "date": "2025-01-09",
                         "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-Wasiat-9-Januari-2025.jpg",
                         "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Lakukan Yang Bermanfaat</h2><div class=\"date\">9 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Pengkhotbah 1:1-11</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-Wasiat-9-Januari-2025.jpg\"></figure><figure class=\"wp-block-audio\"><audio controls src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/KKW-JANUARI-2025-009-SANTY-LAKUKAN-YANG-BERMANFAAT.mp3\"></audio></figure>\n<p style=\"text-align: center;\"><em>Segala sesuatu melelahkan, tak habis-habisnya </em><em>dikatakan oleh manusia;</em> <em>mata tidak kenyang melihat, telinga tidak puas mendengar. </em></p>\n<p style=\"text-align: center;\"><em>(Pengkhotbah 1:8)</em></p><p>Generasi saat ini disebut juga generasi merunduk, yaitu orang- orang yang kebanyakan terpaku melihat gawai yang dimilikinya, tanpa peduli pada lingkungan sekitarnya. Ada yang disebut <em>the</em><em> listener</em>, yaitu orang-orang yang suka mencermati saja segala info yang ada di medsos. Ada juga <em>the activist</em>, yaitu orang-orang yang gemar membagikan informasi maupun gambar di medsos. Semua itu menghabiskan waktu berjam-jam, tetapi seringkali orang tak bosan melihat dan mendengar semuanya.</p><p>Pengkhotbah mengatakan bahwa manusia melakukan segala kegiatan yang melelahkan, matanya tidak kenyang melihat dan telinganya tidak puas mendengar. Manusia bekerja serta menghabiskan waktu untuk membaca dan mendengar berbagai berita. Tak jarang berita yang didengar bukanlah berita baru, melainkan berita yang sudah diulang-ulang, tetapi toh tetap dilahap juga. Pengkhotbah prihatin dengan segala kebiasaan yang melelahkan, tetapi sebetulnya semua itu hanyalah kesia-siaan belaka. Pengkhotbah mempertanyakan apakah semua itu ada gunanya.</p><p>Kita diajak untuk menjadi orang yang bijak, tidak sekadar ikut-ikutan, tetapi memiliki kepekaan untuk menilai segala sesuatu. Apa pun yang kita baca dan dengar seharusnya kita seleksi agar dapat berguna untuk menajamkan pikiran dan menyentuh hati kita untuk menjadi orang-orang yang berkenan kepada Tuhan. Kita perlu mengelola diri dan waktu agar semua hal yang kita lakukan tidak menjadi sia-sia belaka, tetapi bermanfaat untuk kebaikan dan pengembangan diri kita.</p><p style=\"text-align: center;\"><strong>REFLEKSI:</strong></p>\n<p style=\"text-align: center;\">Apa yang ingin kita lihat dan dengar seharusnya merupakan hal yang betul-betul akan menginspirasi kita menjadi orang yang lebih bermakna.</p>\n<p style=\"text-align: center;\"><strong>Pkh. 1:1-11; Mzm. 29; 1 Kor. 1:18-31</strong></p>        </div>\n       </div></body></html>"
-                    },
-                    {
-                        "title": "Hanya Allah Yang Tahu Masa Depan",
-                        "shortlink": "https://www.ykb-wasiat.org/?p=124",
-                        "scripture": [
-                            "Daniel 2:24-49"
-                        ],
-                        "date": "2025-01-08",
-                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-Wasiat-8-Januari-2025.jpg",
-                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Hanya Allah Yang Tahu Masa Depan</h2><div class=\"date\">8 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Daniel 2:24-49</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-Wasiat-8-Januari-2025.jpg\"></figure><figure class=\"wp-block-audio\"><audio controls src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/KKW-JANUARI-2025-008-SANTY-HANYA-ALLAH-YANG-TAHU-MASA-DEPAN.mp3\"></audio></figure>\n<p style=\"text-align: center;\"><em>\u201cSesungguhnya, Allahmu itu Allah di atas segala ilah dan Yang </em><em>berkuasa</em><em> atas segala raja, dan Yang menyingkapkan rahasia-rahasia, sebab engkau dapat menyingkapkan rahasia itu.\u201d</em></p>\n<p style=\"text-align: center;\"><em>(Daniel</em> <em>2:47)</em></p><p>Seorang pemuda memberi kesaksian tentang pengalamannya terhindar dari kecelakaan. Pada suatu malam ia mengendarai sepeda motor dan di sebuah tikungan tajam tiba-tiba sebuah sepeda motor lain melaju kencang dari arah berlawanan. Ketika ia sudah merasa pasrah akan mengalami tabrakan, tiba-tiba ia merasa ditarik ke arah trotoar. Ia yakin tidak ada orang lain yang membantunya, namun tangan Tuhanlah yang berkuasa melakukan kebaikan bagi dirinya sehingga ia selamat.</p><p>Dengan hikmat TUHAN, Daniel menjelaskan makna dari mimpi Raja Nebukadnezar. Bahwa Allahlah yang memberikan kuasa kepadanya sehingga ia memiliki kerajaan yang besar. Namun setelah dia akan ada kerajaan-kerajaan lain yang berkuasa atas perkenan TUHAN. Raja Nebukadnezar sangat takut dan takjub sehingga ia menyembah Daniel dan mengaku bahwa Allah yang Daniel sembah adalah Allah yang mengatasi segala allah dan mampu menyingkapkan masa depan. Selanjutnya sang raja mengangkat Daniel sebagai penguasa atas seluruh wilayah Babel dan kepala atas semua orang bijak di Babel.</p><p>Tuhan dapat memakai siapa pun untuk menyatakan maksud- Nya dan rencana-Nya. Dalam hidup ini ada banyak hal di masa depan yang tidak bisa kita mengerti dengan keterbatasan kita. Dibutuhkan hikmat Tuhan dan orang-orang yang Tuhan pakai untuk menyingkapkan segala rahasia yang hendak Ia nyatakan. Belajarlah dari Daniel yang siap dan percaya bahwa Tuhan dapat berkarya melaluinya.</p>\n<p style=\"text-align: center;\">\u00a0</p>\n<p style=\"text-align: center;\"><strong>REFLEKSI:</strong></p>\n<p style=\"text-align: center;\">Mintalah hikmat Tuhan untuk dapat memahami segala perkara yang kita hadapi sehingga kita bisa menjadi saluran berkat bagi sesama.</p>\n<p style=\"text-align: center;\"><strong>Dan. 2:24-49; Mzm. 72; Ef. 5:15-20</strong></p>        </div>\n       </div></body></html>"
-                    },
-                    {
-                        "title": "Bergantung Kepada Allah",
-                        "shortlink": "https://www.ykb-wasiat.org/?p=124",
-                        "scripture": [
-                            "Daniel 2:1-19"
-                        ],
-                        "date": "2025-01-07",
-                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-Wasiat-7-Januari-2025.jpg",
-                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Bergantung Kepada Allah</h2><div class=\"date\">7 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Daniel 2:1-19</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-Wasiat-7-Januari-2025.jpg\"></figure><figure class=\"wp-block-audio\"><audio controls src=\"https://www.ykb-wasiat.org/wp-content/uploads/2024/12/KKW-JANUARI-2025-007-SANTY-BERGANTUNG-KEPADA-ALLAH.mp3\"></audio></figure>\n<p style=\"text-align: center;\"><em>Rahasia</em> <em>itu</em> <em>disingkapkan</em> <em>kepada</em> <em>Daniel</em> <em>dalam</em> <em>suatu</em> <em>penglihatan</em> <em>malam. </em><em>Daniel</em> <em>pun</em> <em>memuji</em> <em>Allah</em> <em>Semesta</em> <em>Langit.</em></p>\n<p style=\"text-align: center;\"><em>(Daniel 2:19 )</em></p><p>Menurut Sigmund Freud, mimpi adalah manifestasi dari sebuah keinginan yang belum terwujud yang ada di alam bawah sadar kita. Namun dalam Alkitab mimpi merupakan salah satu cara Allah untuk menyatakan suatu kebenaran yang akan terjadi, seperti mimpi Firaun di masa Yusuf.</p><p>Raja Nebukadnezar sangat gelisah, ia ingin segera mengetahui apa arti mimpinya. Namun orang-orang berhikmat yang ada tak dapat mengartikannya. Karena itu raja menjadi murka dan menitahkan untuk melenyapkan semua orang bijaksana di Babel. Itu berarti nyawa Daniel dan teman-temannya juga ikut terancam. Daniel menghadap raja dan meminta waktu untuk memberitahukan arti mimpinya. Kemudian Daniel bersama teman-temannya berdoa memohon kemurahan hati Allah untuk menyingkapkan rahasia mimpi raja. Maka Allah menyingkapkan rahasia itu kepada Daniel dalam suatu penglihatan. Daniel pun memuji Allah karena pertolongan-Nya, sebab tanpa Allah, dia tak mampu melakukannya.</p><p>Hikmat untuk mengetahui hal-hal yang Allah nyatakan bukanlah kemampuan manusia, tetapi semata-mata karunia Allah. Kita perlu belajar dari Daniel yang berani bukan karena ia mampu, namun karena ia bergantung kepada Allah saja. Kita bisa dipakai Tuhan untuk menyatakan kehendak-Nya ketika kita dengan penuh keyakinan bergantung pada Allah dan memohon pertolongan-Nya. Kita hanyalah alat di tangan Allah, karena itu yang harus dipermuliakan dan diagungkan hanyalah Allah saja.</p>\n<p style=\"text-align: center;\"><strong>REFLEKSI:</strong></p>\n<p style=\"text-align: center;\">Kita membutuhkan pertolongan-Nya ketika kita mau menyelami maksud dan rencana-Nya.</p>\n<p style=\"text-align: center;\"><strong>Dan. 2:1-19; Mzm. 72; Ef. 4:17-5:1</strong></p>        </div>\n       </div></body></html>"
-                    },
-                    {
-                        "title": "Jadilah Terang",
-                        "shortlink": "https://www.ykb-wasiat.org/?p=124",
-                        "scripture": [
-                            "Yesaya 60:1-6"
-                        ],
-                        "date": "2025-01-06",
-                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-Wasiat-6-Januari-2025.jpg",
-                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Jadilah Terang</h2><div class=\"date\">6 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Yesaya 60:1-6</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-Wasiat-6-Januari-2025.jpg\"></figure><figure class=\"wp-block-audio\"><audio controls src=\"https://www.ykb-wasiat.org/wp-content/uploads/2024/12/KKW-JANUARI-2025-006-SANTY-JADILAH-TERANG.mp3\"></audio></figure>\n<p style=\"text-align: center;\"><em>Bangkitlah, menjadi teranglah, </em><em>sebab terangmu datang,</em> <em>dan kemuliaan TUHAN terbit atasmu.</em></p>\n<p style=\"text-align: center;\"><em>(Yesaya</em> <em>60:1)</em></p><p>Seorang pria divonis oleh dokter bahwa hidupnya tak akan lama lagi karena mengidap penyakit kanker paru stadium lanjut. Vonis itu sangat mengagetkan sang pria dan keluarganya. Namun pria itu adalah orang yang sangat percaya kepada Tuhan, sehingga ia berseru kepada Tuhan dalam doa dan memohon belas kasihan- Nya. Sungguh luar biasa, pria itu dapat bertahan melewati berbagai proses pengobatan yang panjang. Ia sungguh-sungguh mengalami kasih Tuhan yang menguatkannya untuk tetap bisa melewati masa- masa sulit yang biasanya membuat orang menyerah.</p><p>Bangsa Israel di masa penulis Yesaya mengalami kehidupan yang suram, sebab mereka tengah berada di tanah pembuangan. Namun dalam masa sulit di Babel ini Yesaya mengingatkan Bangsa Israel untuk bangkit dan bersemangat karena terang akan datang serta kemuliaan TUHAN akan bersinar melalui mereka. Itu berarti TUHAN akan memulihkan Bangsa Israel dari keterpurukannya, sehingga bangsa-bangsa lain akan memuji kebesaran TUHAN yang nyata atasnya.</p><p>Tidak untuk selama-lamanya kita akan mengalami pergumulan dan penderitaan yang berat dan menekan. Sebab pada saat yang tepat Tuhan akan bertindak dalam hidup kita untuk menyatakan terang dan memulihkan segalanya menjadi baik. Tuhan akan mengubah keadaan yang suram menjadi cerah, sehingga orang lain dapat memandang dengan takjub dan kemudian mempermuliakan Tuhan karenanya. Karena itu bersemangatlah untuk menjadi terang Tuhan yang memancarkan kasih dan kemuliaan Tuhan.</p>\n<p style=\"text-align: center;\"><strong>REFLEKSI:</strong></p>\n<p style=\"text-align: center;\">Terang Tuhan pasti datang di tengah kegelapan pekat, hanya kita perlu menantikannya dengan sabar pada waktu yang Ia kehendaki.</p>\n<p style=\"text-align: center;\"><strong>Yes. 60:1-6; Mzm. 72:1-7, 10-14; Ef. 3:1-12; Mat. 2:1-12</strong></p>        </div>\n       </div></body></html>"
                     }
                 ]
             },
@@ -2504,6 +2515,36 @@
                 "url": "https://www.ykb-wasiat.org/jendela-hati",
                 "banner": "https://raw.githubusercontent.com/gkisalatiga/gkisplus-data/main/images-ykb/bannerykb_renunganusiaindah.webp",
                 "posts": [
+                    {
+                        "title": "Semakin Mengenal Tuhan",
+                        "shortlink": "https://www.ykb-wasiat.org/?p=290",
+                        "scripture": [
+                            "Bacaan: Lukas 11:14-23"
+                        ],
+                        "date": "2025-01-18",
+                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-JH-18-Januari-2025.jpg",
+                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Semakin Mengenal Tuhan</h2><div class=\"date\">18 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Bacaan: Lukas 11:14-23</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-JH-18-Januari-2025.jpg\"></figure>\n<p style=\"text-align: center;\"><em>Namun,</em> <em>jika</em> <em>Aku</em> <em>mengusir</em> <em>setan</em> <em>dengan</em> <em>jari</em> <em>Allah, </em><em>maka Kerajaan Allah sudah datang kepadamu. </em></p>\n<p style=\"text-align: center;\"><em><strong>(Lukas 11:20)</strong></em></p><p>Opa Daniel baru saja memasuki masa pensiun. Sebelumnya, ia adalah seorang direktur di sebuah bank. Akhir-akhir ini Opa Daniel sering berbicara sendiri dan menjadi mudah marah pada orang- orang sekitarnya. Namun, putra-putrinya segera menyadari penyebab perubahan perilaku Opa Daniel. Mereka memahami bahwa Opa Daniel yang semula aktif memimpin di kantor, belum dapat menyesuaikan diri dengan aktivitasnya sebagai pensiunan yang harus berdiam diri di rumah. Mereka pun mengajak Opa Daniel untuk melakukan aktivitas pelayanan di gereja agar ia tetap bisa menyalurkan kemampuannya.</p><p>Ketika Yesus mengusir roh jahat dari orang bisu, banyak orang takjub melihat mukjizat itu. Namun, ada yang salah paham dan menuduh Yesus menggunakan kuasa setan untuk mengusir setan. Yesus menjelaskan bahwa Iblis tidak akan melawan dirinya sendiri. Ketika Yesus mengusir setan dengan kuasa Allah, hal itu justru menunjukkan bahwa Kerajaan Allah sudah hadir di tengah mereka.</p><p>Banyak orang melihat tanda ajaib yang Yesus lakukan, tetapi mereka tidak mengenali siapa diri-Nya. Apakah Sahabat Senior mengenali segala perbuatan yang Yesus lakukan? Bacalah firman- Nya, dengarkan suara-Nya, dan rasakan kasih-Nya, maka kita akan semakin mengenal Tuhan dan perbuatan-perbuatan-Nya yang ajaib dalam hidup kita.</p>\n<p style=\"text-align: center;\"><strong>DOA:</strong></p>\n<p style=\"text-align: center;\"><em>Tuhan, berikan kami kepekaan untuk mengenal kuasa dan perbuatan-Mu atas kami. Kami ingin lebih mengenal-Mu melalui firman yang kami baca dan kami dengarkan. Amin.</em></p>        </div>\n       </div></body></html>"
+                    },
+                    {
+                        "title": "Sebuah Pilihan",
+                        "shortlink": "https://www.ykb-wasiat.org/?p=290",
+                        "scripture": [
+                            "Bacaan: 1 Korintus 7:1-7"
+                        ],
+                        "date": "2025-01-17",
+                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-JH-17-Januari-2025.jpg",
+                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Sebuah Pilihan</h2><div class=\"date\">17 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Bacaan: 1 Korintus 7:1-7</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-JH-17-Januari-2025.jpg\"></figure>\n<p style=\"text-align: center;\"><em>\u2026</em> <em>Tetapi,</em> <em>setiap</em> <em>orang</em> <em>menerima</em> <em>dari</em> <em>Allah</em> <em>karunianya</em> <em>yang</em> <em>khas, </em><em>yang seorang karunia ini, yang lain karunia itu.</em></p>\n<p style=\"text-align: center;\"><strong><em>(1</em></strong> <strong><em>Korintus</em></strong> <strong><em>7:7)</em></strong></p><p>Tanto adalah putra Ibu Mala satu-satunya. Ia sudah berusia 35 tahun dan mempunyai pekerjaan yang bagus, serta sudah memiliki sebuah apartemen. Namun, Tanto belum berencana untuk menikah, bahkan ia tidak mempunyai pacar. Setiap kali ibunya bertanya kapan ia akan menikah, Tanto menjadi marah dan mereka pun bertengkar.</p><p>Rasul Paulus menulis bahwa lebih baik seorang laki-laki tidak kawin supaya bisa berfokus pada pelayanan kepada Tuhan, seperti pilihan Paulus. Namun pada kenyataannya, manusia memiliki hawa nafsu. Untuk menghindari percabulan, maka adalah baik bagi laki- laki untuk mempunyai istri. Paulus menekankan bahwa menikah atau tidak menikah adalah pilihan yang bisa diterima. Setiap orang mempunyai karunia Allah yang berbeda-beda, ada yang lebih baik hidup melajang, ada yang lebih baik untuk hidup berkeluarga.</p><p>Sahabat Senior, Ibu Mala dan Tanto mempunyai pilihan yang berbeda. Menikah atau tidak menikah adalah pilihan yang memiliki konsekuensinya masing-masing. Bagi yang memilih menikah, ingatlah bahwa pernikahan adalah anugerah Tuhan. Suami dan istri mempunyai kewajiban masing-masing. Keputusan untuk menikah atau tidak menikah harus dibuat dengan penuh kesadaran dengan mendengarkan apa yang menjadi kehendak Tuhan dalam hidup.</p>\n<p style=\"text-align: center;\"><strong>DOA:</strong></p>\n<p style=\"text-align: center;\"><em>Tuhan,</em> <em>berikan</em> <em>pada</em> <em>kami</em> <em>pengertian</em> <em>bahwa</em> <em>Engkau</em> <em>telah </em><em>memberi</em> <em>yang</em> <em>terbaik</em> <em>bagi</em> <em>kami.</em> <em>Ajar</em> <em>kami</em> <em>untuk</em> <em>bertanggung </em><em>jawab</em> <em>terhadap</em> <em>pilihan</em> <em>kami.</em> <em>Amin.</em></p>        </div>\n       </div></body></html>"
+                    },
+                    {
+                        "title": "Tempat Berlindung",
+                        "shortlink": "https://www.ykb-wasiat.org/?p=290",
+                        "scripture": [
+                            "Bacaan: Mazmur 36:5-10"
+                        ],
+                        "date": "2025-01-16",
+                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-JH-16-Januari-2025.jpg",
+                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Tempat Berlindung</h2><div class=\"date\">16 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Bacaan: Mazmur 36:5-10</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-JH-16-Januari-2025.jpg\"></figure>\n<p style=\"text-align: center;\"><em>Betapa</em> <em>berharganya</em> <em>kasih</em> <em>setia-Mu,</em> <em>ya</em> <em>Allah!</em> <em>Anak-anak </em><em>manusia</em> <em>berlindung</em> <em>dalam</em> <em>naungan</em> <em>sayap-Mu.</em></p>\n<p style=\"text-align: center;\"><strong><em>(Mazmur</em></strong> <strong><em>36:8)</em></strong></p><p>Tuhan menciptakan setiap hewan dengan kelebihannya masing- masing. Misalnya, singa memiliki taring, gajah memiliki belalai, dan banteng memiliki tanduk untuk melindungi diri. Bagaimana dengan burung-burung kecil? Burung merpati dan burung pipit dapat terbang dengan cepat untuk menyelamatkan diri dari ancaman. Masih banyak lagi keajaiban ciptaan Tuhan di alam semesta ini.</p><p>Kata-kata manusia tidak cukup untuk melukiskan kasih Allah, karena kasih-Nya tak terbatas. Pemazmur mengungkapkan bahwa TUHAN yang adil dan penuh kasih memelihara seluruh ciptaan-Nya. TUHAN mengasihi dan melindungi seluruh dunia ini, bukan hanya manusia saja, tetapi juga seluruh hewan ciptaan-Nya. Hanya Allah tempat perlindungan yang teguh. Apa pun juga yang menimpa hidup manusia, TUHAN adalah tempat perlindungan yang sempurna. Anak- anak manusia berlindung dalam naungan sayap-Nya.</p><p>Sahabat Senior, kehidupan kita tentu tidak selalu aman dan nyaman. Banyak masalah yang bisa menimpa kita. Terkadang kita menghadapi hal-hal yang menakutkan, mengkhawatirkan, dan menyakitkan hati kita. Terkadang kita pun mengalami sakit, rasa kesepian, dan stres. Ke manakah kita dapat memperoleh pertolongan? Hanya Tuhanlah perlindungan dari berbagai masalah dan badai kehidupan ini. Tuhan sanggup memberi rasa aman kepada kita.</p>\n<p style=\"text-align: center;\"><strong>DOA:</strong></p>\n<p style=\"text-align: center;\"><em>Ya</em> <em>Allah</em> <em>yang</em> <em>Maha</em> <em>Kasih,</em> <em>kami</em> <em>bersyukur</em> <em>atas</em> <em>kasih</em> <em>dan</em> <em>setia-Mu. </em><em>Kami</em> <em>ingin</em> <em>selalu</em> <em>berlindung</em> <em>di</em> <em>bawah</em> <em>naungan-Mu.</em> <em>Kami</em> <em>ingin</em> <em>selalu </em><em>berserah</em> <em>diri</em> <em>sepenuhnya</em> <em>kepada-Mu</em> <em>saja.</em> <em>Amin.</em></p>        </div>\n       </div></body></html>"
+                    },
                     {
                         "title": "Mata Batiniah",
                         "shortlink": "https://www.ykb-wasiat.org/?p=290",
@@ -2573,36 +2614,6 @@
                         "date": "2025-01-08",
                         "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-JH-8-Januari-2025.jpg",
                         "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Mengatur Waktu</h2><div class=\"date\">8 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Bacaan: Efesus 5:15-20</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2025/01/Quotations-JH-8-Januari-2025.jpg\"></figure>\n<p style=\"text-align: center;\"><em>Dan</em> <em>pergunakanlah</em> <em>waktu</em> <em>yang</em> <em>ada, </em><em>karena hari-hari ini adalah jahat. </em></p>\n<p style=\"text-align: center;\"><em><strong>(Efesus 5:16)</strong></em></p><p>Oma Lena membuat kesal seisi rumah karena ia malas mandi dan hanya bermalas-malasan sepanjang hari. Bahkan Oma Lena tidak mau bangun pagi. Setelah makan, ia akan kembali ke kamar untuk berbaring sambil membaca berita-berita melalui telepon pintarnya. Keluarganya selalu mengajak Oma Lena untuk mandi di pagi hari, berjemur, dan melakukan kegiatan ringan. Namun semua itu diabaikannya.</p><p>Rasul Paulus menasihati jemaat di Efesus agar mereka menjadi orang yang bijaksana dan tidak hidup sebagai orang bebal. Orang bebal hanya melakukan apa yang diinginkannya saja dan tidak mau mendengar nasihat orang lain. Orang bebal akan hidup dalam kemabukan yang merugikan dirinya sendiri. Rasul Paulus memperingatkan jemaat agar menggunakan waktu dengan bijaksana. Orang yang tidak menggunakan waktu dengan bijaksana akan mendatangkan hal-hal buruk dalam kehidupannya.</p><p>Sahabat Senior, di usia yang semakin bertambah, terkadang kita menjadi malas untuk melakukan aktivitas sehari-hari. Ada yang malas mandi, ada yang malas menggosok gigi, bahkan ada yang malas makan. Kemalasan melakukan aktivitas sehari-hari akan membuat kita semakin lemah, bahkan sakit. Meskipun kita sudah memasuki masa pensiun, kita tetap perlu mengisi waktu kita dengan kegiatan yang bermanfaat.</p>\n<p style=\"text-align: center;\"><strong>DOA:</strong></p>\n<p style=\"text-align: center;\"><em>Tuhan,</em> <em>terima</em> <em>kasih</em> <em>atas</em> <em>waktu</em> <em>yang</em> <em>Kau</em> <em>berikan</em> <em>kepada</em> <em>kami. </em><em>Beri</em> <em>kami</em> <em>hikmat</em> <em>untuk</em> <em>mengisi</em> <em>tiap</em> <em>waktu</em> <em>kami</em> <em>dengan</em> <em>kegiatan </em><em>yang</em> <em>baik</em> <em>dan</em> <em>bermanfaat</em> <em>agar</em> <em>kami</em> <em>dapat</em> <em>hidup</em> <em>menyenangkan </em><em>hati-Mu. Amin.</em></p>        </div>\n       </div></body></html>"
-                    },
-                    {
-                        "title": "Pemimpin Yang Ideal",
-                        "shortlink": "https://www.ykb-wasiat.org/?p=290",
-                        "scripture": [
-                            "Bacaan: Mazmur 72"
-                        ],
-                        "date": "2025-01-07",
-                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-JH-7-Januari-2025.jpg",
-                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Pemimpin Yang Ideal</h2><div class=\"date\">7 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Bacaan: Mazmur 72</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-JH-7-Januari-2025.jpg\"></figure>\n<p style=\"text-align: center;\"><em>Hiduplah</em> <em>raja!</em> <em>\u2026</em> <em>Kiranya</em> <em>ia</em> <em>didoakan</em> <em>senantiasa, </em><em>dan dimohonkan berkat sepanjang hari!</em></p>\n<p style=\"text-align: center;\"><strong><em>(Mazmur</em></strong> <strong><em>72:15)</em></strong></p><p>Suasana di sebuah asrama panti asuhan anak-anak menjadi gaduh dan gelisah karena berita bahwa ibu asrama mereka yang sudah berusia enam puluh tahun akan segera memasuki masa pensiun. Ia akan meninggalkan asrama dan tinggal bersama anaknya. Penghuni panti asuhan itu sangat menyayangi ibu asrama mereka yang sangat bijaksana, adil, dan penuh kasih sayang. Mereka merasa tidak yakin apakah akan ada orang lain yang bisa menggantikan ibu asrama mereka yang begitu ideal.</p><p>Mazmur 72 diawali dengan doa agar raja memerintah dengan adil dan bijaksana. Raja yang adil akan melindungi orang yang lemah dan tertindas. Di bawah kepemimpinan raja yang adil, tanah akan menghasilkan panen yang berlimpah. Kekayaan akan dinikmati semua orang. Namanya akan dikenang orang selamanya. Orang-orang akan diberkati melalui raja yang adil dan bijaksana itu.</p><p>Sahabat Senior, kita perlu mendoakan pemimpin kita agar memiliki hati yang bijaksana, adil, dan penuh kasih. Apabila kita diberi kepercayaan untuk menjadi pemimpin, kita pun diingatkan untuk menjadi pemimpin yang adil. Kita diajak untuk bisa menjadi pemimpin yang baik di tengah keluarga, lingkungan tempat tinggal, atau persekutuan yang kita miliki. Kita harus menerapkan prinsip yang sama seperti yang diungkapkan pemazmur, yaitu menjadi pemimpin yang bijaksana, adil, dan penuh kasih.</p>\n<p style=\"text-align: center;\"><strong>DOA:</strong></p>\n<p style=\"text-align: center;\"><em>Tuhan,</em> <em>ajarlah</em> <em>kami</em> <em>untuk</em> <em>tekun</em> <em>mendoakan</em> <em>para</em> <em>pemimpin kami</em> <em>agar</em> <em>mereka</em> <em>bisa</em> <em>menjadi</em> <em>pemimpin</em> <em>yang</em> <em>ideal,</em> <em>memiliki </em><em>sifat</em> <em>adil,</em> <em>bijaksana,</em> <em>dan</em> <em>penuh</em> <em>kasih.</em> <em>Tolong</em> <em>kami</em> <em>juga</em> <em>agar</em> <em>bisa </em><em>menjadi pemimpin yang adil. Amin.</em></p>        </div>\n       </div></body></html>"
-                    },
-                    {
-                        "title": "Bintang Terang",
-                        "shortlink": "https://www.ykb-wasiat.org/?p=290",
-                        "scripture": [
-                            "Bacaan: Matius 2:1-12"
-                        ],
-                        "date": "2025-01-06",
-                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-JH-6-Januari-2025.jpg",
-                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Bintang Terang</h2><div class=\"date\">6 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Bacaan: Matius 2:1-12</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-JH-6-Januari-2025.jpg\"></figure>\n<p style=\"text-align: center;\"><em>\u2026</em> <em>\u201cKami</em> <em>telah</em> <em>melihat</em> <em>bintang-Nya</em> <em>di</em> <em>Timur </em><em>dan kami datang untuk menyembah Dia.\u201d </em></p>\n<p style=\"text-align: center;\"><em><strong>(Matius 2:2)</strong></em></p><p>Hari ini kita merayakan Epifani, yang berarti penampakan. Kita memperingati hari di mana orang-orang Majus dapat berjumpa dengan Yesus sebagai raja orang Yahudi. Orang Majus yang bukan orang Yahudi dapat berjumpa dengan Yesus. Peristiwa ini menunjukkan bahwa Yesus datang untuk menyelamatkan seluruh dunia, dan bukan hanya untuk orang Yahudi.</p><p>Orang Majus datang dari Timur untuk mencari Yesus. Mereka mengikuti bintang yang mereka lihat, yang menuntun mereka ke tempat Yesus berada. Bintang ini melambangkan terang Kristus yang bersinar bagi semua bangsa. Setelah para Majus bertemu dengan Yesus, sesuai perintah Allah mereka tidak kembali kepada Herodes. Mereka kembali ke negeri mereka dengan penuh sukacita. Herodes ingin menemukan Yesus bukan untuk menyembah-Nya, melainkan untuk menyingkirkan Yesus.</p><p>Sahabat Senior, berjumpa dengan Yesus secara pribadi akan membuat hati kita berlimpah dengan sukacita. Biarlah terang Kristus bersinar di hati kita, sehingga kita bisa mencerminkan terang itu dalam hidup kita dan membawa harapan bagi orang lain. Seperti bintang yang menuntun orang Majus untuk berjumpa dengan Yesus, kita pun dapat menuntun orang lain untuk bertemu dengan-Nya. Mari kita menjadi terang dengan mencerminkan kasih, kedamaian, dan harapan Kristus dalam kehidupan kita.</p>\n<p style=\"text-align: center;\"><strong>DOA:</strong></p>\n<p style=\"text-align: center;\"><em>Terima</em> <em>kasih</em> <em>Tuhan</em> <em>untuk</em> <em>terang-Mu</em> <em>yang</em> <em>telah</em> <em>menyinari</em> <em>hati </em><em>kami.</em> <em>Jadikanlah</em> <em>kami</em> <em>terang</em> <em>bagi</em> <em>dunia</em> <em>di</em> <em>sekitar</em> <em>kami</em> <em>dengan </em><em>membawa harapan bagi orang lain. Amin.</em></p>        </div>\n       </div></body></html>"
-                    },
-                    {
-                        "title": "Menolak Peringatan",
-                        "shortlink": "https://www.ykb-wasiat.org/?p=290",
-                        "scripture": [
-                            "Bacaan: Kisah Para Rasul 7:44-53"
-                        ],
-                        "date": "2025-01-04",
-                        "featured-image": "https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-JH-4-Januari-2025.jpg",
-                        "html": "<html><head><style>@import url(\"https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap\");* {\n font-family: \"Plus Jakarta Sans\";\n}body {\n font-family: \"Plus Jakarta Sans\";\n background-color: #f7f7f7;\n display: flex;\n justify-content: center;\n align-items: center;\n}p {\n padding: 0px;\n font-size: 20;\n text-align: justify;\n}p.has-text-align-center {\n align-content: center;\n font-size: 20;\n text-anchor: middle;\n text-align: center;\n font-weight: 400;\n position: relative;\n}.ribbondate.red {\n display: none;\n}figure img {\n border-radius: 50px;\n width: 100%;\n}div.title-renungan > h4 {\n align-content: center;\n font-size: 40;\n text-anchor: middle;\n text-align: center;\n position: relative;\n}.main-container {\n width: 100%;\n max-width: 400px;\n background-color: white;\n box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);\n border-radius: 10px;\n overflow: visible;\n padding-left: 20px;\n padding-right: 20px;\n}audio {\n width: 100%;\n}h2 {\n align-content: center;\n font-size: 36;\n text-anchor: middle;\n text-align: center;\n font-weight: 800;\n position: relative;\n}div.date {\n align-content: center;\n font-size: 24;\n text-anchor: middle;\n text-align: center;\n font-weight: 200;\n position: relative;\n width: 100%;\n}</style></head><body><div class=\"main-container\"><h2>Menolak Peringatan</h2><div class=\"date\">4 Januari 2025</div><div class=\"renungan-padding content-devotion main-audio-xs\">\n         \n<p class=\"has-text-align-center\"><strong>Bacaan: Kisah Para Rasul 7:44-53</strong></p><figure class=\"wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex\">\n<img src=\"https://www.ykb-wasiat.org/wp-content/uploads/2024/12/Quotations-JH-4-Januari-2025.jpg\"></figure>\n<p style=\"text-align: center;\"><em>Hai</em> <em>orang-orang</em> <em>yang</em> <em>keras</em> <em>kepala,</em> <em>yang</em> <em>keras</em> <em>hati</em> <em>dan</em> <em>tuli, </em><em>kamu selalu menentang Roh Kudus.</em></p>\n<p style=\"text-align: center;\"><strong><em>(Kisah</em></strong> <strong><em>Para</em></strong> <strong><em>Rasul</em></strong> <strong><em>7:51)</em></strong></p><p>Ibu Renny selalu sibuk memainkan telepon pintarnya saat pendeta berkhotbah. Mungkin ia merasa sudah sering mendengar firman Tuhan dan merasa bosan. Mungkin juga, membaca pesan-pesan di WhatsApp lebih menarik baginya daripada mendengarkan khotbah. Akibatnya, Ibu Renny tidak mengerti firman Tuhan, sehingga hidupnya selalu gelisah dan dipenuhi kekhawatiran.</p><p>Khotbah Stefanus merupakan teguran keras bagi para pendengarnya. Dia memperingatkan mereka yang telah berulang kali menolak Allah dan para nabi-Nya. Mereka tidak mau mendengar firman yang dibawa oleh utusan Allah. Stefanus mengajak mereka untuk mengingat sejarah Bangsa Israel yang berkali-kali menolak Allah dan para nabi-Nya. Puncak penolakan mereka adalah menolak Yesus dengan membunuh-Nya.</p><p>Sahabat Senior, kita pun diperingatkan untuk tidak mengabaikan firman Tuhan. Firman Allah harus didengarkan dengan hati yang terbuka dan taat pada-Nya. Namun masih ada orang yang tidak suka mendengar firman Tuhan karena merasa tersinggung dengan apa yang disampaikan kepada mereka. Menolak firman yang tak sesuai dengan keinginan hati, hanya mau mendengarkan yang kita inginkan adalah perbuatan menolak Allah. Marilah kita belajar mendengarkan firman Allah dengan hati terbuka.</p>\n<p style=\"text-align: center;\"><strong>DOA:</strong></p>\n<p style=\"text-align: center;\"><em>Tuhan,</em> <em>kami</em> <em>bersyukur</em> <em>atas</em> <em>firman-Mu</em> <em>yang</em> <em>menegur</em> <em>dan menuntun</em> <em>kami.</em> <em>Ampuni</em> <em>kami</em> <em>yang</em> <em>pernah</em> <em>menolak</em> <em>firman-Mu. </em><em>Biarlah</em> <em>hati</em> <em>kami</em> <em>selalu</em> <em>terbuka</em> <em>untuk</em> <em>mendengarkan</em> <em>firman-Mu </em><em>dan taat pada-Mu. Amin.</em></p>        </div>\n       </div></body></html>"
                     }
                 ]
             }
@@ -2856,48 +2867,6 @@
         ],
         "agenda-ruangan": [
             {
-                "name": "Wawancara PPDB 2025/2026",
-                "time": "08:00",
-                "time-to": "11:00",
-                "timezone": "WIB",
-                "date": "0025-01-17",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Yemima Christin",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Latihan tamborin natal KR ",
-                "time": "16:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-01-13",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Komisi Remaja",
-                "pic": "Aline ",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "latihan drama natal kr",
-                "time": "16:00",
-                "time-to": "21:00",
-                "timezone": "WIB",
-                "date": "2025-01-13",
-                "weekday": "mon",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Remaja",
-                "pic": "syella",
-                "status": "w",
-                "note": "-"
-            },
-            {
                 "name": "PA Wilayah V",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -2910,6 +2879,34 @@
                 "pic": "Sinta Dwiprasetyo",
                 "status": "w",
                 "note": "Ada makanan ringan"
+            },
+            {
+                "name": "Natal Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-01-18",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
+                "status": "c",
+                "note": "-"
+            },
+            {
+                "name": "Natal Komisi Remaja",
+                "time": "17:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-01-18",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Remaja",
+                "pic": "KR",
+                "status": "y",
+                "note": ""
             },
             {
                 "name": "PA WILAYAH 11",
@@ -2940,6 +2937,48 @@
                 "note": "-"
             },
             {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-01-21",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-01-28",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Pemahaman Alkitab Wil 9",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-02-11",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Woro Tjiptaningsih",
+                "status": "y",
+                "note": ""
+            },
+            {
                 "name": "PA wilayah 11",
                 "time": "17:00",
                 "time-to": "19:00",
@@ -2950,8 +2989,260 @@
                 "place": "Ruang Betlehem",
                 "representative": "Wilayah",
                 "pic": "Yuliyanti",
-                "status": "w",
+                "status": "c",
                 "note": ""
+            },
+            {
+                "name": "PA wilayah 11",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-01-21",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti",
+                "status": "c",
+                "note": ""
+            },
+            {
+                "name": "PA wil 11",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-01-21",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti",
+                "status": "c",
+                "note": ""
+            },
+            {
+                "name": "PA wil 11",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-01-28",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti",
+                "status": "c",
+                "note": ""
+            },
+            {
+                "name": "PA wilayah 11",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-02-04",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA wilayah 11",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-02-11",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA wilayah 11",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-02-18",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyanti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA wilayah 11",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-02-25",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Wilayah",
+                "pic": "Yuliyantu",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-02-04",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-02-11",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Wardijini",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Open House",
+                "time": "07:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-01-23",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Herlina",
+                "status": "y",
+                "note": "2 hari 23-24 Januari 2025"
+            },
+            {
+                "name": "Open House",
+                "time": "07:00",
+                "time-to": "14:00",
+                "timezone": "WIB",
+                "date": "2025-01-24",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Herlina",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-02-18",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 7",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-02-25",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Wilayah",
+                "pic": "Wardjini",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "PA Wilayah 10",
+                "time": "18:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-02-25",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Wilayah",
+                "pic": "Maria Wil. 10",
+                "status": "y",
+                "note": "Ada makanan Ringan"
+            },
+            {
+                "name": "PA Wilayah 5",
+                "time": "17:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-02-04",
+                "weekday": "tue",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2),  ",
+                "representative": "Wilayah",
+                "pic": "Bu Ning Wilayah 5",
+                "status": "y",
+                "note": "-"
+            },
+            {
+                "name": "Latihan tamborin natal KR ",
+                "time": "16:00",
+                "time-to": "20:00",
+                "timezone": "WIB",
+                "date": "2025-01-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Aline ",
+                "status": "w",
+                "note": "-"
+            },
+            {
+                "name": "Persekutuan GSM",
+                "time": "09:30",
+                "time-to": "12:00",
+                "timezone": "WIB",
+                "date": "2025-01-19",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kana (Lantai 2)",
+                "representative": "Komisi Anak",
+                "pic": "Wurjayanti",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "latihan drama natal kr",
+                "time": "16:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-01-13",
+                "weekday": "mon",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Remaja",
+                "pic": "syella",
+                "status": "w",
+                "note": "-"
             },
             {
                 "name": "Latihan Tim Musik",
@@ -2978,8 +3269,22 @@
                 "place": "Ruang Betlehem",
                 "representative": "Panitia",
                 "pic": "AM. Widiatmoko",
-                "status": "w",
+                "status": "y",
                 "note": "Disediakan minuman teh hangat"
+            },
+            {
+                "name": "Wawancara PPDB 2025/2026",
+                "time": "08:00",
+                "time-to": "11:00",
+                "timezone": "WIB",
+                "date": "0025-01-17",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Betlehem",
+                "representative": "SMP Kristen 02 Salatiga",
+                "pic": "Yemima Christin",
+                "status": "y",
+                "note": "-"
             },
             {
                 "name": "Pertemuan dengan BPHMJ baru",
@@ -2992,302 +3297,8 @@
                 "place": "Ruang Konsistori",
                 "representative": "Majelis Jemaat",
                 "pic": "Pnt. Ervien",
-                "status": "w",
+                "status": "y",
                 "note": ""
-            },
-            {
-                "name": "Natal Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-01-18",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Wardjini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Natal Komisi Remaja",
-                "time": "17:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-01-18",
-                "weekday": "sat",
-                "type": "proposal",
-                "place": "Gedung Gereja",
-                "representative": "Komisi Remaja",
-                "pic": "KR",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Persekutuan GSM",
-                "time": "09:30",
-                "time-to": "12:00",
-                "timezone": "WIB",
-                "date": "2025-01-19",
-                "weekday": "sun",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "Komisi Anak",
-                "pic": "Wurjayanti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-01-21",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Wardjini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA wilayah 11",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-01-21",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA wil 11",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-01-21",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "Open House",
-                "time": "07:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2025-01-23",
-                "weekday": "thu",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Herlina",
-                "status": "w",
-                "note": "2 hari 23-24 Januari 2025"
-            },
-            {
-                "name": "Open House",
-                "time": "07:00",
-                "time-to": "14:00",
-                "timezone": "WIB",
-                "date": "2025-01-24",
-                "weekday": "fri",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2)",
-                "representative": "SMP Kristen 02 Salatiga",
-                "pic": "Herlina",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-01-28",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Wardjini",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA wil 11",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-01-28",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA wilayah 11",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-02-04",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-02-04",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Wardjini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 5",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-02-04",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kana (Lantai 2),  ",
-                "representative": "Wilayah",
-                "pic": "Bu Ning Wilayah 5",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "Pemahaman Alkitab",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-02-11",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Woro Tjiptaningsih",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA wilayah 11",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-02-11",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-02-11",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Wardijini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA wilayah 11",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-02-18",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Yuliyanti",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-02-18",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Wardjini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA wilayah 11",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-02-25",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Betlehem",
-                "representative": "Wilayah",
-                "pic": "Yuliyantu",
-                "status": "w",
-                "note": ""
-            },
-            {
-                "name": "PA Wilayah 7",
-                "time": "17:00",
-                "time-to": "19:00",
-                "timezone": "WIB",
-                "date": "2025-02-25",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Konsistori",
-                "representative": "Wilayah",
-                "pic": "Wardjini",
-                "status": "w",
-                "note": "-"
-            },
-            {
-                "name": "PA Wilayah 10",
-                "time": "18:00",
-                "time-to": "20:00",
-                "timezone": "WIB",
-                "date": "2025-02-25",
-                "weekday": "tue",
-                "type": "proposal",
-                "place": "Ruang Kapernaum",
-                "representative": "Wilayah",
-                "pic": "Maria Wil. 10",
-                "status": "w",
-                "note": "Ada makanan Ringan"
             },
             {
                 "name": "Persiapan Ibadah Natal KR dan Gladi Bersih",
@@ -3300,8 +3311,8 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Remaja",
                 "pic": "Cedri ",
-                "status": "w",
-                "note": ""
+                "status": "y",
+                "note": "+ konsistori dan betlehem."
             },
             {
                 "name": "latihan drama kr",
@@ -3328,7 +3339,7 @@
                 "place": "Gedung Gereja",
                 "representative": "Komisi Remaja",
                 "pic": "Cedric",
-                "status": "w",
+                "status": "y",
                 "note": ""
             },
             {
@@ -3342,7 +3353,7 @@
                 "place": "Tidak meminjam ruangan",
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Samarthya L.",
-                "status": "w",
+                "status": "y",
                 "note": "Hanya testing"
             },
             {
@@ -3356,7 +3367,7 @@
                 "place": "Tidak pinjam ruangan",
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Samarthya L.",
-                "status": "w",
+                "status": "n",
                 "note": "Testing."
             },
             {
@@ -3370,7 +3381,7 @@
                 "place": "Tidak pinjam",
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Samarthya L.",
-                "status": "w",
+                "status": "c",
                 "note": "Testing"
             },
             {
@@ -3398,8 +3409,134 @@
                 "place": "Tidak ada",
                 "representative": "Komisi Sarana Prasarana dan Multimedia",
                 "pic": "Samarthya L.",
-                "status": "w",
+                "status": "n",
                 "note": "Testing GKI Salatiga+ (Aplikasi Android)"
+            },
+            {
+                "name": "Latihan musik",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-01-15",
+                "weekday": "wed",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Paklik Vidra",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Latihan musik",
+                "time": "19:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-01-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "Komisi Musik dan Liturgi",
+                "pic": "Uncle Vidra ",
+                "status": "w",
+                "note": "Mulai jam 20.00"
+            },
+            {
+                "name": "Gladi Kotor Ibadah Natal Remaja",
+                "time": "17:00",
+                "time-to": "21:00",
+                "timezone": "WIB",
+                "date": "2025-01-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Kapernaum, Ruang Betlehem",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric",
+                "status": "y",
+                "note": "Hanya sampai jam 20.00"
+            },
+            {
+                "name": "Persiapan pemain drama Natal KR",
+                "time": "13:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-01-18",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Komisi Remaja",
+                "pic": "Cinta",
+                "status": "n",
+                "note": ""
+            },
+            {
+                "name": "Latihan/ gladi bersih anak2 yg akan tampil di ibadah minggu",
+                "time": "09:00",
+                "time-to": "10:00",
+                "timezone": "WIB",
+                "date": "2025-01-16",
+                "weekday": "thu",
+                "type": "proposal",
+                "place": "Gedung Gereja",
+                "representative": "TK Kristen 03 Eben Haezer",
+                "pic": "Wahyu Agustina Rimbita ",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Persiapan Natal KR sampai kegiatan Natal KR",
+                "time": "13:00",
+                "time-to": "22:00",
+                "timezone": "WIB",
+                "date": "2025-01-18",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Gedung Gereja, Ruang Betlehem, Ruang Konsistori, Ruang Galilea (Lantai 2)",
+                "representative": "Komisi Remaja",
+                "pic": "Cedric",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapan Gerejawi",
+                "time": "18:00",
+                "time-to": "19:00",
+                "timezone": "WIB",
+                "date": "2025-01-17",
+                "weekday": "fri",
+                "type": "proposal",
+                "place": "Ruang Konsistori",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Helen Ruth Manurung",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Percakapan Gerejawi Pernikahan",
+                "time": "16:00",
+                "time-to": "17:30",
+                "timezone": "WIB",
+                "date": "2025-01-18",
+                "weekday": "sat",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pdt. Helen Ruth Manurung",
+                "status": "y",
+                "note": ""
+            },
+            {
+                "name": "Rapat Tim Urban Farming",
+                "time": "11:00",
+                "time-to": "13:00",
+                "timezone": "WIB",
+                "date": "2025-01-19",
+                "weekday": "sun",
+                "type": "proposal",
+                "place": "Ruang Kapernaum",
+                "representative": "Majelis Jemaat",
+                "pic": "Pnt. Johnson Umbu Radda",
+                "status": "y",
+                "note": ""
             }
         ],
         "backend": {
